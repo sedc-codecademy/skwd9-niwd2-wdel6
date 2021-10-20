@@ -13,24 +13,32 @@ namespace sedc_server_try_one
             var address = IPAddress.Loopback;
             var port = 664; // The Neighbour of the Beast
             TcpListener listener = new TcpListener(address, port);
-
             listener.Start();
             Console.WriteLine($"Started listening on port {port}");
 
-            var client = listener.AcceptTcpClient();
-            Console.WriteLine($"Accepted tcp client");
+            while (true) {
+                // Accept the connection
+                Console.WriteLine($"Waiting for tcp client");
+                var client = listener.AcceptTcpClient();
+                Console.WriteLine($"Accepted tcp client");
+                var stream = client.GetStream();
 
-            var stream = client.GetStream();
+                // Process the request
+                var reader = new RequestReader();
+                var request = reader.ReadRequest(stream);
 
-            byte[] bytes = new byte[1024];
-            var readCount = stream.Read(bytes, 0, bytes.Length);
-            Console.WriteLine($"Read {readCount} bytes");
+                // Generate a response based on the request
 
-            // string byteString = string.Join(",", bytes.Select(b => (char)b).Take(readCount));
+                var generator = new ResponseGenerator();
+                var response = generator.GenerateResponse(request);
 
-            string result = Encoding.ASCII.GetString(bytes, 0, readCount);
+                // Sending the response
+                var sender = new ResponseSender();
+                sender.Send(response, stream);
 
-            Console.WriteLine(result);
+                // close the connection
+                client.Close();
+            }
         }
     }
 }
