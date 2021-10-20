@@ -18,12 +18,10 @@ namespace sedc_server_try_one
         {
             byte[] bytes = new byte[1024];
             var readCount = stream.Read(bytes, 0, bytes.Length);
-            Console.WriteLine($"Read {readCount} bytes");
-
-            string request = Encoding.ASCII.GetString(bytes, 0, readCount);
+            string requestString = Encoding.ASCII.GetString(bytes, 0, readCount);
+            var request = RequestParser.Parse(requestString);
             Console.WriteLine(request);
-
-            return new Request();
+            return request;
         }
     }
 }
