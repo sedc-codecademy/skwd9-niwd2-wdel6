@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Net.Sockets;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace sedc_server_try_one
+namespace Sedc.Server.Core
 {
-    public class RequestReader
+    internal class RequestReader
     {
         public RequestReader()
         {
