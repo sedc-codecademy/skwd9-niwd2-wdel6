@@ -4,5 +4,10 @@
     {
         public Status Status { get; set; }
         public string Message { get; set; }
+
+        public Response()
+        {
+            Status = Status.ServerError;
+        }
     }
 }

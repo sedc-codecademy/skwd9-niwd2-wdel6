@@ -15,7 +15,10 @@ namespace Sedc.Server.Core
                 throw new ApplicationException("Validation failed");
                 //return new Response { Message = "Invalid response"}
             }
-            return new Response { Message = $"Hi, I'm a SEDC Server, nice to meet you! You used the {request.Method} method" };
+            return new Response { 
+                Message = $"Hi, I'm a SEDC Server, nice to meet you! You used the {request.Method} method",
+                Status = Status.OK
+            };
         }
 
         private bool ValidateRequest(Request request)

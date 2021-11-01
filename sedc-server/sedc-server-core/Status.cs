@@ -1,13 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Sedc.Server.Core
 {
-    public enum Status
+    public record Status
     {
-        OK = 200,
-        ServerError = 500,
-        NotFound = 404,
-        BadRequest = 400,
-        Unauthorized = 401,
-        Forbidden = 403,
-        SemanticError = 422
+        public int Code { get; private set; }
+        public string Message { get; private set; }
+
+        private Status(int code, string message)
+        {
+            Code = code;
+            Message = message;
+        }
+
+        public static Status OK = new (200, "OK");
+        public static Status BadRequest = new (400, "Bad Request");
+        public static Status ServerError = new (500, "Internal Server Error");
     }
 }
