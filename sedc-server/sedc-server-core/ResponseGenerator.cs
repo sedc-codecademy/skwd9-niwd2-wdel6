@@ -20,7 +20,7 @@ namespace Sedc.Server.Core
 
         private bool ValidateRequest(Request request)
         {
-            return false;
+            return true;
         }
     }
 }
