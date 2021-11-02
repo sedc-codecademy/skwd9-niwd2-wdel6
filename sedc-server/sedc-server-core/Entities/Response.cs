@@ -1,4 +1,11 @@
-﻿namespace Sedc.Server.Core
+﻿using Sedc.Server.Core.Helpers.ResponseHelpers;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sedc.Server.Core.Entities
 {
     internal class Response
     {

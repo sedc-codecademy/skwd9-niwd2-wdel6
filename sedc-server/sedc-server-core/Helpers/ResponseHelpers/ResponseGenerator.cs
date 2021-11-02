@@ -1,6 +1,11 @@
-﻿using System;
+﻿using Sedc.Server.Core.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Helpers.ResponseHelpers
 {
     internal class ResponseGenerator
     {
@@ -15,7 +20,8 @@ namespace Sedc.Server.Core
                 throw new ApplicationException("Validation failed");
                 //return new Response { Message = "Invalid response"}
             }
-            return new Response { 
+            return new Response
+            {
                 Message = $"Hi, I'm a SEDC Server, nice to meet you! You used the {request.Method} method",
                 Status = Status.OK
             };
