@@ -19,7 +19,7 @@ namespace Sedc.Server.Core
             var result = new Request
             {
                 Method = rlMatch.Groups[1].Value,
-                Address = rlMatch.Groups[2].Value
+                Address = UrlAddress.FromString(rlMatch.Groups[2].Value)
             };
 
             foreach (var header in headerLines)

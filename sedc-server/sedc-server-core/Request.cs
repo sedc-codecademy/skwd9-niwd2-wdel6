@@ -6,7 +6,7 @@ namespace Sedc.Server.Core
     internal class Request
     {
         public string Method { get; set; }
-        public string Address { get; set; }
+        public UrlAddress Address { get; set; }
 
         public Dictionary<string, string> Headers { get; set; } = new Dictionary<string, string>();
 
