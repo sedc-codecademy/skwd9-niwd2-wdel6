@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.sedc_server_core_Domain.Models
 {
     public record UrlAddress
     {

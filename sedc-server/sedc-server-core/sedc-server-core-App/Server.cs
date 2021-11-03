@@ -1,8 +1,12 @@
-﻿using System;
+﻿using Sedc.Server.Core.sedc_server_core_App.Config;
+using Sedc.Server.Core.sedc_server_core_BusinessLayer.Helpers;
+using Sedc.Server.Core.sedc_server_core_BusinessLayer.Services.RequestService;
+using Sedc.Server.Core.sedc_server_core_BusinessLayer.Services.ResponseService;
+using System;
 using System.Net;
 using System.Net.Sockets;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.sedc_server_core_App
 {
     public class Server
     {

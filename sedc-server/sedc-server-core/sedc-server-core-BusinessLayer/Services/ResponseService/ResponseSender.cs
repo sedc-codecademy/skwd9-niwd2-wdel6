@@ -1,8 +1,8 @@
-﻿using System;
+﻿using Sedc.Server.Core.sedc_server_core_Domain.Models;
 using System.Net.Sockets;
 using System.Text;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.sedc_server_core_BusinessLayer.Services.ResponseService
 {
     internal class ResponseSender
     {

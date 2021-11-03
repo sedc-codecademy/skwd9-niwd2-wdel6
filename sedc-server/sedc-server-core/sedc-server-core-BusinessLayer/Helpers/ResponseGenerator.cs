@@ -1,6 +1,7 @@
-﻿using System;
+﻿using Sedc.Server.Core.sedc_server_core_Domain.Models;
+using System;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.sedc_server_core_BusinessLayer.Helpers
 {
     internal class ResponseGenerator
     {
