@@ -1,8 +1,8 @@
-﻿using System;
+﻿using Sedc.Server.Core.sedc_server_core_Domain.Models;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.sedc_server_core_BusinessLayer.Helpers
 {
     internal class RequestParser
     {

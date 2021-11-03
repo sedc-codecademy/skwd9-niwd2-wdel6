@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.sedc_server_core_App.Config
 {
     public class ServerOptions
     {

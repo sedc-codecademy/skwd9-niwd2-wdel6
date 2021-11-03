@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.sedc_server_core_Domain.Enums
 {
     public enum StatusEnum
     {

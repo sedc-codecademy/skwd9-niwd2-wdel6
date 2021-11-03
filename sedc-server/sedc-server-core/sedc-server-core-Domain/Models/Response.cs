@@ -1,4 +1,4 @@
-﻿namespace Sedc.Server.Core
+﻿namespace Sedc.Server.Core.sedc_server_core_Domain.Models
 {
     internal class Response
     {

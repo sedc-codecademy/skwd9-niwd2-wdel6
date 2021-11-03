@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Sedc.Server.Core.sedc_server_core_BusinessLayer.Helpers;
+using Sedc.Server.Core.sedc_server_core_Domain.Models;
 using System.IO;
 using System.Text;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.sedc_server_core_BusinessLayer.Services.RequestService
 {
     internal class RequestReader
     {
