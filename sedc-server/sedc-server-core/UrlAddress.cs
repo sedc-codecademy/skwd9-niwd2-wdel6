@@ -8,14 +8,14 @@ namespace Sedc.Server.Core
 {
     public record UrlAddress
     {
-        private string[] paths = new string[0];
+        private readonly string[] paths = new string[0];
         public IList<string> Path {
             get {
                 return new ReadOnlyCollection<string>(paths);
             }
         }
 
-        private Dictionary<string, string> parameters = new();
+        private readonly Dictionary<string, string> parameters = new();
         public IDictionary<string, string> Params { 
             get {
                 return new ReadOnlyDictionary<string, string>(parameters);

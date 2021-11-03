@@ -19,6 +19,7 @@ namespace Sedc.Server.Core
 
         public static Status OK = new (200, "OK");
         public static Status BadRequest = new (400, "Bad Request");
+        public static Status NotFound = new(404, "Not Found");
         public static Status ServerError = new (500, "Internal Server Error");
     }
 }

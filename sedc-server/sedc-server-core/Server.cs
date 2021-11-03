@@ -37,7 +37,7 @@ namespace Sedc.Server.Core
                 var request = reader.ReadRequest(stream);
 
                 // Generate a response based on the request
-                var generator = new ResponseGenerator();
+                var generator = new ResponseGenerator(options.Processor);
                 var response = generator.GenerateResponse(request);
 
                 // Sending the response

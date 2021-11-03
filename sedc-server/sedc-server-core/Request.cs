@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Sedc.Server.Core
 {
-    internal class Request
+    public class Request
     {
         public string Method { get; set; }
         public UrlAddress Address { get; set; }

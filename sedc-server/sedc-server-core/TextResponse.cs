@@ -1,13 +1,13 @@
 ﻿namespace Sedc.Server.Core
 {
-    internal class Response
+    public class TextResponse: IResponse<string>
     {
         public Status Status { get; set; }
         public string Message { get; set; }
 
-        public Response()
+        public TextResponse()
         {
-            Status = Status.ServerError;
+            Status = Status.OK;
         }
     }
 }
