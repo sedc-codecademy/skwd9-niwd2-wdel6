@@ -9,10 +9,7 @@ namespace Sedc.Server.Core
         private readonly ServerOptions options;
         public Server(ServerOptions options = null)
         {
-            if (options == null)
-            {
-                options = ServerOptions.Default;
-            }
+            options = ServerOptions.MergeWithDefault(options);
             this.options = options;
         }
 
@@ -22,22 +19,22 @@ namespace Sedc.Server.Core
             var port = options.Port; 
             TcpListener listener = new TcpListener(address, port);
             listener.Start();
-            Console.WriteLine($"Started listening on port {port}");
+            options.Logger.Info($"Started listening on port {port}");
 
             while (true)
             {
                 // Accept the connection
-                Console.WriteLine($"Waiting for tcp client");
+                options.Logger.Debug($"Waiting for tcp client");
                 var client = listener.AcceptTcpClient();
-                Console.WriteLine($"Accepted tcp client");
+                options.Logger.Debug($"Accepted tcp client");
                 var stream = client.GetStream();
 
                 // Process the request
-                var reader = new RequestReader();
+                var reader = new RequestReader(options.Logger);
                 var request = reader.ReadRequest(stream);
 
                 // Generate a response based on the request
-                var generator = new ResponseGenerator(options.Processor);
+                var generator = new ResponseGenerator(options.Processor, options.Logger);
                 var response = generator.GenerateResponse(request);
 
                 // Sending the response

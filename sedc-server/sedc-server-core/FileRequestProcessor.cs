@@ -21,10 +21,11 @@ namespace Sedc.Server.Core
             }
             BasePath = basePath;
         }
-        public IResponse Process(Request request)
+        public IResponse Process(Request request, ILogger logger)
         {
             if (request.Address.Path.Count == 0)
             {
+                logger.Warning($"The path is empty, returning Bad Request");
                 return new TextResponse
                 {
                     Status = Status.BadRequest
@@ -33,6 +34,7 @@ namespace Sedc.Server.Core
             string filename = Path.Combine(BasePath, request.Address.Path[0]);
             if (!File.Exists(filename))
             {
+                logger.Error($"User tried to access non-existant file {filename}, returning Not Found");
                 return new TextResponse
                 {
                     Status = Status.NotFound
@@ -43,6 +45,7 @@ namespace Sedc.Server.Core
 
             if (textExtensions.Contains(extension))
             {
+                logger.Info($"User tried to access text file {filename}, returning text response");
                 var output = File.ReadAllText(filename);
                 return new TextResponse
                 {
@@ -50,6 +53,7 @@ namespace Sedc.Server.Core
                 };
             } else
             {
+                logger.Info($"User tried to access binary file {filename}, returning binary response");
                 var output = File.ReadAllBytes(filename);
                 return new BinaryResponse
                 {
@@ -58,5 +62,7 @@ namespace Sedc.Server.Core
             }
 
         }
+
+        public string Describe() => $"FileRequestProcessor: Serving files from folder '{BasePath}'";
     }
 }

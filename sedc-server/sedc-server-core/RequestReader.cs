@@ -6,8 +6,11 @@ namespace Sedc.Server.Core
 {
     internal class RequestReader
     {
-        public RequestReader()
+
+        private ILogger logger;
+        public RequestReader(ILogger logger)
         {
+            this.logger = logger;
         }
 
         internal Request ReadRequest(Stream stream)
@@ -15,7 +18,9 @@ namespace Sedc.Server.Core
             byte[] bytes = new byte[1024];
             var readCount = stream.Read(bytes, 0, bytes.Length);
             string requestString = Encoding.ASCII.GetString(bytes, 0, readCount);
-            var request = RequestParser.Parse(requestString);
+            logger.Debug($"Received request payload {requestString.Length} characters");
+            var request = RequestParser.Parse(requestString, logger);
+            logger.Debug($"Successfully parsed request");
             return request;
         }
     }

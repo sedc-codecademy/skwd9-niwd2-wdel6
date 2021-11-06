@@ -6,7 +6,7 @@ namespace Sedc.Server.Core
 {
     internal class RequestParser
     {
-        internal static Request Parse(string input)
+        internal static Request Parse(string input, ILogger logger)
         {
             var lines = input.Split("\r\n");
             var requestLine = lines[0];
@@ -21,12 +21,14 @@ namespace Sedc.Server.Core
                 Method = rlMatch.Groups[1].Value,
                 Address = UrlAddress.FromString(rlMatch.Groups[2].Value)
             };
+            logger.Debug("Successfully parsed request line");
 
             foreach (var header in headerLines)
             {
                 var hlMatch = hlRegex.Match(header);
                 result.Headers.Add(hlMatch.Groups[1].Value, hlMatch.Groups[2].Value);
             }
+            logger.Debug("Successfully parsed request headers");
 
             return result;
         }

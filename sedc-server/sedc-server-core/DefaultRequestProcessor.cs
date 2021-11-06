@@ -8,7 +8,9 @@ namespace Sedc.Server.Core
 {
     class DefaultRequestProcessor : IRequestProcessor
     {
-        public IResponse Process(Request request)
+        public string Describe() => "DefaultRequestProcessor";
+
+        public IResponse Process(Request request, ILogger logger)
         {
             return new TextResponse
             {

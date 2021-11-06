@@ -8,6 +8,8 @@ namespace Sedc.Server.Core
 {
     public interface IRequestProcessor
     {
-        IResponse Process(Request request);
+        IResponse Process(Request request, ILogger logger);
+
+        string Describe() => GetType().FullName;
     }
 }

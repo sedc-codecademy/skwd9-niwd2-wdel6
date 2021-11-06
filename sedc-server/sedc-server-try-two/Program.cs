@@ -6,7 +6,7 @@ namespace sedc_server_try_two
 {
     class MyRequestProcessor : IRequestProcessor
     {
-        public IResponse Process(Request request)
+        public IResponse Process(Request request, ILogger logger)
         {
             return new TextResponse
             {
