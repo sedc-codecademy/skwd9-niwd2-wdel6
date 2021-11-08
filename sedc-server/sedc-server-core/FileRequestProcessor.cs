@@ -31,7 +31,27 @@ namespace Sedc.Server.Core
                     Status = Status.BadRequest
                 };
             }
-            string filename = Path.Combine(BasePath, request.Address.Path[0]);
+
+            var fullPath = Path.Combine(request.Address.Path.ToArray());
+            logger.Debug(fullPath);
+
+            string filename = Path.Combine(BasePath, fullPath);
+
+            logger.Debug(filename);
+            logger.Debug(Path.GetFullPath(filename));
+
+            // todo: check whether filename is actually inside the base path
+            // In order to prevent Directory Traversal
+
+            if (Directory.Exists(filename))
+            {
+                logger.Error($"User tried to access the folder {filename} directly , returning Not Found");
+                return new TextResponse
+                {
+                    Status = Status.NotFound
+                };
+            }
+
             if (!File.Exists(filename))
             {
                 logger.Error($"User tried to access non-existant file {filename}, returning Not Found");
@@ -43,24 +63,32 @@ namespace Sedc.Server.Core
 
             var extension = Path.GetExtension(filename);
 
-            if (textExtensions.Contains(extension))
+            try 
             {
-                logger.Info($"User tried to access text file {filename}, returning text response");
-                var output = File.ReadAllText(filename);
-                return new TextResponse
+                if (textExtensions.Contains(extension))
                 {
-                    Message = output
-                };
-            } else
-            {
-                logger.Info($"User tried to access binary file {filename}, returning binary response");
-                var output = File.ReadAllBytes(filename);
-                return new BinaryResponse
+                    logger.Info($"User tried to access text file {filename}, returning text response");
+                    var output = File.ReadAllText(filename);
+                    return new TextResponse
+                    {
+                        Message = output
+                    };
+                } 
+                else
                 {
-                    Message = output
-                };
+                    logger.Info($"User tried to access binary file {filename}, returning binary response");
+                    var output = File.ReadAllBytes(filename);
+                    return new BinaryResponse
+                    {
+                        Message = output
+                    };
+                }
             }
-
+            catch (Exception ex)
+            {
+                string message = $"Error occured when accessing file {filename}, {ex.Message}";
+                throw new SedcServerException(message, ex);
+            }
         }
 
         public string Describe() => $"FileRequestProcessor: Serving files from folder '{BasePath}'";

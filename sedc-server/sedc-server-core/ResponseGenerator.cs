@@ -21,8 +21,21 @@ namespace Sedc.Server.Core
                 //return new Response { Message = "Invalid response"}
             }
             logger.Debug($"Running {processor.Describe()}");
-            var response = processor.Process(request, logger);
-            return response;
+            try {
+                var response = processor.Process(request, logger);
+                return response;
+            }
+            catch (SedcServerException ssex) {
+                logger.Error(ssex.Message);
+                return new TextResponse {
+                    Message = Status.GenericErrorMessage,
+                    Status  = Status.ServerError
+                };
+            }
+            catch (Exception ex) {
+                logger.Critical(ex.Message);
+                throw;
+            }
         }
 
         private bool ValidateRequest(Request request)

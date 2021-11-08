@@ -34,7 +34,7 @@ namespace sedc_server_try_two
                 {
                     Port = 668,
                     Processor = new FileRequestProcessor(@"public-sedc"),
-                    Logger = new NiceConsoleLogger { Level = LogLevel.Information }
+                    Logger = new NiceConsoleLogger { Level = LogLevel.Debug }
                 });
                 server.Start();
             }

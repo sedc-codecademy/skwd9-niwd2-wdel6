@@ -13,6 +13,10 @@ namespace sedc_server_try_two
             if (level < Level) {
                 return;
             }
+            if (level == LogLevel.Critical) {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.BackgroundColor = ConsoleColor.Cyan;
+            }
 
             if (level == LogLevel.Error) {
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -30,7 +34,7 @@ namespace sedc_server_try_two
                 Console.ForegroundColor = ConsoleColor.Gray;
             }
 
-            Console.WriteLine(message);
+            Console.WriteLine($"[{level.ToString().ToUpperInvariant()}] {message}");
 
             Console.ResetColor();
         }

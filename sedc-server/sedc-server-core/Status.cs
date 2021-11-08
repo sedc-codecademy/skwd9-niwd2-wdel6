@@ -17,6 +17,8 @@ namespace Sedc.Server.Core
             Message = message;
         }
 
+        public static string GenericErrorMessage = "Error occured, please try again later";
+
         public static Status OK = new (200, "OK");
         public static Status BadRequest = new (400, "Bad Request");
         public static Status NotFound = new(404, "Not Found");
