@@ -26,21 +26,15 @@ namespace Sedc.Server.Core
         public IResponse Process(Request request, ILogger logger)
         {
             var fullPath = Path.Combine(request.Address.Path.ToArray());
-            logger.Debug(fullPath);
 
             string filename = Path.Combine(BasePath, fullPath);
-
-            logger.Debug(filename);
-            logger.Debug(Path.GetFullPath(filename));
 
             // todo: check whether filename is actually inside the base path
             // In order to prevent Directory Traversal
 
             if (Directory.Exists(filename))
             {
-                logger.Debug("HEREEE");
                 filename = Path.Combine(filename, DefaultDocument);
-                logger.Debug(filename);
             }
 
             if (!File.Exists(filename))
