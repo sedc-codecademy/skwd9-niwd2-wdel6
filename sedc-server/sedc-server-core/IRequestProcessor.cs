@@ -10,6 +10,8 @@ namespace Sedc.Server.Core
     {
         IResponse Process(Request request, ILogger logger);
 
+        bool ShouldProcess(Request request);
+
         string Describe() => GetType().FullName;
     }
 }

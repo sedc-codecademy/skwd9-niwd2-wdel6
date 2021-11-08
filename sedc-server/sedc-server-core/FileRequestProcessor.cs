@@ -12,26 +12,19 @@ namespace Sedc.Server.Core
         private string[] textExtensions = new[] { ".html", ".txt" };
 
         public string BasePath { get; private set; }
+        public string DefaultDocument { get; private set; }
 
-        public FileRequestProcessor(string basePath)
+        public FileRequestProcessor(string basePath, string defaultDocument = "index.html")
         {
             if (!Directory.Exists(basePath)) 
             {
                 throw new ApplicationException($"Folder {basePath} does not exist. Please create it before starting the server");
             }
             BasePath = basePath;
+            DefaultDocument = defaultDocument;
         }
         public IResponse Process(Request request, ILogger logger)
         {
-            if (request.Address.Path.Count == 0)
-            {
-                logger.Warning($"The path is empty, returning Bad Request");
-                return new TextResponse
-                {
-                    Status = Status.BadRequest
-                };
-            }
-
             var fullPath = Path.Combine(request.Address.Path.ToArray());
             logger.Debug(fullPath);
 
@@ -45,11 +38,9 @@ namespace Sedc.Server.Core
 
             if (Directory.Exists(filename))
             {
-                logger.Error($"User tried to access the folder {filename} directly , returning Not Found");
-                return new TextResponse
-                {
-                    Status = Status.NotFound
-                };
+                logger.Debug("HEREEE");
+                filename = Path.Combine(filename, DefaultDocument);
+                logger.Debug(filename);
             }
 
             if (!File.Exists(filename))
@@ -89,6 +80,11 @@ namespace Sedc.Server.Core
                 string message = $"Error occured when accessing file {filename}, {ex.Message}";
                 throw new SedcServerException(message, ex);
             }
+        }
+
+        public bool ShouldProcess(Request request)
+        {
+            return true;
         }
 
         public string Describe() => $"FileRequestProcessor: Serving files from folder '{BasePath}'";

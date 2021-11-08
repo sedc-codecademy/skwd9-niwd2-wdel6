@@ -1,15 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Sedc.Server.Core
 {
     internal class ResponseGenerator
     {
 
-        private readonly IRequestProcessor processor;
+        private readonly IEnumerable<IRequestProcessor> processors;
         private readonly ILogger logger;
-        public ResponseGenerator(IRequestProcessor processor, ILogger logger)
+        public ResponseGenerator(IEnumerable<IRequestProcessor> processors, ILogger logger)
         {
-            this.processor = processor;
+            this.processors = processors;
             this.logger = logger;
         }
 
@@ -20,6 +21,15 @@ namespace Sedc.Server.Core
                 throw new ApplicationException("Validation failed");
                 //return new Response { Message = "Invalid response"}
             }
+
+            IRequestProcessor processor = null;
+            foreach (var candidate in processors) {
+                if (candidate.ShouldProcess(request)) {
+                    processor = candidate;
+                    break;
+                }
+            }
+
             logger.Debug($"Running {processor.Describe()}");
             try {
                 var response = processor.Process(request, logger);

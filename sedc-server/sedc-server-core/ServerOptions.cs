@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace Sedc.Server.Core
@@ -10,7 +11,7 @@ namespace Sedc.Server.Core
 
         public List<string> AllowedMethods { get; set; }
 
-        public IRequestProcessor Processor { get; set; }
+        public IEnumerable<IRequestProcessor> Processors { get; set; }
 
         public ILogger Logger { get; set; }
 
@@ -31,9 +32,9 @@ namespace Sedc.Server.Core
                 options.AllowedMethods = ServerOptions.Default.AllowedMethods;
             }
 
-            if (options.Processor == default(IRequestProcessor))
+            if (options.Processors == default(IEnumerable<IRequestProcessor>))
             {
-                options.Processor = ServerOptions.Default.Processor;
+                options.Processors = ServerOptions.Default.Processors;
             }
 
             if (options.Logger == default(ILogger))
@@ -44,10 +45,15 @@ namespace Sedc.Server.Core
             return options;
         }
 
+        internal void RegisterProcessor(IRequestProcessor processor)
+        {
+            Processors = Processors.Prepend(processor);
+        }
+
         internal static readonly ServerOptions Default = new ServerOptions {
             Port = 664, // The Neighbour of the Beast
             AllowedMethods = new List<string> { "GET", "POST" },
-            Processor = new DefaultRequestProcessor(),
+            Processors = new List<IRequestProcessor>  { new DefaultRequestProcessor() },
             Logger = new ConsoleLogger()
         };
 

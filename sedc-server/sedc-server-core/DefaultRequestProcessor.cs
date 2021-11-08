@@ -18,5 +18,10 @@ namespace Sedc.Server.Core
                 Status = Status.OK
             };
         }
+
+        public bool ShouldProcess(Request request)
+        {
+            return true;
+        }
     }
 }

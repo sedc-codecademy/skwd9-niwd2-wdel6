@@ -33,9 +33,17 @@ namespace Sedc.Server.Core
                 var body = binaryResponse.Message;
                 stream.Write(body);
             } 
+            else if (response is JsonResponse jsonResponse)
+            {
+                var responseString = $"{statusLine}{separator}";
+                var responseBytes = Encoding.ASCII.GetBytes(responseString);
+                stream.Write(responseBytes);
+                var body = Encoding.ASCII.GetBytes(jsonResponse.GetMessagePayload());
+                stream.Write(body);
+            } 
             else
             {
-                throw new ApplicationException($"Invalid response type {response.GetType().FullName}");
+                throw new SedcServerException($"Invalid response type {response.GetType().FullName}");
             }
 
         }

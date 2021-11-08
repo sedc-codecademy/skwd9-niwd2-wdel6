@@ -9,7 +9,7 @@ namespace Sedc.Server.Core
     public record UrlAddress
     {
         private readonly string[] paths = new string[0];
-        public IList<string> Path {
+        public IEnumerable<string> Path {
             get {
                 return new ReadOnlyCollection<string>(paths);
             }

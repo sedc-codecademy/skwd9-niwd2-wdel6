@@ -22,20 +22,30 @@ namespace sedc_server_try_two
                 Status = Status.OK
             };
         }
+
+        public bool ShouldProcess(Request request)
+        {
+            return true;
+        }
     }
 
     class Program
     {
         static void Main(string[] args)
         {
+            var logger = new CompositeLogger();
+            logger.AddLogger(new NiceConsoleLogger { Level = LogLevel.Debug });
+            logger.AddLogger(new FileLogger("log.txt"));
+
             try
             {
                 Server server = new Server(new ServerOptions
                 {
                     Port = 668,
-                    Processor = new FileRequestProcessor(@"public-sedc"),
-                    Logger = new NiceConsoleLogger { Level = LogLevel.Debug }
+                    Logger = logger
                 });
+                server.RegisterProcessor(new FileRequestProcessor("public-sedc"));
+                server.RegisterProcessor(new ApiRequestProcessor());
                 server.Start();
             }
             catch (ApplicationException aex)
