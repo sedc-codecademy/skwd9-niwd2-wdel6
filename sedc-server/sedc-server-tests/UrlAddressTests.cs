@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-
+using System.Linq;
 using Sedc.Server.Core;
 
 namespace Sedc.Server.Tests
@@ -17,7 +17,7 @@ namespace Sedc.Server.Tests
             var actual = UrlAddress.FromString(input);
 
             // 3. Arrange
-            Assert.AreEqual(0, actual.Path.Count);
+            Assert.AreEqual(0, actual.Path.Count());
             Assert.AreEqual(0, actual.Params.Count);
             Assert.AreEqual(expected, actual.ToString());
         }
@@ -32,7 +32,7 @@ namespace Sedc.Server.Tests
             var actual = UrlAddress.FromString(input);
 
             // 3. Arrange
-            Assert.AreEqual(0, actual.Path.Count);
+            Assert.AreEqual(0, actual.Path.Count());
             Assert.AreEqual(0, actual.Params.Count);
             Assert.AreEqual(expected, actual.ToString());
         }
@@ -47,7 +47,7 @@ namespace Sedc.Server.Tests
             var actual = UrlAddress.FromString(input);
 
             // 3. Arrange
-            Assert.AreEqual(0, actual.Path.Count);
+            Assert.AreEqual(0, actual.Path.Count());
             Assert.AreEqual(0, actual.Params.Count);
             Assert.AreEqual(expected, actual.ToString());
         }
@@ -62,8 +62,8 @@ namespace Sedc.Server.Tests
             var actual = UrlAddress.FromString(input);
 
             // 3. Arrange
-            Assert.AreEqual(1, actual.Path.Count);
-            Assert.AreEqual(expected, actual.Path[0]);
+            Assert.AreEqual(1, actual.Path.Count());
+            Assert.AreEqual(expected, actual.Path.First());
             Assert.AreEqual(0, actual.Params.Count);
             Assert.AreEqual(expected, actual.ToString());
         }
@@ -80,7 +80,7 @@ namespace Sedc.Server.Tests
             var actual = UrlAddress.FromString(input);
 
             // 3. Arrange
-            Assert.AreEqual(0, actual.Path.Count);
+            Assert.AreEqual(0, actual.Path.Count());
             Assert.AreEqual(2, actual.Params.Count);
 
             Assert.IsTrue(actual.Params.ContainsKey(expectedOne.Key));
