@@ -37,6 +37,12 @@ namespace Sedc.Server.Core
             }
             catch (SedcServerException ssex) {
                 logger.Error(ssex.Message);
+                Exception ex = ssex;
+                while(ex.InnerException != null) {
+                    ex = ex.InnerException;
+                    logger.Error(ex.Message);
+                }
+
                 return new TextResponse {
                     Message = Status.GenericErrorMessage,
                     Status  = Status.ServerError

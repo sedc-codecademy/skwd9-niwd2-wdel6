@@ -6,7 +6,7 @@ namespace Sedc.Server.Core
 
         public override string GetMessagePayload()
         {
-            return "{ \"value\": 4 }";
+            return JsonSerializer.AsString(Message);
         }
     }
 

@@ -6,6 +6,9 @@ namespace sedc_server_try_two
 {
     class NiceConsoleLogger : ILogger
     {
+        /// <summary>
+        /// The level of the logged message
+        /// </summary>
         public LogLevel Level { get; set; }
 
         public void Log(string message, LogLevel level = LogLevel.Information)
