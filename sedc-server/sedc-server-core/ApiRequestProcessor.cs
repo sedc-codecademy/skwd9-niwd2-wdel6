@@ -36,13 +36,17 @@ namespace Sedc.Server.Core
             var parameters = request.Address.Params;
             var method = request.Method;
 
-            var result = Controller.Execute(path, parameters, method, logger);
+            try {
+                var result = Controller.Execute(path, parameters, method, logger);
 
-            return new JsonResponse<object>
-            {
-                Message = result,
-                Status = Status.OK
-            };
+                return new JsonResponse<object>
+                {
+                    Message = result,
+                    Status = Status.OK
+                };
+            } catch (Exception ex) {
+                throw new SedcServerException($"Error executing {Controller.Name}", ex);
+            }
         }
 
         public bool ShouldProcess(Request request)
