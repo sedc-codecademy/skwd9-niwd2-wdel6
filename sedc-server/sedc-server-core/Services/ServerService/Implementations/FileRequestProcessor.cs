@@ -1,11 +1,18 @@
-﻿using System;
+﻿using Sedc.Server.Core.Entities;
+using Sedc.Server.Core.Helpers.CustomExceptions;
+using Sedc.Server.Core.Logging;
+using Sedc.Server.Core.Logging.Interfaces;
+using Sedc.Server.Core.Response;
+using Sedc.Server.Core.Response.Implementations;
+using Sedc.Server.Core.Services.RequestService.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Services.RequestService.Implementations
 {
     public class FileRequestProcessor : IRequestProcessor
     {
@@ -16,7 +23,7 @@ namespace Sedc.Server.Core
 
         public FileRequestProcessor(string basePath, string defaultDocument = "index.html")
         {
-            if (!Directory.Exists(basePath)) 
+            if (!Directory.Exists(basePath))
             {
                 throw new ApplicationException($"Folder {basePath} does not exist. Please create it before starting the server");
             }
@@ -31,6 +38,19 @@ namespace Sedc.Server.Core
 
             // todo: check whether filename is actually inside the base path
             // In order to prevent Directory Traversal
+
+            string filenameFullPath = Path.GetFullPath(filename);
+
+            if (!filenameFullPath.Contains(BasePath))
+            {
+                // Returning simply NotFound, because we don't to let the user know that he managed to hit smt outside the public folder with a message that says that they are trying to access something they are not authorized to access.
+
+                logger.Error($"User tried to access \"{filenameFullPath}\", a file outside the base path, \"{Path.GetFullPath(BasePath)}\", returning Not Found");
+                return new TextResponse
+                {
+                    Status = Status.NotFound
+                };
+            }
 
             if (Directory.Exists(filename))
             {
@@ -48,7 +68,7 @@ namespace Sedc.Server.Core
 
             var extension = Path.GetExtension(filename);
 
-            try 
+            try
             {
                 if (textExtensions.Contains(extension))
                 {
@@ -58,7 +78,7 @@ namespace Sedc.Server.Core
                     {
                         Message = output
                     };
-                } 
+                }
                 else
                 {
                     logger.Info($"User tried to access binary file {filename}, returning binary response");

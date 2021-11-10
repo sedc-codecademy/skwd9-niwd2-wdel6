@@ -1,7 +1,10 @@
+﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Helpers.Enums
 {
     public enum StatusEnum
     {

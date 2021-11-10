@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Response.Implementations
 {
-    public class BinaryResponse : IResponse<byte[]>
+    public class TextResponse : IResponse<string>
     {
         public Status Status { get; set; }
-        public byte[] Message { get; set; }
+        public string Message { get; set; }
 
-        public BinaryResponse()
+        public TextResponse()
         {
             Status = Status.OK;
         }

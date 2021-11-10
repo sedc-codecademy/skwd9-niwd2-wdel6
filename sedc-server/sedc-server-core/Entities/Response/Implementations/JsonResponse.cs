@@ -1,6 +1,12 @@
-namespace Sedc.Server.Core
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sedc.Server.Core.Response.Implementations
 {
-    public class JsonResponse<T>: JsonResponse, IResponse<T>
+    public class JsonResponse<T> : JsonResponse, IResponse<T>
     {
         public T Message { get; set; }
 
@@ -10,7 +16,7 @@ namespace Sedc.Server.Core
         }
     }
 
-    public abstract class JsonResponse: IResponse
+    public abstract class JsonResponse : IResponse
     {
         public Status Status { get; set; }
 

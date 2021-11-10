@@ -1,23 +1,25 @@
-﻿using System;
+﻿using Sedc.Server.Core.Logging.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Logging.Implementations
 {
     public class ConsoleLogger : ILogger
     {
-        public ConsoleLogger ()
+        public ConsoleLogger()
         {
             Level = LogLevel.Information;
         }
 
-        public LogLevel Level { get ; set ; }
+        public LogLevel Level { get; set; }
 
         public void Log(string message, LogLevel level = LogLevel.Information)
         {
-            if (level >= Level) {
+            if (level >= Level)
+            {
                 Console.WriteLine($"[{level.ToString().ToUpperInvariant()}] {message}");
             }
         }

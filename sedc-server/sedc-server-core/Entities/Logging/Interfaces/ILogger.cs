@@ -1,8 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Logging.Interfaces
+
 {
-    public enum LogLevel {
+    public enum LogLevel
+    {
         Debug = 1,
         Information = 2,
         Warning = 3,
@@ -15,7 +21,8 @@ namespace Sedc.Server.Core
         public LogLevel Level { get; set; }
         void Log(string message, LogLevel level = LogLevel.Information);
 
-        void LogException(Exception ex, LogLevel level = LogLevel.Error) {
+        void LogException(Exception ex, LogLevel level = LogLevel.Error)
+        {
             Log(ex.Message, level);
         }
 
@@ -27,4 +34,7 @@ namespace Sedc.Server.Core
 
 
     }
+
+
+
 }

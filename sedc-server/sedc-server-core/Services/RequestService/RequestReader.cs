@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Sedc.Server.Core.Entities;
+using Sedc.Server.Core.Logging.Interfaces;
+using System;
 using System.IO;
 using System.Text;
 

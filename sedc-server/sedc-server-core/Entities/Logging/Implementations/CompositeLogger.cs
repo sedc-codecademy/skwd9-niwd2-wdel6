@@ -1,22 +1,20 @@
-using System;
+﻿using Sedc.Server.Core.Logging.Interfaces;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Logging.Implementations
 {
     public class CompositeLogger : ILogger
     {
         private List<ILogger> loggers = new List<ILogger>();
-        public LogLevel Level { get ; set ; }
+        public LogLevel Level { get; set; }
 
-        public CompositeLogger ()
+        public CompositeLogger()
         {
             Level = LogLevel.Information;
         }
 
-        public void AddLogger(ILogger logger) {
+        public void AddLogger(ILogger logger)
+        {
             loggers.Add(logger);
         }
 
@@ -25,7 +23,7 @@ namespace Sedc.Server.Core
             foreach (var logger in loggers)
             {
                 logger.Log(message, level);
-            } 
+            }
         }
     }
 }
