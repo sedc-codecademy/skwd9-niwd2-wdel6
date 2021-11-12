@@ -17,13 +17,43 @@ namespace Sedc.Server.Core.Services.RequestService.Implementations
     {
         public string Describe() => "ApiRequestProcessor";
 
+        public string Prefix { get; private set; }
+        public IApiController Controller { get; private set; }
+        public ApiRequestProcessor(string prefix = "api")
+        {
+            Prefix = prefix;
+            Controller = new DefaultApiController();
+        }
+
+        public ApiRequestProcessor(IApiController controller, string prefix = "api") : this(prefix)
+        {
+            Controller = controller;
+        }
+
+
+        public ApiRequestProcessor WithController(IApiController controller)
+        {
+            Controller = controller;
+            return this;
+        }
+
         public IResponse Process(Request request, ILogger logger)
         {
-            return new JsonResponse<int>
-            {
-                Message = 4,
-                Status = Status.OK
-            };
+            var path = request.Address.Path.Skip(1);
+            var parameters = request.Address.Params;
+            var method = request.Method;
+
+            try {
+                var result = Controller.Execute(path, parameters, method, logger);
+
+                return new JsonResponse<object>
+                {
+                    Message = result,
+                    Status = Status.OK
+                };
+            } catch (Exception ex) {
+                throw new SedcServerException($"Error executing {Controller.Name}", ex);
+            }
         }
 
         public bool ShouldProcess(Request request)
@@ -33,7 +63,7 @@ namespace Sedc.Server.Core.Services.RequestService.Implementations
                 return false;
             }
             var prefix = request.Address.Path.First();
-            return (prefix == "api");
+            return prefix == Prefix;
         }
     }
 }

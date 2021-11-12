@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-
+using System.Linq;
 using Sedc.Server.Core;
 using System;
 using System.Linq;
@@ -65,6 +65,10 @@ namespace Sedc.Server.Tests
 
             // 3. Arrange
             Assert.AreEqual(1, actual.Path.Count());
+<<<<<<< HEAD
+=======
+            Assert.AreEqual(expected, actual.Path.First());
+>>>>>>> 52c22706f25c646537e670ad40b9f7d9bcc8ce7e
             Assert.AreEqual(0, actual.Params.Count);
             Assert.AreEqual(expected, actual.ToString());
         }

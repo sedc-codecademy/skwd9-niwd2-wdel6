@@ -51,7 +51,7 @@ namespace sedc_server_try_two
                     Logger = logger
                 });
                 server.RegisterProcessor(new FileRequestProcessor("public-sedc"));
-                server.RegisterProcessor(new ApiRequestProcessor());
+                server.RegisterProcessor(new ApiRequestProcessor().WithController(new CalculatorApiController()));
                 server.Start();
             }
             catch (ApplicationException aex)
