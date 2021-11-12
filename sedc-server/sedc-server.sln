@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sedc-server-core", "sedc-se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sedc-server-try-two", "sedc-server-try-two\sedc-server-try-two.csproj", "{F30D33FF-4752-4E9E-AE50-3D627E8A2EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sedc-server-tests", "sedc-server-tests\sedc-server-tests.csproj", "{4D653523-07F1-4BD8-93CB-5FB93CF11E59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sedc-server-tests", "sedc-server-tests\sedc-server-tests.csproj", "{4D653523-07F1-4BD8-93CB-5FB93CF11E59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

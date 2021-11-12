@@ -1,0 +1,79 @@
+11/9/2021 11:01:55 PM [INFORMATION] Started listening on port 668
+11/9/2021 11:02:15 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:02:15 PM [ERROR] User tried to access non-existant file public-sedc\favicon.ico, returning Not Found
+11/9/2021 11:02:32 PM [ERROR] User tried to access non-existant file public-sedc\gsdfg, returning Not Found
+11/9/2021 11:02:40 PM [INFORMATION] User tried to access text file public-sedc\one\two\index.html, returning text response
+11/9/2021 11:02:40 PM [INFORMATION] User tried to access binary file public-sedc\images\typescript.jpg, returning binary response
+11/9/2021 11:02:49 PM [INFORMATION] User tried to access text file public-sedc\one\two\index.html, returning text response
+11/9/2021 11:02:49 PM [INFORMATION] User tried to access binary file public-sedc\images\typescript.jpg, returning binary response
+11/9/2021 11:03:22 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:03:36 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:04:49 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:05:24 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:06:47 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:06:49 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:06:49 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:07:12 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:07:19 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:07:19 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:08:22 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:11:38 PM [ERROR] User tried to access non-existant file public-sedc\..\..\images\typescript.jpg, returning Not Found
+11/9/2021 11:12:00 PM [INFORMATION] User tried to access text file public-sedc\one\two\index.html, returning text response
+11/9/2021 11:12:16 PM [INFORMATION] User tried to access text file public-sedc\one\two\index.html, returning text response
+11/9/2021 11:12:16 PM [INFORMATION] User tried to access binary file public-sedc\images\typescript.jpg, returning binary response
+11/9/2021 11:12:20 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:14:14 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:14:20 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:14:20 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:16:09 PM [ERROR] User tried to access non-existant file public-sedc\unnamed.webp, returning Not Found
+11/9/2021 11:16:10 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:16:10 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:16:32 PM [ERROR] User tried to access non-existant file public-sedc\unnamed.webp, returning Not Found
+11/9/2021 11:16:40 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:16:40 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:17:52 PM [ERROR] User tried to access non-existant file public-sedc\inbox, returning Not Found
+11/9/2021 11:18:00 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:18:00 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:19:18 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:19:20 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:19:20 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:19:34 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:19:41 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:19:41 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:20:37 PM [ERROR] User tried to access non-existant file public-sedc\inbox, returning Not Found
+11/9/2021 11:20:41 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:20:41 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:21:34 PM [ERROR] User tried to access non-existant file public-sedc\index.html\..\..\..\..\..\inbox\package.json, returning Not Found
+11/9/2021 11:21:41 PM [INFORMATION] User tried to access binary file public-sedc\index.html\..\..\..\..\..\..\inbox\package.json, returning binary response
+11/9/2021 11:21:56 PM [ERROR] User tried to access non-existant file public-sedc\inbox\package.json, returning Not Found
+11/9/2021 11:22:01 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:22:01 PM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/9/2021 11:25:42 PM [INFORMATION] Started listening on port 668
+11/9/2021 11:26:17 PM [INFORMATION] User tried to access binary file public-sedc\index.html\..\..\..\..\..\..\inbox\package.json, returning binary response
+11/10/2021 12:12:27 AM [INFORMATION] Started listening on port 668
+11/10/2021 12:12:32 AM [ERROR] User tried to access "C:\Users\Jana\Desktop\inbox\package.json", a file outside the base path, "public-sedc", returning Not Found
+11/10/2021 12:13:50 AM [INFORMATION] Started listening on port 668
+11/10/2021 12:13:58 AM [ERROR] User tried to access "C:\Users\Jana\Desktop\inbox\package.json", a file outside the base path, "C:\Users\Jana\Desktop\c#-server-fork\skwd9-niwd2-wdel6\sedc-server\sedc-server-try-two\public-sedc", returning Not Found
+11/10/2021 12:14:44 AM [INFORMATION] User tried to access text file public-sedc\one\two\index.html, returning text response
+11/10/2021 12:15:01 AM [INFORMATION] User tried to access text file public-sedc\one\two\index.html, returning text response
+11/10/2021 12:15:01 AM [INFORMATION] User tried to access binary file public-sedc\images\typescript.jpg, returning binary response
+11/10/2021 12:15:06 AM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/10/2021 12:15:32 AM [ERROR] User tried to access non-existant file public-sedc\one\index.html, returning Not Found
+11/10/2021 12:15:36 AM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/10/2021 12:15:36 AM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/10/2021 12:15:41 AM [ERROR] User tried to access non-existant file public-sedc\one\test, returning Not Found
+11/10/2021 12:15:46 AM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/10/2021 12:15:46 AM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/10/2021 12:15:47 AM [ERROR] User tried to access non-existant file public-sedc\one\test.html, returning Not Found
+11/10/2021 12:15:56 AM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/10/2021 12:15:56 AM [INFORMATION] User tried to access text file public-sedc\index.html, returning text response
+11/10/2021 12:16:01 AM [INFORMATION] User tried to access text file public-sedc\test.html, returning text response
+11/10/2021 12:16:02 AM [INFORMATION] User tried to access binary file public-sedc\images\lazarus.jpg, returning binary response
+11/10/2021 12:16:04 AM [INFORMATION] User tried to access text file public-sedc\test2.html, returning text response
+11/10/2021 12:16:04 AM [INFORMATION] User tried to access binary file public-sedc\images\typescript.jpg, returning binary response
+11/10/2021 12:16:06 AM [ERROR] User tried to access non-existant file public-sedc\invalid.html, returning Not Found
+11/10/2021 12:16:14 AM [INFORMATION] User tried to access text file public-sedc\test.html, returning text response
+11/10/2021 12:16:14 AM [INFORMATION] User tried to access binary file public-sedc\images\lazarus.jpg, returning binary response
+11/10/2021 12:20:31 AM [INFORMATION] Started listening on port 668
+11/10/2021 12:21:34 AM [INFORMATION] Started listening on port 668
+11/10/2021 12:22:12 AM [INFORMATION] Started listening on port 668

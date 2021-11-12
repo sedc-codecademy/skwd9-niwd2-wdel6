@@ -1,8 +1,13 @@
-﻿using System;
+﻿using Sedc.Server.Core.Services.RequestService.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Net;
 using System.Net.Sockets;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Entities
 {
     public class Server
     {
@@ -18,7 +23,7 @@ namespace Sedc.Server.Core
         public void Start()
         {
             var address = IPAddress.Loopback;
-            var port = options.Port; 
+            var port = options.Port;
             TcpListener listener = new TcpListener(address, port);
             listener.Start();
             options.Logger.Info($"Started listening on port {port}");

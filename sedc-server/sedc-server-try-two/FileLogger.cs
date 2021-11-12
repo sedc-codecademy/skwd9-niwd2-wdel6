@@ -1,5 +1,5 @@
 using Sedc.Server.Core;
-
+using Sedc.Server.Core.Logging.Interfaces;
 using System;
 using System.IO;
 

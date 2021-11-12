@@ -1,10 +1,17 @@
+﻿using Sedc.Server.Core.Entities;
+using Sedc.Server.Core.Logging;
+using Sedc.Server.Core.Logging.Interfaces;
+using Sedc.Server.Core.Response;
+using Sedc.Server.Core.Response.Implementations;
+using Sedc.Server.Core.Services.RequestService.Interfaces;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sedc.Server.Core
+namespace Sedc.Server.Core.Services.RequestService.Implementations
 {
     public class ApiRequestProcessor : IRequestProcessor
     {
@@ -51,7 +58,8 @@ namespace Sedc.Server.Core
 
         public bool ShouldProcess(Request request)
         {
-            if (request.Address.Path.Count() == 0) {
+            if (request.Address.Path.Count() == 0)
+            {
                 return false;
             }
             var prefix = request.Address.Path.First();

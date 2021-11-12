@@ -1,6 +1,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
 using Sedc.Server.Core;
+using System;
+using System.Linq;
 
 namespace Sedc.Server.Tests
 {
@@ -63,7 +65,10 @@ namespace Sedc.Server.Tests
 
             // 3. Arrange
             Assert.AreEqual(1, actual.Path.Count());
+<<<<<<< HEAD
+=======
             Assert.AreEqual(expected, actual.Path.First());
+>>>>>>> 52c22706f25c646537e670ad40b9f7d9bcc8ce7e
             Assert.AreEqual(0, actual.Params.Count);
             Assert.AreEqual(expected, actual.ToString());
         }
@@ -92,6 +97,44 @@ namespace Sedc.Server.Tests
             Assert.AreEqual(expectedString, actual.ToString());
         }
 
+        [TestMethod]
+        public void URL_Address_Should_Return_Single_Path_And_Empty_Param_Field_When_Called_With_Numbers_Only()
+        {
+            var input1 = "984239842374923";
+            var input2 = "000000";
+            var expected1 = "984239842374923";
+            var expected2 = "000000";
+
+            var actual1 = UrlAddress.FromString(input1);
+            var actual2 = UrlAddress.FromString(input2);
+
+            Assert.AreEqual(1, actual1.Path.Count());
+            Assert.AreEqual(0, actual1.Params.Count);
+            Assert.AreEqual(expected1, actual1.ToString());
+
+            Assert.AreEqual(1, actual2.Path.Count());
+            Assert.AreEqual(0, actual2.Params.Count);
+            Assert.AreEqual(expected2, actual2.ToString());
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(ApplicationException))]
+        public void URL_Address_Should_Return_AppilcationException_When_Called_With_Multiple_Questionmarks()
+        {
+            var input1 = "????";
+            var input2 = "one/two/three?dfsdf=asd&?dfsd=43tfr";
+
+            UrlAddress.FromString(input1);
+            UrlAddress.FromString(input2);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(ApplicationException))]
+        public void URL_Address_Should_Return_AppilcationException_When_Called_With_More_Than_One_Equality_Sign_In_The_Query_String_Key_Value_Pairs()
+        {
+            var input = "one/two/three?dfsdf=asd&dfsd=43tfr=fdf";
+            UrlAddress.FromString(input);
+        }
     }
 
 

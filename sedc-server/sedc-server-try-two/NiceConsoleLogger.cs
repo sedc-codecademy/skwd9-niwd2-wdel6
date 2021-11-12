@@ -1,5 +1,5 @@
 using Sedc.Server.Core;
-
+using Sedc.Server.Core.Logging.Interfaces;
 using System;
 
 namespace sedc_server_try_two
