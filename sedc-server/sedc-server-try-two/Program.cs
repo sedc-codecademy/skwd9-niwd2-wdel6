@@ -1,33 +1,12 @@
 ﻿using Sedc.Server.Core;
 
 using System;
+using System.Linq;
+using System.Reflection;
 
 namespace sedc_server_try_two
 {
-    class MyRequestProcessor : IRequestProcessor
-    {
-        public IResponse Process(Request request, ILogger logger)
-        {
-            return new TextResponse
-            {
-                Message = $@"
-<html>
-    <head>
-        <title>Custom SEDC Server</title>
-    </head>
-    <body>
-        Hi, I'm a <b>Custom SEDC Server</b> and <i>I don't like you</i>! You used the {request.Method} method on the {request.Address} URL
-    </body>
-</html>",
-                Status = Status.OK
-            };
-        }
 
-        public bool ShouldProcess(Request request)
-        {
-            return true;
-        }
-    }
 
     class Program
     {
@@ -44,8 +23,9 @@ namespace sedc_server_try_two
                     Port = 668,
                     Logger = logger
                 });
-                server.RegisterProcessor(new FileRequestProcessor("public-sedc"));
-                server.RegisterProcessor(new ApiRequestProcessor().WithController(new CalculatorApiController()));
+
+                server.ServeStaticFiles();
+                server.ServeApi().WithController(new EchoApiController("not-a-problem"));
                 server.Start();
             }
             catch (ApplicationException aex)

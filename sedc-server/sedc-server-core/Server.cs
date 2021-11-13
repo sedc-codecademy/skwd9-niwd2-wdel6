@@ -15,6 +15,20 @@ namespace Sedc.Server.Core
 
         public void RegisterProcessor(IRequestProcessor processor) => this.options.RegisterProcessor(processor);
 
+        public void ServeStaticFiles(string basePath = "public-sedc") 
+        {
+            RegisterProcessor(new FileRequestProcessor(basePath));
+        }
+
+        public ApiRequestProcessor ServeApi()
+        {
+            var result = new ApiRequestProcessor();
+            result.LoadControllers();
+            RegisterProcessor(result);
+            return result;
+        }
+
+
         public void Start()
         {
             var address = IPAddress.Loopback;
@@ -47,5 +61,6 @@ namespace Sedc.Server.Core
                 client.Close();
             }
         }
+
     }
 }

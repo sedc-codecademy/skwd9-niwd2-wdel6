@@ -1,3 +1,5 @@
+using Sedc.Server.Core.Attributes;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,22 +13,33 @@ namespace Sedc.Server.Core
         public string Describe() => "ApiRequestProcessor";
 
         public string Prefix { get; private set; }
-        public IApiController Controller { get; private set; }
+
+        private Dictionary<string, IApiController> controllers = new Dictionary<string,IApiController>();
+
+        public IEnumerable<IApiController> Controllers { get => controllers.Values; }
         public ApiRequestProcessor(string prefix = "api")
         {
             Prefix = prefix;
-            Controller = new DefaultApiController();
         }
 
-        public ApiRequestProcessor(IApiController controller, string prefix = "api") : this(prefix)
+        public ApiRequestProcessor LoadControllers()
         {
-            Controller = controller;
+            ApiRequestProcessorHelper.LoadControllers(this);
+            return this;
         }
-
 
         public ApiRequestProcessor WithController(IApiController controller)
         {
-            Controller = controller;
+            var route = ApiRequestProcessorHelper.GetControllerRoute(controller.GetType());
+            controllers.Add(route, controller);
+            return this;
+        }
+
+        public ApiRequestProcessor WithController<T>() where T : IApiController, new()
+        {
+            var route = ApiRequestProcessorHelper.GetControllerRoute(typeof(T));
+            var controller = new T();
+            controllers.Add(route, controller);
             return this;
         }
 
@@ -36,8 +49,19 @@ namespace Sedc.Server.Core
             var parameters = request.Address.Params;
             var method = request.Method;
 
+            var controllerRoute = path.FirstOrDefault();
+            if (controllerRoute == null)
+            {
+                return NotFound();
+            }
+
+            if (!controllers.TryGetValue(controllerRoute.ToLowerInvariant(), out var controller))
+            {
+                return NotFound();
+            };
+
             try {
-                var result = Controller.Execute(path, parameters, method, logger);
+                var result = controller.Execute(path, parameters, method, logger);
 
                 return new JsonResponse<object>
                 {
@@ -45,13 +69,22 @@ namespace Sedc.Server.Core
                     Status = Status.OK
                 };
             } catch (Exception ex) {
-                throw new SedcServerException($"Error executing {Controller.Name}", ex);
+                throw new SedcServerException($"Error executing {controller.Name}", ex);
             }
+        }
+
+        private static IResponse NotFound()
+        {
+            return new TextResponse
+            {
+                Message = "Not Found",
+                Status = Status.NotFound
+            };
         }
 
         public bool ShouldProcess(Request request)
         {
-            if (request.Address.Path.Count() == 0) {
+            if (!request.Address.Path.Any()) {
                 return false;
             }
             var prefix = request.Address.Path.First();

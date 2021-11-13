@@ -1,4 +1,5 @@
 ﻿using Sedc.Server.Core;
+using Sedc.Server.Core.Attributes;
 
 using System;
 using System.Collections.Generic;
@@ -25,6 +26,8 @@ namespace sedc_server_try_two
             logger.Debug($"Path: {string.Join(" / ", path)}");
             logger.Debug($"Params: {string.Join(" / ", parameters.Select(kvp => $"{kvp.Key}: {kvp.Value}"))}");
             logger.Debug($"Method: {method}");
+
+            path = path.Skip(1);
 
             var operation = path.First().ToLowerInvariant();
             var first = int.Parse(path.Skip(1).First());
