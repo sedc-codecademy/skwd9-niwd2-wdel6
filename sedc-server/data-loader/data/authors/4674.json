@@ -1,0 +1,83 @@
+[
+  {
+    "id": 35411,
+    "title": "Dead Endless",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "DG_deadendl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21009,
+    "title": "Some Assembly Required",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "KD_someasse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21032,
+    "title": "Grand Designs",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DM_granddes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20799,
+    "title": "Foreign Foes",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "dggb_foreignf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20800,
+    "title": "Maximum Warp: Book One of Two",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "GB_maximum1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20801,
+    "title": "Maximum Warp: Book Two of Two",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "GB_maximum2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20777,
+    "title": "Crisis of Consciousness",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "DG_crisisof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20778,
+    "title": "Troublesome Minds",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "DG_troubles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20802,
+    "title": "Battle Lines",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "GB_battleli.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

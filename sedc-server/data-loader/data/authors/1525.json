@@ -1,0 +1,200 @@
+[
+  {
+    "id": 3344,
+    "title": "Debt of Bones",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tg_debtofbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9523,
+    "title": "The Law of Nines",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "th_thelawof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34109,
+    "title": "The Scribbly Man",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tg_thescrib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12379,
+    "title": "The First Confessor",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tg_thefirst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20760,
+    "title": "Death's Mistress",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tg_deathsmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26066,
+    "title": "Shroud of Eternity",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tg_shroudof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31712,
+    "title": "Siege of Stone",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tg_siegeofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9520,
+    "title": "The Omen Machine",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tg_theomenm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9521,
+    "title": "The Third Kingdom",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tg_thethird.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9522,
+    "title": "Severed Souls",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tg_severeds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14403,
+    "title": "Warheart",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tg_warheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3321,
+    "title": "Wizard's First Rule",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tg_wizardsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3338,
+    "title": "Stone of Tears",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tg_stoneoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3339,
+    "title": "Blood of the Fold",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tg_bloodoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3340,
+    "title": "Temple of the Winds",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tg_templeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3341,
+    "title": "Soul of the Fire",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tg_soulofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3342,
+    "title": "Faith of the Fallen",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tg_faithoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3343,
+    "title": "The Pillars of Creation",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tg_thepilla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3346,
+    "title": "Naked Empire",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tg_nakedemp.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3347,
+    "title": "Chainfire",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tg_chianfir.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3348,
+    "title": "Phantom",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tg_phantom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3349,
+    "title": "Confessor",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tg_confesso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

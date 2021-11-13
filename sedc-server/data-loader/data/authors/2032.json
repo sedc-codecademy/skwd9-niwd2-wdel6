@@ -1,0 +1,55 @@
+[
+  {
+    "id": 5778,
+    "title": "Menace Under Marswood",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sel_menaceun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23754,
+    "title": "A Father's Tale",
+    "year": 1974,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19659,
+    "title": "The Peculiar Exploits of Brigadier Ffellowes",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "SL_ThePecul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23753,
+    "title": "The Curious Quests of Brigadier Ffellowes",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sel_thecurio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5776,
+    "title": "Hiero's Journey",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "sel_hierosjo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5777,
+    "title": "The Unforsaken Hiero",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sel_theunfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

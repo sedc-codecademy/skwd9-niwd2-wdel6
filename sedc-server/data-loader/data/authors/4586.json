@@ -1,0 +1,65 @@
+[
+  {
+    "id": 28478,
+    "title": "Pacifica",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ks_pacifica.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20175,
+    "title": "Metaltown",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ks_metaltow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20176,
+    "title": "The Glass Arrow",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ks_theglass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20177,
+    "title": "Article 5",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ks_article5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20178,
+    "title": "Breaking Point",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ks_breaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20179,
+    "title": "Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ks_three.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20174,
+    "title": "Burned Away",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ks_burnedaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

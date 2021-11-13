@@ -1,0 +1,191 @@
+[
+  {
+    "id": 31374,
+    "title": "Halo: Glasslands",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kt_glasslan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31375,
+    "title": "Halo: The Thursday War",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kt_thethurs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31377,
+    "title": "Halo: Mortal Dictata",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kt_mortaldi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17217,
+    "title": "501st",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "KT_501st.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16725,
+    "title": "Bloodlines",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KT_bloodlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16728,
+    "title": "Sacrifice",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "KT_sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16731,
+    "title": "Revelation",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KT_revelati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17220,
+    "title": "Republic Commando, Volume 2",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "KT_republi2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17219,
+    "title": "Republic Commando",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KT_republic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17213,
+    "title": "Hard Contact",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "KT_hardcont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17214,
+    "title": "Triple Zero",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KT_tripleze.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17215,
+    "title": "True Colors",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "KT_truecolo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17216,
+    "title": "Order 66",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KT_order66.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4393,
+    "title": "The Clone Wars",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kt_theclone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4392,
+    "title": "No Prisoners",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kt_noprison.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 661,
+    "title": "City of Pearl",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "kt_cityofpe.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1317,
+    "title": "Crossing the Line",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kt_crossing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 865,
+    "title": "The World Before",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kt_theworld.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1318,
+    "title": "Matriarch",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kt_matriarc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1024,
+    "title": "Ally",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kt_ally.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1208,
+    "title": "Judge",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kt_judge.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

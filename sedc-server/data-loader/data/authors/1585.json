@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20118,
+    "title": "David Copperfield's Tales of the Impossible",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dcjb_dctimpos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19176,
+    "title": "Peter S. Beagle's Immortal Unicorn",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "psbjb_immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23742,
+    "title": "Child of the Light",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jbgg_cotlight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23743,
+    "title": "Child of the Journey",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jbgg_cotjourn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3547,
+    "title": "Children of the Dusk",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jbgg_children.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

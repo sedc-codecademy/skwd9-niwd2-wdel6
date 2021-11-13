@@ -1,0 +1,209 @@
+[
+  {
+    "id": 32318,
+    "title": "Dome",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "MR_Dome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32317,
+    "title": "Hellstar",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "MR_Hellstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34898,
+    "title": "Aliens: Earth Hive",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "SP_earthhiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34899,
+    "title": "Aliens: Nightmare Asylum",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "SP_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34900,
+    "title": "Aliens: The Female War",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "SP_femalewa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25290,
+    "title": "Conan the Fearless",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sp_ctfearle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25291,
+    "title": "Conan the Defiant",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sp_ctdefian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25292,
+    "title": "Conan the Indomitable",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sp_ctindomi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25294,
+    "title": "Conan the Freelance",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sp_ctfreel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25293,
+    "title": "Conan the Formidable",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sp_ctformid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8227,
+    "title": "The Man Who Never Missed ",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sp_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8228,
+    "title": "Matadora ",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sp_matadora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8229,
+    "title": "The Machiavelli Interface ",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sp_themachi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8230,
+    "title": "The Omega Cage ",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "spmr_theomega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8231,
+    "title": "The 97th Step ",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sp_the97ths.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8232,
+    "title": "The Albino Knife ",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sp_thealbin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8233,
+    "title": "Black Steel ",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sp_blackste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8234,
+    "title": "Brother Death",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sp_brotherd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8236,
+    "title": "The Musashi Flex ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sp_themusas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16967,
+    "title": "Death Star",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MR_deathsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16513,
+    "title": "Shadows of the Empire",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "SP_shadowem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14489,
+    "title": "Battle Surgeons",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mrsp_battlesu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14490,
+    "title": "Jedi Healer",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mrsp_jediheal.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

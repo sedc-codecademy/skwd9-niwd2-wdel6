@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16992,
+    "title": "The August 5",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jh_theaugus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16988,
+    "title": "The Freedom of Navid Leahy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jh_thefreed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16990,
+    "title": "The Fanged Crown",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jh_thefange.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

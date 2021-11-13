@@ -1,0 +1,136 @@
+[
+  {
+    "id": 26726,
+    "title": "Halley's Passing",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22253,
+    "title": "Toplin",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "MM_toplin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22254,
+    "title": "Blood Rubies",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "MM_bloodrub.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22252,
+    "title": "Katie",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "MM_katie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20698,
+    "title": "The Elementals",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mm_theeleme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20696,
+    "title": "Cold Moon Over Babylon",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mm_coldmoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20697,
+    "title": "Gilded Needles",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mm_gildedne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20695,
+    "title": "The Amulet",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "mm_theamule.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20705,
+    "title": "Blackwater:  The Complete Caskey Family Saga",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mm_blackwat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20699,
+    "title": "The Flood",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mm_theflood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20700,
+    "title": "The Levee",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mm_thelevee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20701,
+    "title": "The House",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mm_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20702,
+    "title": "The War",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mm_thewar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20703,
+    "title": "The Fortune",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mm_thefortu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20704,
+    "title": "Rain",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mm_rain.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

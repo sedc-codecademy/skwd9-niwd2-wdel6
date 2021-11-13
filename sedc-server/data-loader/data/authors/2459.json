@@ -1,0 +1,56 @@
+[
+  {
+    "id": 9333,
+    "title": "No Doors, No Windows",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_nodoorsn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9306,
+    "title": "Eat the Dark",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_eattheda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9305,
+    "title": "Chasing the Dead",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "js_chasingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14495,
+    "title": "Maul: Lockdown",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "js_lockdown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14492,
+    "title": "Death Troopers",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_deathtro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14485,
+    "title": "Red Harvest",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_redharve.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

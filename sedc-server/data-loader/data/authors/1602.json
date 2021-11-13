@@ -1,0 +1,45 @@
+[
+  {
+    "id": 3585,
+    "title": "Creepers",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dm_creepers.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32674,
+    "title": "Resurrection",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23480,
+    "title": "Dead Image",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23744,
+    "title": "The Hundred-Year Christmas",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dm_thehundr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12397,
+    "title": "The Totem",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "dm_thetotem.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8571,
+    "title": "The Alchemist of Souls",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "al_thealche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8572,
+    "title": "The Merchant of Dreams",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "al_themerch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8573,
+    "title": "The Prince of Lies",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "al_theprinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

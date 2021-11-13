@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16694,
+    "title": "Ballroom Blitz",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "vs_ballroom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8117,
+    "title": "Among the Thorns",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "vs_amongth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8118,
+    "title": "Burning Girls",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "vs_burning.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

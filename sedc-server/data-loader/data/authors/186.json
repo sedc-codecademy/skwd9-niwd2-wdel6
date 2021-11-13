@@ -1,0 +1,140 @@
+[
+  {
+    "id": 25439,
+    "title": "Heroes and Villains",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ls_heroesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16961,
+    "title": "Friedrich the Snow Man",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ls_friedric.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31819,
+    "title": "Application",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15329,
+    "title": "Collected Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ls_collecte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19783,
+    "title": "The Death of Che Guevara",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27821,
+    "title": "Love in Vain",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ls_loveinva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 908,
+    "title": "Glimpses",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ls_glimpses.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18690,
+    "title": "When the Music's Over",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ls_whenthem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27733,
+    "title": "White City",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 192,
+    "title": "Deserted Cities of the Heart",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ls_deserted.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26353,
+    "title": "Love in Vain",
+    "year": 1988,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27799,
+    "title": "Jeff Beck",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27819,
+    "title": "The War at Home",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 210,
+    "title": "Frontera",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ls_frontera.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24042,
+    "title": "Twilight Time",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ls_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28263,
+    "title": "Nine Hard Questions About the Nature of the Universe",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ls_acm04.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

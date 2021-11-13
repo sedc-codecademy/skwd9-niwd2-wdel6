@@ -1,0 +1,47 @@
+[
+  {
+    "id": 3181,
+    "title": "Ada or Ardor: A Family Chronicle",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "vn_adaorard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23371,
+    "title": "The Eye",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "vn_theeye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6646,
+    "title": "Pale Fire",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "VN_PaleFire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23370,
+    "title": "Invitation to a Beheading",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "vn_invitati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36080,
+    "title": "Bend Sinister",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "VN_BendSini.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

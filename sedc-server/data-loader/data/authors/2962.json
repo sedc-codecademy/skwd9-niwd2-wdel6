@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11589,
+    "title": "The Angel of the Revolution:  A Tale of the Coming Terror",
+    "year": 1893,
+    "type": "novel",
+    "imageName": "GG_angelrev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11590,
+    "title": "Olga Romanoff:  Or, The Syren of the Skies",
+    "year": 1894,
+    "type": "novel",
+    "imageName": "GG_olgaroma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11808,
+    "title": "A Honeymoon in Space",
+    "year": 1901,
+    "type": "novel",
+    "imageName": "GG_honeymoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

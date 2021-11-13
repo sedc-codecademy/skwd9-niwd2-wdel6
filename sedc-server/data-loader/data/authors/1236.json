@@ -1,0 +1,369 @@
+[
+  {
+    "id": 35953,
+    "title": "Eternity",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "MR_Eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32669,
+    "title": "Trample an Empire Down",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "MR_Tramplea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32667,
+    "title": "After Utopia",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "MR_AfterUto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32668,
+    "title": "Perchance to Dream",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "MR_Perchanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22848,
+    "title": "Space Visitor",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "MR_spacevis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18440,
+    "title": "The Best of Mack Reynolds",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "MR_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21556,
+    "title": "Day After Tomorrow",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mr_dayafter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13315,
+    "title": "Galactic Medal of Honor",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mr_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32666,
+    "title": "The Cosmic Eye",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "MR_CosmicEy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32771,
+    "title": "After Some Tomorrow",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "mr_aftersom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32763,
+    "title": "Of Godlike Power",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "mr_ofgodlik.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32765,
+    "title": "Space Pioneer",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "mr_spacepio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21554,
+    "title": "Status Quo",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "mr_statusqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21615,
+    "title": "Dawnman Planet / Inherit the Earth",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_dawnmanp_inheritt.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21525,
+    "title": "Nebula Alert / The Rival Rigelians",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_nebulaal_therival.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21545,
+    "title": "Computer War / Death is a Dream",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_computer_deathisa.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21551,
+    "title": "Mercenary From Tomorrow / The Key to Venudine",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_mercenar_thekeyto.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21640,
+    "title": "The Age of Ruin / Code Duello",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_theageof_codeduel.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21156,
+    "title": "Planetary Agent X / Behold the Stars",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_planetar_beholdth.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22095,
+    "title": "The Rival Rigelians and Planetary Agent X",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "mr_ad66995.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21837,
+    "title": "The Space Barbarians / The Eyes of Bolsk",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_thespace_theeyeso.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21652,
+    "title": "Blackman's Burden / Border, Breed Nor Birth",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ad_blackman_borderbr.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21662,
+    "title": "Computer War / Code Duello",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ad_computer_codeduel.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22093,
+    "title": "Depression or Bust and Dawnman Planet",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "mr_ad14250.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22094,
+    "title": "The Five Way Secret Agent and Mercenary From Tomorrow",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "mr_ad24035.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11358,
+    "title": "Mack Reynolds, Part One",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MR_partone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11289,
+    "title": "Commune 2000 A.D.",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "MR_commune.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11291,
+    "title": "The Towers of Utopia",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "MR_towersut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11292,
+    "title": "Rolltown",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "MR_rolltown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2003,
+    "title": "Looking Backward, from the Year 2000",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "mr_lookingb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10570,
+    "title": "Equality: In the Year 2000",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "MR_equality.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25009,
+    "title": "Lagrange Five",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "mr_lagrange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25010,
+    "title": "The Lagrangists",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mr_thelagra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25011,
+    "title": "Chaos in Lagrangia",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mr_chaosinl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25012,
+    "title": "Trojan Orbit",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mrdi_trojanor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19126,
+    "title": "The Adventure of the Extraterrestrial",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18380,
+    "title": "A Leader For Yesteryear",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16804,
+    "title": "Mission to Horatius",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "MR_horatius.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32759,
+    "title": "Amazon Planet",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "MR_amazonpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32758,
+    "title": "Sections G: United Planets",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "MR_sectiong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32757,
+    "title": "Brain World",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "MR_brainwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

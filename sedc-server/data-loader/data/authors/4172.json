@@ -1,0 +1,65 @@
+[
+  {
+    "id": 17301,
+    "title": "Ruled",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cmo_ruled.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17302,
+    "title": "Tortured",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cmob_tortured.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17357,
+    "title": "Birthmarked",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cmob_birthmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17358,
+    "title": "Prized",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cmob_prized.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17359,
+    "title": "Promised",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cmob_promised.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17360,
+    "title": "The Vault of Dreamers",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cmob_thevault.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17361,
+    "title": "The Rule of Mirrors",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cmob_theruleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

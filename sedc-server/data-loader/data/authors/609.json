@@ -1,0 +1,791 @@
+[
+  {
+    "id": 19485,
+    "title": "Women of Futures Past",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kkr_womenoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14126,
+    "title": "The Enemy Within",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kkr_enemywit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22591,
+    "title": "Purity Test",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kkr_purityte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11809,
+    "title": "Snipers",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kkr_snipers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11841,
+    "title": "Recovering Apollo 8 and Other Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kkr_recoveri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26737,
+    "title": "G-Men",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kkr_gmen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22315,
+    "title": "The Observer",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22443,
+    "title": "Craters",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kkr_craters.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14664,
+    "title": "Recovering Apollo 8",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kkr_recover8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26739,
+    "title": "June Sixteenth at Anna's",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kkr_junesixt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11842,
+    "title": "The Retrieval Artist and Other Stories",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kkr_retrothe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11843,
+    "title": "Stories for an Enchanted Afternoon",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kkr_enchante.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16155,
+    "title": "Millennium Babies",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kkr_milleniu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16154,
+    "title": "Echea",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kkr_echea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 610,
+    "title": "Alien Influences",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "kkr_alieninf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26740,
+    "title": "Monuments to the Dead",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "kkr_monument.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11844,
+    "title": "Facade",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "kkr_facade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6726,
+    "title": "Heart Readers",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "kkr_heartrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6727,
+    "title": "Traitors",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "kkr_traitors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16072,
+    "title": "The Gallery of His Dreams",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kkr_thegalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6725,
+    "title": "The White Mists of Power",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kkr_whitemis.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26741,
+    "title": "Harvest",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kkr_harvest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16156,
+    "title": "Story Child",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kkr_storychi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18746,
+    "title": "A Time for Every Purpose",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18749,
+    "title": "Fast Cars",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26729,
+    "title": "Skin Deep",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "kkr_skindeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36150,
+    "title": "Escaping Amnthra",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kkr_escaping.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23041,
+    "title": "The Application of Hope",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kkr_applicat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23042,
+    "title": "Encounter on Starbase Kappa",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kkr_encounte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23040,
+    "title": "Strangers at the Room of Lost Souls",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kkr_stranger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23038,
+    "title": "Becalmed",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kkr_becalmed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23039,
+    "title": "Stealth",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kkr_stealth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23037,
+    "title": "Becoming One with the Ghosts",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kkr_becoming.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23036,
+    "title": "The Spires of Denon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kkr_spiresof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23035,
+    "title": "The Room of Lost Souls",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kkr_roomoflo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23034,
+    "title": "Diving into the Wreck",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kkr_dnovella.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2312,
+    "title": "Diving Into the Wreck",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kkr_divingin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2380,
+    "title": "City of Ruins",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kkr_cityofru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4220,
+    "title": "Boneyards",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kkr_boneyard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8932,
+    "title": "Skirmishes",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kkr_skirmish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20243,
+    "title": "The Falls",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kkr_thefalls.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25553,
+    "title": "The Runabout",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kkr_runabout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28875,
+    "title": "Searching for the Fleet",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kkr_searching.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34565,
+    "title": "The Renegat",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kkr_renegat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15475,
+    "title": "The Best from Fantasy & Science Fiction: A 45th Anniversary Anthology",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "elf_kkr_bestfr45.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6728,
+    "title": "The Sacrifice",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kkr_sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6729,
+    "title": "The Changeling",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kkr_changeli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6730,
+    "title": "The Rival",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "kkr_rival.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6731,
+    "title": "The Resistance ",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kkr_resistan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6732,
+    "title": "Victory",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kkr_victory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6733,
+    "title": "The Black Queen ",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "kkr_blackque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6734,
+    "title": "The Black King",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kkr_blackkin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17292,
+    "title": "Inhuman Garbage",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kkr_inhumang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16160,
+    "title": "The Impossibles",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kkr_impossib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16158,
+    "title": "The Possession of Paavo Deshin",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kkr_possessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16159,
+    "title": "The Recovery Man's Bargain",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kkr_ssrecove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16157,
+    "title": "The Retrieval Artist",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kkr_ssretrie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8929,
+    "title": "The Disappeared ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kkr_thedisap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8930,
+    "title": "Extremes",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kkr_extremes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8931,
+    "title": "Consequences",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "kkr_conseque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8938,
+    "title": "Buried Deep",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kkr_buriedde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8939,
+    "title": "Paloma",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kkr_paloma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8940,
+    "title": "Recovery Man",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kkr_recovery.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8941,
+    "title": "Duplicate Effort",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kkr_duplicat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8942,
+    "title": "Anniversary Day",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kkr_annivers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8969,
+    "title": "Blowback",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kkr_blowback.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11019,
+    "title": "A Murder of Clones",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kkr_amurdero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11430,
+    "title": "Search & Recovery",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kkr_searchan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11429,
+    "title": "The Peyti Crisis",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kkr_peyticri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11431,
+    "title": "Vigilantes",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kkr_vigilant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11432,
+    "title": "Starbase Human",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kkr_starbase.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11488,
+    "title": "Masterminds",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kkr_mastermi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20201,
+    "title": "Day of Honor",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DC_dayofhon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20193,
+    "title": "Treaty's Law",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "DWS_treatysl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20418,
+    "title": "Shadow",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "DS_shadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20222,
+    "title": "The Captain's Table",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lag_wardrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20218,
+    "title": "The Mist",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dws_kkr_themist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20452,
+    "title": "The Big Game",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "DS_thebigga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20001,
+    "title": "The Long Night",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dwskkr_thelongn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20231,
+    "title": "By The Book",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "DS_bytheboo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19977,
+    "title": "The Soldiers of Fear",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dwskkr_thesoldi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19143,
+    "title": "Vectors",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dws_kkr_vectors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20004,
+    "title": "The Rings of Tautee",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dwskkr_therings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20336,
+    "title": "Thin Air",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "DS_thinair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20501,
+    "title": "Star Trek: Klingon",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "DS_klingon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19978,
+    "title": "The Escape",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dwskkr_theescap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20008,
+    "title": "Echoes",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dwskkrnkh_echoes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17149,
+    "title": "The New Rebellion",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "KKR_newrebel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

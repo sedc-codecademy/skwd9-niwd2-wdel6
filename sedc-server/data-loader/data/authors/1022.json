@@ -1,0 +1,407 @@
+[
+  {
+    "id": 23248,
+    "title": "Ex Libris Noctis",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9290,
+    "title": "Last Plane to Heaven:  The Final Collection",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jl_lastplan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26225,
+    "title": "West to East",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8416,
+    "title": "Love in the Time of Metal and Flesh",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jl_loveinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8417,
+    "title": "The Stars Do Not Lie",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jl_thestars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8418,
+    "title": "The Baby Killers",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jl_thebabyk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23462,
+    "title": "Her Fingers Like Whips, Her Eyes Like Razors",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26250,
+    "title": "A Long Walk Home",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17428,
+    "title": "Two Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ksjl_twostori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17430,
+    "title": "Looking for Truth in a Wild Blue Yonder",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4303,
+    "title": "The Sky That Wraps",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jl_theskyth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16085,
+    "title": "The Speed of Time",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jl_thespeed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17429,
+    "title": "The Starship Mechanic",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8415,
+    "title": "Death of a Starship",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jl_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26249,
+    "title": "On the Human Plan",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24291,
+    "title": "Other Earths",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ngjl_otherear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25389,
+    "title": "Rolling Steel: A Pre-Apocalyptic Love Story",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25243,
+    "title": "The Sky That Wraps the World Round, Past the Blue and Into the Black",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16084,
+    "title": "A Water Matter",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jl_awaterma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25103,
+    "title": "Chewing Up the Innocent",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27114,
+    "title": "The American Dead",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27107,
+    "title": "The Big Ice",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27072,
+    "title": "The Canadian Who Came Almost All the Way Home from the Stars",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8414,
+    "title": "Rocket Science",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jl_rocketsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20908,
+    "title": "All-Star Zeppelin Adventure Stories",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dmjl_allstarz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8434,
+    "title": "Dogs in the Moonlight",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jl_dogsinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24325,
+    "title": "Greetings from Lake Wu",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jl_greeting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20944,
+    "title": "Into the Gardens of Sweet Night",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11027,
+    "title": "Our Lady of the Islands",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "spjl_ourladyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4304,
+    "title": "Trial of Flowers",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jl_trialoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1718,
+    "title": "Madness of Flowers",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jl_madnesso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1717,
+    "title": "Green",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jl_green.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4302,
+    "title": "Endurance",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jl_enduranc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6544,
+    "title": "Kalimpura",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jl_kalimpur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1048,
+    "title": "Mainspring",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jl_mainspri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2452,
+    "title": "Escapement",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jl_escapeme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2453,
+    "title": "Pinion",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jl_pinion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27269,
+    "title": "Rock of Ages",
+    "year": 2013,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24962,
+    "title": "Polyphony",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jldl_polypho1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24963,
+    "title": "Polyphony 2",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jldl_polypho2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24964,
+    "title": "Polyphony 3",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jldl_polypho3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24965,
+    "title": "Polyphony 4",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jldl_polypho4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24966,
+    "title": "Polyphony 5",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jldl_polypho5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24967,
+    "title": "Polyphony 6",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jldl_polypho6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19802,
+    "title": "The Weight of History, the Lightness of the Future",
+    "year": 2012,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28446,
+    "title": "Permanent Fatal Errors",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25504,
+    "title": "Torquing Vacuum",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

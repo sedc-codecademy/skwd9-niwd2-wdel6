@@ -1,0 +1,110 @@
+[
+  {
+    "id": 5213,
+    "title": "20 Years Later",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ejn_20yearsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20646,
+    "title": "Brother's Ruin",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "en_brothers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24305,
+    "title": "Weaver's Lament",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "en_weaversl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14196,
+    "title": "Planetfall",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "en_planetfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19950,
+    "title": "After Atlas",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "en_afteratl.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 25847,
+    "title": "Before Mars",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "en_beforema.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32398,
+    "title": "Atlas Alone",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "en_atlasalo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5212,
+    "title": "Between Two Thorns",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "en_betweent.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8568,
+    "title": "Any Other Name",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "en_anyother.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8569,
+    "title": "All Is Fair",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "en_allisfai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19949,
+    "title": "A Little Knowledge",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "en_alittlek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23151,
+    "title": "All Good Things",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "en_allgoodt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

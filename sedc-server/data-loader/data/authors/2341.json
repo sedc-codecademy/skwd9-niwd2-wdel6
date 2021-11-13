@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8839,
+    "title": "The Taking of Planet Five",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sbjmc_thetakin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8884,
+    "title": "Grimm Reality",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "khsbj_grimmrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10301,
+    "title": "The Death of Art",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sbj_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

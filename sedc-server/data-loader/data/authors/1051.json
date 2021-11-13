@@ -1,0 +1,109 @@
+[
+  {
+    "id": 2829,
+    "title": "Hermetech",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sc_hermetec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8780,
+    "title": "Silverheart",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mmsc_silverhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16223,
+    "title": "The Oracle Lips",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1561,
+    "title": "Stalking Tender Prey",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sc_stalking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1154,
+    "title": "Scenting Hallowed Blood",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sc_scenting.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1562,
+    "title": "Stealing Sacred Fire",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sc_stealing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25969,
+    "title": "Sea Dragon Heir",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sc_seadrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25970,
+    "title": "Crown of Silence",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sc_thecrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25971,
+    "title": "The Way of Light",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sc_thewayof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12213,
+    "title": "The Enchantments of Flesh and Spirit",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sc_enchantm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12214,
+    "title": "The Bewitchments of Love and Hate",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sc_thebewit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12215,
+    "title": "The Fulfilments of Fate and Desire",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sc_thefulfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

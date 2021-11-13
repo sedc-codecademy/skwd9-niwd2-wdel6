@@ -1,0 +1,56 @@
+[
+  {
+    "id": 10655,
+    "title": "Shadow Moon",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "CC_shadowmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10656,
+    "title": "Shadow Dawn",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "CC_shadowda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10657,
+    "title": "Shadow Star",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "CC_shadowst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25953,
+    "title": "First Flight",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cc_firstfli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25954,
+    "title": "Grounded!",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cc_grounded.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25955,
+    "title": "Sundowner",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cc_sundowne.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

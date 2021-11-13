@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16753,
+    "title": "The Human Engineer",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jb_thehuman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16754,
+    "title": "The Intelligence Director",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jb_theintel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16755,
+    "title": "The Memory Coder",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jb_thememor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

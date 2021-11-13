@@ -1,0 +1,92 @@
+[
+  {
+    "id": 27872,
+    "title": "The Stone Girl's Story",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sbd_thestone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11198,
+    "title": "Vessel",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sbd_vessel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22005,
+    "title": "Drink, Slay, Love",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sbd_drinksla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11197,
+    "title": "Ice",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sbd_ice.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19945,
+    "title": "The Queen of Blood",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sbd_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23599,
+    "title": "The Reluctant Queen",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sbd_thereluc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32414,
+    "title": "The Queen of Sorrow",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sd_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31584,
+    "title": "The Deepest Blue",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sbd_thedeepe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11286,
+    "title": "Into the Wild",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sbd_intothew.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11287,
+    "title": "Out of the Wild",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sbd_outofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

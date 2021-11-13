@@ -1,0 +1,128 @@
+[
+  {
+    "id": 6945,
+    "title": "Hard Magic",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lc_hardmagi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6946,
+    "title": "Spellbound",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lc_spellbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6947,
+    "title": "Warbound",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lc_warbound.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13420,
+    "title": "Monster Hunter International",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lc_mhintern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13421,
+    "title": "Monster Hunter Vendetta",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lc_mhvendet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13422,
+    "title": "Monster Hunter Alpha",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lc_mhualpha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13423,
+    "title": "Monster Hunter Legion",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lc_mhlegion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13424,
+    "title": "Monster Hunter Nemesis",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lc_mhnemesi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24782,
+    "title": "Monster Hunter Siege",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lc_mhsiege.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20290,
+    "title": "Grunge",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lcjr_grunge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21410,
+    "title": "Sinners",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lcjr_sinners.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28851,
+    "title": "Saints",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "lcjr_saints.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17058,
+    "title": "Son of the Black Sword",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lc_sonofthe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32444,
+    "title": "House of Assassins",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lc_houseofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

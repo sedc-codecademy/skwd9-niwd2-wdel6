@@ -1,0 +1,506 @@
+[
+  {
+    "id": 23107,
+    "title": "The Gods of Sagittarius",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "efmr_thegodso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17805,
+    "title": "Worlds",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ef_worlds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32671,
+    "title": "The Dragon Done It",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "EF_DragonDo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9883,
+    "title": "Slow Train to Arcturus",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "efdf_theslowt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21401,
+    "title": "The World Turned Upside Down",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ddefjb_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31968,
+    "title": "Pandora's Legions",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "CA_Pandoras.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17806,
+    "title": "Mother of Demons",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ef_motherof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13377,
+    "title": "1632",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ef_1632.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13378,
+    "title": "1633",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "efdw_1633.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13379,
+    "title": "1634: The Galileo Affair",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "efad_thegalil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13380,
+    "title": "1634: The Ram Rebellion",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "efvd_theramre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13381,
+    "title": "1635: The Cannon Law",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "efad_cannonla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13382,
+    "title": "1634: The Baltic War",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "efdw_thebalti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13383,
+    "title": "1634: The Bavarian Crisis",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "efvdm_1634bava.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13384,
+    "title": "1635: The Dreeson Incident",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "efvd_thedrees.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13398,
+    "title": "1635: The Eastern Front",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ef_theeaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13400,
+    "title": "1636: The Saxon Uprising",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ef_thesaxon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13404,
+    "title": "1636: The Kremlin Games ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "efghpg_thekreml.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13406,
+    "title": "1635: The Papal Stakes",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "efceg_thepapal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13408,
+    "title": "1636: The Devil's Opera",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "efdc_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13409,
+    "title": "1636: Commander Cantrell in the West Indies",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "efceg_commande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13412,
+    "title": "1636: The Viennese Waltz",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "efpggh_thevienn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13414,
+    "title": "1636: The Cardinal Virtues",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "efwhh_thecardi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19529,
+    "title": "1635: A Parcel of Rogues",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "efad_1635apar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20865,
+    "title": "1636: The Ottoman Onslaught",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ef_1636theo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23292,
+    "title": "1636: Mission to the Mughals",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "efgb_missiont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26581,
+    "title": "1636: The Vatican Sanction",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "efceg_thevatic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27488,
+    "title": "1637: The Volga Rules",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "efpggh_thevolgar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34102,
+    "title": "1637: The Polish Maelstrom",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ef_thepolis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2896,
+    "title": "An Oblique Approach",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "efdd_anobliqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2897,
+    "title": "In the Heart of Darkness",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "efdd_inthehea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2898,
+    "title": "Destiny's Shield",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "efdd_destinys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2899,
+    "title": "Fortune's Stroke",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "efdd_fortunes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2900,
+    "title": "The Tide of Victory",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "efdd_thetideo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2901,
+    "title": "The Dance of Time",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "efdd_thedance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32199,
+    "title": "Boundary",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "EF_Boundary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32200,
+    "title": "Threshold",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "EF_Threshol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32201,
+    "title": "Portal",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "EF_Portal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32202,
+    "title": "Castaway Planet",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "EF_CastPlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32203,
+    "title": "Castaway Odyssey",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "EF_CastOdys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2920,
+    "title": "The Tyrant",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "efdd_thetryan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9877,
+    "title": "The Shadow of the Lion",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mlefdf_theshadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9878,
+    "title": "This Rough Magic",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mlefdf_thisroug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9880,
+    "title": "Much Fall of Blood",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mlefdf_muchfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9881,
+    "title": "Burdens of the Dead",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mlefdf_burdenof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31717,
+    "title": "All the Plagues of Hell",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "efdf_allthepl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17774,
+    "title": "The Course of Empire",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "efkdw_thecours.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17775,
+    "title": "The Crucible of Empire",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "efkdw_thecruci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20438,
+    "title": "The Wizard of Karres",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mlefdf_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20439,
+    "title": "The Sorceress of Karres",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "efdf_thecorce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35726,
+    "title": "Pyramid Scheme",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "DF_PyraSche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35727,
+    "title": "Pyramid Power",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DF_PyraPowe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11574,
+    "title": "The Aethers of Mars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ef_cg_aetherso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9072,
+    "title": "Crown of Slaves",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dwef_crownofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9073,
+    "title": "Torch of Freedom",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dwef_torchoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9074,
+    "title": "Cauldron of Ghosts",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dwef_cauldron.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

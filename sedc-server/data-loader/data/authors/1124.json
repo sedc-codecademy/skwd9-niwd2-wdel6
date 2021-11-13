@@ -1,0 +1,115 @@
+[
+  {
+    "id": 36175,
+    "title": "Cog",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GVE_Cog.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28951,
+    "title": "Voyage of the Dogs",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gve_voyageof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28846,
+    "title": "On the Fringes of the Fractal",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4096,
+    "title": "The Boy at the End of the World",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gve_theboyat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2606,
+    "title": "Kid vs. Squid",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gve_kidvssq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16266,
+    "title": "Last Son of Tomorrow",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gve_lastsono.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1750,
+    "title": "Norse Code",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gve_norsecod.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27109,
+    "title": "Far As You Can Go",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26578,
+    "title": "The Osteomancer's Son",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16286,
+    "title": "In the Late December",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7460,
+    "title": "California Bones",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gve_californ.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10780,
+    "title": "Pacific Fire",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gve_pacificf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13839,
+    "title": "Dragon Coast",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gve_dragonco.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

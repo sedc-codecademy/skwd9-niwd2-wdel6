@@ -1,0 +1,146 @@
+[
+  {
+    "id": 34403,
+    "title": "Nice Things",
+    "year": 2019,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20643,
+    "title": "Passing Strange",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ek_passings.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23289,
+    "title": "Wicked Wonders",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ek_wickedwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16706,
+    "title": "Amicae Aeternum",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21737,
+    "title": "Caligo Lane",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8115,
+    "title": "Wakulla Springs",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "adek_wakulla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27106,
+    "title": "The Education of a Witch",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28636,
+    "title": "Goodnight Moons",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28579,
+    "title": "Echoes of Aurora",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24146,
+    "title": "Singing on a Star",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6702,
+    "title": "Portable Childhoods",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ek_portable.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23816,
+    "title": "In the House of the Seven Librarians",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ek_inthehou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18587,
+    "title": "Basement Magic",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17742,
+    "title": "Flying Over Water",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18626,
+    "title": "Time Gypsy",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ek_timegyps.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5721,
+    "title": "The Green Glass Sea",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ek_thegreen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5722,
+    "title": "White Sands, Red Menace",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ek_whitesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

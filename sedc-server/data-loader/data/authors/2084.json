@@ -1,0 +1,133 @@
+[
+  {
+    "id": 17205,
+    "title": "Old Paint",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3635,
+    "title": "The Inheritance and Other Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rhml_theinher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17695,
+    "title": "Cut",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6237,
+    "title": "Alien Earth",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ml_alienear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5929,
+    "title": "The Gypsy",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sbml_gypsy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6236,
+    "title": "Cloven Hooves",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ml_clovenho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17969,
+    "title": "Silver Lady and the Fortyish Man",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19250,
+    "title": "A Touch of Lavender",
+    "year": 1989,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6235,
+    "title": "Wizard of the Pigeons",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ml_wizardof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6241,
+    "title": "Harpy's Flight",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ml_harpysfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6242,
+    "title": "The Windsingers",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ml_thewinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6243,
+    "title": "The Limbreth Gate",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ml_thelimbr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6245,
+    "title": "The Luck of the Wheels",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ml_thelucko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6233,
+    "title": "The Reindeer People",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ml_thereind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6234,
+    "title": "Wolf's Brother",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ml_wolfsbro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

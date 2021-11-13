@@ -1,0 +1,65 @@
+[
+  {
+    "id": 3225,
+    "title": "A Desert Called Peace",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tk_adesertc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3226,
+    "title": "Carnifex",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tk_carnifex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3227,
+    "title": "The Lotus Eaters",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tk_thelotus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3228,
+    "title": "The Amazon Legion",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tk_theamazo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3263,
+    "title": "Watch on the Rhine",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jr_watchont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32261,
+    "title": "Yellow Eyes",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "JR_YellowEy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32262,
+    "title": "The Tuloriad",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "JR_Tuloriad.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

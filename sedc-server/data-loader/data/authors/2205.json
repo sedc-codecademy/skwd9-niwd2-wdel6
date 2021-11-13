@@ -1,0 +1,182 @@
+[
+  {
+    "id": 9192,
+    "title": "Shadows Over Baker Street",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mrjp_shadowso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31855,
+    "title": "Street Magic",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "MR_StreetMa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32318,
+    "title": "Dome",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "MR_Dome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32317,
+    "title": "Hellstar",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "MR_Hellstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14344,
+    "title": "InterWorld",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "NG_interwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14345,
+    "title": "The Silver Dream",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "NG_silverdr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14346,
+    "title": "Eternity's Wheel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "NG_eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8230,
+    "title": "The Omega Cage ",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "spmr_theomega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26605,
+    "title": "The Shattered World",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mr_theshatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26606,
+    "title": "The Burning Realm",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mr_theburni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17187,
+    "title": "Shadow Games",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MR_shadowga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16967,
+    "title": "Death Star",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MR_deathsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17183,
+    "title": "The Last Jedi",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "MR_lastjedi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17182,
+    "title": "Coruscant Nights",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MR_coruscan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17179,
+    "title": "Jedi Twilight",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "MR_jeditwil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17180,
+    "title": "Street of Shadow",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "MR_streetof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17181,
+    "title": "Patterns of Force",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "MR_patterns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14494,
+    "title": "Shadow Hunter",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mr_shadowhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14489,
+    "title": "Battle Surgeons",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mrsp_battlesu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14490,
+    "title": "Jedi Healer",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mrsp_jediheal.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

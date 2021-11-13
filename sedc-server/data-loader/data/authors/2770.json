@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10902,
+    "title": "The Barrow",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ms_thebarro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10903,
+    "title": "Black Heart",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ms_blackhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

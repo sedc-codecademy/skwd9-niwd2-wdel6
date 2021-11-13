@@ -1,0 +1,29 @@
+[
+  {
+    "id": 6097,
+    "title": "Under the Never Sky",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "vr_underthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6098,
+    "title": "Through the Ever Night",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "vr_throught.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6099,
+    "title": "Into the Still Blue",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "vr_intothes.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

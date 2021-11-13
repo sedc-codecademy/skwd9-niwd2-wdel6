@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3024,
+    "title": "RUR & War with the Newts",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kc_rurwarw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2076,
+    "title": "R.U.R. (Rossum's Universal Robots)",
+    "year": 1920,
+    "type": "novel",
+    "imageName": "kc_rur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2262,
+    "title": "The Absolute at Large",
+    "year": 1922,
+    "type": "novel",
+    "imageName": "kc_theabsol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2136,
+    "title": "War with the Newts",
+    "year": 1936,
+    "type": "novel",
+    "imageName": "kc_warwitht.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3581,
+    "title": "Serenity Falls",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jam_serenity.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25722,
+    "title": "Indigo:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CG_indigo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24424,
+    "title": "Alien: Sea of Sorrows",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jam_seaofsor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9918,
+    "title": "Seven Forges",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jam_sevenfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9919,
+    "title": "The Blasted Lands",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jam_theblast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14661,
+    "title": "City of Wonders",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jam_cityofwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17962,
+    "title": "The Silent Army",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jam_thesilen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21565,
+    "title": "The Last Sacrifice",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jam_thelasts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26071,
+    "title": "Fallen Gods",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jam_fallengo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32365,
+    "title": "Gates of the Dead",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jam_gatesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2098,
+    "title": "Arslan",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mje_arslan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12002,
+    "title": "Rainbow Man",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mje_rainbowm.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

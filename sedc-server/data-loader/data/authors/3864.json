@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16034,
+    "title": "Mirror, Mirror",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SB_mirrormi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15981,
+    "title": "Trial by Fire",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "SB_trialfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16032,
+    "title": "Survival of the Fittest",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "SB_survival.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16033,
+    "title": "Transitions",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "SB_transiti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

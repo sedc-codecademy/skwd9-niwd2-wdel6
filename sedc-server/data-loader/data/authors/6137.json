@@ -1,0 +1,47 @@
+[
+  {
+    "id": 32760,
+    "title": "Darkfever",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KM_darkfeve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32761,
+    "title": "Bloodfever",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "KM_bloodfev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32766,
+    "title": "Faefever",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KM_faefever.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32773,
+    "title": "Dreamfever",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kmm_dreamfev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32774,
+    "title": "Shadowfever",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kmm_shadowfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

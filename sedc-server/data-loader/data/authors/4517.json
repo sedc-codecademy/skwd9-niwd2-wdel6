@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19610,
+    "title": "Ishmael",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "DQ_Ishmael.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23733,
+    "title": "The Story of B",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dq_thestory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23730,
+    "title": "My Ishmael",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dq_myishmae.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

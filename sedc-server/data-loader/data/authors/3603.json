@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17917,
+    "title": "There Will Always Be a Max",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mru_therewil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14668,
+    "title": "The Shootout Solution",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mru_theshoot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16857,
+    "title": "The Absconded Ambassador",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mru_theabsco.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

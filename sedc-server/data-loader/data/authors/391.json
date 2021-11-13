@@ -1,0 +1,217 @@
+[
+  {
+    "id": 27909,
+    "title": "Nexus",
+    "year": 2017,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12757,
+    "title": "Captive Dreams",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mf_captived.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16495,
+    "title": "The Iron Shirts",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mf_theirons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19819,
+    "title": "Dawn, and Sunset, and the Colours of the Earth",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1004,
+    "title": "Eifelheim",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mf_eifelhei.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20916,
+    "title": "The Clapping Hands of God",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 393,
+    "title": "The Wreck of The River of Stars",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mf_thewreck.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1823,
+    "title": "In the Country of the Blind",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mf_inthecou.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 32691,
+    "title": "Built Upon the Sands of Time",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33872,
+    "title": "Rules of Engagement",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20611,
+    "title": "The Forest of Time and Other Stories",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mf_thefores.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19970,
+    "title": "House of Dreams",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26528,
+    "title": "The Promise of God",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19952,
+    "title": "Melodies of the Heart",
+    "year": 1994,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9448,
+    "title": "Fallen Angels",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lnjpmf_fallenan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20613,
+    "title": "The Forest of Time",
+    "year": 1987,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20664,
+    "title": "Eifelheim",
+    "year": 1986,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10860,
+    "title": "Firestar",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mf_firestar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10861,
+    "title": "Rogue Star",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mf_roguesta.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10862,
+    "title": "Lodestar",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mf_lodestar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10863,
+    "title": "Falling Stars",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mf_fallings.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10853,
+    "title": "The January Dancer",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mf_thejanua.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10854,
+    "title": "Up Jim River",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mf_upjimriv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10855,
+    "title": "In The Lion's Mouth",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mf_inthelio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10856,
+    "title": "On The Razor's Edge",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mf_ontheraz.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

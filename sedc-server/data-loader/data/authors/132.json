@@ -1,0 +1,875 @@
+[
+  {
+    "id": 7652,
+    "title": "Rogues",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "grrmgd_rogues.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12315,
+    "title": "The World of Ice & Fire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "grrm_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7649,
+    "title": "Dangerous Women",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "grrmgd_dangerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7648,
+    "title": "Down These Strange Streets",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrmgd_downthes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2535,
+    "title": "Songs of Love and Death:  All-Original Tales of Star-Crossed Love",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "grrmgd_songsofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26588,
+    "title": "A Night at the Tarn House",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4475,
+    "title": "Songs of the Dying Earth:  Stories in Honour of Jack Vance",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "grrmgd_songsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6505,
+    "title": "Starlady and Fast-Friend",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "grrm_starlady.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6343,
+    "title": "Hunter's Run",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "grrmgdda_huntersr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16322,
+    "title": "Shadow Twin",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gdgrrmda_shadowtw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6363,
+    "title": "Quartet:  Four Tales from the Crossroads",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "grrm_quartet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13081,
+    "title": "The Skin Trade",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "grrm_skintrad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18551,
+    "title": "The Pear-Shaped Man",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "grrm_thepears.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12225,
+    "title": "Portraits of His Children (collection)",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "grrm_portrait.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12237,
+    "title": "Nightflyers",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "grrm_nightfly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18492,
+    "title": "Portraits of His Children",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "grrm_portraits.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26473,
+    "title": "Under Siege",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 783,
+    "title": "The Armageddon Rag",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "grrm_thearmag.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18491,
+    "title": "The Monkey Treatment",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7650,
+    "title": "The Science Fiction Weight-Loss Book",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "iagrrm_thesfwei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12236,
+    "title": "Songs the Dead Men Sing",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "grrm_songsthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 785,
+    "title": "Fevre Dream",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "grrm_fevredre.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 19204,
+    "title": "Unsound Variations",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7655,
+    "title": "Sandkings (collection)",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "grrm_sandking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6506,
+    "title": "The Ice Dragon",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "grrm_icedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7656,
+    "title": "Songs of Stars and Shadows",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "grrm_songsofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26187,
+    "title": "The Lonely Songs of Laren Dorr",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "grrm_thelonel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26625,
+    "title": "Meathouse Man",
+    "year": 1976,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7654,
+    "title": "A Song for Lya and Other Stories",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "grrm_asongfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17998,
+    "title": "...For a Single Yesterday",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18191,
+    "title": "With Morning Comes Mistfall",
+    "year": 1973,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36512,
+    "title": "Binary Star No. 5",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "grrmvv_binary5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6451,
+    "title": "GRRM: A RRetrospective",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "grrm_grrmarre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6454,
+    "title": "Dreamsongs Volume I:  A RRetrospective",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "grrm_dreams1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6455,
+    "title": "Dreamsongs Volume II",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "grrm_dreams2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12310,
+    "title": "New Voices in Science Fiction",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "grrm_nvisf1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12311,
+    "title": "New Voices II",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "grrm_nvisf2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12312,
+    "title": "New Voices III",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "grrm_nvisf3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12313,
+    "title": "New Voices 4",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "grrm_nvisf4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12314,
+    "title": "The John W. Campbell Awards, Volume 5",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "grrm_nvisf5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23470,
+    "title": "Night Visions 3",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "grrm_nightv03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7647,
+    "title": "Old Mars",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "grrmgd_oldmars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11023,
+    "title": "Old Venus",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "grrmgd_oldvenus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19205,
+    "title": "Blood of the Dragon",
+    "year": 1996,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 157,
+    "title": "A Game of Thrones",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "grrm_agameoft.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 146,
+    "title": "A Clash of Kings",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "grrm_aclashof.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 138,
+    "title": "A Storm of Swords",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "grrm_astormof.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 809,
+    "title": "A Feast for Crows",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "grrm_afeastfo.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 2999,
+    "title": "A Dance with Dragons",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrm_adancewi.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 13285,
+    "title": "A Knight of the Seven Kingdoms",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "grrm_aknighto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21755,
+    "title": "The Hedge Knight",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21756,
+    "title": "The Sworn Sword",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21757,
+    "title": "The Mystery Knight",
+    "year": 2010,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31739,
+    "title": "Fire & Blood",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "grrm_firebloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26160,
+    "title": "The Glass Flower",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "grrm_theglass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19791,
+    "title": "Nightflyers",
+    "year": 1980,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18493,
+    "title": "Sandkings",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "grrm_sssandki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17602,
+    "title": "The Way of Cross and Dragon",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "grrm_wayofcro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26408,
+    "title": "Bitterblooms",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 353,
+    "title": "Dying of the Light",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "grrm_dyingoft.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18490,
+    "title": "The Stone City",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26207,
+    "title": "In the House of the Worm",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "grrm_inthehou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19761,
+    "title": "And Seven Times Never Kill Man",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19202,
+    "title": "A Song for Lya",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "grrm_asongforlya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6572,
+    "title": "Tuf Voyaging",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "grrm_tufvoyag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20858,
+    "title": "Guardians",
+    "year": 1981,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21758,
+    "title": "Warriors",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gdgrrm_warriors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3081,
+    "title": "Warriors 1",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrmgd_warriors1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3082,
+    "title": "Warriors 2",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrmgd_warriors2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3083,
+    "title": "Warriors 3",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrmgd_warriors3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3060,
+    "title": "Wild Cards I",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "grrm_wildcard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3061,
+    "title": "Aces High",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "grrm_wc2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3062,
+    "title": "Jokers Wild",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "grrm_jokerswi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3063,
+    "title": "Aces Abroad",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "grrm_acesabro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3064,
+    "title": "Down and Dirty",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "grrm_downandd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3065,
+    "title": "Ace in the Hole",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "grrm_aceinthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3066,
+    "title": "Dead Man's Hand",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "grrm_deadmans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3067,
+    "title": "One-Eyed Jacks",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "grrm_oneeyedj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3068,
+    "title": "Jokertown Shuffle",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "grrm_jokertown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3069,
+    "title": "Double Solitaire",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "grrm_wc10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3070,
+    "title": "Dealer's Choice",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "grrm_wc11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3072,
+    "title": "Card Sharks",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "grrm_wc13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3073,
+    "title": "Marked Cards",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "grrm_wc14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3074,
+    "title": "Black Trump",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "grrm_wc15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3075,
+    "title": "Deuces Down",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "grrm_wc16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3076,
+    "title": "Death Draws Five",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "grrm_wc17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3077,
+    "title": "Inside Straight",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "grrm_insidest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3078,
+    "title": "Busted Flush",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "grrm_bustedfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3079,
+    "title": "Suicide Kings",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "grrm_suicidek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3080,
+    "title": "Fort Freak",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrm_fortfrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9910,
+    "title": "Lowball",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "grrmmms_lowball.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19434,
+    "title": "High Stakes",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "grrmmms_highstak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25642,
+    "title": "Mississippi Roll",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "grrm_mississi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28329,
+    "title": "Low Chicago",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "grrm_lowchica.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28518,
+    "title": "Texas Hold'em",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "grrm_texashol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28532,
+    "title": "Knaves Over Queens",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "grrm_knavesov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 787,
+    "title": "Windhaven",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "grrmlt_windhave.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20746,
+    "title": "One-Wing",
+    "year": 1980,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19203,
+    "title": "The Storms of Windhaven",
+    "year": 1975,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

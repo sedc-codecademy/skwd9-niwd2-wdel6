@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15646,
+    "title": "V: The Pursuit of Diana",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "AW_V3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15651,
+    "title": "V: The Crivit Experiment",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "AW_V8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15662,
+    "title": "V: Below the Threshold",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "AW_V15.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

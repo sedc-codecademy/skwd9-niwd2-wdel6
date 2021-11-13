@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2007,
+    "title": "Woman on the Edge of Time",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mp_womanont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 618,
+    "title": "He, She and It",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mp_hesheand.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

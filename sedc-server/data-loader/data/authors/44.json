@@ -1,0 +1,164 @@
+[
+  {
+    "id": 32413,
+    "title": "Fall, or Dodge in Hell",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ns_fallordo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23389,
+    "title": "The Rise and Fall of D.O.D.O.",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nsng_therisea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11036,
+    "title": "Seveneves:  A Novel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "NS_sevenev.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 34170,
+    "title": "Atmosphaera Incognita",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ns_atmospha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7269,
+    "title": "Some Remarks:  Essays and Other Writings",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ns_somerema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4229,
+    "title": "Reamde",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ns_reamde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1216,
+    "title": "Anathem",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ns_anathem.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 71,
+    "title": "Cryptonomicon",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ns_cryptono.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 1088,
+    "title": "Interface",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sb_interfac.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 43,
+    "title": "The Diamond Age",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ns_thediamo.jpg",
+    "nominations": 6,
+    "wins": -1
+  },
+  {
+    "id": 617,
+    "title": "Snow Crash",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ns_snowcras.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 2576,
+    "title": "Zodiac",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ns_zodiac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 579,
+    "title": "Quicksilver",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ns_quicksil.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1328,
+    "title": "The Confusion",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ns_theconfu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 578,
+    "title": "The System of the World",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ns_thesyste.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 4717,
+    "title": "The Mongoliad:  Book One",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nsgb_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4718,
+    "title": "The Mongoliad:  Book Two",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nsgbmtebjbeddcm_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4719,
+    "title": "The Mongoliad:  Book Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nsgbmt_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

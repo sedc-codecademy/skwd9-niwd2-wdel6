@@ -1,0 +1,29 @@
+[
+  {
+    "id": 28829,
+    "title": "Vita Nostra",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mdsd_vitanost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35961,
+    "title": "Daughter From the Dark",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mdsd_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4535,
+    "title": "The Scar",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "smd_thescar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 984,
+    "title": "End of the World Blues",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jcg_endofthe.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1108,
+    "title": "9Tail Fox",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jcg_9tailfox.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1107,
+    "title": "Stamping Butterflies",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jcg_stamping.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6202,
+    "title": "Arabesk",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jcg_arabesk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 410,
+    "title": "Pashazade: The First Arabesk",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jcg_pashazad.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1103,
+    "title": "Effendi: The Second Arabesk",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jcg_effendi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1104,
+    "title": "Felaheen: The Third Arabesk",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jcg_felaheen.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4069,
+    "title": "The Fallen Blade",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jcg_thefalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5518,
+    "title": "The Outcast Blade",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jcg_theoutca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5519,
+    "title": "The Exiled Blade",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jcg_theexile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20107,
+    "title": "neoAddix",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jcg_neoaddix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20108,
+    "title": "Lucifer's Dragon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jcg_lucifers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20109,
+    "title": "reMix",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jcg_remix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1099,
+    "title": "redRobe",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jcg_redrobe.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

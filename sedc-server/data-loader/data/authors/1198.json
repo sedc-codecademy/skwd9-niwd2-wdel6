@@ -1,0 +1,110 @@
+[
+  {
+    "id": 5624,
+    "title": "The Scorpio Races",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ms_thescorp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27837,
+    "title": "All the Crooked Saints",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ms_allthecr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5622,
+    "title": "Lament",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ms_lament.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5623,
+    "title": "Ballad",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ms_ballad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35471,
+    "title": "Call Down the Hawk",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "MS_CallDown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5094,
+    "title": "The Raven Boys",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ms_theraven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5619,
+    "title": "The Dream Thieves",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ms_thedream.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10649,
+    "title": "Blue Lily, Lily Blue",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MS_bluelily.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17271,
+    "title": "The Raven King",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "MS_ravenkin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1902,
+    "title": "Shiver",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ms_shiver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5620,
+    "title": "Linger",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_linger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5621,
+    "title": "Forever",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ms_forever.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

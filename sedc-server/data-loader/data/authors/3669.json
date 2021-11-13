@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15008,
+    "title": "Hammers of Ulric",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "da_hammerso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15736,
+    "title": "Mark of Damnation",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jw_markofda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15737,
+    "title": "Mark of Heresy",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jw_markofhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15738,
+    "title": "Mark of Mutation",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jw_markofmu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

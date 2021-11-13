@@ -1,0 +1,128 @@
+[
+  {
+    "id": 7026,
+    "title": "Old Flames",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jk_oldflames.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7035,
+    "title": "Peaceable Kingdom",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jk_peaceable.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7025,
+    "title": "Red",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jk_red.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7034,
+    "title": "Right to Life: And Two Stories ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jk_righttolife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3573,
+    "title": "The Lost",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jk_thelost.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7027,
+    "title": "The Exit at Toledo Blade Boulevard",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jk_theexitattoledo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6197,
+    "title": "Ladies' Night",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jk_ladieskn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6862,
+    "title": "Joyride",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jk_joyride.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6863,
+    "title": "Stranglehold",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jk_stranglehold.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6860,
+    "title": "The Girl Next Door",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jk_thegirln.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6861,
+    "title": "She Wakes",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jk_shewakes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6792,
+    "title": "Off Season",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jk_offseason.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6794,
+    "title": "Offspring",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jk_offspring.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6798,
+    "title": "The Woman",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jk_thewoman.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

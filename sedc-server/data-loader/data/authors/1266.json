@@ -1,0 +1,119 @@
+[
+  {
+    "id": 542,
+    "title": "Orphan of Creation",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rmba_orphanof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2158,
+    "title": "The Depths of Time",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rmba_thedepth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2159,
+    "title": "The Ocean of Years",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rmba_theocean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2160,
+    "title": "The Shores of Tomorrow",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rmba_theshore.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7916,
+    "title": "The War Machine",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ddrma_thewarma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10507,
+    "title": "The Ring of Charon",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rma_theringo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10508,
+    "title": "The Shattered Sphere",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rma_theshatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24794,
+    "title": "Isaac Asimov's Caliban",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rma_caliban.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24795,
+    "title": "Isaac Asimov's Inferno",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rma_inferno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24796,
+    "title": "Isaac Asimov's Utopia",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rma_utopia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3301,
+    "title": "Ambush at Corellia",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rmba_ambushat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3302,
+    "title": "Assault at Selonia",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rmba_assaulta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3303,
+    "title": "Showdown at Centerpoint",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rmba_showdown.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

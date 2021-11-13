@@ -1,0 +1,81 @@
+[
+  {
+    "id": 18381,
+    "title": "Good Neighbors and Other Strangers",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ep_goodneig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19064,
+    "title": "Mount Charity",
+    "year": 1971,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18382,
+    "title": "A Better Mousehole",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1986,
+    "title": "A Mirror for Observers",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ep_amirrorf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8537,
+    "title": "West of the Sun",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "ep_westofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 319,
+    "title": "Davy",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ep_davy.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12183,
+    "title": "The Judgement of Eve",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ep_thejudge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24970,
+    "title": "The Company of Glory",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ep_thecompa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24246,
+    "title": "Still I Persist in Wondering",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ep_stillipe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": 32245,
+    "title": "Frights of Fancy",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "JNW_Frightso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35683,
+    "title": "The Haunt",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "JNW_TheHaunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35682,
+    "title": "Shadows of Death",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JNW_ShadowsD.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23671,
+    "title": "The Night Seasons",
+    "year": 1986,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35679,
+    "title": "The Longest Night",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "JNW_LongestN.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35677,
+    "title": "Ghost",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "JNW_Ghost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35681,
+    "title": "The Dentist",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "JNW_Dentist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35678,
+    "title": "Horror House",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "JNW_HorrorHo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35680,
+    "title": "The Tulpa",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "JNW_TheTulpa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35684,
+    "title": "The Houngan",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "JNW_Houngan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28283,
+    "title": "The Naked Flesh of Feeling",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jnw_acm24.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23696,
+    "title": "Masques",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jnw_masques1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23697,
+    "title": "Masques II",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jnw_masques2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23698,
+    "title": "Masques III",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jnw_masques3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23699,
+    "title": "Masques IV",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jnw_masques4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23700,
+    "title": "Masques V",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jnw_masques5.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

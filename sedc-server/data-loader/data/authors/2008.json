@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20706,
+    "title": "The Motion of Puppets",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kd_themotio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14542,
+    "title": "The Boy Who Drew Monsters",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dk_theboywh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14543,
+    "title": "Centuries of June",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kf_centurie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5672,
+    "title": "Angels of Destruction",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kd_angelsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5671,
+    "title": "The Stolen Child",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kd_thestole.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

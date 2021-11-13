@@ -1,0 +1,20 @@
+[
+  {
+    "id": 32658,
+    "title": "Foe",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ir_foe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19438,
+    "title": "I'm Thinking of Ending Things",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ir_iamthinking.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

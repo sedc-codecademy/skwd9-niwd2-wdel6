@@ -1,0 +1,160 @@
+[
+  {
+    "id": 6209,
+    "title": "His Share of Glory:  The Complete Works of C.M. Kornbluth",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cmk_hisshare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9312,
+    "title": "Our Best:  The Best of Frederik Pohl and C. M. Kornbluth",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "fpcmk_ourbest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9301,
+    "title": "Before the Universe and Other Stories",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "fpcmk_beforeth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19854,
+    "title": "The Meeting",
+    "year": 1972,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8742,
+    "title": "The Wonder Effect",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "fpcmk_thewonde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6994,
+    "title": "Wolfbane",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "fpcmk_wolfbane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21606,
+    "title": "The Advent on Channel Twelve",
+    "year": 1958,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21207,
+    "title": "A Mile Beyond the Moon",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "cmk_amilebey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21219,
+    "title": "Reap the Dark Tide",
+    "year": 1958,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21605,
+    "title": "Theory of Rocketry",
+    "year": 1958,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6996,
+    "title": "Gladiator-at-Law",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "fpcmk_gladiato.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8437,
+    "title": "Not This August",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "cm_notthisa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6997,
+    "title": "Search the Sky",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "fpcmk_searchth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11931,
+    "title": "The Syndic",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "cmk_thesyndi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8436,
+    "title": "Takeoff",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "ck_takeoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2134,
+    "title": "The Best of C. M. Kornbluth",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "cmk_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8713,
+    "title": "Venus, Inc.",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "fpcmk_venusinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1778,
+    "title": "The Space Merchants",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "fpcmk_thespace.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

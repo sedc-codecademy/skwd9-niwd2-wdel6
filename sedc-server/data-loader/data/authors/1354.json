@@ -1,0 +1,100 @@
+[
+  {
+    "id": 2676,
+    "title": "The Recollection",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "glp_therecol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2675,
+    "title": "Silversands",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "glp_silversa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34086,
+    "title": "Ragged Alice",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "glp_raggedal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27863,
+    "title": "Red Lights, and Rain",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28490,
+    "title": "The Church of Accelerated Redemption",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "glpadb_thechurc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4952,
+    "title": "Ack-Ack Macaque",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "glp_ackackma.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7109,
+    "title": "Hive Monkey",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "glp_hivemonk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27054,
+    "title": "Macaque Attack",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "glp_macaquea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27053,
+    "title": "Embers of War",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "glp_embersof.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 32037,
+    "title": "Fleet of Knives",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "glp_fleetofk.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 35775,
+    "title": "Light of Impossible Stars",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "glp_lightofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

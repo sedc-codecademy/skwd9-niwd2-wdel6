@@ -1,0 +1,200 @@
+[
+  {
+    "id": 12007,
+    "title": "D'Shai",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jr_dshai.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12008,
+    "title": "Hour of the Octopus",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jr_hourofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12767,
+    "title": "The Sleeping Dragon",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jr_thesleep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12769,
+    "title": "The Sword and the Chain",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jr_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12770,
+    "title": "The Silver Crown",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jr_silvercr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12771,
+    "title": "The Heir Apparent",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jr_theheira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12772,
+    "title": "The Warrior Lives",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jr_thewarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12773,
+    "title": "The Road to Ehvenor",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jr_trtehven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12774,
+    "title": "The Road Home",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jr_roadhome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12775,
+    "title": "Not Exactly the Three Musketeers",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jr_notexact.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12776,
+    "title": "Not Quite Scaramouche",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jr_notquite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12777,
+    "title": "Not Really the Prisoner of Zenda",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jr_notreall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12778,
+    "title": "The Fire Duke",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jr_thefired.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12779,
+    "title": "The Silver Stone",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jr_thesston.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12780,
+    "title": "The Crimson Sky",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jr_thecrims.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2402,
+    "title": "Murder in LaMut",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "refjr_murderin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12781,
+    "title": "Ties of Blood and Silver",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jr_tiesofbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12782,
+    "title": "Emile and the Dutchman",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jr_emileand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12783,
+    "title": "Not for Glory",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jr_notforgl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12784,
+    "title": "Hero",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jr_hero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12785,
+    "title": "Paladins",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jr_paladins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12786,
+    "title": "Paladins II: Knight Moves",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jr_knightmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

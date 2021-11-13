@@ -1,0 +1,56 @@
+[
+  {
+    "id": 15958,
+    "title": "Caverns of Socrates",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dlm_cavernso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15953,
+    "title": "The Dark Tide",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dlm_thedarkt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15954,
+    "title": "Shadows of Doom",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dlm_shadowso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15955,
+    "title": "The Darkest Day",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dlm_thedarke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15956,
+    "title": "Trek to Kraggen-Cor",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "dlm_trektokr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15957,
+    "title": "The Brega Path",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "dlm_thebrega.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

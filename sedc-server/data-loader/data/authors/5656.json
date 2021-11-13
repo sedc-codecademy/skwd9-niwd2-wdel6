@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36495,
+    "title": "The Age of Witches",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "lm_ageofwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36494,
+    "title": "The Witch's Kind ",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lm_witchski.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27058,
+    "title": "A Secret History of Witches",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lm_asecreth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

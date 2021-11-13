@@ -1,0 +1,137 @@
+[
+  {
+    "id": 27159,
+    "title": "The Ghoul Goes West",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "db_theghoul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30246,
+    "title": "The Horror of Party Beach",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28798,
+    "title": "In the Night Wood",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "db_inthenig.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 25007,
+    "title": "I Was a Teenage Werewolf",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25008,
+    "title": "Teenagers from Outer Space",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17710,
+    "title": "The End of the End of Everything (collection)",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "db_endcolle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28826,
+    "title": "Lightning Jack's Last Ride",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23094,
+    "title": "The Ministry of the Eye",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23318,
+    "title": "Snow",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16887,
+    "title": "The End of the End of Everything",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "db_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16889,
+    "title": "A Rumor of Angels",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "db_arumoran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22509,
+    "title": "The Children of Hamelin",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26307,
+    "title": "The Crevasse",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17711,
+    "title": "The End of the World as We Know It",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "db_endofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18675,
+    "title": "The Resurrection Man's Legacy and Other Stories",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "db_theresur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18677,
+    "title": "The Resurrection Man's Legacy",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

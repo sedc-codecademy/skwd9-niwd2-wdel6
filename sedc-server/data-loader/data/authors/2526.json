@@ -1,0 +1,38 @@
+[
+  {
+    "id": 25802,
+    "title": "The Immortals' War",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lc_immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35867,
+    "title": "A Sword's Poem",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "LC_SwordsPo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25801,
+    "title": "The Caves of Buda",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lrc_thecaves.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9758,
+    "title": "Paper Mage",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lrc_papermag.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

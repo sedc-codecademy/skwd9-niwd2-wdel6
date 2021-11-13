@@ -1,0 +1,74 @@
+[
+  {
+    "id": 26617,
+    "title": "Ignition",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kjadb_ignition.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26598,
+    "title": "Ill Wind",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "kjadb_illwind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 173,
+    "title": "Assemblers of Infinity",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "kja_assemble.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25623,
+    "title": "The Trinity Paradox",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kjadb_thetrini.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19760,
+    "title": "Lifeline",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kjadb_lifeline.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26639,
+    "title": "Virtual Destruction",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kjadb_virtuald.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26640,
+    "title": "Fallout",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "kjadb_fallout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26641,
+    "title": "Lethal Exposure",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kjadb_lethalex.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

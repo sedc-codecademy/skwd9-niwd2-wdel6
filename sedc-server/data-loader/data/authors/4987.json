@@ -1,0 +1,65 @@
+[
+  {
+    "id": 22416,
+    "title": "Grudgebearer",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jfl_grudgebe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22417,
+    "title": "Oathkeeper",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jfl_oathkeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22418,
+    "title": "Worldshaker",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jfl_worldsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22419,
+    "title": "Staked",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jfl_staked.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22420,
+    "title": "ReVamped",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jfl_revamped.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22421,
+    "title": "Crossed",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jfl_crossed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22422,
+    "title": "Burned",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jfl_burned.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

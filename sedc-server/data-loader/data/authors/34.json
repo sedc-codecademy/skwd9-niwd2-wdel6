@@ -1,0 +1,658 @@
+[
+  {
+    "id": 12228,
+    "title": "Invasive Procedures",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "oscaj_invasive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35720,
+    "title": "Space Boy",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "OSC_SpaceBoy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7137,
+    "title": "Magic Street",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "osc_magicstr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18351,
+    "title": "Masterpieces: The Best Science Fiction of the Century",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "OSC_Masterpi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22324,
+    "title": "The Elephants of Poznan",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6864,
+    "title": "Enchantment",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "osc_enchantm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18788,
+    "title": "Future on Ice",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "osc_futonice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13762,
+    "title": "Homebody",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "osc_homebody.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7978,
+    "title": "Pastwatch: The Redemption of Christopher Columbus",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "osc_pastwatc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13763,
+    "title": "Treasure Box",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "osc_treasure.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13764,
+    "title": "Lost Boys (novel)",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "osc_lostboys.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18787,
+    "title": "Future on Fire",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "osc_fuonfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20880,
+    "title": "Dogwalker",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17939,
+    "title": "Lost Boys",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24473,
+    "title": "Cardography",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "osc_cardogra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20614,
+    "title": "Eye for Eye",
+    "year": 1987,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5786,
+    "title": "Wyrms",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "osc_wyrms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13765,
+    "title": "Hart's Hope",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "osc_hartshop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24472,
+    "title": "Unaccompanied Sonata and Other Stories",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "osc_unsonaos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7120,
+    "title": "Songmaster",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "osc_songmast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20748,
+    "title": "Songhouse",
+    "year": 1979,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7119,
+    "title": "Treason",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "osc_treason.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18087,
+    "title": "Unaccompanied Sonata",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "osc_unaccmp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18942,
+    "title": "Mikal's Songbird",
+    "year": 1978,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12226,
+    "title": "Dragons of Light",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "osc_doflight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12227,
+    "title": "Dragons of Darkness",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "osc_dofdarkn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5784,
+    "title": "Empire",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "osc_empire.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5785,
+    "title": "Hidden Empire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "osc_hiddenem.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1338,
+    "title": "Ender in Exile",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "osc_enderine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1337,
+    "title": "A War of Gifts",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "osc_awarofgi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15007,
+    "title": "First Meetings: in the Enderverse",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "osc_firstmee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21139,
+    "title": "Ender's Game",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33,
+    "title": "Ender's Game",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "osc_endersga.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 34,
+    "title": "Speaker for the Dead",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "osc_speakerf.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 104,
+    "title": "Xenocide",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "osc_xenocide.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1336,
+    "title": "Children of the Mind",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "osc_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 699,
+    "title": "Ender's Shadow",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "osc_enderssh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 688,
+    "title": "Shadow of the Hegemon",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "osc_shadowof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1339,
+    "title": "Shadow Puppets",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "osc_shadowpu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1340,
+    "title": "Shadow of the Giant",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "osc_shadowgi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4583,
+    "title": "Shadows in Flight",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "osc_shadowsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5328,
+    "title": "Earth Unaware",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "oscaj_earthuna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5329,
+    "title": "Earth Afire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "oscaj_earthafi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7389,
+    "title": "Earth Awakens",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "oscaj_earthawa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24815,
+    "title": "Children of the Fleet",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "osc_childrenof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19522,
+    "title": "The Swarm",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "oscaj_theswarm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33886,
+    "title": "The Hive",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "oscaj_thehive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4578,
+    "title": "The Memory of Earth",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "osc_thememor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4579,
+    "title": "The Call of Earth",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "osc_thecallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4580,
+    "title": "The Ships of Earth",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "osc_theships.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4581,
+    "title": "Earthfall",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "osc_earthfal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4582,
+    "title": "Earthborn",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "osc_earthbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6193,
+    "title": "Maps in a Mirror: The Short Fiction of Orson Scott Card",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "osc_mapsinam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35737,
+    "title": "The Changed Man",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "OSC_TheChang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2373,
+    "title": "The Lost Gate",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "osc_thelostg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5326,
+    "title": "The Gate Thief",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "osc_thegatet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13761,
+    "title": "Gatefather",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "osc_gatefath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18786,
+    "title": "The Folk of the Fringe",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "osc_thefolko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26728,
+    "title": "America",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18782,
+    "title": "The Fringe",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2372,
+    "title": "Pathfinder",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "osc_pathfind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5327,
+    "title": "Ruins",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "osc_ruins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10015,
+    "title": "Visitors",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "osc_visitors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18779,
+    "title": "Hatrack River",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 119,
+    "title": "Seventh Son",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "osc_sevenths.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 117,
+    "title": "Red Prophet",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "osc_redproph.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 112,
+    "title": "Prentice Alvin",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "osc_prentice.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 722,
+    "title": "Alvin Journeyman",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "osc_alvinjou.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 707,
+    "title": "Heartfire",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "osc_heartfir.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1477,
+    "title": "The Crystal City",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "osc_thecryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11051,
+    "title": "Tor Double #27: Eye for Eye / The Tunesmith",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "OSCLBJ_tordou27.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35725,
+    "title": "The Worthing Saga",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "OSC_TheWorth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10439,
+    "title": "Capitol",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "osc_capitol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10440,
+    "title": "Hot Sleep",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "osc_hotsleep.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

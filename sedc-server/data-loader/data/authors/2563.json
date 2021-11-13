@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9930,
+    "title": "Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jp_three.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9931,
+    "title": "Morningside Fall",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jp_mornings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15509,
+    "title": "Dawnbreaker",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jp_dawnbrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18544,
+    "title": "Outriders",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jp_outriders.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24087,
+    "title": "Sungrazer",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jp_sungraze.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

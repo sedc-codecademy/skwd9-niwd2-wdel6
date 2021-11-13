@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16597,
+    "title": "The Chosen",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "EC_thechose.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16598,
+    "title": "Exogenesis",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "EC_exogenes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16596,
+    "title": "Casualties of War",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "EC_casualti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16599,
+    "title": "Blood Ties",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "EC_bloodtie.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

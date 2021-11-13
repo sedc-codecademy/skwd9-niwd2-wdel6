@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17294,
+    "title": "There Is No Year",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bb_thereisno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17295,
+    "title": "Ever",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bb_ever.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17293,
+    "title": "Scorch Atlas",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bb_scorchatlas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

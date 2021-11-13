@@ -1,0 +1,691 @@
+[
+  {
+    "id": 29049,
+    "title": "Rewrite: Loops in the Timescape",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gb_rewrite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22728,
+    "title": "The Berlin Project",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gb_theberli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28771,
+    "title": "Shadows of Eternity",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27891,
+    "title": "Vortex",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11658,
+    "title": "The Best of Gregory Benford",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bg_bestofgr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19727,
+    "title": "Lady with Fox",
+    "year": 2014,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16863,
+    "title": "Backscatter",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gb_backscat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22765,
+    "title": "Leaving Night",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16524,
+    "title": "Grace Immaculate",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gb_graceimm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16294,
+    "title": "The Final Now",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gb_thefinal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31845,
+    "title": "Mercies",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31893,
+    "title": "Penumbra",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19723,
+    "title": "Dark Heaven",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gb_darkheav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32082,
+    "title": "Reasons Not to Publish",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32146,
+    "title": "Applied Mathematical Theology",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26421,
+    "title": "Bow Shock",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8679,
+    "title": "Beyond Infinity",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gb_beyondi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32405,
+    "title": "The First Commandment",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19792,
+    "title": "Microcosms",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gb_microcos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32302,
+    "title": "On the Brane",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26383,
+    "title": "The Clear Blue Seas of Luna",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19240,
+    "title": "Immersion and Other Short Novels",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gb_immersio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27507,
+    "title": "Anomalies",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gb_anomalie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 694,
+    "title": "Eater",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gb_eater.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32536,
+    "title": "The Hydrogen Wall",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20084,
+    "title": "Skylife:  Space Habitats in Story and Science",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gbgz_skylife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24378,
+    "title": "Worlds Vast and Various:  Stories",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gb_worldsva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4181,
+    "title": "Cosm",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gb_cosm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32811,
+    "title": "A Dance to Strange Musics",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27494,
+    "title": "A Cold Dry Cradle",
+    "year": 1997,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34110,
+    "title": "The Voice",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20565,
+    "title": "Immersion",
+    "year": 1996,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34167,
+    "title": "Zoomers",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8430,
+    "title": "Far Futures",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "GB_FarFutur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13683,
+    "title": "Matter's End (collection)",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "GB_matterse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34171,
+    "title": "A Worm in the Well",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19724,
+    "title": "Soon Comes Night",
+    "year": 1994,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10233,
+    "title": "Murasaki",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pa_murasaki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19237,
+    "title": "Matter's End",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26732,
+    "title": "Alphas",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18004,
+    "title": "Hitler Victorious:  11 Stories of the German Victory in World War II",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "GB&MHB_HitlerVi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 762,
+    "title": "Heart of the Comet",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "dbgb_heartoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10852,
+    "title": "In Alien Flesh",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "gb_inalienf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19725,
+    "title": "Newton Sleep",
+    "year": 1986,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4180,
+    "title": "Artifact",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gb_artifact.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19726,
+    "title": "Swarmer, Skimmer",
+    "year": 1981,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19159,
+    "title": "Shiva Descending",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gb_wr_shivades.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 231,
+    "title": "Timescape",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gb_timescap.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 23226,
+    "title": "Time Shards",
+    "year": 1979,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26692,
+    "title": "In Alien Flesh",
+    "year": 1978,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8678,
+    "title": "The Stars in Shroud",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gb_thestars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20824,
+    "title": "A Snark in the Night",
+    "year": 1977,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18464,
+    "title": "Doing Lennon",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18465,
+    "title": "White Creatures",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19239,
+    "title": "Deeper Than the Darkness",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "gb_deeperth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19241,
+    "title": "Deeper than the Darkness",
+    "year": 1969,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4662,
+    "title": "The Martian Race",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gb_themarti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10509,
+    "title": "The Sunborn",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gb_thesunbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6611,
+    "title": "Bowl of Heaven",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gbln_bowlofhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6612,
+    "title": "Shipstar",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gbln_shipstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10503,
+    "title": "If the Stars Are Gods",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gbge_ifthesta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19238,
+    "title": "If the Stars Are Gods",
+    "year": 1974,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 245,
+    "title": "In the Ocean of Night",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gb_intheoce.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1256,
+    "title": "Across the Sea of Suns",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gb_acrossth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 194,
+    "title": "Great Sky River",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "gb_greatsky.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 749,
+    "title": "Tides of Light",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gb_tidesofl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1255,
+    "title": "Furious Gulf",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gb_furiousg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1254,
+    "title": "Sailing Bright Eternity",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gb_sailingb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3708,
+    "title": "Jupiter Project",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "gb_thejupit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 215,
+    "title": "Against Infinity",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "gb_againsti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14130,
+    "title": "A Darker Geometry",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "momgb_adarkerg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7388,
+    "title": "Nebula Awards Showcase 2000",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gb_nebula34.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8410,
+    "title": "The New Hugo Winners, Volume IV:  (1992-94)",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "GB_NewHugo4(92-94).jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16661,
+    "title": "The Sigma Structure Symphony",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gb_sigmastr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3265,
+    "title": "Foundation's Fear",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gb_foundfea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11088,
+    "title": "Tor Double #14: The Saturn Game / Iceborn",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "PA_tordbl14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20661,
+    "title": "What Might Have Been? Volume 1: Alternate Empires",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gbmhg_altempir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18744,
+    "title": "What Might Have Been? Volume 2: Alternate Heroes",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gbmhg_wmhbhero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20609,
+    "title": "What Might Have Been? Volume 3: Alternate Wars",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gbmhg_altewars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20662,
+    "title": "What Might Have Been? Volume 4: Alternate Americas",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gbmhg_altameri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

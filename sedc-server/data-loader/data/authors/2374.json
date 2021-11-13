@@ -1,0 +1,65 @@
+[
+  {
+    "id": 8925,
+    "title": "The Vesuvius Club",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mg_thevesuv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8926,
+    "title": "The Devil in Amber",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mg_thedevili.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8927,
+    "title": "Black Butterfly",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mg_blackbut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9173,
+    "title": "Nightshade",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mg_nightsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10243,
+    "title": "St. Anthony's Fire",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mg_stanthon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8920,
+    "title": "The Roundheads",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mg_roundhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8956,
+    "title": "Last of the Gaderene",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mg_lastofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

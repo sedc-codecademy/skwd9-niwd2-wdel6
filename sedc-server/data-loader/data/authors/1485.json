@@ -1,0 +1,92 @@
+[
+  {
+    "id": 35407,
+    "title": "Quichotte",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SR_Quichott.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28812,
+    "title": "The Duniazát",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sr_thedunia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14111,
+    "title": "Two Years Eight Months and Twenty-Eight Nights",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sr_twoyears.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4058,
+    "title": "The Enchantress of Florence",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sr_theencha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21867,
+    "title": "The Ground Beneath Her Feet",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "SR_groundbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16115,
+    "title": "The Firebird's Nest",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sr_firebird.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21866,
+    "title": "Midnight's Children",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "SR_midnight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6387,
+    "title": "Haroun and the Sea of Stories",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sr_harounan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3193,
+    "title": "The Satanic Verses",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sr_thesatan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4057,
+    "title": "Grimus",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "sr_grimus.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

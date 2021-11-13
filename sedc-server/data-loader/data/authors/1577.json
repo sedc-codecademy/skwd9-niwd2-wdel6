@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3535,
+    "title": "Homecoming",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mjc_homecomi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11554,
+    "title": "Masque",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "fpw_mjc_masque.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35512,
+    "title": "Beneath Still Waters",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "MJC_BeneathS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16521,
+    "title": "Day One",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mc_dayone.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

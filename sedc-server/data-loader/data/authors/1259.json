@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2135,
+    "title": "The Science Fiction of Edgar Allan Poe",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "eap_thescien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8783,
+    "title": "Tales of Mystery and Imagination",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eap.talesofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4053,
+    "title": "Complete Stories and Poems of Edgar Allan Poe",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "eap_complete.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8840,
+    "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+    "year": 1838,
+    "type": "novel",
+    "imageName": "eap_thenarra.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": 13701,
+    "title": "San Diego Lightfoot Sue and Other Stories",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tr_sandiego.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 240,
+    "title": "Blind Voices",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tr_blindvoi.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 19002,
+    "title": "San Diego Lightfoot Sue",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19003,
+    "title": "Twilla",
+    "year": 1974,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

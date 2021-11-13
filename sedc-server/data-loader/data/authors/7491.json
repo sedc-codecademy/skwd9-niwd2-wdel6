@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35422,
+    "title": "Bloodchild",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "AN_Bloodchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35420,
+    "title": "The Devil's Advocate",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "AN_DevilsAd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35423,
+    "title": "Sight Unseen",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "AN_SightUns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35421,
+    "title": "Night Howl",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "AN_NightHow.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

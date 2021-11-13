@@ -1,0 +1,92 @@
+[
+  {
+    "id": 32620,
+    "title": "The Boiling Pool",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "GB_BoilingP.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32619,
+    "title": "Doomstalker",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "GB_Doomstal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32618,
+    "title": "Cameron's Closet",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "GB_Camerons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32617,
+    "title": "Carrion",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "GB_Carrion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32616,
+    "title": "The Brain Eaters",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "GB_BrainEat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32615,
+    "title": "Hellborn",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "GB_Hellborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32614,
+    "title": "Walkers",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "GB_Walkers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32621,
+    "title": "The Howling",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "GB_Howling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32622,
+    "title": "Return of the Howling",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "GB_Returnof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32623,
+    "title": "The Howling III: Echoes",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "GB_Howling3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

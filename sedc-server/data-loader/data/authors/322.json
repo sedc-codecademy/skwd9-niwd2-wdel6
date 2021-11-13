@@ -1,0 +1,19 @@
+[
+  {
+    "id": 326,
+    "title": "Flowers for Algernon",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "dk_flowersf.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21602,
+    "title": "Flowers for Algernon",
+    "year": 1959,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

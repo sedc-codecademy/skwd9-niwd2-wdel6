@@ -1,0 +1,83 @@
+[
+  {
+    "id": 35332,
+    "title": "The Burning White",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "BW_BurningW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2648,
+    "title": "The Black Prism",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bw_theblack.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5507,
+    "title": "The Blinding Knife",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bw_theblind.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6105,
+    "title": "The Broken Eye",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bw_thebroke.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17824,
+    "title": "The Blood Mirror",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bw_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5505,
+    "title": "Night Angel: The Complete Trilogy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bw_nightang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2645,
+    "title": "The Way of Shadows",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bw_thewayof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2646,
+    "title": "Shadow's Edge",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bw_shadowse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2647,
+    "title": "Beyond the Shadows",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bw_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

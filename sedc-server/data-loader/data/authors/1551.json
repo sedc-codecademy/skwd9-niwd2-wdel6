@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3493,
+    "title": "The Exorcist",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "wb_theexorc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5260,
+    "title": "Legion",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "wpb_legion.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

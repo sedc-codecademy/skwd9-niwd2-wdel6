@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24086,
+    "title": "The Bedlam Stacks",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "np_bedlamst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13983,
+    "title": "The Watchmaker of Filigree Street",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "NP_TheWatch.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36205,
+    "title": "The Lost Future of Pepperharrow",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "np_lostfutu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

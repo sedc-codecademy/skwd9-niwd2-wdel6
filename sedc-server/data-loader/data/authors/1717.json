@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4135,
+    "title": "This Dark Endeavor",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ko_thisdark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4136,
+    "title": "Such Wicked Intent",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ko_suchwick.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10813,
+    "title": "Airborn",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "KO_airborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10814,
+    "title": "Skybreaker",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "KO_skybreak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10815,
+    "title": "Starclimber",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "KO_starclim.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

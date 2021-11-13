@@ -1,0 +1,1310 @@
+[
+  {
+    "id": 28961,
+    "title": "The Book of Magic",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gd_tbomagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24974,
+    "title": "The Book of Swords",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gd_tbosword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18894,
+    "title": "Mash Up",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gd_mashup.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27882,
+    "title": "In Panic Town, on the Backward Moon",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23871,
+    "title": "The Book of Silverberg:  Stories in Honor of Robert Silverberg",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gdws_tbosilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6656,
+    "title": "Multiverse:  Exploring Poul Anderson's Worlds",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gbgd_multiver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7652,
+    "title": "Rogues",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "grrmgd_rogues.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7649,
+    "title": "Dangerous Women",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "grrmgd_dangerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7648,
+    "title": "Down These Strange Streets",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrmgd_downthes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6316,
+    "title": "When the Great Days Come",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gd_whentheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2535,
+    "title": "Songs of Love and Death:  All-Original Tales of Star-Crossed Love",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "grrmgd_songsofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24292,
+    "title": "The Dragon Book:  Magical Tales from the Masters of Modern Fantasy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jdgd_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4475,
+    "title": "Songs of the Dying Earth:  Stories in Honour of Jack Vance",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "grrmgd_songsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19755,
+    "title": "Galactic Empires",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gd_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26607,
+    "title": "Dangerous Games",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jdgd_dangames.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6343,
+    "title": "Hunter's Run",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "grrmgdda_huntersr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26873,
+    "title": "Wizards:  Magical Tales from the Masters of Modern Fantasy",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jdgd_wizardsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32136,
+    "title": "Counterfactual",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26227,
+    "title": "Escape from Earth:  New Adventures in Space",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jdgd_escapefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17751,
+    "title": "Futures Past",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jdgd_futuresp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23397,
+    "title": "Beyond Singularity",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jdgd_bsingula.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22676,
+    "title": "Galileo's Children:  Tales of Science vs. Superstition",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gd_galileos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17525,
+    "title": "One Million A.D.",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gd_onemilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17658,
+    "title": "Robots",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jdgd_robots.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32198,
+    "title": "When the Great Days Came",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26759,
+    "title": "A.I.s",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jdgd_ais.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18485,
+    "title": "Morning Child and Other Stories",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gd_moningc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16322,
+    "title": "Shadow Twin",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gdgrrmda_shadowtw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17194,
+    "title": "Future Crimes",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gdjd_futurec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17749,
+    "title": "Beyond Flesh",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jdgd_beyondfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27181,
+    "title": "Future Sports",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jdgd_fusports.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19496,
+    "title": "Supermen:  Tales of the Posthuman Future",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gd_supermen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23233,
+    "title": "Genometry",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jdgd_genometr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27423,
+    "title": "Space Soldiers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jdgd_spacesol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18487,
+    "title": "Strange Days:  Fabulous Journeys with Gardner Dozois",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gd_stranged.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19358,
+    "title": "Worldmakers:  SF Adventures in Terraforming",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gd_worldmak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16253,
+    "title": "Aliens Among Us",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jd_gd_aliensam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24251,
+    "title": "Explorers:  SF Adventures to Far Horizons",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gd_explorer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24252,
+    "title": "The Furthest Horizon:  SF Adventures to the Far Future",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gd_thefurth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27473,
+    "title": "Armageddons",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jdgd_armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18483,
+    "title": "Future War",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jdgd_futurewa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18488,
+    "title": "A Knight of Ghosts and Shadows",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20612,
+    "title": "Roads Not Taken: Tales of Alternate History",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gdss_roadsnot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24916,
+    "title": "Dying for It:  More Erotic Tales of Unearthly Love",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gd_dyingfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16128,
+    "title": "Modern Classics of Fantasy",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gd_moderncl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26608,
+    "title": "Hackers",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jdgd_hackers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23448,
+    "title": "Killing Me Softly:  Erotic Tales of Unearthly Love",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gd_killingm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19319,
+    "title": "Modern Classic Short Novels of Science Fiction",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gd_mcshortn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18051,
+    "title": "Geodesic Dreams:  The Best Short Fiction of Gardner Dozois",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gd_geodesic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18320,
+    "title": "Modern Classics of Science Fiction",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gd_modernsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24264,
+    "title": "Slow Dancing Through Time",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gd_slowdanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17995,
+    "title": "The Gods of Mars",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26456,
+    "title": "Golden Apples of the Sun",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18011,
+    "title": "Morning Child",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18019,
+    "title": "The Peacemaker",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "gd_thepaece.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18045,
+    "title": "Disciples",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26645,
+    "title": "Touring",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 243,
+    "title": "Strangers",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gd_stranger.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27550,
+    "title": "Another World: Adventures in Otherness",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gd_anotherw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18223,
+    "title": "The Visible Man",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gd_thevisib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19626,
+    "title": "Future Power",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jdgd_futurepo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10694,
+    "title": "Nightmare Blue",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "gd_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20831,
+    "title": "Strangers",
+    "year": 1974,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19249,
+    "title": "Chains of the Sea",
+    "year": 1973,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19759,
+    "title": "A Day in the Life",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "gd_adayinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18486,
+    "title": "A Kingdom by the Sea",
+    "year": 1972,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18484,
+    "title": "A Special Kind of Morning",
+    "year": 1971,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18224,
+    "title": "A Dream at Noonday",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18222,
+    "title": "Horse of Air",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18077,
+    "title": "Best Science Fiction Stories of the Year: Sixth Annual Collection",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gd_bsfsoy06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18078,
+    "title": "Best Science Fiction Stories of the Year: Seventh Annual Collection",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gd_bsfsoy07.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18079,
+    "title": "Best Science Fiction Stories of the Year: Eighth Annual Collection",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gd_bsfsoy08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18080,
+    "title": "Best Science Fiction Stories of the Year: Ninth Annual Collection",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gd_bsfsoy09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18081,
+    "title": "Best Science Fiction Stories of the Year: Tenth Annual Collection",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gd_bsfsoy10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25075,
+    "title": "Aliens!",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jdgd_aliens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24049,
+    "title": "Unicorns!",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "gdjd_unicorn1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25073,
+    "title": "Magicats!",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jdgd_magcats1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24253,
+    "title": "Bestiary!",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jdgd_bestiary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25076,
+    "title": "Mermaids!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jdgd_mermaids.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25096,
+    "title": "Sorcerers!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jdgd_sorcerer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25097,
+    "title": "Demons!",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jdgd_demons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25098,
+    "title": "Dogtales!",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jdgd_dogtales.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25099,
+    "title": "Seaserpents!",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jdgd_seaserpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25110,
+    "title": "Dinosaurs!",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jdgd_dinosau1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25074,
+    "title": "Magicats II",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jdgd_magcats2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25112,
+    "title": "Little People!",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jdgd_littlepe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24048,
+    "title": "Unicorns II",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gdjd_unicorn2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25113,
+    "title": "Invaders!",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jdgd_invaders.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25114,
+    "title": "Dragons!",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jdgd_dragons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25115,
+    "title": "Horses!",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jdgd_horses.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25111,
+    "title": "Dinosaurs II",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jdgd_dinosau2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25116,
+    "title": "Angels!",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jdgd_angels.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19794,
+    "title": "Timegates",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jdgd_timegate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24254,
+    "title": "Nanotech",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jdgd_nanotech.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24917,
+    "title": "Clones",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jdgd_clones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26216,
+    "title": "Immortals",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jdgd_immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21394,
+    "title": "Future Earths: Under African Skies",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mrgd_africans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21395,
+    "title": "Future Earths: Under South American Skies",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mrgd_southame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26920,
+    "title": "The Good Old Stuff:  Adventure SF in the Grand Tradition",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gd_oldstuff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26921,
+    "title": "The Good New Stuff:  Adventure SF in the Grand Tradition",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gd_newstuff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7346,
+    "title": "Nebula Awards Showcase 2006",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gd_nebula06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4182,
+    "title": "The New Space Opera",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gdjs_tnso1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4183,
+    "title": "The New Space Opera 2",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gdjs_tnso2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7647,
+    "title": "Old Mars",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "grrmgd_oldmars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11023,
+    "title": "Old Venus",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "grrmgd_oldvenus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21758,
+    "title": "Warriors",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gdgrrm_warriors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3081,
+    "title": "Warriors 1",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrmgd_warriors1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3082,
+    "title": "Warriors 2",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrmgd_warriors2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3083,
+    "title": "Warriors 3",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "grrmgd_warriors3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32652,
+    "title": "The Very Best of the Best:  35 Years of The Year's Best Science Fiction",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "gd_verybest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1968,
+    "title": "Best of the Best Volume 2: 20 Years of the Year's Best Short Science Fiction Novels",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gd_bestsf-02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1967,
+    "title": "Best of the Best: 20 Years of the Year's Best Science Fiction",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gd_bestsf-01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1937,
+    "title": "The Year's Best Science Fiction: First Annual Collection",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gd_bestsf01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1938,
+    "title": "The Year's Best Science Fiction: Second Annual Collection",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gd_bestsf02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1939,
+    "title": "The Year's Best Science Fiction: Third Annual Collection",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "gd_bestsf03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1940,
+    "title": "The Year's Best Science Fiction: Fourth Annual Collection",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "gd_bestsf04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1941,
+    "title": "The Year's Best Science Fiction: Fifth Annual Collection",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gd_bestsf05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1942,
+    "title": "The Year's Best Science Fiction: Sixth Annual Collection",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gd_bestsf06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1943,
+    "title": "The Year's Best Science Fiction: Seventh Annual Collection",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gd_bestsf07.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1944,
+    "title": "The Year's Best Science Fiction: Eighth Annual Collection",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gd_bestsf08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1945,
+    "title": "The Year's Best Science Fiction: Ninth Annual Collection",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gd_bestsf09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1946,
+    "title": "The Year's Best Science Fiction: Tenth Annual Collection",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gd_bestsf10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1947,
+    "title": "The Year's Best Science Fiction: Eleventh Annual Collection",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gd_bestsf11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1948,
+    "title": "The Year's Best Science Fiction: Twelth Annual Collection",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gd_bestsf12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1949,
+    "title": "The Year's Best Science Fiction: Thirteenth Annual Collection",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gd_bestsf13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1950,
+    "title": "The Year's Best Science Fiction: Fourteenth Annual Collection",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gd_bestsf14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1951,
+    "title": "The Year's Best Science Fiction: Fifteenth Annual Collection",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gd_bestsf15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1952,
+    "title": "The Year's Best Science Fiction: Sixteenth Annual Collection",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gd_bestsf16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1953,
+    "title": "The Year's Best Science Fiction: Seventeenth Annual Collection",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gd_bestsf17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1954,
+    "title": "The Year's Best Science Fiction: Eighteenth Annual Collection",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gd_bestsf18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1955,
+    "title": "The Year's Best Science Fiction: Nineteenth Annual Collection",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gd_bestsf19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1956,
+    "title": "The Year's Best Science Fiction: Twentieth Annual Collection",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gd_bestsf20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1957,
+    "title": "The Year's Best Science Fiction: Twenty-First Annual Collection",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gd_bestsf21.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1958,
+    "title": "The Year's Best Science Fiction: Twenty-Second Annual Collection",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gd_bestsf22.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1959,
+    "title": "The Year's Best Science Fiction: Twenty-Third Annual Collection",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gd_bestsf23.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1960,
+    "title": "The Year's Best Science Fiction: Twenty-Fourth Annual Collection",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gd_bestsf24.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1961,
+    "title": "The Year's Best Science Fiction: Twenty-Fifth Annual Collection",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gd_bestsf25.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1962,
+    "title": "The Year's Best Science Fiction: Twenty-Sixth Annual Collection",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gd_bestsf26.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1963,
+    "title": "The Year's Best Science Fiction: Twenty-Seventh Annual Collection",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gd_bestsf27.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3041,
+    "title": "The Year's Best Science Fiction: Twenty-Eighth Annual Collection",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gd_bestsf28.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3826,
+    "title": "The Year's Best Science Fiction: Twenty-Ninth Annual Collection",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gd_bestsf29.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7353,
+    "title": "The Year's Best Science Fiction: Thirtieth Annual Collection",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gd_tybsf30.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7354,
+    "title": "The Year's Best Science Fiction: Thirty-First Annual Collection",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gd_tybsf31.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11660,
+    "title": "The Year's Best Science Fiction: Thirty-Second Annual Collection",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gd_yearsb32.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17982,
+    "title": "The Year's Best Science Fiction: Thirty-Third Annual Collection",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gd_tybsf33.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23121,
+    "title": "The Year's Best Science Fiction: Thirty-Fourth Annual Collection",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gd_yearsb34.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27367,
+    "title": "The Year's Best Science Fiction: Thirty-Fifth Annual Collection",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gd_tybsf35.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 13434,
+    "title": "The Hunter:  Twilight of the Clans Vol. III",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tsg_thehunte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13448,
+    "title": "Sword and Fire:  Twilight of the Clans Vol. V",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tsg_swordand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13449,
+    "title": "Shadows of War:  Twilight of the Clans Vol. VI",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tsg_shadowso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13471,
+    "title": "Dagger Point",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tsg_daggerpo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17427,
+    "title": "Operation Sierra 75",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tg_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

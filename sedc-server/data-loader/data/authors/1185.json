@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2438,
+    "title": "Killing Kiss",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ss_killingk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1884,
+    "title": "Futile Flame",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ss_futilefl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2439,
+    "title": "Demon Dance",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ss_demondan.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

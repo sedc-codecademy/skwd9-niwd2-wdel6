@@ -1,0 +1,98 @@
+[
+  {
+    "id": 30299,
+    "title": "Compulsory Games",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "RA_Compulso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22231,
+    "title": "The Late Breakfasters and Other Strange Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RA_latebrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31661,
+    "title": "The Strangers",
+    "year": 2015,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16193,
+    "title": "The Unsettled Dust",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ra_theunset.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16190,
+    "title": "The Wine-Dark Sea",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ra_thewined.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16192,
+    "title": "Painted Devils: Strange Stories",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ra_paintedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31660,
+    "title": "Residents Only",
+    "year": 1977,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16191,
+    "title": "Cold Hand in Mine",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ra_coldhand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23752,
+    "title": "Pages from a Young Girl's Journal",
+    "year": 1973,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12423,
+    "title": "Sub Rosa",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ra_subrosa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16189,
+    "title": "Dark Entries",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ra_darkentr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

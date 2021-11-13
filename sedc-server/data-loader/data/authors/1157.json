@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1844,
+    "title": "Seeds of Earth",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mc_seedsofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2454,
+    "title": "The Orphaned Worlds",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mc_theorpha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4446,
+    "title": "The Ascendant Stars",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mc_theascen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15925,
+    "title": "Ancestral Machines",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mc_ancestra.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 21926,
+    "title": "I Am Number Four",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pl_iamnumbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21927,
+    "title": "The Power of Six",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pl_thepower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21928,
+    "title": "The Rise of Nine",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pl_theriseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21929,
+    "title": "The Fall of Five",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pl_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21930,
+    "title": "The Revenge of Seven",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pl_thereven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21931,
+    "title": "The Fate of Ten",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pl_thefateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21932,
+    "title": "United as One",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pl_unitedas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

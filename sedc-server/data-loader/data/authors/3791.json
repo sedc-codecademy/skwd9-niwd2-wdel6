@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15697,
+    "title": "Star of Erengrad",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "nm_starofer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15698,
+    "title": "Taint of Evil",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "nm_taintofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15699,
+    "title": "Keepers of the Flame",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "nm_keeperso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

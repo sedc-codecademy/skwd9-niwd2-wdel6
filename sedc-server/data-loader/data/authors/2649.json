@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10395,
+    "title": "Sea of Shadow",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "FO_12king1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10396,
+    "title": "Sea of Wind",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "FO_12king2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10397,
+    "title": "The Vast Spread of the Seas",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "FO_12king3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10398,
+    "title": "Skies of Dawn",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "FO_12king4.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

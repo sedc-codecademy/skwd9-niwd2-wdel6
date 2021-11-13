@@ -1,0 +1,56 @@
+[
+  {
+    "id": 16758,
+    "title": "The Pirates of Sufiro",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "DLS_pirateso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16760,
+    "title": "Children of the Old Stars",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "DLS_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16761,
+    "title": "Heirs of the New Earth",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DLS_heirsear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16762,
+    "title": "The Solar Sea",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "DLS_solarsea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8244,
+    "title": "Vampires of the Scarlet Order",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dls_vampires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8245,
+    "title": "Dragon's Fall: Rise of the Scarlet Order ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dls_dragonsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

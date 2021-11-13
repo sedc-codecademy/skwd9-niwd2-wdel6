@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4568,
+    "title": "Dark Matter",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mp_darkmatt.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34587,
+    "title": "Wakenhyrst",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mp_wakenhyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6458,
+    "title": "Wolf Brother ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mp_wolfbroth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6459,
+    "title": "Spirit Walker ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mp_spiritwal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6460,
+    "title": "Soul Eater",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mp_souleater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6461,
+    "title": "Outcast",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mp_outcast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6462,
+    "title": "Oath Breaker",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mp_oathbrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6463,
+    "title": "Ghost Hunter",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mp_ghosthun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

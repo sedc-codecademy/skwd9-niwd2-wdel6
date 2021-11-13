@@ -1,0 +1,38 @@
+[
+  {
+    "id": 23404,
+    "title": "Greenwode",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jth_greenwod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23403,
+    "title": "Shirewode",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jth_shirewod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23405,
+    "title": "Winterwode",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jth_winterwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23406,
+    "title": "Summerwode",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jth_summerwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

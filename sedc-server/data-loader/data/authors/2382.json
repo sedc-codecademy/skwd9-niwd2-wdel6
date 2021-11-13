@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24443,
+    "title": "City of Circles",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jr_cityofci.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8979,
+    "title": "Cooking with Bones ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jr_cookingw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8978,
+    "title": "Snake Ropes ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jr_snakerop.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

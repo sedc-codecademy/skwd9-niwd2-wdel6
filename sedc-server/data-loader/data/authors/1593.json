@@ -1,0 +1,83 @@
+[
+  {
+    "id": 3597,
+    "title": "Coffin County",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gab_coffinco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3592,
+    "title": "Prodigal Blues",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gab_prodigal.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3587,
+    "title": "Keepers",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gb_keepers.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4589,
+    "title": "In Silent Graves",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gab_insilent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3570,
+    "title": "The Indifference of Heaven",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gab_theindif.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7332,
+    "title": "Mr. Hands",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gab_mrhands.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4590,
+    "title": "Graveyard People: The Collected Cedar Hill Stories, Volume 1",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gab_graveyar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4591,
+    "title": "Home Before Dark: The Collected Cedar Hill Stories, Volume 2",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gab_homebefo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23700,
+    "title": "Masques V",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jnw_masques5.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

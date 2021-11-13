@@ -1,0 +1,47 @@
+[
+  {
+    "id": 25208,
+    "title": "Quantum Moon",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dv_quanmoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 497,
+    "title": "Opalite Moon",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dv_opalitem.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25209,
+    "title": "Manjinn Moon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dv_manjinnm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25210,
+    "title": "The Red Sky File",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dv_theredsk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25211,
+    "title": "The Radon File",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dv_theradon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

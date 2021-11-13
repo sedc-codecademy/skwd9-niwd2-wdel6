@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17096,
+    "title": "Jacks and Queens at the Green Mill",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mr_jacksand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17098,
+    "title": "The Shadow Society",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mr_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17097,
+    "title": "Bridge of Snow",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mr_bridgeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

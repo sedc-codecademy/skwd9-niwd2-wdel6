@@ -1,0 +1,83 @@
+[
+  {
+    "id": 23189,
+    "title": "The Scarecrow and His Servant",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pp_thescare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23190,
+    "title": "Count Karlstein",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pp_countkar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24812,
+    "title": "The Book of Dust: La Belle Sauvage",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pp_labelles.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34813,
+    "title": "The Secret Commonwealth",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "PP_secretco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23188,
+    "title": "Once Upon a Time in the North",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pp_onceupon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23187,
+    "title": "Lyra's Oxford",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pp_lyrasoxf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1534,
+    "title": "The Golden Compass",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pp_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1535,
+    "title": "The Subtle Knife",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pp_thesubtl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 698,
+    "title": "The Amber Spyglass",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pp_theamber.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

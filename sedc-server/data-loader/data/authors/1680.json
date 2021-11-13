@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4002,
+    "title": "The Earth Will Shake",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "raw_theearth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4003,
+    "title": "The Widow's Son",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "raw_thewidow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4004,
+    "title": "Nature's God",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "raw_naturesg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4000,
+    "title": "The Illuminatus! Trilogy",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rsraw_theillum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19095,
+    "title": "The Eye in the Pyramid",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "RS&RAW_TheEyeIn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19096,
+    "title": "The Golden Apple",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "RS&RAW_TheGolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19097,
+    "title": "Leviathan",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "RS&RAW_Leviatha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4001,
+    "title": "Schrödinger's Cat Trilogy",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "raw_schrodin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

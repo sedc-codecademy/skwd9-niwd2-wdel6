@@ -1,0 +1,28 @@
+[
+  {
+    "id": 8338,
+    "title": "Sea as Mirror",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tw_seaasmir.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 16181,
+    "title": "And She Was the Word",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11395,
+    "title": "Map of Power",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tw_mapofpow.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

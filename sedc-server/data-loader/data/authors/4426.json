@@ -1,0 +1,92 @@
+[
+  {
+    "id": 32133,
+    "title": "Conehead",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "GFF_Conehead.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18974,
+    "title": "The Hunter Out of Time",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "gff_theunte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25138,
+    "title": "Escape Across the Cosmos",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "gff_escapeac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21117,
+    "title": "The Arsenal of Miracles / Endless Shadow",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_thearsen_endlesss.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25130,
+    "title": "Warrior of Llarn",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "gff_warrioro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25132,
+    "title": "Thief of Llarn",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "gff_thiefofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32129,
+    "title": "Kyrik: Warlock Warrior",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "GFF_KyrikWar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32130,
+    "title": "Kyrik Fights the Demon World",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "GFF_KyrikFig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32131,
+    "title": "Kyrik and the Wizard's Sword",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "GFF_KyrikWiz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32132,
+    "title": "Kyrik and the Lost Queen",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "GFF_KyrikLos.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

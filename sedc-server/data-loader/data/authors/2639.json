@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10362,
+    "title": "Ghost in the Shell - Stand Alone Complex:  The Lost Memory",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "JF_lostmemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10363,
+    "title": "Ghost in the Shell - Stand Alone Complex:  Revenge Of The Cold Machines",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "JF_revenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10364,
+    "title": "Ghost in the Shell - Stand Alone Complex:  White Maze",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JF_whitemaz.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 17510,
+    "title": "World Made by Hand",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "JHK_WorldMad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18021,
+    "title": "The Witch of Hebron",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "JHK_TheWitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18494,
+    "title": "A History of the Future",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JHK_AHistory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21034,
+    "title": "The Harrows of Spring",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JHK_TheHarro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

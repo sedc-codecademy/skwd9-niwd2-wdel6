@@ -1,0 +1,94 @@
+[
+  {
+    "id": 23127,
+    "title": "The One Who Isn't",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13607,
+    "title": "The Flicker Men:  A Novel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "TK_flickerm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22083,
+    "title": "Prophet of Bones",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tk_propheto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28671,
+    "title": "The Color Least Used by Nature",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3885,
+    "title": "The Games",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tk_thegames.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22082,
+    "title": "In-Fall",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20133,
+    "title": "Blood Dauber",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26843,
+    "title": "The Art of Alchemy",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16004,
+    "title": "Divining Light",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tk_divining.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26310,
+    "title": "N-Words",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26792,
+    "title": "The Prophet of Flores",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

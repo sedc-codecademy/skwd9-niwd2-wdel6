@@ -1,0 +1,53 @@
+[
+  {
+    "id": 34090,
+    "title": "Kiss Me",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 266,
+    "title": "Missing Man",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "kml_missingm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19635,
+    "title": "The Missing Man",
+    "year": 1971,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6448,
+    "title": "The Diploids and Other Flights of Fancy",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "km_thediplo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21239,
+    "title": "King of the Fourth Planet / Cosmic Checkmate",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_kingofth_cosmicch.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21238,
+    "title": "Second Game",
+    "year": 1958,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

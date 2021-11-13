@@ -1,0 +1,92 @@
+[
+  {
+    "id": 23141,
+    "title": "Nevertheless, She Persisted",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pnh_neverthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13814,
+    "title": "Carniepunk",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "UN_carniepu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20852,
+    "title": "Three for Tomorrow",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "u_threefor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31379,
+    "title": "Halo: Evolutions, Volume 1:  Essential Tales of the Halo Universe",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "un_evovol1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31380,
+    "title": "Halo: Evolutions, Volume 2:  Essential Tales of the Halo Universe",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "un_evovol2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31381,
+    "title": "Fractures: Extraordinary Tales from the Halo Canon",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "un_fracture.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17715,
+    "title": "War Without End:  Heresy begets retribution",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "hh_warwitho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30350,
+    "title": "Soviet Science Fiction",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "IA_soviet01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30351,
+    "title": "More Soviet Science Fiction",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "IA_soviet02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30352,
+    "title": "New Soviet Science Fiction",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "TS_soviet03.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

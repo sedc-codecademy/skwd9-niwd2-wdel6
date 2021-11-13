@@ -1,0 +1,74 @@
+[
+  {
+    "id": 656,
+    "title": "The Child Goddess",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lm_thechild.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36493,
+    "title": "The Maquisarde",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lm_maquisar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36492,
+    "title": "The Glass Harmonica",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lm_glasshar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10565,
+    "title": "The Terrorists of Irustan",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lm_theterro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36488,
+    "title": "Sing the Light",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lm_singthel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36489,
+    "title": "Sing the Warmth",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lm_singthew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36490,
+    "title": "Receive the Gift",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "lm_receivet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36491,
+    "title": "Singer in the Snow",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lm_singerin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

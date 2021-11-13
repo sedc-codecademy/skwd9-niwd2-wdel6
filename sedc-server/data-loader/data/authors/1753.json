@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4273,
+    "title": "The Heir of Night",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "hl_theheiro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6601,
+    "title": "The Gathering of the Lost",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "hl_thegathe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20289,
+    "title": "Daughter of Blood",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "hl_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

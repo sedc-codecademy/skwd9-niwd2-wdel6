@@ -1,0 +1,344 @@
+[
+  {
+    "id": 30336,
+    "title": "A Voice in the Night",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jmd_avoicei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9688,
+    "title": "The Cassandra Project",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jmmr_thecassa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10097,
+    "title": "Going Interstellar",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ljjm_goingint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22200,
+    "title": "The Cassandra Project",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17640,
+    "title": "Cryptic:  The Best Short Fiction of Jack McDevitt",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jm_cryptict.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2441,
+    "title": "Time Travelers Never Die",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jmd_timetrav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30335,
+    "title": "Outbound",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jmd_outbound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17693,
+    "title": "Henry James, This One's for You",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30334,
+    "title": "Ships in the Night",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jmd_shipsint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32329,
+    "title": "Act of God",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17641,
+    "title": "Nothing Ever Happens in Rock City",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 142,
+    "title": "Infinity Beach",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jmd_infinity.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18620,
+    "title": "Good Intentions",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 152,
+    "title": "Moonfall",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jmd_moonfall.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13685,
+    "title": "Eternity Road",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jmd_eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19514,
+    "title": "Standard Candles",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jm_standard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19513,
+    "title": "Time Travelers Never Die",
+    "year": 1996,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17661,
+    "title": "The Fort Moxie Branch",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 551,
+    "title": "The Hercules Text",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jmd_thehercu.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 27843,
+    "title": "Promises to Keep",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18016,
+    "title": "Cryptic",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 602,
+    "title": "The Engines of God",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jmd_theengin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 404,
+    "title": "Deepsix",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jmd_deepsix.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 123,
+    "title": "Chindi",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jmd_chindi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 380,
+    "title": "Omega",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jmd_omega.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1014,
+    "title": "Odyssey",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jmd_odyssey.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1221,
+    "title": "Cauldron",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jmd_cauldron.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5943,
+    "title": "Starhawk",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jmd_starhawk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27531,
+    "title": "The Long Sunset",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jm_thelongs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1265,
+    "title": "A Talent for War",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jmd_atalentf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 841,
+    "title": "Polaris",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jmd_polaris.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 864,
+    "title": "Seeker",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jmd_seeker.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1272,
+    "title": "The Devil's Eye",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jmd_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2352,
+    "title": "Echo",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jmd_echo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2992,
+    "title": "Firebird",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jmd_firebird.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9687,
+    "title": "Coming Home",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jm_comingho.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32424,
+    "title": "Octavia Gone",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jm_octaviag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 154,
+    "title": "Ancient Shores",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jmd_ancients.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15614,
+    "title": "Thunderbird",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jm_thunderb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

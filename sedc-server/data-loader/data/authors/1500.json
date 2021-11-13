@@ -1,0 +1,65 @@
+[
+  {
+    "id": 12161,
+    "title": "Mistress Masham's Repose",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "thw_mistress.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3288,
+    "title": "The Once and Future King",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "thw_theoncea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3203,
+    "title": "The Sword in the Stone",
+    "year": 1938,
+    "type": "novel",
+    "imageName": "thw_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3206,
+    "title": "The Witch in the Wood (The Queen of Air and Darkness)",
+    "year": 1939,
+    "type": "novel",
+    "imageName": "thw_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3207,
+    "title": "The Ill-Made Knight",
+    "year": 1940,
+    "type": "novel",
+    "imageName": "thw_theillma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3205,
+    "title": "The Candle in the Wind",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "thw_thecandl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25827,
+    "title": "The Book of Merlyn",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "thw_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3986,
+    "title": "The Last Man",
+    "year": 1826,
+    "type": "novel",
+    "imageName": "ms_thelastm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1971,
+    "title": "Frankenstein:  or, The Modern Prometheus",
+    "year": 1818,
+    "type": "novel",
+    "imageName": "ms_frankens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11424,
+    "title": "Tales and Stories",
+    "year": 1891,
+    "type": "novel",
+    "imageName": "MS_talessto.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

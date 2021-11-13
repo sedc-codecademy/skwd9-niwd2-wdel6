@@ -1,0 +1,274 @@
+[
+  {
+    "id": 11038,
+    "title": "The Fifth Heart",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ds_thefifth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5942,
+    "title": "The Abominable",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ds_theabomi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4161,
+    "title": "Flashback",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ds_flashbac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6369,
+    "title": "Black Hills",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ds_blackhil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1722,
+    "title": "Drood",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ds_drood.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1204,
+    "title": "The Terror",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ds_theterro.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 24267,
+    "title": "Worlds Enough and Time",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ds_worldsen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26755,
+    "title": "On K2 with Kanakaredes",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32696,
+    "title": "Madame Bovary, C'est Moi",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27583,
+    "title": "Looking for Kelly Dahl",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9418,
+    "title": "Fires of Eden",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ds_firesofe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23959,
+    "title": "Death in Bangkok",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27638,
+    "title": "Flashback",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24268,
+    "title": "Lovedeath",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ds_lovedeat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 735,
+    "title": "The Hollow Man",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ds_thehollo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17170,
+    "title": "This Year's Class Picture",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ds_thisyear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23911,
+    "title": "Prayers to Broken Stones",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ds_prayerst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 919,
+    "title": "Carrion Comfort",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ds_carrionc.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 9417,
+    "title": "Phases of Gravity",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ds_phasesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23912,
+    "title": "Metastasis",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 934,
+    "title": "Song of Kali",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ds_songofka.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27032,
+    "title": "Carrion Comfort",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1140,
+    "title": "Summer of Night",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ds_summerof.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 3532,
+    "title": "Children of the Night",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ds_children.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 685,
+    "title": "A Winter Haunting",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ds_awinterh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 37,
+    "title": "Hyperion",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ds_hyperion.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 106,
+    "title": "The Fall of Hyperion",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ds_thefallo.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 715,
+    "title": "Endymion",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ds_endymion.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 80,
+    "title": "The Rise of Endymion",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ds_theriseo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 56,
+    "title": "Ilium",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ds_ilium.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 847,
+    "title": "Olympos",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ds_olympos.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

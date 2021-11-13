@@ -1,0 +1,91 @@
+[
+  {
+    "id": 4085,
+    "title": "Beauty Queens",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lb_beautyqu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1729,
+    "title": "Going Bovine",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lb_goingbov.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28638,
+    "title": "The Last Ride of the Glory Girls",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5096,
+    "title": "The Diviners",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lb_thedivin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11605,
+    "title": "Lair of Dreams",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lb_lairofdr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25004,
+    "title": "Before the Devil Breaks You",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lb_beforeth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36204,
+    "title": "The King of Crows",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "lb_kingofcr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5123,
+    "title": "A Great and Terrible Beauty",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lb_agreatan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5124,
+    "title": "Rebel Angels",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lb_rebelang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5125,
+    "title": "The Sweet Far Thing",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lb_thesweet.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

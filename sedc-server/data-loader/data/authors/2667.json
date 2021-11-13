@@ -1,0 +1,55 @@
+[
+  {
+    "id": 17932,
+    "title": "The Microverse",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "bp_themicro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22406,
+    "title": "Bubbles",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18755,
+    "title": "The Universe",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "bp_universe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10472,
+    "title": "The Planets",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bp_theplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15266,
+    "title": "The Art of Leo & Diane Dillon",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ld_dd_bp_artofleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15238,
+    "title": "Starfawn",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "sf_bp_starfawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "id": 5281,
+    "title": "The White Raven",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dlp_thewhite.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6868,
+    "title": "The Serpent's Tooth",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "dlp_serpents.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6869,
+    "title": "The Paradise Tree",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dlp_paradise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6870,
+    "title": "White Mare, Red Stallion",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "dlp_whitemar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6871,
+    "title": "Brisingamen",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dlp_brisinga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4984,
+    "title": "The Forest House",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mzb_thefores.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4985,
+    "title": "Lady of Avalon",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mzb_ladyofav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4986,
+    "title": "Priestess of Avalon",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mzbdlp_priestes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4987,
+    "title": "Ancestors of Avalon",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dlp_ancestor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4988,
+    "title": "Ravens of Avalon",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dlp_ravensof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4989,
+    "title": "Sword of Avalon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dlp_swordofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6897,
+    "title": "The Book of the Sword",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dlp_bookswor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6898,
+    "title": "The Book of the Spear",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dlp_bookspea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6899,
+    "title": "The Book of the Cauldron",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dlp_bookcaul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6900,
+    "title": "The Book of the Stone",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dlp_bookston.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28602,
+    "title": "Marion Zimmer Bradley's Sword and Sorceress XXI",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mzb_sands21.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5280,
+    "title": "Lady of Light",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "dlp_ladyofli.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6890,
+    "title": "Lady of Darkness",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dlp_ladyofda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6891,
+    "title": "Silverhair the Wanderer",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "dlp_silverha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6892,
+    "title": "The Earthstone",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dlp_earthsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6893,
+    "title": "The Sea Star",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dlp_seastar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6894,
+    "title": "The Wind Crystal",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dlp_windcrys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6895,
+    "title": "The Jewel of Fire",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "dlp_jeweloff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6896,
+    "title": "The Golden Hills of Westria",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dlp_goldenhi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6872,
+    "title": "The Wolf and the Raven",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dlp_wolfandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6873,
+    "title": "The Dragons of the Rhine",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dlp_dragonso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6874,
+    "title": "The Lord of Horses",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dlp_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

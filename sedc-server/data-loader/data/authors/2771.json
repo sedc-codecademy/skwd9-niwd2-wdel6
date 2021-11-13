@@ -1,0 +1,47 @@
+[
+  {
+    "id": 10904,
+    "title": "Sword of the Bright Lady",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mcp_swordoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13658,
+    "title": "Gold Throne in Shadow",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mcp_goldthro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35129,
+    "title": "Judgment at Verdant Court",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mcp_judgment.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35130,
+    "title": "Verdict on Crimson Fields",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mcp_verdicto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35131,
+    "title": "Black Harvest",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mcp_blackhar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 35780,
+    "title": "The High Destiny",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "DM_HighDens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35779,
+    "title": "Inside",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "DM_Inside.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35781,
+    "title": "The New Minds",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "DM_NewMinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35782,
+    "title": "The Several Minds",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "DM_SeveralM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35783,
+    "title": "The Mind Trap",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "DM_MindTrap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35784,
+    "title": "The Country of the Mind",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "DM_CountryM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36453,
+    "title": "A Thunder of Stars",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dmjk_athunder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36454,
+    "title": "Seed of Stars",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dmjk_seedofst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36455,
+    "title": "The Neutral Stars",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "dmjk_neutrals.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

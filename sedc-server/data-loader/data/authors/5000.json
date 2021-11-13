@@ -1,0 +1,65 @@
+[
+  {
+    "id": 32377,
+    "title": "The Gilded Wolves",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rc_thegilde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32821,
+    "title": "Aru Shah and the End of Time",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rc_asatendo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35401,
+    "title": "Aru Shah and the Song of Death",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "RC_AruSongD.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36414,
+    "title": "Aru Shah and the Tree of Wishes",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "RC_AruTreeW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35402,
+    "title": "Star-Touched Stories",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "RC_StarStor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22487,
+    "title": "The Star-Touched Queen",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rc_thestart.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 22488,
+    "title": "A Crown of Wishes",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rc_acrownof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 10949,
+    "title": "Tales Before Narnia:  The Roots of Modern Fantasy and Science Fiction",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "DA_taleslew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10944,
+    "title": "H. P. Lovecraft's Favorite Weird Tales:  Discover the Roots of Modern Horror!",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "DA_lovecraf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10950,
+    "title": "Seekers of Dreams:  Masterpieces of Fantasy",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "DA_seekers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10948,
+    "title": "Tales Before Tolkien:  The Roots of Modern Fantasy",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "DA_talesbef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17250,
+    "title": "The Annotated Hobbit:  Revised and Expanded Edition",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DA_annotate.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5612,
+    "title": "The Castings Trilogy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pf_thecasti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5398,
+    "title": "Blood Ties",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pf_bloodtie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5399,
+    "title": "Deep Water",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pf_deepwate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5400,
+    "title": "Full Circle",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pf_fullcirc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5401,
+    "title": "Ember and Ash",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pf_emberand.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

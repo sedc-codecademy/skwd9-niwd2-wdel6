@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14478,
+    "title": "The New Hunger",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "im_thenewhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14477,
+    "title": "Warm Bodies",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "im_warmbody.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22184,
+    "title": "The Burning World",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "IM_burningw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

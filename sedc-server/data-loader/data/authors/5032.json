@@ -1,0 +1,47 @@
+[
+  {
+    "id": 22624,
+    "title": "Science Fiction Voices # 2:  Interviews with Science Fiction Writers",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "JE_sfwrite2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22625,
+    "title": "Science Fiction Voices # 3:  Interviews with Science Fiction Writers",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "JE_sfwrite3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22626,
+    "title": "Fantasy Voices 1:  Interviews with American Fantasy Writers",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "JE_fantasy1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22627,
+    "title": "Science Fiction Voices # 4:  Interviews with Modern Science Fiction Writers",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "JE_sfvoic4b.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22628,
+    "title": "Pulp Voices or Science Fiction Voices # 6:  Interviews with Pulp Writers and Editors",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "JE_pulpvo6a.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10256,
+    "title": "The Magic Circle",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kn_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10254,
+    "title": "The Eight",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kn_theeight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10255,
+    "title": "The Fire",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kn_thefire.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

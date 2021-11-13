@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10006,
+    "title": "Bending the Landscape: Fantasy",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ngsp_btlfanta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10007,
+    "title": "Bending the Landscape: Science Fiction",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ngsp_btlscien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10008,
+    "title": "Bending the Landscape: Horror",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ngsp_btlhorro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

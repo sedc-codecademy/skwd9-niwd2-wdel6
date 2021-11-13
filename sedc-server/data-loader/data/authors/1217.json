@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35238,
+    "title": "And Cannot Come Again",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sb_andcanno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27789,
+    "title": "Breakwater",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sb_breakwat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36562,
+    "title": "The Feast of All Souls",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sb_feastofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34803,
+    "title": "Hell's Ditch",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sb_hellsdit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34804,
+    "title": "Devil's Highway",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sb_devilshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34802,
+    "title": "Wolf’s Hill",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sb_wolfshil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1927,
+    "title": "Tide of Souls",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sb_tideofso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

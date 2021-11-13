@@ -1,0 +1,20 @@
+[
+  {
+    "id": 27377,
+    "title": "Scroll of Saqqara",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pg_scrollof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11075,
+    "title": "Stargate",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pg_stargate.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

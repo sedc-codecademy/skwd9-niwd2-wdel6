@@ -1,0 +1,155 @@
+[
+  {
+    "id": 35190,
+    "title": "Full Throttle",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JH_FullThro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24817,
+    "title": "Strange Weather",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jh_strangew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16768,
+    "title": "The Fireman",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jh_thefire.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6120,
+    "title": "NOS4A2",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jh_nos4a2.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 7364,
+    "title": "In the Tall Grass",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "skjh_inthetal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2640,
+    "title": "Horns",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jh_horns.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1201,
+    "title": "Heart-Shaped Box",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jh_heartsha.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 4499,
+    "title": "20th Century Ghosts",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jh_20thcent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24134,
+    "title": "Best New Horror",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jh_bestnewh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21750,
+    "title": "Voluntary Commital",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jh_voluntar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15930,
+    "title": "The Best American Science Fiction and Fantasy 2015",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jja_jh_bestamer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12686,
+    "title": "Welcome to Lovecraft",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey01.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12687,
+    "title": "Head Games",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12688,
+    "title": "Crown of Shadows",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12689,
+    "title": "Keys to the Kingdom",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12690,
+    "title": "Clockworks",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12691,
+    "title": "Alpha & Omega",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jhgr_lockekey06.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 454,
+    "title": "Malevil",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rm_malevil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35311,
+    "title": "The Day of the Dolphin",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "RM_TheDayOf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

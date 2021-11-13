@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11092,
+    "title": "Codex",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lg_codex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4388,
+    "title": "The Magicians",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lg_magician.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4074,
+    "title": "The Magician King",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lg_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6107,
+    "title": "The Magician's Land",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lg_themagla.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32566,
+    "title": "Virtues of War",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "BRC_Virtueso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32567,
+    "title": "Ghosts of War",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "BRC_Ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32568,
+    "title": "March of War",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "BRC_MarchofW.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

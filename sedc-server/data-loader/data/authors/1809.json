@@ -1,0 +1,47 @@
+[
+  {
+    "id": 28921,
+    "title": "Joe Golem and the Drowning City",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mmcg_joegolem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4559,
+    "title": "Baltimore:  or, The Steadfast Tin Soldier and the Vampire",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mmcg_baltimor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16413,
+    "title": "Hellboy: Odd Jobs",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cg_oddjobs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16414,
+    "title": "Hellboy: Odder Jobs",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cg_odderjob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16415,
+    "title": "Hellboy: Oddest Jobs",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cg_oddestjo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

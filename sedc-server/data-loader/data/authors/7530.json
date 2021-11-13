@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35602,
+    "title": "Idlewild",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "NS_Idlewild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35603,
+    "title": "Edenborn",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "NS_Edenborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35604,
+    "title": "Everfree",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "NS_Everfree.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

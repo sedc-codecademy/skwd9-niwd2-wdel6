@@ -1,0 +1,74 @@
+[
+  {
+    "id": 30087,
+    "title": "Time's Children",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dbj_timeschi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30088,
+    "title": "Time's Demon",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dbj_timesdem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16965,
+    "title": "The Price of Doing Business",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dbj_theprice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16972,
+    "title": "A Spell of Vengeance",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dbj_aspellof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16966,
+    "title": "Thieftaker",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dbj_thethief.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16968,
+    "title": "Thieves' Quarry",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dbj_theivesq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16969,
+    "title": "A Plunder of Souls",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dbj_aplunder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16971,
+    "title": "Dead Man's Reach",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dbj_deadmans.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7910,
+    "title": "Crygender",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ttt_crygende.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7909,
+    "title": "Flare",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rzttt_flare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7912,
+    "title": "Me: A Novel of Self-Discovery",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ttt_me.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7908,
+    "title": "The Mask of Loki",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rzttt_themasko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7907,
+    "title": "First Citizen",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ttt_firstcit.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7914,
+    "title": "An Honorable Defense",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ddttt_anhonora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7906,
+    "title": "Mars Plus",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "fpttt_marsplus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14115,
+    "title": "Man-Kzin Wars V",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ln_mankzin5.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

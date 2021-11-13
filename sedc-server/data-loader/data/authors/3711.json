@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15684,
+    "title": "King Pinch",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dc_kingpinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15252,
+    "title": "Horselords",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dc_horselor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31918,
+    "title": "Beyond the Moons",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "DC_Beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

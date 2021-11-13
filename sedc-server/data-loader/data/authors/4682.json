@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20867,
+    "title": "Crisis on Vulcan",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "BS_crisison.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20868,
+    "title": "Starfall",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "BS_starfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20869,
+    "title": "Nova Command",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "BS_novacomm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

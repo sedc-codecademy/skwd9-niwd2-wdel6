@@ -1,0 +1,128 @@
+[
+  {
+    "id": 12133,
+    "title": "Lords of the Storm",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dam_lordsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22957,
+    "title": "The Shadow of Weng-Chiang",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dm_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22964,
+    "title": "The Dark Path",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dm_thedarkp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8835,
+    "title": "Autumn Mist",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dam_autumnm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9184,
+    "title": "White Darkness",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dam_whitedar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10242,
+    "title": "First Frontier",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "dam_firstfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10264,
+    "title": "Sanctuary",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dam_sanctuar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8921,
+    "title": "The Face of the Enemy",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dam_thefaceo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8934,
+    "title": "Mission: Impractical",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dam_missioni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8946,
+    "title": "The Wages of Sin",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dam_thewages.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9058,
+    "title": "Bullet Time",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dami_bulletti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9102,
+    "title": "The Eleventh Tiger",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dam_theeleve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15527,
+    "title": "Born for Adversity",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dam_bornfora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20232,
+    "title": "Indistinguishable from Magic",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "DM_indistin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

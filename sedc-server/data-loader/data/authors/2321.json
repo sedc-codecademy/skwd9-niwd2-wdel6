@@ -1,0 +1,47 @@
+[
+  {
+    "id": 8808,
+    "title": "Alien Bodies",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "lm_alienbod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8836,
+    "title": "Interference: Book One",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lm_interbk1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8837,
+    "title": "Interference: Book Two",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lm_interbk2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8886,
+    "title": "The Adventuress of Henrietta Street",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lm_theadven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10284,
+    "title": "Christmas on a Rational Planet",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lm_christmas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 22052,
+    "title": "The Memoirist",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nw_memoiris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11122,
+    "title": "The Moon King",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nw_themoonk.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

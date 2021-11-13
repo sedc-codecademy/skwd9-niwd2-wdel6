@@ -1,0 +1,612 @@
+[
+  {
+    "id": 9929,
+    "title": "Harry Harrison! Harry Harrison!",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "hh_harryhar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24369,
+    "title": "50 in 50",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "hh_50in50.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4271,
+    "title": "There Won't Be War",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "hhbma_therewon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24973,
+    "title": "The Lifeship",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "hhgrd_thelifes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8765,
+    "title": "Hell's Cartographers:  Some Personal Histories of Science Fiction Writers",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "BWA_HellsCar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18354,
+    "title": "Astounding: John W. Campbell Memorial Anthology",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "HH_Astoundi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36424,
+    "title": "Stonehenge",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "LS_Stonehen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4044,
+    "title": "A Transatlantic Tunnel, Hurrah!",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "hh_atransat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18274,
+    "title": "By the Falls",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24880,
+    "title": "In Our Hands, the Stars",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "hh_inourhan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11388,
+    "title": "One Step from Earth",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "hh_onestepf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28570,
+    "title": "Spaceship Medic",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "hh_spaceshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11387,
+    "title": "Captive Universe",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "hh_captiveu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36425,
+    "title": "Apeman, Spaceman",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "LS_ApemanSp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4046,
+    "title": "The Technicolor® Time Machine",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "hh_thetechn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1996,
+    "title": "Make Room! Make Room!",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "hh_makeroom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22543,
+    "title": "The Streets of Ashkelon",
+    "year": 1962,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25521,
+    "title": "War with the Robots",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "HH_warwitht.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18108,
+    "title": "Best SF: 1967",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf67.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18109,
+    "title": "Best SF: 1968",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf68.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18111,
+    "title": "Best SF: 1969",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf69.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18112,
+    "title": "Best SF: 1970",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf70.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18114,
+    "title": "Best SF: 1971",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf71.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18115,
+    "title": "Best SF: 1972",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf72.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18117,
+    "title": "Best SF: 1973",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf73.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18118,
+    "title": "Best SF: 1974",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf74.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18119,
+    "title": "Best SF: 75, The Ninth Annual",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf75.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3218,
+    "title": "Bill the Galactic Hero",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "hh_bill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3219,
+    "title": "Bill, the Galactic Hero on the Planet of Robot Slaves",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "hh_bill1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3220,
+    "title": "Bill, the Galactic Hero on the Planet of the Bottled Brains",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "hhrs_bill2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3222,
+    "title": "Bill, the Galactic Hero on the Planet of Tasteless Pleasure",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "hhdb_bill3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3221,
+    "title": "Bill, the Galactic Hero on the Planet of Zombie Vampires",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "hhjch_bill4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3223,
+    "title": "Bill, the Galactic Hero on the Planet of the Hippies from Hell",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "hhdb_bill5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3224,
+    "title": "Bill, the Galactic Hero: The Final Incoherent Adventure",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "hhdh_bill6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 310,
+    "title": "Planet of the Damned",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "hh_planetof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15067,
+    "title": "Planet of No Return",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "hh_theplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 303,
+    "title": "Deathworld 1",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "hh_dw1.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4738,
+    "title": "Deathworld 2",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "hh_dw2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4739,
+    "title": "Deathworld 3",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "hh_dw3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4047,
+    "title": "West of Eden",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "hh_westofed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4048,
+    "title": "Winter in Eden",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "hh_winterin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4049,
+    "title": "Return to Eden",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "hh_returnto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4045,
+    "title": "The Hammer and the Cross",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "hh_thehamme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22293,
+    "title": "One King's Way",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "hhjh_onekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22294,
+    "title": "King and Emperor",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "hhjh_kingande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7547,
+    "title": "Nebula Award Stories Two",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "bwahh_nebula02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21498,
+    "title": "Nova 1",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "hh_nova1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21499,
+    "title": "Nova 2",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "hh_nova2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21500,
+    "title": "Nova 3",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "hh_nova3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21501,
+    "title": "Nova 4",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "hh_nova4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18272,
+    "title": "The Best of Harry Harrison",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "hh_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2970,
+    "title": "The Stainless Steel Rat",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "hh_thestain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2971,
+    "title": "The Stainless Steel Rat's Revenge",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "hh_ratsreve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2972,
+    "title": "The Stainless Steel Rat Saves the World",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "hh_ratsaves.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2973,
+    "title": "The Stainless Steel Rat Wants You",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "hh_ratwants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2974,
+    "title": "The Stainless Steel Rat for President",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "hh_ratforpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2975,
+    "title": "A Stainless Steel Rat is Born",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "hh_ratisbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2976,
+    "title": "The Stainless Steel Rat Gets Drafted",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "hh_ratgetsd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2977,
+    "title": "The Stainless Steel Rat Sings the Blues",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "hh_ratsings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2978,
+    "title": "The Stainless Steel Rat Goes to Hell",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "hh_ratgoest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2979,
+    "title": "The Stainless Steel Rat Joins the Circus",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "hh_ratjoins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2980,
+    "title": "The Stainless Steel Rat Returns",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "hh_ratretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4050,
+    "title": "Stars and Stripes Forever",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "hh_ssforeve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4051,
+    "title": "Stars and Stripes in Peril",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "hh_ssinperil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4052,
+    "title": "Stars and Stripes Triumphant",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "hh_sstriump.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11384,
+    "title": "Homeworld",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "hh_homeworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11385,
+    "title": "Wheelworld",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "hh_wheelwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11386,
+    "title": "Starworld",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "hh_starworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

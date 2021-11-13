@@ -1,0 +1,56 @@
+[
+  {
+    "id": 35844,
+    "title": "The Eternal World",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cf_eternalw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21674,
+    "title": "Killfile",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cf_killfile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24093,
+    "title": "Flashmob",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cf_flashmob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14450,
+    "title": "Blood Oath",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cf_bloodoat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14451,
+    "title": "The President's Vampire",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cf_thepresi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14452,
+    "title": "Red, White, and Blood",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cf_redwhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

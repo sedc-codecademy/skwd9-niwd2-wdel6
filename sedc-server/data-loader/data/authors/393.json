@@ -1,0 +1,734 @@
+[
+  {
+    "id": 19990,
+    "title": "Changelings and Other Metamorphic Tales",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bs_changeli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32020,
+    "title": "The Highway Code",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23407,
+    "title": "The Elixir of Youth",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27130,
+    "title": "The Immortals of Atlantis",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 989,
+    "title": "Streaking",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bs_streakin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19991,
+    "title": "Coming to Terms with the Great Plague",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26089,
+    "title": "The Hunger and Ecstasy of Vampires",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "bs_thehunge.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19444,
+    "title": "Mortimer Gray's 'History of Death'",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23273,
+    "title": "Young Blood",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bs_youngblo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 637,
+    "title": "The Empire of Fear",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bs_theempir.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23964,
+    "title": "Slumming in Voodooland",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bs_slumming.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26863,
+    "title": "The Man Who Loved the Vampire Lady",
+    "year": 1988,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12504,
+    "title": "The Gates of Eden",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "bs_thegates.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12503,
+    "title": "The Castaways of Tanagar",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "bs_thecasta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12501,
+    "title": "Optiman",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bs_optiman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23271,
+    "title": "The Last Days of the Edge of the World",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bs_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12502,
+    "title": "The Mind-Riders",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bs_themindr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23270,
+    "title": "Man in a Cage",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bs_maninaca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11028,
+    "title": "To Challenge Chaos",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "bs_tochalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23269,
+    "title": "The Blind Worm",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "bs_theblind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23268,
+    "title": "Cradle of the Sun",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "bs_cradleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21654,
+    "title": "The Blind Worm / Seed of the Dreamers",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_theblind_seedofth.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21664,
+    "title": "Cradle of the Sun / The Wizards of Senchuria",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_cradleof_thewizar.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12500,
+    "title": "Journey to the Center",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "bs_journeyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19972,
+    "title": "Invaders from the Centre",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "bs_invaders.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19973,
+    "title": "The Centre Cannot Hold",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "bs_thecentr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19953,
+    "title": "Designer Genes:  Tales of the Biotech Revolution",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bs_designer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32721,
+    "title": "The Last Supper",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27389,
+    "title": "Snowball in Hell",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32751,
+    "title": "Ashes and Tombstones",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23232,
+    "title": "The Pipes of Pan",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34161,
+    "title": "The House of Mourning",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19954,
+    "title": "The Age of Innocence",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19992,
+    "title": "Les Fleurs Du Mal",
+    "year": 1994,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24634,
+    "title": "Sexual Chemistry:  Sardonic Tales of the Genetic Revolution",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bs_sexualch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26733,
+    "title": "The Magic Bullet",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27777,
+    "title": "The Growth of the House of Usher",
+    "year": 1988,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29002,
+    "title": "News from the Moon:  Nine Proto-Science Fiction Tales",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bs_newsfrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29004,
+    "title": "The Germans on Venus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bs_thegerman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29006,
+    "title": "The Supreme Progress",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bs_thesupre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29008,
+    "title": "The World Above the World",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bs_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29010,
+    "title": "Nemoville",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bs_nemovill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29012,
+    "title": "Investigations of the Future",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bs_investig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29014,
+    "title": "The Conqueror of Death",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bs_theconqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29016,
+    "title": "The Revolt of the Machines",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bs_therevol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10997,
+    "title": "The Florians",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bsm_theflori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10998,
+    "title": "Critical Threshold",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bs_critical.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10999,
+    "title": "Wildeblood's Empire",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bs_wildeblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11000,
+    "title": "The City of the Sun",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bs_thecityo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11001,
+    "title": "Balance of Power",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bs_thebalan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11002,
+    "title": "The Paradox of the Sets",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bs_theparad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23265,
+    "title": "The Werewolves of London",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "bs_thewerew.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23266,
+    "title": "The Angel of Pain",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bs_theangel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23267,
+    "title": "The Carnival of Destruction",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bs_thecarni.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19957,
+    "title": "The Days of Glory",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bs_thedayso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12499,
+    "title": "In the Kingdom of the Beasts ",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bs_inthekin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19958,
+    "title": "Day of Wrath",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bs_dayofwra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1434,
+    "title": "The Cassandra Complex",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "bs_thecassa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1431,
+    "title": "Inherit the Earth",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "bs_inheritt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 395,
+    "title": "Dark Ararat",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bs_darkarar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1432,
+    "title": "Architects of Emortality",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "bs_architec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1433,
+    "title": "The Fountains of Youth",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "bs_thefount.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1435,
+    "title": "The Omega Expedition",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bs_theomega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11029,
+    "title": "The Halcyon Drift",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "bs_thehancy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11030,
+    "title": "Rhapsody in Black",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bs_raphsody.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11031,
+    "title": "Promised Land",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bs_promised.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11032,
+    "title": "The Paradise Game",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bs_paradise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11033,
+    "title": "The Fenris Device",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bs_thefenri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11034,
+    "title": "Swan Song",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bs_swansong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2009,
+    "title": "The Walking Shadow",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bs_thewalki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18700,
+    "title": "New Atlantis: The Origins of Scientific Romance",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_newatlantis1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18701,
+    "title": "New Atlantis: The Emergence of Scientific Romance",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_newatlantis2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18702,
+    "title": "New Atlantis: The Resurgence of Scientific Romance",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_newatlantis3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18703,
+    "title": "New Atlantis: The Decadence of Scientific Romance",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_newatlantis4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22567,
+    "title": "A Clash of Symbois: The Triumph of James Blish",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "BS_clashsym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22568,
+    "title": "Masters of Science Fiction: Essays on Six Science Fiction Authors",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "BS_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22569,
+    "title": "Algebraic Fantasies and Realistic Romances: More Masters of Science Fiction",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "BS_algebrai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12498,
+    "title": "The Realms of Tartarus",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bs_thefaceo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15006,
+    "title": "The Wine of Dreams",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "bs_thewineo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15189,
+    "title": "Zaragoz",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "bs_zaragoz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15190,
+    "title": "Plague Daemon",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "bs_plagueda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15191,
+    "title": "Storm Warriors",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bs_stormwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12886,
+    "title": "The World Beyond",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "BS_worldbey.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

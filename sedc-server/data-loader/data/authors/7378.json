@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34930,
+    "title": "Sonic Boom",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "AC_sonicboo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34932,
+    "title": "Deception's Web",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "AC_deceptio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34933,
+    "title": "Treacherous Awakenings",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "AC_treacher.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

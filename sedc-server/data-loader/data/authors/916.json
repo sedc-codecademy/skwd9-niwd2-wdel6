@@ -1,0 +1,315 @@
+[
+  {
+    "id": 24035,
+    "title": "Anno Dracula 1899 and Other Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kn_adra1899.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19751,
+    "title": "Angels of Music",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kn_angelsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23666,
+    "title": "Guignol",
+    "year": 2015,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9571,
+    "title": "An English Ghost Story",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kn_anenglis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4077,
+    "title": "Professor Moriarty:  The Hound of the D'Urbervilles",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kn_thehound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8364,
+    "title": "Horror:  Another 100 Best Books",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SJKN_HorrorAn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23645,
+    "title": "Soho Golem",
+    "year": 2004,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24051,
+    "title": "Is There Anybody There?",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24034,
+    "title": "Amerikanski Dead at the Moscow Morgue",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24419,
+    "title": "Back in the USSA",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ebkn_backinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34028,
+    "title": "Great Western",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23534,
+    "title": "Out of the Night, When the Full Moon is Bright ...",
+    "year": 1994,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1145,
+    "title": "The Quorum",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "kn_thequoru.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 27711,
+    "title": "Übermensch!",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27757,
+    "title": "Famous Monsters",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8148,
+    "title": "Horror: 100 Best Books",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sjkn_horror100.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23657,
+    "title": "Cold Snap",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23656,
+    "title": "The Man Who Got Off the Ghost Train",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23701,
+    "title": "The Man from the Diogenes Club",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kn_themanfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23702,
+    "title": "The Secret Files of the Diogenes Club",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kn_secretfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23703,
+    "title": "Mysteries of the Diogenes Club",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kn_mysterie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23559,
+    "title": "Coppola's Dracula",
+    "year": 1997,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 913,
+    "title": "Anno Dracula",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "kn_anno01.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 7975,
+    "title": "The Bloody Red Baron",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "kn_anno02.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7976,
+    "title": "Dracula Cha Cha Cha",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kn_anno03.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7977,
+    "title": "Johnny Alucard",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kn_anno04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25380,
+    "title": "One Thousand Monsters",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kn_anno05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35128,
+    "title": "Anno Dracula 1999: Daikaiju",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kn_anno06.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14167,
+    "title": "The Secrets of Drearcliff Grange School",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kn_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30274,
+    "title": "The Haunting of Drearcliff Grange School",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kn_thehaunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10715,
+    "title": "The Night Mayor",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "KN_nightmay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9116,
+    "title": "Time and Relative",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kn_timeandr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14112,
+    "title": "Drachenfels",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kn_drachenf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15594,
+    "title": "Beasts in Velvet",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kn_beastsinv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15595,
+    "title": "Genevieve Undead",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "kn_geneviev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15596,
+    "title": "Silver Nails",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kn_silverna.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

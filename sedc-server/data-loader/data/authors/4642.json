@@ -1,0 +1,56 @@
+[
+  {
+    "id": 20656,
+    "title": "Abyss",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "JL_abyss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20749,
+    "title": "The Left Hand of Destiny: Book One",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "JL_lefthan1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20750,
+    "title": "The Left Hand of Destiny: Book Two",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "JL_lefthan2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20655,
+    "title": "The Light Fantastic",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JL_lightfan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20654,
+    "title": "Immortal Coil",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JL_immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20653,
+    "title": "Cohesion",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JL_cohesion.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

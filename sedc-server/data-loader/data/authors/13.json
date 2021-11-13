@@ -1,0 +1,681 @@
+[
+  {
+    "id": 7157,
+    "title": "Lord Demon",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rzjl_lorddemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3863,
+    "title": "Psychoshop",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "abrz_psychosh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7156,
+    "title": "Donnerjack",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rzjl_donnerja.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34200,
+    "title": "The Three Descents of Jeremy Baker",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 170,
+    "title": "A Night in the Lonesome October",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rz_anightin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7909,
+    "title": "Flare",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rzttt_flare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12432,
+    "title": "The Black Throne",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rzfs_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7908,
+    "title": "The Mask of Loki",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rzttt_themasko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9438,
+    "title": "Frost and Fire",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rz_frostfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12434,
+    "title": "A Dark Traveling",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "rz_adarktra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18759,
+    "title": "Permafrost",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19388,
+    "title": "24 Views of Mt. Fuji, by Hokusai",
+    "year": 1985,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6754,
+    "title": "Unicorn Variations",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "RZ_UnicornV.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12433,
+    "title": "Coils",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rzfs_coils.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1980,
+    "title": "Eye of Cat",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rz_eyeofcat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21121,
+    "title": "Unicorn Variation",
+    "year": 1981,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7632,
+    "title": "The Last Defender of Camelot",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "RZ_TheLastD.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6180,
+    "title": "Roadmarks",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "rz_roadmark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7630,
+    "title": "Bridge of Ashes",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "RZ_BridgeOf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6413,
+    "title": "Deus Irae",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "pkd_deusirae.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 257,
+    "title": "Doorways in the Sand",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "rz_doorways.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7631,
+    "title": "My Name is Legion",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "RZ_MyNameIs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19387,
+    "title": "Home is the Hangman",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "rz_homeisha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18170,
+    "title": "The Engine at Heartspring's Center",
+    "year": 1974,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5321,
+    "title": "To Die in Italbar",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "rz_todieini.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12714,
+    "title": "Today We Choose Faces",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "rz_todaywec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2124,
+    "title": "The Doors of His Face, The Lamps of His Mouth (collection)",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "rz_thedoors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 344,
+    "title": "Jack of Shadows",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "rz_jackofsh.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5945,
+    "title": "Creatures of Light and Darkness",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "rz_creature.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12713,
+    "title": "Damnation Alley",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "rz_damnatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20856,
+    "title": "Damnation Alley",
+    "year": 1967,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8449,
+    "title": "Four for Tomorrow",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rz_fourfort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15,
+    "title": "Lord of Light",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rz_lordofli.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 19103,
+    "title": "This Mortal Mountain",
+    "year": 1967,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21508,
+    "title": "Comes Now the Power",
+    "year": 1966,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27162,
+    "title": "Divine Madness",
+    "year": 1966,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21221,
+    "title": "For a Breath I Tarry",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "rz_forabrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19105,
+    "title": "The Keys to December",
+    "year": 1966,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12,
+    "title": "This Immortal",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "rz_thisimmo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19104,
+    "title": "This Moment of the Storm",
+    "year": 1966,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18532,
+    "title": "The Doors of His Face, the Lamps of His Mouth",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "rz_thedoorsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19386,
+    "title": "He Who Shapes",
+    "year": 1965,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21540,
+    "title": "A Rose for Ecclesiastes",
+    "year": 1963,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28286,
+    "title": "Gone to Earth",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rz_acm27.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18504,
+    "title": "The Great Book of Amber: The Complete Amber Chronicles 1-10",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rz_greatboa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1818,
+    "title": "The Chronicles of Amber",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rz_thechron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18503,
+    "title": "The Second Chronicles of Amber",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rz_secondba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1273,
+    "title": "Nine Princes in Amber",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "rz_nineprin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1274,
+    "title": "The Guns of Avalon",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rz_thegunso.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1275,
+    "title": "Sign of the Unicorn",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "rz_signofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1276,
+    "title": "The Hand of Oberon",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "rz_thehando.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1277,
+    "title": "The Courts of Chaos",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "rz_thecourt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 769,
+    "title": "Trumps of Doom",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rz_trumpsof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 764,
+    "title": "Blood of Amber",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "rz_bloodofa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 760,
+    "title": "Sign of Chaos",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "rz_signofch.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1278,
+    "title": "Knight of Shadows",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rz_knightof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1280,
+    "title": "Prince of Chaos",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rz_princeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2627,
+    "title": "Threshold",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rz_threshol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2628,
+    "title": "Power & Light",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rz_powerand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2629,
+    "title": "This Mortal Mountain (collection)",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rz_thismort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2630,
+    "title": "Last Exit to Babylon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rz_lastexit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2631,
+    "title": "Nine Black Doves",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rz_nineblac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2632,
+    "title": "The Road to Amber",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rz_theroadt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12483,
+    "title": "Dilvish the Damned",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rz_dilvishth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 789,
+    "title": "The Changing Land",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rz_thechang.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 821,
+    "title": "Isle of the Dead",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "rz_isleofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1997,
+    "title": "The Dream Master",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "rz_thedream.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8655,
+    "title": "Bring Me the Head of Prince Charming",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rzrs_bringmet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8656,
+    "title": "If at Faust You Don't Succeed",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rzrs_ifatfaus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8657,
+    "title": "A Farce to Be Reckoned With",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rzrs_afarceto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7546,
+    "title": "Nebula Award Stories Three",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rz_nebula03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18337,
+    "title": "Devil Car",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11118,
+    "title": "Tor Double #12: He Who Shapes / The Infinity Box",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RZ_tordbl12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11134,
+    "title": "Tor Double #21: Home is the Hangman / We, In Some Strange Power's",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RZ_tordbl21.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11136,
+    "title": "Tor Double #24: Elegy For Angels And Dogs / The Graveyard Heart",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "WW_tordbl24.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 793,
+    "title": "Changeling",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rz_changeli.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6181,
+    "title": "Madwand",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rz_madwand.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

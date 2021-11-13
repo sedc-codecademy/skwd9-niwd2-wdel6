@@ -1,0 +1,65 @@
+[
+  {
+    "id": 15084,
+    "title": "Invasion!",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mg_invasion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15081,
+    "title": "Tales of the Old World",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mg_talesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15078,
+    "title": "The Cold Hand of Betrayal",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mg_thecoldh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15071,
+    "title": "Swords of the Empire",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mg_swordsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15012,
+    "title": "Way of the Dead",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mg_wayofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15009,
+    "title": "Lords of Valour",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cd_lordsofv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15005,
+    "title": "Realm of Chaos",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mg_realmofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

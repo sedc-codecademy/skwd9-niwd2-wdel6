@@ -1,0 +1,28 @@
+[
+  {
+    "id": 21366,
+    "title": "VRM-547",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20757,
+    "title": "Debtor's Planet",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "WT_debtorsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20758,
+    "title": "Infiltrator",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "WT_infiltra.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13255,
+    "title": "Redline the Stars",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "anpmg_redlinet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13252,
+    "title": "Firehand",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "anpmg_firehand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13270,
+    "title": "Storms of Victory",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "anpmg_stormsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13271,
+    "title": "Flight of Vengeance",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "anpmgms_flightof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

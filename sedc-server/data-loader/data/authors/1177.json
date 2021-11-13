@@ -1,0 +1,135 @@
+[
+  {
+    "id": 34137,
+    "title": "A Little Hatred",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ja_alittleh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16838,
+    "title": "Sharp Ends",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ja_sharpend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16837,
+    "title": "Two's Company",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ja_twoscomp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26532,
+    "title": "Tough Times All Over",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16839,
+    "title": "Some Desperado",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ja_somedesp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5511,
+    "title": "Red Country",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ja_redcount.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2572,
+    "title": "The Heroes",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ja_theheroe.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 28630,
+    "title": "The Fool Jobs",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1869,
+    "title": "Best Served Cold",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ja_bestserv.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 2227,
+    "title": "The Blade Itself",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ja_theblade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2228,
+    "title": "Before They Are Hanged",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ja_beforeth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2229,
+    "title": "Last Argument of Kings",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ja_lastargu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8094,
+    "title": "Half a King",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ja_halfakin.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 10798,
+    "title": "Half the World",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ja_halfthew.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12353,
+    "title": "Half a War",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ja_halfawar.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

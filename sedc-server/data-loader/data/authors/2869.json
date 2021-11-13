@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11248,
+    "title": "Ultraviolet",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rja_ultravio.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11249,
+    "title": "Quicksilver",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rja_quicksil.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

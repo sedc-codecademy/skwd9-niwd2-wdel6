@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4394,
+    "title": "The Marvelous Misadventures of Sebastian",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "la_themarve.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12756,
+    "title": "The Foundling and Other Tales of Prydain",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "LA_foundlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5877,
+    "title": "The Book of Three",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "la_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5878,
+    "title": "The Black Cauldron",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "la_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5879,
+    "title": "The Castle of Llyr",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "la_thecastl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5880,
+    "title": "Taran Wanderer",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "la_taranwan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5881,
+    "title": "The High King",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "la_thehighk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17061,
+    "title": "Westmark",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "LA_westmark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17062,
+    "title": "The Kestrel",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "LA_kestrel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17063,
+    "title": "The Beggar Queen",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "LA_beggarqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

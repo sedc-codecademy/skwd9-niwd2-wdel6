@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18251,
+    "title": "First Person, Peculiar",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "TLS_FirstPer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34235,
+    "title": "Alien Island",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "tls_alienisl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34236,
+    "title": "Alien Main",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tls_alienmai.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

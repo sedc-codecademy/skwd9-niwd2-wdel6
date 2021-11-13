@@ -1,0 +1,396 @@
+[
+  {
+    "id": 24352,
+    "title": "Transfinite: The Essential A. E. van Vogt",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "aevv_transfin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21433,
+    "title": "Computerworld",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "AEVV_Compute.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12659,
+    "title": "The Anarchistic Colossus",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "aevv_theanach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12663,
+    "title": "Earth's Last Fortress and The Three Eyes of Evil",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "aevv_earthsla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12662,
+    "title": "The Gryb",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "aevv_thegryb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3847,
+    "title": "The Man with a Thousand Names",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "aevv_themanwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12660,
+    "title": "Future Glitter",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "aevv_futuregl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12661,
+    "title": "The Battle of Forever",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "aevv_thebattl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19671,
+    "title": "More Than Superhuman",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "aevv_morethan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12658,
+    "title": "The Proxy Intelligence and Other Mind Benders",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "aevv_theproxy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12657,
+    "title": "Quest for the Future",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "aevv_questfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12672,
+    "title": "The Silkie",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "aevv_thesilki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12825,
+    "title": "The Far-Out Worlds of A.E. Van Vogt",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "aevv_thefarou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28625,
+    "title": "The Winged Man",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "aevvemh_thewinge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19670,
+    "title": "Research Alpha",
+    "year": 1965,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12634,
+    "title": "Rogue Ship",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "aevv_rogueshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2351,
+    "title": "The War Against the Rull",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "aevv_thewarag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12673,
+    "title": "Away and Beyond",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "aevv_awayandb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35938,
+    "title": "Destination: Universe!",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "AV_destinat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12675,
+    "title": "The Mixed Men",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "aevv_themixed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4226,
+    "title": "The Voyage of the Space Beagle",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "aevv_thevoyag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2030,
+    "title": "Slan",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "aevv_slan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28437,
+    "title": "Co-Operate - Or Else!",
+    "year": 1942,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21296,
+    "title": "The World of Null-A / The Universe Maker",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "ad_theworld_universe.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21342,
+    "title": "The Weapon Shops of Isher / Gateway to Elsewhere",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ad_theweapo_gatewayt.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21333,
+    "title": "One Against Eternity / The Other Side of Here",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ad_oneagain_theother.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21332,
+    "title": "Empire of the Atom / Space Station # 1",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ad_empireof_spacesta.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21084,
+    "title": "Siege of the Unseen / The World Swappers",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_siegeoft_theworld.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21302,
+    "title": "Earth's Last Fortress / Lost in Space",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_earthsla_lostinsp.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21418,
+    "title": "The Twisted Men / One of Our Asteroids is Missing",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_thetwist_oneofour.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12669,
+    "title": "Planets for Sale",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "aevv_planetsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12635,
+    "title": "Empire of the Atom",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "aevv_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12636,
+    "title": "The Wizard of Linn",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "aevv_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10712,
+    "title": "Cosmic Encounter",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "AV_cosmicen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3912,
+    "title": "The Book of Ptath",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "aevv_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10716,
+    "title": "The Universe Maker",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "AV_universe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10718,
+    "title": "The Beast",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "aevv_thebeast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10719,
+    "title": "The House That Stood Still",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "aevv_housesti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10721,
+    "title": "The Mind Cage",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "aevv_themindc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2029,
+    "title": "The World of Null-A",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "aevv_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11427,
+    "title": "The Players of Null-A",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "AV_playersn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11428,
+    "title": "Null-A Three",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "AV_nulla3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6066,
+    "title": "The Weapon Makers",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "aevv_theweapo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6067,
+    "title": "The Weapon Shops of Isher",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "aevv_weaponsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

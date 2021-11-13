@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35406,
+    "title": "Time Snake and Superclown",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "VL_TimeSnak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35405,
+    "title": "Another End",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "VK_AnotherE.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35404,
+    "title": "Candy Man",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "VK_CandyMan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35403,
+    "title": "Light a Last Candle",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "VK_LightLas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

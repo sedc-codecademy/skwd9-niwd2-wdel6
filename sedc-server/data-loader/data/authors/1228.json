@@ -1,0 +1,155 @@
+[
+  {
+    "id": 10817,
+    "title": "Prudence",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gc_prudence.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18886,
+    "title": "Imprudence",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gc_impruden.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28440,
+    "title": "Competence",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gc_competen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34330,
+    "title": "Reticence",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "gc_reticenc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20322,
+    "title": "Poison or Protect",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gc_poisonor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6618,
+    "title": "Etiquette & Espionage",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gc_etiquett.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6875,
+    "title": "Curtsies & Conspiracies",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gc_curtsies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9621,
+    "title": "Waistcoats & Weaponry",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gc_waistcoa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14185,
+    "title": "Manners and Mutiny",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gc_mannersa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1978,
+    "title": "Soulless",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gc_soulless.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2250,
+    "title": "Changeless",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gc_changeles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2251,
+    "title": "Blameless",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gc_blameles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3014,
+    "title": "Heartless",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gc_heartles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5515,
+    "title": "Timeless",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gc_timeless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35593,
+    "title": "Fan Service:  Collected Supernatural Society Books",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GC_fanservi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21161,
+    "title": "Romancing the Inventor",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gc_romancin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25852,
+    "title": "Romancing the Werewolf",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gc_romawere.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

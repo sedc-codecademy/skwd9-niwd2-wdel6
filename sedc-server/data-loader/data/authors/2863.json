@@ -1,0 +1,28 @@
+[
+  {
+    "id": 15908,
+    "title": "An Inheritance of Ashes",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lb_inherita.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11237,
+    "title": "Above",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lb_above.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30241,
+    "title": "Bliss",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

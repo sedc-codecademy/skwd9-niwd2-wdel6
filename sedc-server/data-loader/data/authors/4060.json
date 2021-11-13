@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16939,
+    "title": "The Path",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RN_thepath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16940,
+    "title": "Shadow of Obsession",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RN_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35685,
+    "title": "The Thirteenth Scroll",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "RN_Thirteen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35686,
+    "title": "The Truest Power",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RN_TruestPo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20849,
+    "title": "Guises of the Mind",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "RN_guisesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10970,
+    "title": "Dead Spots",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rf_deadspot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14474,
+    "title": "The First Days:  As the World Dies",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rf_thefirst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14475,
+    "title": "Fighting to Survive",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rf_fighting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14476,
+    "title": "Siege",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rf_siege.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

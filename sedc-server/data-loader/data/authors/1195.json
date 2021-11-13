@@ -1,0 +1,56 @@
+[
+  {
+    "id": 4540,
+    "title": "Weapons of Magical Destruction",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sn_weaponso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1898,
+    "title": "Army of Shadows",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sn_orcsarmy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5614,
+    "title": "Inferno",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sn_orcsinfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4537,
+    "title": "Bodyguard of Lightning",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sn_bodyguar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4538,
+    "title": "Legion of Thunder",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sn_legionof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4539,
+    "title": "Warriors of the Tempest",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sn_warriors.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

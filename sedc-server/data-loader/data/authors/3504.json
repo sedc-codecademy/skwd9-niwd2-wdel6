@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14139,
+    "title": "Extraction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sd_extracti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14140,
+    "title": "Rebellion",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sd_rebellio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14141,
+    "title": "Evolution",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sd_evolutio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

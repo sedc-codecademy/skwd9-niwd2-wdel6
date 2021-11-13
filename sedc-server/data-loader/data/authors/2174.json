@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36632,
+    "title": "The Second Sleep",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rh_secondsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8071,
+    "title": "The Fear Index",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rh_thefeari.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8047,
+    "title": "Fatherland",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rh_fatherla.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

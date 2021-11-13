@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15168,
+    "title": "The Stowaway",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rasgs_thestowa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15169,
+    "title": "The Shadowmask",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rasgs_shadowma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15170,
+    "title": "The Sentinels",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rasgs_thesenti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

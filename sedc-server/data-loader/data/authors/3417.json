@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13786,
+    "title": "Unshapely Things",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mdf_unshapel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13787,
+    "title": "Unquiet Dreams",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mdf_unquietd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13788,
+    "title": "Unfallen Dead",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mdf_unfallen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13789,
+    "title": "Unperfect Souls",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mdf_unperfeec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13790,
+    "title": "Uncertain Allies",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mdf_uncertai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13791,
+    "title": "Undone Deeds",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mdf_undonede.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

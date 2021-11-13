@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13823,
+    "title": "Ghostbusters II",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "EN_ghostbu2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15097,
+    "title": "Robocop",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "EN_robocop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15098,
+    "title": "Robocop 2",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "EN_robocop2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

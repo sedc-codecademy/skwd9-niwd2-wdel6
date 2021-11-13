@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15343,
+    "title": "Visions of the Jinn",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RI_VisionsO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30254,
+    "title": "Exquisite Corpse",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RI_Exquisit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12402,
+    "title": "The Arabian Nightmare",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ri_thearabi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25918,
+    "title": "The Limits of Vision",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "RI_TheLimit.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

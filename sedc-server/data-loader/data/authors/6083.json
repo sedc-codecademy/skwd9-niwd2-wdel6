@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32279,
+    "title": "The Summoning",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DR_Summonin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32278,
+    "title": "The Gatekeeper",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "DR_Gatekeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32277,
+    "title": "Sister Satan",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "DR_SisterSa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

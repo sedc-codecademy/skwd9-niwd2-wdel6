@@ -1,0 +1,20 @@
+[
+  {
+    "id": 9785,
+    "title": "All of an Instant",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rg_allofani.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9784,
+    "title": "Celestial Matters",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rg_celestia.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

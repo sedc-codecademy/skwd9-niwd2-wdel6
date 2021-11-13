@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5126,
+    "title": "The Uninvited",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lj_theuninv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1854,
+    "title": "The Rapture",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lj_theraptu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4419,
+    "title": "My Dirty Little Book of Stolen Time",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lj_mydirty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34455,
+    "title": "Egg Dancing",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lj_eggdanci.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

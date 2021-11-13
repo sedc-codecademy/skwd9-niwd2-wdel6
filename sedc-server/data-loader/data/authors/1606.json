@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3594,
+    "title": "The Guardener's Tale",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bb_theguard.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24005,
+    "title": "All the Clocks Are Melting",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bb_allthecl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

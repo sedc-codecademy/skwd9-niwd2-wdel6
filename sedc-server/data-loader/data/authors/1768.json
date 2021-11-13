@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4364,
+    "title": "Winter's Tale",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mh_winterst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16574,
+    "title": "Swan Lake",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "MH_SwanLake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16575,
+    "title": "A City in Winter",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "MH_ACityInW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16577,
+    "title": "The Veil of Snows",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "MH_TheVeilO.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

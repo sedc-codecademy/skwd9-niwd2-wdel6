@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10046,
+    "title": "The List of Seven",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mf_thelisto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10047,
+    "title": "The Six Messiahs",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mf_thesixme.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

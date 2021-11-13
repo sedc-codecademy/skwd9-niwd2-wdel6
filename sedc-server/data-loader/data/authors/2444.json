@@ -1,0 +1,146 @@
+[
+  {
+    "id": 9223,
+    "title": "Iron Company",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cw_ironcomp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26171,
+    "title": "Leman Russ",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cw_lemanrus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26177,
+    "title": "Jaghatai Khan",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cw_jaghatai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10074,
+    "title": "Scars:  A legion divided",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cw_scars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26161,
+    "title": "The Path of Heaven:  Riding out from the Storm",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cw_thepatho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26538,
+    "title": "Battle of the Fang",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cw_battleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26543,
+    "title": "Wrath of Iron",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cw_wrathofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26704,
+    "title": "Blood of Asaheim",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cw_bloodofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26709,
+    "title": "Stormcaller",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cw_stormcal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16595,
+    "title": "Dead End",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "CW_deadend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15085,
+    "title": "Masters of Magic",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cw_masterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15491,
+    "title": "Luthor Huss",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cw_luthorhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15488,
+    "title": "Sword of Vengeance",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cw_swordofv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15486,
+    "title": "Sword of Justice",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cw_swordofj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15258,
+    "title": "The Fall of Altdorf",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cw_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15223,
+    "title": "Master of Dragons",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cw_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

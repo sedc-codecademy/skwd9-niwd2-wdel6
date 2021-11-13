@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8281,
+    "title": "Interface",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ma_interfac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8282,
+    "title": "Volteface",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ma_voltefac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8283,
+    "title": "Multiface",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ma_multifac.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 3441,
+    "title": "The Mall",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "slg_themall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27348,
+    "title": "Body in the Woods",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sl_thebodyi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25535,
+    "title": "The Apartment",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "SL_apartmen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6700,
+    "title": "The Three",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sl_three.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21478,
+    "title": "Day Four",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sl_dayfour.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

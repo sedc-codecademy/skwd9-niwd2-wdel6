@@ -1,0 +1,65 @@
+[
+  {
+    "id": 3090,
+    "title": "Pretty Little Dead Things",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gmm_prettyli.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13530,
+    "title": "The End",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gmm_theend.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1241,
+    "title": "Rain Dogs",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gmm_raindogs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4254,
+    "title": "The Concrete Grove",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gmm_theconcr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4759,
+    "title": "Silent Voices",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gmm_silentvo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4760,
+    "title": "Beyond Here Lies Nothing",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gmm_beyondhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14580,
+    "title": "Hungry Hearts",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gmm_hungryhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

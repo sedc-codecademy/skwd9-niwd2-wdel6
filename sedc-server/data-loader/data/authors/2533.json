@@ -1,0 +1,108 @@
+[
+  {
+    "id": 16494,
+    "title": "A Clean Sweep With All the Trimmings",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jag_acleansw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18567,
+    "title": "The Ray-Gun: A Love Story",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18643,
+    "title": "Three Hearings on the Existence of Snakes in the Human Bloodstream",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25375,
+    "title": "All Those Explosions Were Someone Else's Fault",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jag_allthose.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30287,
+    "title": "They Promised Me the Gun Wasn't Loaded",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jag_theyprom.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9775,
+    "title": "Expendable",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jag_expendab.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9791,
+    "title": "Commitment Hour",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jag_commitme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9776,
+    "title": "Vigilant",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jag_vigilant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9777,
+    "title": "Hunted",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jag_hunted.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9778,
+    "title": "Ascending",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jag_ascendin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9792,
+    "title": "Trapped",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jag_trapped.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9779,
+    "title": "Radiant",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jag_radiant.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11882,
+    "title": "Sanction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "df_sanction.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11881,
+    "title": "Path of Night",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "df_pathofni.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

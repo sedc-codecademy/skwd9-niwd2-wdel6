@@ -1,0 +1,137 @@
+[
+  {
+    "id": 28495,
+    "title": "Her Majesty's American",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sw_hermajes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36270,
+    "title": "Saint Antony's Fire",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SW_SaintAnt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36269,
+    "title": "The Prometheus Project",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SW_Promethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36268,
+    "title": "Demon's Gate",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "SW_DemonsGa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36267,
+    "title": "Forge of the Titans",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "SW_ForgeTit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22243,
+    "title": "Insurrection",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dwsw_insurrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22244,
+    "title": "Crusade",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "dwsw_crusade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22245,
+    "title": "In Death Ground",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dwsw_indeathg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22246,
+    "title": "The Shiva Option",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dwsw_theshiva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22247,
+    "title": "Exodus",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "swsm_exodus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22248,
+    "title": "Extremis",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "swceg_extremis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22249,
+    "title": "Imperative",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "swceg_imperati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28496,
+    "title": "Oblivion",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "swceg_oblivion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12033,
+    "title": "Eagle Against the Stars",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sw_eagleaga.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12034,
+    "title": "Wolf Among the Stars",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sw_wolfamon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

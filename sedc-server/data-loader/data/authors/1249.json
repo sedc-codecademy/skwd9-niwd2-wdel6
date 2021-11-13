@@ -1,0 +1,65 @@
+[
+  {
+    "id": 8752,
+    "title": "Tales of Unease",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "acd_talesofu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34650,
+    "title": "The Parasite and The Watter's Mou'",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "AD_parasite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31937,
+    "title": "The Maracot Deep",
+    "year": 1927,
+    "type": "novel",
+    "imageName": "ACD_MaracotD.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12854,
+    "title": "The Doings of Raffles Haw",
+    "year": 1891,
+    "type": "novel",
+    "imageName": "AD_rafflesh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2075,
+    "title": "The Lost World",
+    "year": 1912,
+    "type": "novel",
+    "imageName": "sacd_thelostw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2273,
+    "title": "The Poison Belt",
+    "year": 1913,
+    "type": "novel",
+    "imageName": "acd_thepoiso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4109,
+    "title": "The Land of Mist",
+    "year": 1926,
+    "type": "novel",
+    "imageName": "acd_thelando.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

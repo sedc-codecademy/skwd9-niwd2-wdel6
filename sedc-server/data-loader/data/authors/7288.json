@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34554,
+    "title": "Crossing Over",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ak_crossing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34555,
+    "title": "Dark Mist Rising",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ak_darkmist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34556,
+    "title": "A Bright and Terrible Sword",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ak_abrighta.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

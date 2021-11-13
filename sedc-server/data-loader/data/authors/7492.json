@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35425,
+    "title": "The Winds of Mars",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "HMV_WindsMar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35431,
+    "title": "The Shepherd Moon",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "HMV_Shepherd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35427,
+    "title": "Return to Earth",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "HMV_ReturnEa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35428,
+    "title": "This Time of Darkness",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "HMH_ThisTime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35426,
+    "title": "The Lost Star",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "HMV_LostStar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35429,
+    "title": "The Delikon",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "HMV_Delikon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35430,
+    "title": "The Rains of Eridan",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "HMV_RainsEri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

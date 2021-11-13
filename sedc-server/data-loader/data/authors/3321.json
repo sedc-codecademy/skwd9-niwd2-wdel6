@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13022,
+    "title": "The Well-Favored Man",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ew_thewellf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13023,
+    "title": "A Sorcerer and a Gentleman",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ew_asorcere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13024,
+    "title": "The Price of Blood and Honor",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ew_theprice.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

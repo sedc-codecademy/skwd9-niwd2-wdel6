@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15122,
+    "title": "The Killer and the Slain",
+    "year": 1942,
+    "type": "novel",
+    "imageName": "hw__killerandthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12459,
+    "title": "The Second Century of Creepy Stories",
+    "year": 1937,
+    "type": "novel",
+    "imageName": "hw_thesecon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22749,
+    "title": "All Souls' Night",
+    "year": 1933,
+    "type": "novel",
+    "imageName": "HW_allsouls.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

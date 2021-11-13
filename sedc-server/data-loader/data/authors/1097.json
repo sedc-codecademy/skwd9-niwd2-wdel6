@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1714,
+    "title": "Cloud & Ashes:  Three Winter's Tales",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gg_cloudand.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23639,
+    "title": "A Crowd of Bone",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18616,
+    "title": "Jack Daw's Pack",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5646,
+    "title": "Moonwise",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gig_moonwise.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

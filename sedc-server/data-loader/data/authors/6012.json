@@ -1,0 +1,29 @@
+[
+  {
+    "id": 33905,
+    "title": "Armed in Her Fashion",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kh_armedinh.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 31648,
+    "title": "Alice Payne Arrives",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kh_alicearr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31649,
+    "title": "Alice Payne Rides",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kh_alicerid.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

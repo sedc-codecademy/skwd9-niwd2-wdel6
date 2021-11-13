@@ -1,0 +1,45 @@
+[
+  {
+    "id": 18688,
+    "title": "The Nutcracker Coup",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13866,
+    "title": "Hellspark",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "JK_Hellspar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13867,
+    "title": "Mirabile",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "JK_Mirabile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27751,
+    "title": "The Loch Moose Monster",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14821,
+    "title": "Uhura's Song",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jk_uhurasso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

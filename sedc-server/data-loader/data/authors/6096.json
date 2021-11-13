@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32490,
+    "title": "The Rim-World Legacy",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "FAJ_RimWorld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32491,
+    "title": "Scor-Sting",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "FAJ_ScorStin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32492,
+    "title": "The Ice Beast",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "FAJ_IceBeast.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

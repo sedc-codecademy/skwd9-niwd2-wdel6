@@ -1,0 +1,37 @@
+[
+  {
+    "id": 4075,
+    "title": "Redwood and Wildfire",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ah_redwooda.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18906,
+    "title": "Will Do Magic for Small Change",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ah_willdoma.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23192,
+    "title": "Saltwater Railroad",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 999,
+    "title": "Mindscape",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ah_mindscap.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

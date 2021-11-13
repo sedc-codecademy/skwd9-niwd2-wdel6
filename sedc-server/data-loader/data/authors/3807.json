@@ -1,0 +1,83 @@
+[
+  {
+    "id": 26320,
+    "title": "Adeptus Mechanicus",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rs_adeptusm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26318,
+    "title": "Skitarius",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rs_skitariu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26319,
+    "title": "Tech-Priest",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rs_techprie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26288,
+    "title": "Predator, Prey",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rs_predator.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26297,
+    "title": "Shadow of Ullanor",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rs_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26372,
+    "title": "Honour Imperialis",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "slsdbrs_honourim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26362,
+    "title": "Redemption Corps",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rs_redempti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26541,
+    "title": "Legion of the Damned",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rs_legionof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15739,
+    "title": "Archaon Everchosen",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rs_archaone.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

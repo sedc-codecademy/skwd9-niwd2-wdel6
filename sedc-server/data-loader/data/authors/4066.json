@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36451,
+    "title": "Pitch Dark",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CA_PitchDar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19878,
+    "title": "Shutter",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ca_shutter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16962,
+    "title": "Trigger",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ca_trigger.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

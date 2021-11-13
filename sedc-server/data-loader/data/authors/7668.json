@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36234,
+    "title": "Ashfall",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MM_ashfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36235,
+    "title": "Ashen Winter",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "MM_ashenwin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36236,
+    "title": "Sunrise",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MM_sunrise.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

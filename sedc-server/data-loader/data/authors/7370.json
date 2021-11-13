@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34863,
+    "title": "Born to Run",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SK_borntoru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34864,
+    "title": "Poison Agendas",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "SK_poisonag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34865,
+    "title": "Fallen Angels",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "SK_fallenan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

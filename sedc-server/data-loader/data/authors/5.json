@@ -1,0 +1,586 @@
+[
+  {
+    "id": 13317,
+    "title": "The Night of the Long Knives",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "fl_nightofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24310,
+    "title": "Fritz Leiber: Selected Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "fl_selected.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7185,
+    "title": "Strange Wonders:  A Collection of Rare Fritz Leiber Works",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "fl_strangew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18318,
+    "title": "Horrible Imaginings (collection)",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "fl_horrible.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24360,
+    "title": "Smoke Ghost & Other Apparitions",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "fl_smokegho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9198,
+    "title": "The Dealings of Daniel Kesserich",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "FL_TheDeali.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24652,
+    "title": "The Leiber Chronicles: Fifty Years of Fritz Leiber",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "fl_tlchroni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21205,
+    "title": "The Ghost Light",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "fl_theghost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19560,
+    "title": "Horrible Imaginings",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4342,
+    "title": "The Sinful Ones",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "fl_thesinfu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23832,
+    "title": "The Button Molder",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10896,
+    "title": "Ship of Shadows (collection)",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fl_shipofsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21184,
+    "title": "Heroes and Horrors",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "fl_heroesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 965,
+    "title": "Our Lady of Darkness",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "fl_ourladyo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18945,
+    "title": "A Rite of Spring",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23778,
+    "title": "Dark Wings",
+    "year": 1976,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18376,
+    "title": "The Worlds of Fritz Leiber",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "fl_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23764,
+    "title": "Belsen Express",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18169,
+    "title": "Catch That Zeppelin!",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23759,
+    "title": "The Second Book of Fritz Leiber",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "fl_secondb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18302,
+    "title": "The Book of Fritz Leiber",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "FL_TheBookO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21192,
+    "title": "Midnight by the Morphy Watch",
+    "year": 1974,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19647,
+    "title": "Ship of Shadows",
+    "year": 1969,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4682,
+    "title": "A Specter is Haunting Texas",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "fl_aspectre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18319,
+    "title": "Answering Service",
+    "year": 1967,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19109,
+    "title": "Gonna Roll the Bones",
+    "year": 1967,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18375,
+    "title": "Cyclops",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19110,
+    "title": "Four Ghosts in Hamlet",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18377,
+    "title": "The Good New Days",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21558,
+    "title": "A Pail of Air",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "fl_apailofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11,
+    "title": "The Wanderer",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "fl_thewande.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21212,
+    "title": "The Silver Eggheads",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "FL_TheSilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4681,
+    "title": "The Green Millennium",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "fl_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7270,
+    "title": "Gather, Darkness!",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "fl_gather.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12192,
+    "title": "Night's Black Agents",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "fl_nightsbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3503,
+    "title": "Conjure Wife",
+    "year": 1943,
+    "type": "novel",
+    "imageName": "fl_conjurew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21373,
+    "title": "The Big Time / The Mind Spider and Other Stories",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ad_thebigti_theminds.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21435,
+    "title": "Ships to the Stars / The Million Year Hunt",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_shipstot_themilli.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20978,
+    "title": "The Green Millennium / Night Monsters",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "fl_ad_thegreen.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11359,
+    "title": "The Moon is Green and Other Tales",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "FL_moongree.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18301,
+    "title": "The Best of Fritz Leiber",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "FL_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36508,
+    "title": "Binary Star No. 1",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "flns_binary1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24299,
+    "title": "Changewar",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fl_changewa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9430,
+    "title": "The Mind Spider and Other Stories",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "fl_theminds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21206,
+    "title": "A Deskful of Girls",
+    "year": 1958,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4176,
+    "title": "Destiny Times Three",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "fl_destinyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4,
+    "title": "The Big Time",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "fl_thebigti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1795,
+    "title": "The First Book of Lankhmar",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "fl_thefirst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1796,
+    "title": "The Second Book of Lankhmar",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "fl_thesecon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19657,
+    "title": "Ill Met in Lankhmar",
+    "year": 1970,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21516,
+    "title": "Stardock",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21548,
+    "title": "The Unholy Grail",
+    "year": 1962,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21550,
+    "title": "Scylla's Daughter",
+    "year": 1961,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3402,
+    "title": "Swords and Deviltry",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "fl_swordsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3403,
+    "title": "Swords Against Death",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "fl_swordsag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3404,
+    "title": "Swords in the Mist",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "fl_swordsin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3405,
+    "title": "Swords Against Wizardry",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "fl_swordswi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3406,
+    "title": "The Swords of Lankhmar",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "fl_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3407,
+    "title": "Swords and Ice Magic",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "fl_swordsic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3408,
+    "title": "The Knight and Knave of Swords",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "fl_theknigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10710,
+    "title": "You're All Alone",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "fl_youreall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18592,
+    "title": "Masters of Science Fiction: Fritz Leiber",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "fl_masterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21552,
+    "title": "Rump-Titty-Titty-Tum-TAH-Tee",
+    "year": 1958,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11087,
+    "title": "Tor Double #5: No Truce With Kings / Ship of Shadows",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "PA_tordbl5a.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11132,
+    "title": "Tor Double #19: Ill Met In Lankhmar / The Fair in Emain Macha",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "FL_tordbl19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11091,
+    "title": "Tor Double #36: Conjure Wife / Our Lady of Darkness",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "FL_td36.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23765,
+    "title": "The World Fantasy Awards, Volume Two",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "sdsfl_twfavol2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

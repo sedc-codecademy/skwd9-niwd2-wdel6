@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34943,
+    "title": "The Wrong Reflection ",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "GB_WrongRef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25870,
+    "title": "Hawk of May",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gb_hawkofma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25871,
+    "title": "Kingdom of Summer",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gb_kingdomo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25872,
+    "title": "In Winter's Shadow",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "gb_inwinter.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

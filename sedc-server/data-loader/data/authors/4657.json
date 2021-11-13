@@ -1,0 +1,20 @@
+[
+  {
+    "id": 20722,
+    "title": "Valhalla",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "NA_valhalla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20721,
+    "title": "Ragnarok",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "NA_ragnarok.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

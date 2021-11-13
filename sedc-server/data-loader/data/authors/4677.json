@@ -1,0 +1,38 @@
+[
+  {
+    "id": 20807,
+    "title": "The Last Stand",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "BF_laststan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20890,
+    "title": "The Haunted Starship",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "KF_haunteds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20808,
+    "title": "Crisis on Centaurus",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "bf_crisison.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20809,
+    "title": "A Flag Full of Stars",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "BF_flagfull.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

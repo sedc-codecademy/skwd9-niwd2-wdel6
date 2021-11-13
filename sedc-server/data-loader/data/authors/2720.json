@@ -1,0 +1,83 @@
+[
+  {
+    "id": 10633,
+    "title": "The Skystone",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "JW_skystone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10634,
+    "title": "The Singing Sword",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "JW_singings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10635,
+    "title": "The Eagles' Brood",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "JW_eaglesb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10636,
+    "title": "The Saxon Shore",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "JW_saxonsho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10637,
+    "title": "The Fort at River's Bend",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "JW_fortrive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10638,
+    "title": "Metamorphosis",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "JW_metamor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10639,
+    "title": "Uther",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "JW_uther.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10640,
+    "title": "The Lance Thrower",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "JW_lanceth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10641,
+    "title": "The Eagle",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JW_eagle.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

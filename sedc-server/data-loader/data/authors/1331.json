@@ -1,0 +1,98 @@
+[
+  {
+    "id": 18581,
+    "title": "Bloody Fabulous",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "es_bloodyfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35911,
+    "title": "Circus:  Fantasy Under the Big Top",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ES_circusfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4830,
+    "title": "Moscow But Dreaming",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "es_moscowbu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4064,
+    "title": "Heart of Iron",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "es_heartofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2588,
+    "title": "The House of Discarded Dreams",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "es_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25386,
+    "title": "Herding Vegetable Sheep",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4423,
+    "title": "The Alchemy of Stone",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "es_thealche.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36588,
+    "title": "Paper Cities:  An Anthology of Urban Fantasy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ES_papercit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4829,
+    "title": "The Secret History of Moscow",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "es_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25168,
+    "title": "The Taste of Wheat",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30204,
+    "title": "Virus Changes Skin",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

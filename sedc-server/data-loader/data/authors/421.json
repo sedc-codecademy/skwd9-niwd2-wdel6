@@ -1,0 +1,481 @@
+[
+  {
+    "id": 35373,
+    "title": "The Best of Greg Egan",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GE_BestGreg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32361,
+    "title": "Perihelion Summer",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ge_periheli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28334,
+    "title": "The Nearest",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ge_theneare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27895,
+    "title": "Phoresis",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ge_phoresis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23593,
+    "title": "Dichronauts",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ge_dichrona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28340,
+    "title": "The Discrete Charm of the Turing Machine",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24908,
+    "title": "Uncanny Valley",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ge_uncannyv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19995,
+    "title": "The Four Thousand, The Eight Hundred",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ge_thefourt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26804,
+    "title": "Shadow Flock",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26798,
+    "title": "Zero for Conduct",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2492,
+    "title": "Zendegi",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ge_zendegi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9436,
+    "title": "Crystal Nights and Other Stories",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ge_crystaln.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4184,
+    "title": "Oceanic (collection)",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ge_oceanic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26337,
+    "title": "Crystal Nights",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27059,
+    "title": "Dark Integers and Other Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "GE_DarkInte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2497,
+    "title": "Incandescence",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ge_incandes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20878,
+    "title": "Dark Integers",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17597,
+    "title": "Glory",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ge_glory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32065,
+    "title": "Induction",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26511,
+    "title": "Steve Fever",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26305,
+    "title": "Riding the Crocodile",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2495,
+    "title": "Schild's Ladder",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ge_schildsl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19850,
+    "title": "Singleton",
+    "year": 2002,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17596,
+    "title": "Oracle",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17593,
+    "title": "Border Guards",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ge_bordergu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2496,
+    "title": "Teranesia",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ge_teranesi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6501,
+    "title": "Luminous",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ge_luminous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17595,
+    "title": "Oceanic",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ge_oceanic2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17592,
+    "title": "The Planck Dive",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ge_planckdi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2493,
+    "title": "Diaspora",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ge_diaspora.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2498,
+    "title": "Distress",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ge_distress.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27534,
+    "title": "Reasons to Be Cheerful",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26229,
+    "title": "Yeyuka",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3673,
+    "title": "Axiomatic",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ge_axiomati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20981,
+    "title": "Luminous",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24629,
+    "title": "Our Lady of Chernobyl",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ge_ourladyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17594,
+    "title": "TAP",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ge_tap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26896,
+    "title": "Wang's Carpets",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ge_wangscar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16126,
+    "title": "Cocoon",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ge_cocoon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 423,
+    "title": "Permutation City",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ge_permutat.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 2494,
+    "title": "Quarantine",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ge_quaranti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27635,
+    "title": "Chaff",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36134,
+    "title": "Closer",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27649,
+    "title": "Dust",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36133,
+    "title": "Into Darkness",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36132,
+    "title": "Appropriate Love",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27682,
+    "title": "Blood Sisters",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27710,
+    "title": "The Moat",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36131,
+    "title": "Axiomatic",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27728,
+    "title": "The Caress",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27722,
+    "title": "Learning to Be Me",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36136,
+    "title": "Instantiation",
+    "year": 2019,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36135,
+    "title": "3-adica",
+    "year": 2018,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3674,
+    "title": "The Clockwork Rocket",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ge_theclock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5972,
+    "title": "The Eternal Flame",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ge_eternalf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5971,
+    "title": "The Arrows of Time",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ge_thearrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

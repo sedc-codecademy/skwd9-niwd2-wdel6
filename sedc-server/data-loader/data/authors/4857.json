@@ -1,0 +1,56 @@
+[
+  {
+    "id": 21899,
+    "title": "Hard Day's Knight",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JH_harddays.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21900,
+    "title": "Back in Black",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JH_backinbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21901,
+    "title": "Knight Moves",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JH_knightmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21902,
+    "title": "Paint It Black",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JH_paintitb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21903,
+    "title": "In the Still of the Knight",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JH_stillkni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21904,
+    "title": "Man in Black",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JH_maninbla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24912,
+    "title": "A Lovely Way to Burn",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lw_alovelyw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24913,
+    "title": "Death Is a Welcome Guest",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lw_deathisa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24914,
+    "title": "No Dominion",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lw_nodomini.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 22962,
+    "title": "Burning Heart",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ds_burningh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8881,
+    "title": "The Slow Empire",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ds_theslowe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10267,
+    "title": "Sky Pirates!",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ds_skypirat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10281,
+    "title": "Death and Diplomacy",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ds_deathand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9033,
+    "title": "Heart of TARDIS",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ds_heartoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9119,
+    "title": "Citadel of Dreams",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ds_citadelo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

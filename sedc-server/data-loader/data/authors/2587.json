@@ -1,0 +1,56 @@
+[
+  {
+    "id": 10019,
+    "title": "The Bullet-Catcher's Daughter",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rd_thebulle.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11878,
+    "title": "Unseemly Science",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rd_unseemly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16454,
+    "title": "The Custodian of Marvels",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rd_thecusto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27020,
+    "title": "The Queen of All Crows",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rd_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31777,
+    "title": "The Outlaw & the Upstart King",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rd_theoutla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35738,
+    "title": "The Fugitive & the Vanishing Man",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "RD_Fugitive.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

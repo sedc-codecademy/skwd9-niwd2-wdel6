@@ -1,0 +1,47 @@
+[
+  {
+    "id": 34557,
+    "title": "Night Child",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jb_nightchild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34558,
+    "title": "A Flash of Hex",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jb_aflashof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34559,
+    "title": "Inhuman Resources",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jb_inhumanr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34560,
+    "title": "Infernal Affairs",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jb_infernal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34561,
+    "title": "Bleeding Out",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jb_bleeding.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

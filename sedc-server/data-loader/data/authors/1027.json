@@ -1,0 +1,119 @@
+[
+  {
+    "id": 31867,
+    "title": "Chimera",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "WS_Chimera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31866,
+    "title": "Witch Blood",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "WS_WitchBlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31870,
+    "title": "Cats Have No Lord",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "WS_CatsHave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31871,
+    "title": "The Tangled Lands",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "WS_TangledL.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25944,
+    "title": "Elsewhere",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ws_elsewher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25945,
+    "title": "Nevernever",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ws_nevernev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25946,
+    "title": "Dogland",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ws_dogland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1058,
+    "title": "The Gospel of the Knife",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ws_thegospe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10309,
+    "title": "Liavek",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ebws_liavek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10310,
+    "title": "Liavek: The Players of Luck",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ebws_theplaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10311,
+    "title": "Liavek: Wizard's Row",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ebws_wizards.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10312,
+    "title": "Liavek: Spells of Binding",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ebws_spellsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10313,
+    "title": "Liavek: Festival Week",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ebws_festival.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

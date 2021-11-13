@@ -1,0 +1,110 @@
+[
+  {
+    "id": 25823,
+    "title": "The Great Wall",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "MM_greatwal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1191,
+    "title": "Nowhere Near an Angel",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mm_nowheren.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15045,
+    "title": "Tales of Trenzalore",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jr_talesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14971,
+    "title": "Forever Autumn",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mm_forevera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14981,
+    "title": "Ghosts of India",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mm_ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8805,
+    "title": "The Bodysnatchers",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mm_thebodys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16420,
+    "title": "The All-Seeing Eye",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mm_allseein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26451,
+    "title": "New Fears:  New Horror Stories by Masters of the Genre",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mm_newfears.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30261,
+    "title": "New Fears 2",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mm_nefears2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8947,
+    "title": "Deep Blue",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mm.deepblue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30263,
+    "title": "The Predator",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cgmm_thepreda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15721,
+    "title": "Bay of the Dead",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mm_bayofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

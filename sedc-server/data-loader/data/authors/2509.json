@@ -1,0 +1,56 @@
+[
+  {
+    "id": 9660,
+    "title": "Age of Iron",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "aw_ageofiro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12631,
+    "title": "Clash of Iron",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "aw_clashofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24546,
+    "title": "Reign of Iron",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "aw_reignofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24547,
+    "title": "You Die When You Die",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "aw_youdiewh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36477,
+    "title": "The Land You Never Leave",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "aw_landyoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36478,
+    "title": "Where Gods Fear to Go",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "aw_wheregod.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

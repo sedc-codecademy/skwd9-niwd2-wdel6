@@ -1,0 +1,100 @@
+[
+  {
+    "id": 27300,
+    "title": "The Talisman's Trinket",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25838,
+    "title": "Blood and Ivory: A Tapestry:  The Collected Tales of Jamethiel Priest's-Bane",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pch_bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5112,
+    "title": "God Stalk",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pch_godstalk.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5113,
+    "title": "Dark of the Moon",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pch_darkofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5114,
+    "title": "Seeker's Mask",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pch_seekersm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5115,
+    "title": "To Ride a Rathorn",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pch_toridear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5116,
+    "title": "Bound in Blood",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pch_boundinb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5117,
+    "title": "Honor's Paradox",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pch_honorspa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7462,
+    "title": "The Sea of Time",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pch_theseaof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24092,
+    "title": "The Gates of Tagmeth",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pch_gatesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32776,
+    "title": "By Demons Possessed",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pch_bydemons.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

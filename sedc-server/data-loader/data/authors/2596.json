@@ -1,0 +1,47 @@
+[
+  {
+    "id": 35740,
+    "title": "Mission to Methone",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "LJ_MissionM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10095,
+    "title": "Rescue Mode",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bblj_rescuemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10097,
+    "title": "Going Interstellar",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ljjm_goingint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10096,
+    "title": "Back to the Moon",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tstlj_backtoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35741,
+    "title": "On to the Asteroid",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "LJ_OnToAste.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

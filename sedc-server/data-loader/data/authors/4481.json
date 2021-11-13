@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19278,
+    "title": "An Ember in the Ashes",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "st_anemberi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19279,
+    "title": "A Torch Against the Night",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "st_atorchag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28141,
+    "title": "A Reaper at the Gates",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "st_areapera.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5548,
+    "title": "The Immortals of Meluha",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "a_theimmor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5549,
+    "title": "The Secret of the Nagas",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "a_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14090,
+    "title": "The Oath of the Vayuputras",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "a_theoatho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

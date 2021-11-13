@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34241,
+    "title": "The Finisher",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "db_finisher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34242,
+    "title": "The Keeper",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "db_keeper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34243,
+    "title": "The Width of the World",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "db_widthoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34244,
+    "title": "The Stars Below",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "db_starsbel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

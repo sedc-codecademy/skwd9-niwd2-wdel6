@@ -1,0 +1,83 @@
+[
+  {
+    "id": 31531,
+    "title": "Lips Touch: Three Times",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lt_lipstouc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25207,
+    "title": "Night of Cake & Puppets",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lt_nightofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4095,
+    "title": "Daughter of Smoke and Bone",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lt_daughter.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6179,
+    "title": "Days of Blood and Starlight",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lt_daysofbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6761,
+    "title": "Dreams of Gods & Monsters",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lt_dreamsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31529,
+    "title": "Blackbringer",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lt_blackbri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31530,
+    "title": "Silksinger",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lt_silksing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22127,
+    "title": "Strange the Dreamer",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lt_stranget.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28537,
+    "title": "Muse of Nightmares",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "lt_museofni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

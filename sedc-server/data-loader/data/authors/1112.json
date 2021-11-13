@@ -1,0 +1,186 @@
+[
+  {
+    "id": 26143,
+    "title": "City of Ash",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9772,
+    "title": "The Water Knife",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pb_thewater.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7610,
+    "title": "The Doubt Factory",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pb_thedoubt.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28691,
+    "title": "Moriabe's Children",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27858,
+    "title": "Shooting the Apocalypse",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6919,
+    "title": "Zombie Baseball Beatdown",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pb_zombieba.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17585,
+    "title": "The Gambler",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pb_thegambl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32045,
+    "title": "Pump Six",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6205,
+    "title": "Pump Six and Other Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pb_pumpsix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17084,
+    "title": "Small Offerings",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pb_smalloff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17584,
+    "title": "The People of Sand and Slag",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pb_thepeopl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17999,
+    "title": "The Fluted Girl",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pb_theflute.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26144,
+    "title": "Mika Model",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2097,
+    "title": "Ship Breaker",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pb_shipbrea.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4249,
+    "title": "The Drowned Cities",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pb_thedrown.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24810,
+    "title": "Tool of War",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pb_toolofwa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26514,
+    "title": "The Tangled Lands",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pbtsb_thetangl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4463,
+    "title": "The Alchemist",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pb_thealche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1737,
+    "title": "The Windup Girl",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pb_thewindu.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 19706,
+    "title": "Yellow Card Man",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pb_yellowca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19705,
+    "title": "The Calorie Man",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pb_caloriem.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

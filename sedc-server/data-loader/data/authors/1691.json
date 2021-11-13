@@ -1,0 +1,263 @@
+[
+  {
+    "id": 4549,
+    "title": "Terrier",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tp_terrier.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4548,
+    "title": "Bloodhound",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tp_bloodhou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4091,
+    "title": "Mastiff",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tp_mastiff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23206,
+    "title": "Sandry's Book",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tp_sandrysb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23207,
+    "title": "Tris's Book",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tp_trissboo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23208,
+    "title": "Daja's Book",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tp_dajasboo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23209,
+    "title": "Briar's Book",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tp_briarsbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23210,
+    "title": "Magic Steps",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tp_magicste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23211,
+    "title": "Street Magic",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tp_streetma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23212,
+    "title": "Cold Fire",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tp_coldfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23213,
+    "title": "Shatterglass",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tp_shatterg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23214,
+    "title": "The Will of the Empress",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tp_thewillo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23215,
+    "title": "Melting Stones",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tp_meltings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23216,
+    "title": "Battle Magic",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tp_battlema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10172,
+    "title": "Trickster's Choice",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tp_trchoice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10173,
+    "title": "Trickster's Queen",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tp_triqueen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10164,
+    "title": "Wild Magic",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tp_wildmagi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10165,
+    "title": "Wolf-Speaker",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tp_wolfspea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10166,
+    "title": "The Emperor Mage",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tp_emperorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10167,
+    "title": "The Realms of the Gods",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tp_therealm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27439,
+    "title": "Tempests and Slaughter",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tp_tempests.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10168,
+    "title": "First Test",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tp_firsttest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10169,
+    "title": "Page",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tp_page.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10170,
+    "title": "Squire",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tp_squire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10171,
+    "title": "Lady Knight",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tp_ladyknig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10160,
+    "title": "Alanna: The First Adventure",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tp_alannath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10161,
+    "title": "In the Hand of the Goddess",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "tp_inthehan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10162,
+    "title": "The Woman Who Rides Like a Man",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tp_thewoman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10163,
+    "title": "Lioness Rampant",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tp_lionessr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

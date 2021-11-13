@@ -1,0 +1,38 @@
+[
+  {
+    "id": 31735,
+    "title": "The Test",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sn_thetest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18631,
+    "title": "Sleeping Giants",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sn_sleeping.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21347,
+    "title": "Waking Gods",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sn_wakinggo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27327,
+    "title": "Only Human",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sn_onlyhuma.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": 22723,
+    "title": "Mormama",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kr_mormama.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12083,
+    "title": "Where",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kr_where.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7664,
+    "title": "The Story Until Now:  A Great Big Book of Stories",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kr_thestory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12084,
+    "title": "Enclave",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kr_enclave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12085,
+    "title": "The Night Children",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kr_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12086,
+    "title": "The Baby Merchant",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kr_thebabym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22761,
+    "title": "Dogs of Truth: New and Uncollected Stories",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kr_dogsoftr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12087,
+    "title": "Thinner Than Thou",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "kr_thinnert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22762,
+    "title": "Yard Sale",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12088,
+    "title": "@expectations",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kr_expectat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7670,
+    "title": "Weird Women, Wired Women ",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kr_weirdwom.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23982,
+    "title": "The Singing Marine",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13888,
+    "title": "Little Sisters of the Apocalypse",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "KR_LittleSi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16120,
+    "title": "The Bride of Bigfoot",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7696,
+    "title": "Other Stories and . . .The Attack of the Giant Baby",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "KR_OtherSto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8905,
+    "title": "Armed Camps",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "KR_ArmedCam.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

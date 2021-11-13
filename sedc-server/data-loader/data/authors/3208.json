@@ -1,0 +1,20 @@
+[
+  {
+    "id": 12298,
+    "title": "The Picture of Dorian Gray",
+    "year": 1891,
+    "type": "novel",
+    "imageName": "ow_thepictu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25064,
+    "title": "The Canterville Ghost",
+    "year": 1887,
+    "type": "novel",
+    "imageName": "OW_TheCante.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

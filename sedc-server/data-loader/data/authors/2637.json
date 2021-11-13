@@ -1,0 +1,182 @@
+[
+  {
+    "id": 10341,
+    "title": "Blast off at Woomera",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "hw_blastoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10342,
+    "title": "The Domes of Pico",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "hw_thedomes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10343,
+    "title": "Operation Columbus",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "hw_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10344,
+    "title": "Moon Base One",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "hw_moonbase.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10345,
+    "title": "Expedition Venus",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "hw_expediti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10346,
+    "title": "Destination Mars",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "hw_destinati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10347,
+    "title": "Terror by Satellite",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "hw_terrorby.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10348,
+    "title": "Journey to Jupiter",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "hw_journeyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10349,
+    "title": "Mission to Mercury",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "hw_missiont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10350,
+    "title": "Spaceship to Saturn",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "hw_spaceshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10351,
+    "title": "The Mohole Mystery",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "hw_themohol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10352,
+    "title": "Nearly Neptune",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "hw_nearlyne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10353,
+    "title": "First Contact?",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "hw_firstcon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10354,
+    "title": "Passage to Pluto",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "hw_passaget.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10355,
+    "title": "Tony Hale, Space Detective",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "hw_tonyhale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10356,
+    "title": "Murder on Mars",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "hw_murderon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10357,
+    "title": "The Caves of Drach",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "hw_thecaves.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10358,
+    "title": "The Last Disaster",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "hw_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10359,
+    "title": "The Blue Aura",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "hw_thebluea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10360,
+    "title": "The Dark Triangle",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "hw_thedarkt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

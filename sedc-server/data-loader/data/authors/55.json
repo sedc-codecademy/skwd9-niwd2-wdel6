@@ -1,0 +1,254 @@
+[
+  {
+    "id": 20652,
+    "title": "Last Year",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rcw_lastyear.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11599,
+    "title": "The Affinities",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rcw_theaffin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5939,
+    "title": "Burning Paradise",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rcw_burningp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22830,
+    "title": "Fireborn",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28874,
+    "title": "This Peaceable Land; or, The Unbearable Vision of Harriet Beecher Stowe",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26309,
+    "title": "Utriusque Cosmi",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19837,
+    "title": "The Cartesian Theater",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 54,
+    "title": "Blind Lake",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rcw_blindlak.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 62,
+    "title": "The Chronoliths",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "rcw_thechron.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 32717,
+    "title": "The Dryad's Wedding",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27390,
+    "title": "The Great Goodbye",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17101,
+    "title": "The Perseids and Other Stories",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rcw_theperse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12092,
+    "title": "Bios",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rcw_bios.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 377,
+    "title": "Darwinia",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rcw_darwinia.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 17102,
+    "title": "Divided by Infinity",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23999,
+    "title": "The Inner Inner City",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18646,
+    "title": "The Perseids",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 507,
+    "title": "Mysterium",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rcw_mysteriu.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 12702,
+    "title": "The Harvest",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rcw_theharve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 524,
+    "title": "A Bridge of Years",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rcw_bridgeof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12095,
+    "title": "The Divide",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rcw_divide.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12094,
+    "title": "Gypsies",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rcw_gypsies.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12093,
+    "title": "Memory Wire",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rcw_memorywi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 553,
+    "title": "A Hidden Place",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "rcw_ahiddenp.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 14666,
+    "title": "Julian: A Christmas Story",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rcw_julianac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1711,
+    "title": "Julian Comstock:  A Story of 22nd-Century America",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rcw_julianco.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 812,
+    "title": "Spin",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rcw_spin.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 1054,
+    "title": "Axis",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rcw_axis.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4068,
+    "title": "Vortex",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rcw_vortex.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

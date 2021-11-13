@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14204,
+    "title": "Last Song Before Night",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ICM_lastsong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28035,
+    "title": "Fire Dance",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "icm_firedanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36352,
+    "title": "The Poet King",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "icm_thepoetk.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

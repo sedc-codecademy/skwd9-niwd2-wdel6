@@ -1,0 +1,164 @@
+[
+  {
+    "id": 6182,
+    "title": "The Black Opera",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mg_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 681,
+    "title": "1610: A Sundial in a Grave",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mg_1610asun.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6664,
+    "title": "Cartomancy",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mg_cartoman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12907,
+    "title": "Worlds That Weren't",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "htsmsmgwjw_worldstha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6859,
+    "title": "Grunts!",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mg_grunts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 574,
+    "title": "Ash: A Secret History",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mg_ashasecr.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 13944,
+    "title": "A Secret History",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "MG_asecreth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13945,
+    "title": "Carthage Ascendant",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "MG_carthage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13946,
+    "title": "The Wild Machines",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "MG_wildmach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13947,
+    "title": "Lost Burgundy",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "MG_lostburg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6789,
+    "title": "Orthe:  Chronicles of Carrick V ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mg_orthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1071,
+    "title": "Golden Witchbreed",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mg_goldenwi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6788,
+    "title": "Ancient Light",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mg_ancientl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6666,
+    "title": "Ilario:  The Lion's Eye",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mg_ilario.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6791,
+    "title": "White Crow",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mg_whitecro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 627,
+    "title": "Rats and Gargoyles",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mg_ratsandg.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1078,
+    "title": "The Architecture of Desire",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mg_thearchi.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6790,
+    "title": "Left to His Own Devices",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mg_lefttohi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

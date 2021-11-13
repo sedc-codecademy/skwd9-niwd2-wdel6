@@ -1,0 +1,92 @@
+[
+  {
+    "id": 10829,
+    "title": "The Melancholy of Haruhi Suzumiya",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "NT_melancho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10830,
+    "title": "The Sigh of Haruhi Suzumiya",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "NT_harusigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10831,
+    "title": "The Boredom of Haruhi Suzumiya",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "NT_boredom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10832,
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "NT_disappea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10833,
+    "title": "The Rampage of Haruhi Suzumiya",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "NT_rampage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10834,
+    "title": "The Wavering of Haruhi Suzumiya",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "NT_wavering.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10835,
+    "title": "The Intrigues of Haruhi Suzumiya",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "NT_intrigue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10836,
+    "title": "The Indignation of Haruhi Suzumiya",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "NT_indignat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10837,
+    "title": "The Dissociation of Haruhi Suzumiya",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "NT_dissocia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10838,
+    "title": "The Surprise of Haruhi Suzumiya",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "NT_surprise.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

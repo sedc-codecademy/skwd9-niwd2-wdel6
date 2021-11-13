@@ -1,0 +1,47 @@
+[
+  {
+    "id": 13101,
+    "title": "Unity",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sh_unity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14368,
+    "title": "Dreamer",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sh_dreamer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14369,
+    "title": "Nightmare",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sh_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14370,
+    "title": "Trickster",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sh_trickste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14371,
+    "title": "Offspring",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sh_offsprin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

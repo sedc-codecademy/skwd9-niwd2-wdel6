@@ -1,0 +1,164 @@
+[
+  {
+    "id": 26768,
+    "title": "The Grey Knights Omnibus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bc_thegreyk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26762,
+    "title": "Grey Knights",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bc_greyknig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26763,
+    "title": "Dark Adeptus",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bc_darkadep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26764,
+    "title": "Hammer of Daemons",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bc_hammerof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3270,
+    "title": "Galaxy in Flames: The heresy revealed",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bc_galaxyin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3275,
+    "title": "Battle for the Abyss: My brother, my enemy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bc_battlefo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26406,
+    "title": "Soul Drinkers",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bc_souldrinkers2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26405,
+    "title": "The Soul Drinkers Omnibus",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bc_souldrinkers1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26399,
+    "title": "Soul Drinker",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bc_souldrink.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26400,
+    "title": "The Bleeding Chalice",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "bc_thebleed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26401,
+    "title": "Crimson Tears",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bc_crimsont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26402,
+    "title": "Chapter War",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bc_chapterw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26403,
+    "title": "Hellforged",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bc_hellforg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26404,
+    "title": "Phalanx",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bc_phalanx.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26547,
+    "title": "Malodrax",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bc_malodrax.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26548,
+    "title": "The World Engine",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bc_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26283,
+    "title": "Cassius",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bc_cassius.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15493,
+    "title": "Van Horstmann",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bc_vanhorst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

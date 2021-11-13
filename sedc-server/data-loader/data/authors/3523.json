@@ -1,0 +1,38 @@
+[
+  {
+    "id": 14207,
+    "title": "The Book of Lost Things",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "JC_booklost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14209,
+    "title": "Nocturnes",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "JC_nocturne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14208,
+    "title": "Night Music:  Nocturnes Volume Two",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JC_nightmus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36098,
+    "title": "The Gates",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "JC_TheGates.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 31437,
+    "title": "Letters",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kv_letter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24286,
+    "title": "Vonnegut: Novels & Stories, 1963-1973",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kv_19631973.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20210,
+    "title": "Armageddon in Retrospect",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kv_armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11157,
+    "title": "Timequake",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "KV_timequ1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 438,
+    "title": "Galapagos",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "kv_galapago.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34082,
+    "title": "Deadeye Dick",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "kvj_deadeyed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34081,
+    "title": "Slapstick or Lonesome No More!",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "kv_slapstic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21051,
+    "title": "Breakfast of Champions",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "kv_breakfas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 339,
+    "title": "Slaughterhouse-Five",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "kv_slaughte.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3294,
+    "title": "Welcome to the Monkey House",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "kv_welcomet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 315,
+    "title": "Cat's Cradle",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "kv_catscrad.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36151,
+    "title": "Harrison Bergeron",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "KV_Harrison.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 301,
+    "title": "The Sirens of Titan",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "kv_thesiren.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2122,
+    "title": "Player Piano",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "kv_playerpi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

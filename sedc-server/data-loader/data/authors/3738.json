@@ -1,0 +1,83 @@
+[
+  {
+    "id": 15410,
+    "title": "Evermeet: Island of Elves",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ec_evermeet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15394,
+    "title": "The Magehound",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ec_themageh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15395,
+    "title": "The Floodgate",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ec_theflood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15396,
+    "title": "The Wizardwar",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ec_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15391,
+    "title": "Daughter of the Drow",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ec_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15392,
+    "title": "Tangled Webs",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ec_tangledw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15393,
+    "title": "Windwalker",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ec_windwalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15548,
+    "title": "The City of Splendors",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "egec_tcosplen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15963,
+    "title": "Dark Journey",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ec_darkjour.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

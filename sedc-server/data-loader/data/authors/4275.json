@@ -1,0 +1,133 @@
+[
+  {
+    "id": 17771,
+    "title": "Kaleidoscope",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17768,
+    "title": "Born-Again",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17769,
+    "title": "Tall One",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17770,
+    "title": "Burning Bright",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17778,
+    "title": "The Imperium Game",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "kdw_theimper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17776,
+    "title": "Black on Black",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "kdw_blackonb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17777,
+    "title": "Stars Over Stars",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kdw_starsove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17772,
+    "title": "Moonspeaker",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "kdw_moonspea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17773,
+    "title": "House of Moons",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "kdw_houseofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17774,
+    "title": "The Course of Empire",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "efkdw_thecours.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17775,
+    "title": "The Crucible of Empire",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "efkdw_thecruci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24871,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XXV",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kdw_wotfut25.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24872,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XXVI",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kdw_wotfut26.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24873,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XXVII",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kdw_wotfut27.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24874,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XXVIII",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kdw_wotfut28.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

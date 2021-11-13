@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32216,
+    "title": "Shadow's Son",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "SMS_ShadowsS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32218,
+    "title": "Lion's Heart",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "KW_LionsHea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32219,
+    "title": "Lion's Soul",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "KW_LionsSou.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

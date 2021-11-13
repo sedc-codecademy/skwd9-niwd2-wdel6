@@ -1,0 +1,92 @@
+[
+  {
+    "id": 8719,
+    "title": "Hollow World",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mjs_hollowwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18914,
+    "title": "Age of Myth",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mjs_ageofmyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24497,
+    "title": "Age of Swords",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mjs_ageofswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27079,
+    "title": "Age of War",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mjs_ageofwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35126,
+    "title": "Age of Legend",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mjs_ageofleg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5526,
+    "title": "The Crown Tower",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mjs_thecrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5529,
+    "title": "The Rose and the Thorn",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mjs_therosea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3741,
+    "title": "Theft of Swords",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mjs_theftofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3742,
+    "title": "Rise of Empire",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mjs_riseofem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3743,
+    "title": "Heir of Novron",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mjs_heirofno.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

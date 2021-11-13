@@ -1,0 +1,189 @@
+[
+  {
+    "id": 25947,
+    "title": "Ancient Echoes",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rh_annciente.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24297,
+    "title": "The Bone Forest",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rh_theboneforest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26081,
+    "title": "The Fetch",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rh_thefetch.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23502,
+    "title": "The Ragthorn",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23436,
+    "title": "Mythago Wood",
+    "year": 1981,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1113,
+    "title": "Where Time Winds Blow",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rh_wheretim.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24881,
+    "title": "Eye Among the Blind",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "rh_eyeamong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25983,
+    "title": "Celtika",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "rh_celtika.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25984,
+    "title": "The Iron Grail",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rh_theirong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25985,
+    "title": "The Broken Kings",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rh_thebroke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 940,
+    "title": "Mythago Wood",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rh_mythagow.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1076,
+    "title": "Lavondyss",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rh_lavondys.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1576,
+    "title": "The Bone Forest (novella)",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rh_thebonef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1577,
+    "title": "The Hollowing",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rh_thehollo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1578,
+    "title": "Merlin's Wood",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rh_merlinsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1162,
+    "title": "Gate of Ivory, Gate of Horn",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rh_gateofiv.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1579,
+    "title": "Avilion",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rh_avilion.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22084,
+    "title": "Other Edens",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cerh_othere1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22087,
+    "title": "Other Edens II",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cerh_othere2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22088,
+    "title": "Other Edens III",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cerh_othere3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11928,
+    "title": "Swordsmistress of Chaos",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "rh_swordsmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

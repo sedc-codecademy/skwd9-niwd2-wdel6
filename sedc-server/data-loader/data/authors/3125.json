@@ -1,0 +1,83 @@
+[
+  {
+    "id": 28726,
+    "title": "Timeshadow Rider",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "am_timeshad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28724,
+    "title": "The Jaws of Menx",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "am_thejawso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28722,
+    "title": "Name of a Shadow",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "am_nameofas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28720,
+    "title": "A Dead God Dancing",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "am_adeadgod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28718,
+    "title": "The Singer Enigma",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "am_thesinge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28716,
+    "title": "Change",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "am_change.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12020,
+    "title": "Fire Dancer",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "am_firedanc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12021,
+    "title": "Dancer's Luck",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "am_dancersl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12022,
+    "title": "Dancer's Illusion",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "am_dillusio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

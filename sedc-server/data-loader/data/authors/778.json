@@ -1,0 +1,269 @@
+[
+  {
+    "id": 23603,
+    "title": "The Process (Is a Process All Its Own)",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ps_theproce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18928,
+    "title": "Interior Darkness:  Selected Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ps_interior.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12194,
+    "title": "Perdido: A Fragment ",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ps_perdido.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26134,
+    "title": "The Ballad of Ballard and Sandrine",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ps_theballa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2589,
+    "title": "A Dark Matter",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ps_adarkmat.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23451,
+    "title": "Poe's Children:  The New Horror: An Anthology",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ps_poeschil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3582,
+    "title": "In The Night Room",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ps_inthenig.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1182,
+    "title": "Lost Boy Lost Girl",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ps_lostboyl.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23531,
+    "title": "Magic Terror:  Seven Tales",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ps_magicter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1173,
+    "title": "Mr. X",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ps_mrx.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23565,
+    "title": "Mr. Clubb and Mr. Cuff",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1151,
+    "title": "The Hellfire Club",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ps_thehellf.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24335,
+    "title": "Peter Straub's Ghosts",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ps_psghosts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23530,
+    "title": "Fee",
+    "year": 1994,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23527,
+    "title": "The Ghost Village",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24608,
+    "title": "Houses Without Doors",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ps_housewit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26080,
+    "title": "Mrs. God",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ps_mrsgod.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1134,
+    "title": "Floating Dragon",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ps_floating.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 954,
+    "title": "Shadowland",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ps_shadowla.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4623,
+    "title": "Ghost Story",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ps_ghoststo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10803,
+    "title": "Julia",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ps_julia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7279,
+    "title": "American Fantastic Tales:  Terror and the Uncanny from Poe to the Pulps",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ps_americanvol1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7280,
+    "title": "American Fantastic Tales:  Terror and the Uncanny from the 1940's to Now",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ps_americanvol2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7186,
+    "title": "The Juniper Tree and Other Blue Rose Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ps_thejunip.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 921,
+    "title": "Koko",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ps_koko.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7187,
+    "title": "Mystery",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ps_mystery.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 912,
+    "title": "The Throat",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ps_thethroa.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 16134,
+    "title": "Conjunctions 39:  The New Wave Fabulists",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bmps_conjunct.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 779,
+    "title": "The Talisman",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "skps_thetalis.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3572,
+    "title": "Black House",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "skps_blackhou.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

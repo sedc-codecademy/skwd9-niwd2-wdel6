@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20524,
+    "title": "The Crimson Sword",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "et_thecrims.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20525,
+    "title": "The Obsidian Key",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "et_theobsid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20526,
+    "title": "The Divine Talisman",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "et_thedivin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2114,
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "year": 1889,
+    "type": "novel",
+    "imageName": "mt_aconnect.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17352,
+    "title": "A Ghost Story",
+    "year": 1875,
+    "type": "novel",
+    "imageName": "mt_aghostst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10431,
+    "title": "Tales of Wonder",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "MT_talesofw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11707,
+    "title": "Extract from Captain Stormfield's Visit to Heaven",
+    "year": 1909,
+    "type": "novel",
+    "imageName": "MT_extract.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

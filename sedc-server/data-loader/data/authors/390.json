@@ -1,0 +1,191 @@
+[
+  {
+    "id": 392,
+    "title": "Untied Kingdom",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jl_unitedki.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 596,
+    "title": "Days",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jl_days.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27658,
+    "title": "Escardy Gap",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pcjl_escardyg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9546,
+    "title": "World of Fire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jl_worldoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18923,
+    "title": "World of Water",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jl_worldofw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27983,
+    "title": "Big Damn Hero",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "NH_bigdamnh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31409,
+    "title": "The Magnificent Nine",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JL_magnifi9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35298,
+    "title": "The Ghost Machine",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "JL_ghostmac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3973,
+    "title": "Redlaw",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jl_redlaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4720,
+    "title": "Redlaw:  Red Eye",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jl_redeye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4953,
+    "title": "Age of Anansi",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jl_ageofana.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1857,
+    "title": "The Age of Ra",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jl_theageof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2756,
+    "title": "The Age of Zeus",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jl_ageofzeu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2757,
+    "title": "The Age of Odin",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jl_ageofodi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3974,
+    "title": "Age of Aztec",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jl_ageofazt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4954,
+    "title": "The Age of Voodoo",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jl_ageofvoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6482,
+    "title": "Age of Shiva",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jl_ageofshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19526,
+    "title": "Age of Heroes",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jl_ageofher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27050,
+    "title": "Sherlock Holmes and the Shadwell Shadows",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jl_shatshad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27051,
+    "title": "Sherlock Holmes and the Miskatonic Monstrosities",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jl_shatmisk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30291,
+    "title": "Sherlock Holmes and the Sussex Sea-Devils",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jl_seadevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

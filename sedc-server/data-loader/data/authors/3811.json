@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15758,
+    "title": "The Howling Delve",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jj_thehowli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15747,
+    "title": "Unbroken Chain",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jj_unbroken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15748,
+    "title": "The Darker Road",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jj_thedarke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15762,
+    "title": "Mistshore",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jj_mistshor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

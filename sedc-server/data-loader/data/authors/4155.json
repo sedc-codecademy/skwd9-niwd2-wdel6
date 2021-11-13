@@ -1,0 +1,20 @@
+[
+  {
+    "id": 17272,
+    "title": "East",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "EP_east.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35261,
+    "title": "West",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "EP_West.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

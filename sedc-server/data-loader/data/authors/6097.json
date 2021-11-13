@@ -1,0 +1,65 @@
+[
+  {
+    "id": 32498,
+    "title": "For King & Country",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RA_ForKinga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32497,
+    "title": "Far Edge of Darkness",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "LE_FarEdgeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32496,
+    "title": "Sleipnir",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "LE_Sleipnir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32495,
+    "title": "The Road to Damascus",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "JR_RoadtoDa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34361,
+    "title": "The Triumphant",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dw_triumpha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32499,
+    "title": "Hell's Gate",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "DW_HellsGat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32500,
+    "title": "Hell Hath No Fury",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DW_HellHath.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

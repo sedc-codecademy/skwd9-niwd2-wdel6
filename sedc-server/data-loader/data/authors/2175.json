@@ -1,0 +1,65 @@
+[
+  {
+    "id": 8059,
+    "title": "The Face in the Frost",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_thefacei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34988,
+    "title": "The House With a Clock in its Walls",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "JB_TheHouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34991,
+    "title": "The Figure in the Shadows",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "JB_figurein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34992,
+    "title": "The Letter, the Witch, and the Ring",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "JB_thelette.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34993,
+    "title": "The Ghost in the Mirror",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "JB_ghostint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34998,
+    "title": "The Vengeance of the Witch-Finder",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "JB_vengeanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34999,
+    "title": "The Doom of the Haunted Opera",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "JB_doomhaun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

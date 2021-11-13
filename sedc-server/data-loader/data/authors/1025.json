@@ -1,0 +1,20 @@
+[
+  {
+    "id": 24374,
+    "title": "Punktown",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jt_punktown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1053,
+    "title": "Deadstock",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jt_deadstoc.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 21216,
+    "title": "Across Time / Invaders From Earth",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_acrossti_invaders.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21083,
+    "title": "Edge of Time / The 100th Millennium",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_edgeofti_the100th.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21085,
+    "title": "The Atlantic Abomination / The Martian Missile",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_theatlan_themarti.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21113,
+    "title": "Times Without Number / Destiny's Orbit",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_timeswit_destinys.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21555,
+    "title": "Invader on My Back / Destination: Saturn",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_invadero_destinat.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21728,
+    "title": "To Venus! To Venus! / The Jester at Scar",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_tovenust_thejeste.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

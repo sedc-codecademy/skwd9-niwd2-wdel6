@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34713,
+    "title": "Hell Bound",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "AW_hellbo19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34714,
+    "title": "Hell Hounds",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AW_hellho21.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34715,
+    "title": "Hell Gate",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "AW_hellga23.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

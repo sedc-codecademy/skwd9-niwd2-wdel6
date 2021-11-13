@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25567,
+    "title": "The Courier",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gb_thecouri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25568,
+    "title": "The Operative",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gb_theopera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25569,
+    "title": "The Rebel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gb_therebel.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

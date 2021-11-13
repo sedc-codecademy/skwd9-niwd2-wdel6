@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24981,
+    "title": "The Best of Electric Velocipede",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jk_tboelect.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24979,
+    "title": "Happily Ever After",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jk_happilye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24980,
+    "title": "Logorrhea: Good Words Make Good Stories",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jk_logorrhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

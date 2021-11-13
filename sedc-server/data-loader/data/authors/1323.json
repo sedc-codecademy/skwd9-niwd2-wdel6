@@ -1,0 +1,56 @@
+[
+  {
+    "id": 20094,
+    "title": "Avery Cates:  The Walled City",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "js_thewalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2527,
+    "title": "The Electric Church",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_theelect.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2528,
+    "title": "The Digital Plague",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "js_thedigit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2529,
+    "title": "The Eternal Prison",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_theetern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2526,
+    "title": "The Terminal State",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_thertermi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2530,
+    "title": "The Final Evolution",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "js_thefinal.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

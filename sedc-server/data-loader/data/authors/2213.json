@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8247,
+    "title": "The Ring of Five Dragons ",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "evl_theringo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8248,
+    "title": "The Veil of a Thousand Tears ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "evl_theveilo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8249,
+    "title": "The Cage of Nine Banestones (Mistress of the Pearl)",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "evl_thecageo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

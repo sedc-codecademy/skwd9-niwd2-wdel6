@@ -1,0 +1,92 @@
+[
+  {
+    "id": 32827,
+    "title": "Devouring Dark",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ab_devourin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27570,
+    "title": "Hidden City",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ab_hiddenci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34539,
+    "title": "Manifest Recall",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ab_manifest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26001,
+    "title": "The Book Club",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ab_bookclub.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34540,
+    "title": "Crow Shine",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ab_crowshin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11916,
+    "title": "Bound",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ab_bound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11917,
+    "title": "Obsidian",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ab_obsidian.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11918,
+    "title": "Abduction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ab_abductio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34541,
+    "title": "RealmShift",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ab_realmshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34542,
+    "title": "MageSign",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ab_magesign.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

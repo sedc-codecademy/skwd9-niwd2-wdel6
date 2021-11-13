@@ -1,0 +1,92 @@
+[
+  {
+    "id": 8803,
+    "title": "The Eight Doctors",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "td_theeight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8864,
+    "title": "Endgame",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "td_Endgame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9167,
+    "title": "Timewyrm: Exodus",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "td_timewyrm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10240,
+    "title": "Blood Harvest",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "td_bloodhar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10277,
+    "title": "Shakedown",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "td_shakedow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8933,
+    "title": "Catastrophea",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "td_catastro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8948,
+    "title": "Players",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "td_players.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9088,
+    "title": "Warmonger",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "td_warmonge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9099,
+    "title": "Deadly Reunion",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tdbl_deadlyre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9110,
+    "title": "World Game",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "td_worldgam.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

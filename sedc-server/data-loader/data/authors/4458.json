@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19163,
+    "title": "Dark Run",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mb_darkrun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19164,
+    "title": "Dark Sky",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mb_darksky.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24437,
+    "title": "Dark Deeds",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mb_darkdeed.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

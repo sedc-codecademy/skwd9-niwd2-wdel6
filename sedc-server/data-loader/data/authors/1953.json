@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5378,
+    "title": "Married with Zombies",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jp_marriedw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5379,
+    "title": "Flip this Zombie",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jp_flipthis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5380,
+    "title": "Eat Slay Love",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jp_eatslayl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

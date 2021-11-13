@@ -1,0 +1,145 @@
+[
+  {
+    "id": 16235,
+    "title": "The Lady of the Ice Garden",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32298,
+    "title": "Genpei",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "KD_Genpei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13675,
+    "title": "Euryale",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "kd_euryale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25964,
+    "title": "Goa",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kd_goa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25965,
+    "title": "Bijapur",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "kd_bijapur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25966,
+    "title": "Bhagavati",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kd_bhagavat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32299,
+    "title": "Little Sister",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "KD_LittleSi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32300,
+    "title": "The Heavenward Path",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "KD_Heavenwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22201,
+    "title": "The Curse of Sagamore",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kd_thecurse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22202,
+    "title": "The Sword of Sagamore",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kd_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35475,
+    "title": "Steel Rose",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "KD_SteelRos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35476,
+    "title": "Crystal Sage",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "KD_CrystalS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5629,
+    "title": "The Nightingale",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "kd_thenight.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22203,
+    "title": "Ascension",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kd_ascensio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22204,
+    "title": "Reunion",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kd_reunion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22205,
+    "title": "Transformation",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kd_transfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3317,
+    "title": "Watership Down",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ra_watershi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1119,
+    "title": "Shardik",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ra_shardik.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25863,
+    "title": "Maia",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ra_maia.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

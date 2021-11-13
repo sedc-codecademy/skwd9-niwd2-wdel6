@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13517,
+    "title": "The Different Girl",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gd_thediffe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5723,
+    "title": "The Glass Books of the Dream Eaters",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gwd_theglass.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5724,
+    "title": "The Dark Volume",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gwd_thedarkv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5725,
+    "title": "The Chemickal Marriage",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gwd_thechemi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

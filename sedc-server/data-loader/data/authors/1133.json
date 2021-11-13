@@ -1,0 +1,226 @@
+[
+  {
+    "id": 7620,
+    "title": "The Haunter of the Ring and Other Tales",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "reh_thehaunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8758,
+    "title": "The Right Hand of Doom & Other Tales of Solomon Kane",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "reh_theright.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23435,
+    "title": "The Complete Chronicles of Conan: Centenary Edition",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rh_thecompl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35163,
+    "title": "Bran Mak Morn:  The Last King",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "REH_BranMacM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26760,
+    "title": "Skull-Face and Others",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "REH_skullfac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31565,
+    "title": "Pigeons from Hell",
+    "year": 1938,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21357,
+    "title": "The Sword of Rhiannon / Conan the Conqueror",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "ad_thesword_conanthe.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22027,
+    "title": "The Iron Man with The Adventures of Dennis Dorgan",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "reh_ad37365.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13321,
+    "title": "Nameless Cults:  The Cthulhu Mythos Fiction of Robert E. Howard",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "RH_nameless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25264,
+    "title": "Conan",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rehlsdclc_conan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4340,
+    "title": "Conan the Conqueror",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "reh_conanthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25194,
+    "title": "Tales of Conan",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "rehlsdc_talesofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25263,
+    "title": "Conan the Adventurer",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "rehlsdc_ctadvent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25265,
+    "title": "Conan the Usurper",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rehlsdc_ctusurpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25266,
+    "title": "Conan the Avenger",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rehbnlsdc_ctavenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25198,
+    "title": "Conan the Wanderer",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rehlsdclc_ctwander.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25267,
+    "title": "Conan the Freebooter",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rehlsdc_ctfreebo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25268,
+    "title": "Conan of Cimmeria",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "rehlsdclc_cocimmer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25269,
+    "title": "Conan: The Treasure of Tranicos",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rehlsdc_thetreas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25270,
+    "title": "Conan: The Flame Knife",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rehlsdc_theflame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1789,
+    "title": "The Conan Chronicles, Volume 1:  The People of the Black Circle",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "reh_theconan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1794,
+    "title": "The Conan Chronicles, Volume 2:  The Hour of the Dragon",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "reh_thehouro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14285,
+    "title": "Tigers of the Sea",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "reh_tigersof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26876,
+    "title": "King Kull",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rehlc_kingkull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8372,
+    "title": "Almuric",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "reh_almuric.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

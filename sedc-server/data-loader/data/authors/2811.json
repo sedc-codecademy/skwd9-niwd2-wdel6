@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24386,
+    "title": "Sea of Rust",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "crc_seaofrus.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11060,
+    "title": "Dreams and Shadows:  A Novel",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RC_dreamsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11061,
+    "title": "Queen of the Dark Things:  A Novel",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "RC_queendar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

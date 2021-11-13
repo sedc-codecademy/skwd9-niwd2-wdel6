@@ -1,0 +1,65 @@
+[
+  {
+    "id": 9982,
+    "title": "Marina",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "crz_marina.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9976,
+    "title": "The Shadow of the Wind",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "crz_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9977,
+    "title": "The Angel's Game",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "crz_angelsga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9978,
+    "title": "The Prisoner of Heaven",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "crz_thepriso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9979,
+    "title": "The Prince of Mist",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "crz_theprinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9980,
+    "title": "The Midnight Palace",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "crf_themidni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9981,
+    "title": "The Watcher in the Shadows",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "crz_thewatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

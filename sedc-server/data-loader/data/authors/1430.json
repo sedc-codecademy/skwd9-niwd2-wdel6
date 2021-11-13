@@ -1,0 +1,110 @@
+[
+  {
+    "id": 28082,
+    "title": "Young Zaphod Plays It Safe",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jrrc_youngzaph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3393,
+    "title": "Dirk Gently's Holistic Detective Agency",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "da_dirkgent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3394,
+    "title": "The Long Dark Tea-Time of the Soul",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "da_thelongd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7271,
+    "title": "The Salmon of Doubt",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "da_salmonof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28083,
+    "title": "The Ultimate Hitchhiker's Guide to the Galaxy",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "DA_theultim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3017,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "da_thehitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3018,
+    "title": "The Restaurant at the End of the Universe",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "da_theresta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3019,
+    "title": "Life, the Universe and Everything",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "da_lifetheu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3020,
+    "title": "So Long, and Thanks for All the Fish",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "da_solongan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3021,
+    "title": "Mostly Harmless",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "da_mostlyha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22902,
+    "title": "City of Death",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "da&jg_cityofde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23513,
+    "title": "Shada: The Lost Adventures by Douglas Adams",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "da&gr_shada.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10945,
+    "title": "The Book of Cthulhu",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RL_cthulhu1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10946,
+    "title": "The Book of Cthulhu 2",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RL_cthulhu2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

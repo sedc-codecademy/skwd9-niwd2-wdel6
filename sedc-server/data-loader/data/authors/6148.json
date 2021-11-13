@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32838,
+    "title": "Crystalline Space",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "akdb_crystall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32839,
+    "title": "A Light in the Dark",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "akdb_alightin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32840,
+    "title": "Masters of Fate",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "akdb_masterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

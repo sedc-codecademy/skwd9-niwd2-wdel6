@@ -1,0 +1,45 @@
+[
+  {
+    "id": 28994,
+    "title": "Blight",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ad_blight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28993,
+    "title": "Rampion",
+    "year": 2011,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28966,
+    "title": "Amor Fugit",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11239,
+    "title": "Salvage",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ad_salvage.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14195,
+    "title": "Sound",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ad_sound.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

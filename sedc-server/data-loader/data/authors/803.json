@@ -1,0 +1,944 @@
+[
+  {
+    "id": 13145,
+    "title": "Carbide Tipped Pens:  Seventeen Tales of Hard Science Fiction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bbec_carbidet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13133,
+    "title": "New Frontiers: A Collection of Tales About the Past, the Present, and the Future",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bb_newfront.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10095,
+    "title": "Rescue Mode",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bblj_rescuemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6608,
+    "title": "Transhuman ",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bb_transhum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31390,
+    "title": "Mars, Inc.",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bb_marsinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1875,
+    "title": "Abel One",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bb_abelone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1876,
+    "title": "The Hittite",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bb_thehitti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1877,
+    "title": "Laugh Lines",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bb_laughlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10099,
+    "title": "The Green Trap",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bb_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13161,
+    "title": "Hour of the Gremlins",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "grdbb_hourofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26987,
+    "title": "Mount Olympus",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13134,
+    "title": "Twice Seven",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "bb_twicesev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1874,
+    "title": "The Immortality Factor (Brothers)",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "bb_theimmor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13120,
+    "title": "Death Dream",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bb_deathdre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13144,
+    "title": "Future Quartet: Earth in the Year 2042: A Four-Part Invention",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bbfpjpcs_furureq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17654,
+    "title": "Inspiration",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13135,
+    "title": "Challenges",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "bb_challeng.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13121,
+    "title": "Triumph",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "bb_triumph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13153,
+    "title": "The Trikon Deception",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bbbp_thetriko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13138,
+    "title": "Future Crime",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "bb_futurecr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13160,
+    "title": "The Best of the Nebulas",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "bb_tbotnebu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13126,
+    "title": "Cyberbooks",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "bb_cyberboo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13122,
+    "title": "Peacekeepers",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "bb_peacekee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13139,
+    "title": "Battle Station",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "bb_battlest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23990,
+    "title": "Prometheans",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "bb_promethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13140,
+    "title": "The Astral Mirror",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bb_theastra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1543,
+    "title": "Privateers",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bb_privatee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13141,
+    "title": "Escape Plus",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "bb_escapepl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13123,
+    "title": "Test of Fire",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "bb_testoffi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18186,
+    "title": "The Best of Analog",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bb_tboanalo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 800,
+    "title": "Colony",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bb_colony.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13142,
+    "title": "Maxwell's Demons",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bb_maxwells.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13125,
+    "title": "City of Darkness",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bb_cityofda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13124,
+    "title": "The Multiple Man",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bb_themulti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13127,
+    "title": "The Starcrossed",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bb_starcros.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13136,
+    "title": "Gremlins, Go Home!",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bbgrd_gremlins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13143,
+    "title": "Forward in Time",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bb_forwardi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13128,
+    "title": "When the Sky Burned",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bb_whenthes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13129,
+    "title": "The Winds of Altair",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bb_thewinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9722,
+    "title": "As On a Darkling Plain",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "bb_asonadar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13159,
+    "title": "The Many Worlds of Science Fiction",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bb_themanyw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13130,
+    "title": "THX 1138",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bb_thx1138.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20425,
+    "title": "Brillo",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13131,
+    "title": "Escape!",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "bb_escape.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13132,
+    "title": "Out of the Sun",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "bb_outofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18204,
+    "title": "Analog 9",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "BB_Analog9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19487,
+    "title": "The Best of Bova: Volume I",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bb_tbbbvol1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19488,
+    "title": "The Best of Bova: Volume II",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bb_tbbbvol2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23989,
+    "title": "The Best of Bova: Volume III",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bb_bobova3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3620,
+    "title": "The Kinsman Saga",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "bb_thekinsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1658,
+    "title": "Kinsman",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bb_kinsman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1657,
+    "title": "Millennium",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bb_millenni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1656,
+    "title": "The Weathermakers",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "bb_theweath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13158,
+    "title": "The Exiles Trilogy",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bb_exilestr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13155,
+    "title": "Exiled from Earth",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bb_efromear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13156,
+    "title": "Flight of Exiles",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "bb_flightof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13157,
+    "title": "End of Exile",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bb_endofexi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1545,
+    "title": "Mars",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bb_mars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1544,
+    "title": "Empire Builders",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "bb_empirebu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1548,
+    "title": "Return to Mars",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "bb_returnto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1556,
+    "title": "Venus",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "bb_venus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1550,
+    "title": "Jupiter",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "bb_jupiter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1553,
+    "title": "Saturn",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "bb_saturn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1558,
+    "title": "Tales of the Grand Tour",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bb_talesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1542,
+    "title": "Powersat",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bb_powersat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1557,
+    "title": "Mercury",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bb_mercury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1017,
+    "title": "Titan",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bb_titan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1555,
+    "title": "Mars Life",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bb_marslife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10100,
+    "title": "Leviathans of Jupiter",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bb_leviatha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5330,
+    "title": "Farside",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bb_farside.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34164,
+    "title": "Earth",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "bb_earth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1546,
+    "title": "Moonrise",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "bb_moonrise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1547,
+    "title": "Moonwar",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "bb_moonwar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10098,
+    "title": "New Earth",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bb_newearth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14404,
+    "title": "Death Wave",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bb_deathwav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20013,
+    "title": "Apes and Angels",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bb_apesanda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25643,
+    "title": "Survival",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bb_surviva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1549,
+    "title": "The Precipice",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "bb_thepreci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1551,
+    "title": "The Rock Rats",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bb_therockr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1552,
+    "title": "The Silent War",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bb_thesilen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1554,
+    "title": "The Aftermath",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bb_theafter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13154,
+    "title": "Power Play",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bb_powerpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13118,
+    "title": "Power Surge",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bb_powersur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28512,
+    "title": "Power Failure",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "bb_pfailure.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7344,
+    "title": "Nebula Awards Showcase 2008",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bb_nebula08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10101,
+    "title": "Orion",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "bb_orion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10102,
+    "title": "Vengeance of Orion",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "bb_vengeanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10103,
+    "title": "Orion in the Dying Time",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "bb_ointhedy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10104,
+    "title": "Orion and the Conqueror",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bb_oconquer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10105,
+    "title": "Orion Among the Stars",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "bb_oamongth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3982,
+    "title": "Orion and King Arthur",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bb_orionand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13150,
+    "title": "The Sam Gunn Omnibus",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bb_sgomnibu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13148,
+    "title": "Sam Gunn, Unlimited",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bb_sgunlimi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13149,
+    "title": "Sam Gunn Forever",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "bb_sgforeve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4470,
+    "title": "The Science Fiction Hall of Fame, Volume Two A",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bb_sfhall2a.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4471,
+    "title": "The Science Fiction Hall of Fame, Volume Two B",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bb_sfhall2b.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13151,
+    "title": "To Save the Sun",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ajabb_tosaveth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13152,
+    "title": "To Fear the Light",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ajabb_tofearth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2243,
+    "title": "Voyagers",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "bb_voyagers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2244,
+    "title": "Voyagers II",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "bb_thealien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2245,
+    "title": "Voyagers III",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "bb_starbrot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1873,
+    "title": "The Return",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bb_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10410,
+    "title": "The Star Conquerors",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "bb_thestarc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13137,
+    "title": "Star Watchman",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "bb_starwatc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9723,
+    "title": "The Dueling Machine",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "bb_thedueli.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

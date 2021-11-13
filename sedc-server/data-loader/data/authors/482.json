@@ -1,0 +1,56 @@
+[
+  {
+    "id": 18160,
+    "title": "Incident on a Small Colony",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ks_incident.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 483,
+    "title": "Code of Conduct",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ks_codeofco.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4756,
+    "title": "Rules of Conflict",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ks_rulesofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4757,
+    "title": "Law of Survival",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ks_lawofsur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4758,
+    "title": "Contact Imminent",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ks_contacti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1206,
+    "title": "Endgame",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ks_endgame.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

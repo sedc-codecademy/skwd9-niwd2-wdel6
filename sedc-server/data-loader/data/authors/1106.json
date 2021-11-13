@@ -1,0 +1,83 @@
+[
+  {
+    "id": 36062,
+    "title": "The Ballad of Songbirds and Snakes",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "SC_balladof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2183,
+    "title": "The Hunger Games",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sc_thehunge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1730,
+    "title": "Catching Fire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sc_catching.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2184,
+    "title": "Mockingjay",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sc_mockingj.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 27214,
+    "title": "Gregor the Overlander",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sc_gregorth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27215,
+    "title": "Gregor and the Prophecy of Bane",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sc_gregoran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27216,
+    "title": "Gregor and the Curse of the Warmbloods",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sc_gregorcur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27217,
+    "title": "Gregor and the Marks of Secret",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sc_gregormar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27218,
+    "title": "Gregor and the Code of Claw",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sc_gregorcod.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

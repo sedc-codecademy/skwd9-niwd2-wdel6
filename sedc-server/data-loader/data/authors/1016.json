@@ -1,0 +1,354 @@
+[
+  {
+    "id": 25381,
+    "title": "Have Sword, Will Travel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gnsw_haveswor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23354,
+    "title": "The Lives of Riley",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27392,
+    "title": "Evermore, or, The Lies That Bind",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3387,
+    "title": "The Resurrected Man",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sw_theresur.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11313,
+    "title": "Metal Fatigue",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sw_meatalfat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23158,
+    "title": "Ghosts of the Fall",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1025,
+    "title": "Saturn Returns",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sw_saturnre.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2233,
+    "title": "Earth Ascendant",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sw_earthasc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2234,
+    "title": "The Grand Conjunction",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sw_thegrand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4542,
+    "title": "Cenotaxis",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sw_cenotaxi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2235,
+    "title": "The Crooked Letter",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sw_thecrook.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2236,
+    "title": "The Blood Debt",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sw_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2237,
+    "title": "The Hanging Mountains",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sw_thehangi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2238,
+    "title": "The Devoured Earth",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sw_thedevou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2253,
+    "title": "The Stone Mage & the Sea",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sw_thestone.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2254,
+    "title": "The Sky Warden & the Sun",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sw_theskywa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2255,
+    "title": "The Storm Weaver & the Sand",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sw_thestorm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11536,
+    "title": "The Unknown Soldier",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sw_sd_unknowns.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11375,
+    "title": "The Prodigal Sun",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "swsd_theprodi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11376,
+    "title": "The Dying Light",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "swsd_thedying.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11377,
+    "title": "The Dark Imbalance",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "swsd_thedarki.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11382,
+    "title": "Ascent",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "swsd_geascent.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11381,
+    "title": "Descent",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "swsd_gdescent.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11378,
+    "title": "Echoes of Earth",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "swsd_echoesof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11379,
+    "title": "Orphans of Earth",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "swsd_orphanso.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11380,
+    "title": "Heirs of Earth",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "swsd_heirsofe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17191,
+    "title": "The Force Unleashed",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SW_forceun1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17192,
+    "title": "The Force Unleashed II",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "SW_forceun2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15986,
+    "title": "Remnant",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sdsw_remnant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15987,
+    "title": "Refugee",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "swsd_refugee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15988,
+    "title": "Reunion",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "swsd_reunion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14484,
+    "title": "Fatal Alliance",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sw_fatalall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27535,
+    "title": "The Masque of Agamemnon",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22760,
+    "title": "Death and the Hobbyist",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22696,
+    "title": "Face Value",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22877,
+    "title": "Zero Temptation",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22651,
+    "title": "The Missing Metatarsal",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14329,
+    "title": "Jump",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sw_jump.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14330,
+    "title": "Crash",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sw_crash.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15918,
+    "title": "Fall",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sw_fall.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

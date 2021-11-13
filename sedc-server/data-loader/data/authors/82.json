@@ -1,0 +1,281 @@
+[
+  {
+    "id": 7274,
+    "title": "Moon Flights ",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "em_moonflig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 122,
+    "title": "The Speed of Dark",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "em_thespeed.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 7276,
+    "title": "Phases",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "em_phases.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 83,
+    "title": "Remnant Population",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "em_remnantp.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7278,
+    "title": "Lunar Activity ",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "em_lunaract.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2954,
+    "title": "Sheepfarmer's Daughter",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "em_sheepfar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2955,
+    "title": "Divided Allegiance",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "em_divideda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2956,
+    "title": "Oath of Gold",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "em_oathofgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3243,
+    "title": "Hunting Party",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "em_huntingp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3244,
+    "title": "Sporting Chance",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "em_sporting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3245,
+    "title": "Winning Colors",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "em_winningc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3246,
+    "title": "Once a Hero",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "em_onceaher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3247,
+    "title": "Rules of Engagement",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "em_rulesofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3248,
+    "title": "Change of Command",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "em_changeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3249,
+    "title": "Against the Odds",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "em_againstt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2959,
+    "title": "Oath of Fealty",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "em_oathoffe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2960,
+    "title": "Kings of the North",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "em_kingsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4172,
+    "title": "Echoes of Betrayal",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "em_echoesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6456,
+    "title": "Limits of Power",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "em_limitsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6457,
+    "title": "Crown of Renewal",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "em_crownofr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2957,
+    "title": "Surrender None",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "em_surrende.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2958,
+    "title": "Liar's Oath",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "em_liarsoat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7315,
+    "title": "Sassinak",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "amem_sassinak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7317,
+    "title": "Generation Warriors",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "amem_generati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21351,
+    "title": "Cold Welcome",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "em_coldwelc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24438,
+    "title": "Into the Fire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "em_intothef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2178,
+    "title": "Trading in Danger",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "em_tradingin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2179,
+    "title": "Moving Target (Marque and Reprisal)",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "em_movingta.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2180,
+    "title": "Engaging The Enemy",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "em_engaging.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2181,
+    "title": "Command Decision",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "em_commandd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2182,
+    "title": "Victory Conditions",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "em_victoryc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

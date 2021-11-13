@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13753,
+    "title": "Killing Time",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cc_killingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3538,
+    "title": "The Alienist",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cc_thealien.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13085,
+    "title": "The Angel of Darkness",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "CC_angelofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

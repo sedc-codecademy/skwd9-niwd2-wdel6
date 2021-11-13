@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10460,
+    "title": "The Frozen Sky",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jc_thefroze.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1559,
+    "title": "Plague Year",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jc_plagueye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1211,
+    "title": "Plague War",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jc_plaguewa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1560,
+    "title": "Plague Zone",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jc_plaguezo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

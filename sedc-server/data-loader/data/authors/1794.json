@@ -1,0 +1,47 @@
+[
+  {
+    "id": 18977,
+    "title": "The Suicide Motor Club",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cb_thesuici.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9568,
+    "title": "The Lesser Dead",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cb_thelesse.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9569,
+    "title": "The Necromancer's House",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cb_thenecro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4488,
+    "title": "Between Two Fires",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cb_betweent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4487,
+    "title": "Those Across the River",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cb_thoseacr.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

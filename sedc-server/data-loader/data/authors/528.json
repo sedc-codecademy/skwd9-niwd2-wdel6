@@ -1,0 +1,331 @@
+[
+  {
+    "id": 22449,
+    "title": "Avengers of the Moon",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "as_avengers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23763,
+    "title": "Sanctuary",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "as_sanctuary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17347,
+    "title": "Arkwright",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "as_arkwrigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8376,
+    "title": "V-S Day",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "as_vsday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26513,
+    "title": "Martian Blood",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4506,
+    "title": "Apollo's Outcasts",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "as_apolloso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20877,
+    "title": "The Emperor of Mars",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20945,
+    "title": "American Beauty",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "as_american.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4791,
+    "title": "Chronospace",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "as_chronosp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18604,
+    "title": "The Days Between",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20946,
+    "title": "Agape Among the Robots",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8377,
+    "title": "Oceanspace",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "as_oceanspa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19504,
+    "title": "…Where Angels Fear to Tread",
+    "year": 1997,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34145,
+    "title": "Doblin's Lecture",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8379,
+    "title": "The Tranquillity Alternative",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "as_thetranq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20980,
+    "title": "The Good Rat",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8378,
+    "title": "The Jericho Iteration",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "as_thejeric.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24476,
+    "title": "Rude Astronauts",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "as_rudeastr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27876,
+    "title": "The Children of Gal",
+    "year": 2015,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27859,
+    "title": "The Prodigal Son",
+    "year": 2014,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3450,
+    "title": "Hex",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "as_hex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3447,
+    "title": "Galaxy Blues",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "as_galaxybl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3446,
+    "title": "Spindrift",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "as_spindrif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32537,
+    "title": "The Madwoman of Shuttlefield",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20516,
+    "title": "Stealing Alabama",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3448,
+    "title": "Coyote Horizon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "as_coyoteho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3449,
+    "title": "Coyote Destiny",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "as_coyotede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 683,
+    "title": "Coyote",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "as_coyote.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3444,
+    "title": "Coyote Rising",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "as_coyoteri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3445,
+    "title": "Coyote Frontier",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "as_coyotefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8397,
+    "title": "Sex and Violence in Zero-G:  The Complete 'Near Space' Stories",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "AS_SexAndVi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20947,
+    "title": "Zwarte Piet's Tale",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19512,
+    "title": "The Death of Captain Future",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3451,
+    "title": "Orbital Decay",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "as_orbitald.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 529,
+    "title": "Clarke County, Space",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "as_clarkeco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3452,
+    "title": "Lunar Descent",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "as_lunardes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3453,
+    "title": "Labyrinth of Night",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "as_labyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3454,
+    "title": "A King of Infinite Space",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "as_akingofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

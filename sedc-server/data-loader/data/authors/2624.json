@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10335,
+    "title": "Excalibur",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rgmhgeek_excalibu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10270,
+    "title": "Grails:  Quests of the Dawn",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rgmhgeek_grails.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10333,
+    "title": "Confederacy of the Dead",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rgmhgeek_confeder.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

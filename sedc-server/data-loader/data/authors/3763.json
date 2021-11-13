@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15576,
+    "title": "Imaro",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "crs_imaro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15577,
+    "title": "The Quest for Cush",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "crs_thequest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15579,
+    "title": "The Trail of Bohu",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "crs_thetrail.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

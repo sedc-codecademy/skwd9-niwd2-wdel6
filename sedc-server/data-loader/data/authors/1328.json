@@ -1,0 +1,257 @@
+[
+  {
+    "id": 10781,
+    "title": "The Darkest Part of the Forest",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "hb_thedarke.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22173,
+    "title": "Ten Rules for Being an Intergalactic Smuggler (the Successful Kind)",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7646,
+    "title": "The Coldest Girl in Coldtown",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "hb_thecolde.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 10783,
+    "title": "Doll Bones",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "hb_dollbone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22654,
+    "title": "The Aarne-Thompson Classification Revue",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12522,
+    "title": "The Poison Eaters and Other Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "hb_thepoiso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24290,
+    "title": "Zombies Vs. Unicorns",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jlhb_zombiesv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27198,
+    "title": "The Coldest Girl in Coldtown",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19884,
+    "title": "Geektastic:  Stories from the Nerd Herd",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "hbcc_geektast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28562,
+    "title": "Virgin",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28538,
+    "title": "The Coat of Stars",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22554,
+    "title": "Heartless",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4257,
+    "title": "Welcome to Bordertown",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "hbek_welcomet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2570,
+    "title": "White Cat",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "hb_whitecat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2571,
+    "title": "Red Glove",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "hb_redglove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10784,
+    "title": "Black Heart",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "hb_blackhe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31740,
+    "title": "The Lost Sisters",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "hb_thelosts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26072,
+    "title": "The Cruel Prince",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "hb_thecruel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31720,
+    "title": "The Wicked King",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "hb_thewicke.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35327,
+    "title": "The Queen of Nothing",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "HB_QueenNot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10782,
+    "title": "The Iron Trial",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "hbcc_theiront.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14046,
+    "title": "The Copper Gauntlet",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "hbcc_thecoppe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23986,
+    "title": "The Bronze Key",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "hbcc_thebronz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23987,
+    "title": "The Silver Mask",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "hbcc_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31383,
+    "title": "The Golden Tower",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "hbcc_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35409,
+    "title": "Heart of the Moors:  An Original Maleficent: Mistress of Evil Novel",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "HB_heartoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2567,
+    "title": "Tithe",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "hb_tithe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2568,
+    "title": "Valiant",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "hb_valiant.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2569,
+    "title": "Ironside",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "hb_ironside.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

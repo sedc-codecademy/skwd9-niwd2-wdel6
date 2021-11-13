@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3981,
+    "title": "Energized",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eml_energize.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10869,
+    "title": "Small Miracles",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "eml_smallmir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6787,
+    "title": "Fool's Experiment",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "el_foolsexp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32638,
+    "title": "Creative Destruction",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10864,
+    "title": "Fleet of Worlds",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lneml_fleetofw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10865,
+    "title": "Juggler of Worlds",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lneml_jugglero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10866,
+    "title": "Destroyer of Worlds",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lneml_destroye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10867,
+    "title": "Betrayer of Worlds",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lneml_betrayer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10868,
+    "title": "Fate of Worlds",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lneml_fateofwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

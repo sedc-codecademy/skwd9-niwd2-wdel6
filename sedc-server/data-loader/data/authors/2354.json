@@ -1,0 +1,28 @@
+[
+  {
+    "id": 24122,
+    "title": "Sip",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bac_sip.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8873,
+    "title": "The Last Horror Novel in the History of the World",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bac_thelasthorror.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24121,
+    "title": "Motherfucking Sharks",
+    "year": 2013,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

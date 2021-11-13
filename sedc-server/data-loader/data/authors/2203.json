@@ -1,0 +1,38 @@
+[
+  {
+    "id": 8223,
+    "title": "Quarter Share ",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "nl_quarters.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8224,
+    "title": "Half Share",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "nl_halfshar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8225,
+    "title": "Full Share ",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "nl_fullshar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8226,
+    "title": "Double Share ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nl_doublesh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

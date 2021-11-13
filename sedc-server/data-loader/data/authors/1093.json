@@ -1,0 +1,234 @@
+[
+  {
+    "id": 34177,
+    "title": "The Toll",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cp_toll.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30267,
+    "title": "The Agony House",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cp_theagony.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20471,
+    "title": "Brimstone",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CP_brimston.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25722,
+    "title": "Indigo:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CG_indigo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19399,
+    "title": "The Family Plot",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cp_thefamil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11687,
+    "title": "I Am Princess X",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cp_iamprinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6949,
+    "title": "Fathom",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cp_fathom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4895,
+    "title": "Those Who Went Remain There Still",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cp_thosewho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6950,
+    "title": "Dreadful Skin",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cp_dreadful.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17196,
+    "title": "Wishbones",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9286,
+    "title": "Maplecroft",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cp_maplecro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13117,
+    "title": "Chapelwood",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cp_chapelwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6923,
+    "title": "Bloodshot",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cp_bloodsho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6924,
+    "title": "Hellbent",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cp_hellbent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10703,
+    "title": "Jacaranda",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cp_jacarand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6212,
+    "title": "Clementine",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cp_clementi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1707,
+    "title": "Boneshaker",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cp_boneshak.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 2654,
+    "title": "Dreadnought",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cp_dreadnou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3629,
+    "title": "Ganymede",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cp_ganymede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4236,
+    "title": "The Inexplicables",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cp_theinexp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5940,
+    "title": "Fiddlehead",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cp_fiddlehe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14399,
+    "title": "Four and Twenty Blackbirds",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cp_fourandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14400,
+    "title": "Wings to the Kingdom",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cp_wingstot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14401,
+    "title": "Not Flesh Nor Feathers",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cp_notflesh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22594,
+    "title": "Addison Howell and the Clockroach",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16612,
+    "title": "The Button Man and the Murder Tree",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cp_thebutto.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 13452,
+    "title": "Goth:  2nd Edition - Expanded",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "O_goth2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10393,
+    "title": "Goth:  A Novel of Horror",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "o_goth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10203,
+    "title": "Zoo",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "O_Zoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10394,
+    "title": "Calling You",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "O_callingy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10204,
+    "title": "Summer, Fireworks, and My Corpse",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "O_summerfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

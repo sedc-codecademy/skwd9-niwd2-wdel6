@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36458,
+    "title": "Survival Tactics",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "eb_survival.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17896,
+    "title": "The Cold Between",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "eb_thecoldb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19160,
+    "title": "Remnants of Trust",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "eb_remnants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24090,
+    "title": "Breach of Containment",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "eb_breachof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 33921,
+    "title": "Yard Dog",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34449,
+    "title": "The Last Pantheon",
+    "year": 2015,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17434,
+    "title": "Making Wolf",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "TT_MakingWo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25000,
+    "title": "The Murders of Molly Southbourne",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tt_themurde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33919,
+    "title": "The Survival of Molly Southbourne",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tt_thesurvi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20546,
+    "title": "Rosewater",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tt_rosewate.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 31580,
+    "title": "The Rosewater Insurrection",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tt_therosew.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 34817,
+    "title": "The Rosewater Redemption",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tt_rosewatr.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

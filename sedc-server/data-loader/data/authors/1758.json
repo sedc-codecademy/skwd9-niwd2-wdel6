@@ -1,0 +1,37 @@
+[
+  {
+    "id": 22313,
+    "title": "The Taste of Starlight",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4308,
+    "title": "Seven Princes",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jrf_sevenpri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5517,
+    "title": "Seven Kings",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jrf_sevenkin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5516,
+    "title": "Seven Sorcerers",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jrf_sevensor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

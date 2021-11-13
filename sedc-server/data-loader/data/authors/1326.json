@@ -1,0 +1,83 @@
+[
+  {
+    "id": 9927,
+    "title": "Messenger's Legacy",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pvb_messenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2545,
+    "title": "Brayan's Gold",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pvb_brayansg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2543,
+    "title": "The Great Bazaar and Other Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pvb_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29057,
+    "title": "Barren",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pvb_barren.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2542,
+    "title": "The Warded Man",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pvb_thewarde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2544,
+    "title": "The Desert Spear",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pvb_thedeser.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5749,
+    "title": "The Daylight War",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pvb_thedayli.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11068,
+    "title": "The Skull Throne",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pvb_theskull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23984,
+    "title": "The Core",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pvb_thecore.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

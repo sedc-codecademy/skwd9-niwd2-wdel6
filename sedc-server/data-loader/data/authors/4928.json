@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34142,
+    "title": "Shadows of War:  Stories",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "RW_shadowso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22215,
+    "title": "Spectral Shadows: Three Supernatural Novellas",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RW_spectral.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22214,
+    "title": "The Stones of Muncaster Cathedral",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "RW_stonesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22213,
+    "title": "Antique Dust",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RW_antiqued.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

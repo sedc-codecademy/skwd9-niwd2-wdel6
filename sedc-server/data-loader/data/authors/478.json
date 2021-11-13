@@ -1,0 +1,64 @@
+[
+  {
+    "id": 23815,
+    "title": "Dr. Polingyouma's Machine",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34064,
+    "title": "The Kronos Condition",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ed_kronosco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34063,
+    "title": "Scorpianne",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ed_scorpian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27086,
+    "title": "Medusa Uploaded",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ed_medusaup.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33951,
+    "title": "Medusa in the Graveyard",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ed_medusain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34065,
+    "title": "Shade",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ed_shade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34066,
+    "title": "Larissa",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ed_larissa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

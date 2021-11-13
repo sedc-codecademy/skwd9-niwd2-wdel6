@@ -1,0 +1,83 @@
+[
+  {
+    "id": 9401,
+    "title": "Kangaroo Notebook",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "KA_Kangaroo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9407,
+    "title": "The Ark Sakura",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "KA_TheArkSa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9408,
+    "title": "Secret Rendezvous",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "KA_SecretRe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9406,
+    "title": "The Box Man",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "KA_TheBoxMa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9405,
+    "title": "The Ruined Map",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "KA_TheRuine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9409,
+    "title": "Beyond the Curve",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "KA_BeyondTh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9404,
+    "title": "The Face of Another",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "KA_TheFaceO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9403,
+    "title": "The Woman in the Dunes",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "KA_TheWoman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9402,
+    "title": "Inter Ice Age 4",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "KA_Inter_Ice.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

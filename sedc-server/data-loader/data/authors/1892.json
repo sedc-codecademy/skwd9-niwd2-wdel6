@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16307,
+    "title": "What Makes a River",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dc_whatmake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5087,
+    "title": "Wide Open",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dc_wideopen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7018,
+    "title": "Deep Down",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dc_deepdown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7019,
+    "title": "Strange Country",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dc_strangec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

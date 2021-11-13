@@ -1,0 +1,122 @@
+[
+  {
+    "id": 25173,
+    "title": "Ink",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23735,
+    "title": "This Is for You",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16704,
+    "title": "Dog",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bm_dogs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16847,
+    "title": "La Signora",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bm_lasignor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25993,
+    "title": "The Village Sang to the Sea: A Memoir of Magic",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bm_thevilla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16298,
+    "title": "The Courtship of the Queen",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bm_thecourt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4143,
+    "title": "The Girl Who Loved Animals and Other Stories",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bma_thegirlw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21305,
+    "title": "Kin",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4271,
+    "title": "There Won't Be War",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "hhbma_therewon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28470,
+    "title": "Angels",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 753,
+    "title": "Dream Baby",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "bma_dreambab.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27776,
+    "title": "The Girl Who Loved Animals",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18758,
+    "title": "Dream Baby",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4142,
+    "title": "Humanity Prime",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bma_humanity.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

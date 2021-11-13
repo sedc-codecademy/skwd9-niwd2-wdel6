@@ -1,0 +1,74 @@
+[
+  {
+    "id": 21936,
+    "title": "Dark Future: Route 666",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "DP_darkf666.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8147,
+    "title": "Modern Fantasy: The Hundred Best Novels",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DP_ModernFa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8146,
+    "title": "Science Fiction: The 100 Best Novels",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "DP_ScienceF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22552,
+    "title": "Earth is the Alien Planet: J. G. Ballard's Four-Dimensional Nightmare",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "DP_earthist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15010,
+    "title": "The Laughter of Dark Gods",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dp_thelaugh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15004,
+    "title": "Red Thirst",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dp_redthirs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15003,
+    "title": "Ignorant Armies",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "dp_ignorant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15002,
+    "title": "Wolf Riders",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "dp_wolfride.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

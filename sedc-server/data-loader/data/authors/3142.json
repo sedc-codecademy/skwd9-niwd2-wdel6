@@ -1,0 +1,137 @@
+[
+  {
+    "id": 12100,
+    "title": "Starbrat",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jm_starbrat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12101,
+    "title": "Nail Down the Stars",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jm_naildown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12102,
+    "title": "Under a Calculating Star",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jm_underaca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12103,
+    "title": "A Law For the Stars",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jm_alawfort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12104,
+    "title": "Frostworld and Dreamfire",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jm_frostwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12105,
+    "title": "The Mansions of Space",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jm_themansio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34237,
+    "title": "Ironbrand",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jm_ironbran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34238,
+    "title": "Graymantle",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jm_graymant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34239,
+    "title": "Kingsbane",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jm_kingsban.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34240,
+    "title": "The Time of the Annihilator",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jm_timeofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25889,
+    "title": "A Voice for Princess",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jm_avoicefo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25890,
+    "title": "The Questing of Kedrigern",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jm_thequest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25891,
+    "title": "Kedrigern in Wanderland",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jm_kinwande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25892,
+    "title": "Kedrigern and the Charming Couple",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jm_kandthec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25893,
+    "title": "A Remembrance for Kedrigern",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jm_aremembr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

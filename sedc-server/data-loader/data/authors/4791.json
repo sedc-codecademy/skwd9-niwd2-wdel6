@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21607,
+    "title": "Empire of the Saviours",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ajd_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21608,
+    "title": "Gateway of the Saviours",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ajd_gatewayo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21609,
+    "title": "Tithe of the Saviours",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ajd_titheoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

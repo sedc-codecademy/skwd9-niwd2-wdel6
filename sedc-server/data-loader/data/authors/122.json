@@ -1,0 +1,247 @@
+[
+  {
+    "id": 32520,
+    "title": "Above It All",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22199,
+    "title": "No Time Like the Present",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32519,
+    "title": "On Not Going Extinct",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32518,
+    "title": "A Safe Place to Be",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4420,
+    "title": "The Secret City",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ce_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32178,
+    "title": "Quill",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17712,
+    "title": "I Live with You",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ce_ilivewithyou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6486,
+    "title": "I Live with You (collection)",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ce_ilivewit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3647,
+    "title": "Mister Boots",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ce_misterbo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16103,
+    "title": "All Of Us Can Almost...",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ce_ssallofu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16101,
+    "title": "Boys",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ce_boys.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32517,
+    "title": "After All",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17639,
+    "title": "Grandma",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 126,
+    "title": "The Mount",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ce_themount.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 468,
+    "title": "Report to the Men's Club and Other Stories",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ce_reportto.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17713,
+    "title": "Creature",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32511,
+    "title": "The Project",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26499,
+    "title": "Mrs. Jones",
+    "year": 1993,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16100,
+    "title": "Venus Rising",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ce_ssvenusr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32512,
+    "title": "Moon Songs",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13862,
+    "title": "The Start of the End of It All and Other Stories",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ce_thestart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8488,
+    "title": "Carmen Dog",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "CE_CarmenDo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32513,
+    "title": "The Circular Library of Stones",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32514,
+    "title": "Chicken Icarus",
+    "year": 1966,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32515,
+    "title": "Day at the Beach",
+    "year": 1959,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21970,
+    "title": "Pelt",
+    "year": 1958,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32516,
+    "title": "Hunting Machine",
+    "year": 1957,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5022,
+    "title": "The Collected Stories of Carol Emshwiller Vol. 1",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ce_stories1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5023,
+    "title": "The Collected Stories of Carol Emshwiller Vol. 2",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ce_stories2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

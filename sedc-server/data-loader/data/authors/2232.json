@@ -1,0 +1,37 @@
+[
+  {
+    "id": 31575,
+    "title": "The Tiger Flu",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ll_thetiger.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32281,
+    "title": "I Love Liver: A Romance",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8301,
+    "title": "Salt Fish Girl",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ll_saltfish.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14326,
+    "title": "When Fox is a Thousand",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ll_whenfoxi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

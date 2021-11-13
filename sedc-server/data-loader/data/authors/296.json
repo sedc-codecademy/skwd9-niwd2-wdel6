@@ -1,0 +1,214 @@
+[
+  {
+    "id": 24400,
+    "title": "First Contacts:  The Essential Murray Leinster",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ml_firstcon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35622,
+    "title": "The Greks Bring Gifts",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ML_greksbri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35621,
+    "title": "Operation Terror",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ML_opterror.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35620,
+    "title": "The Wailing Asteroid",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ML_wailinga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 300,
+    "title": "The Pirates of Zan",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ml_thepirat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31681,
+    "title": "The Strange Case of John Kingman",
+    "year": 1948,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31683,
+    "title": "Proxima Centauri",
+    "year": 1935,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22300,
+    "title": "Sidewise in Time",
+    "year": 1934,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21342,
+    "title": "The Weapon Shops of Isher / Gateway to Elsewhere",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ad_theweapo_gatewayt.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21473,
+    "title": "The Brain-Stealers / Atta",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ad_thebrain_atta.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21333,
+    "title": "One Against Eternity / The Other Side of Here",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ad_oneagain_theother.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21360,
+    "title": "Contraband Rocket / The Forgotten Planet",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_contraba_theforgo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21331,
+    "title": "Men on the Moon / City on the Moon",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_menonthe_cityonth.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21581,
+    "title": "The Mutant Weapon / The Pirates of Zan",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_themutan_thepirat.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21503,
+    "title": "The Duplicators / No Truce with Terra",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_thedupli_notrucew.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21505,
+    "title": "Space Captain / The Mad Metropolis",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_spacecap_themadme.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18439,
+    "title": "The Best of Murray Leinster",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ML_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21215,
+    "title": "Exploration Team",
+    "year": 1956,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12894,
+    "title": "The Black Galaxy",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "ML_blackgal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12895,
+    "title": "The Last Space Ship",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "ML_lastspac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11258,
+    "title": "Operation: Outer Space",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ML_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8495,
+    "title": "The Forgotten Planet",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ml_theforgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10717,
+    "title": "Quarantine World",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ML_quaranti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11315,
+    "title": "The Brain-Stealers",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ML_brainst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 26765,
+    "title": "The Emperor's Gift",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adb_theemper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3281,
+    "title": "The First Heretic: Fall to Chaos",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "adb_thefirst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4744,
+    "title": "Betrayer",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adb_betrayer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26166,
+    "title": "The Master of Mankind",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "adb_themaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26372,
+    "title": "Honour Imperialis",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "slsdbrs_honourim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26361,
+    "title": "Cadian Blood",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "adb_cadianbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26460,
+    "title": "Night Lords",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "adb_nightlor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26457,
+    "title": "Soul Hunter",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "adb_soulhunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26459,
+    "title": "Void Stalker",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adb_voidstal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26458,
+    "title": "Blood Reaver",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "adb_bloodrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26535,
+    "title": "Helsreach",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "adb_helsreac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26708,
+    "title": "Ragnar Blackmane",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "adb_ragnarbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11179,
+    "title": "The Great Adventures of the Dirty Pair",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "HT_dirtyp1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11180,
+    "title": "The Dirty Pair Strike Again",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "HT_dirtyp2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

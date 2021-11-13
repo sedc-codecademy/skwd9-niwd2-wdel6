@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1649,
+    "title": "Bitter Angels",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cla_bitteran.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7572,
+    "title": "Kingdom of Cages",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sz_kingdomo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7571,
+    "title": "The Quiet Invasion",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sz_thequiet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32787,
+    "title": "Kinds of Strangers",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6421,
+    "title": "Playing God",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sz_playingg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2824,
+    "title": "Fool's War",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sz_foolswar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 499,
+    "title": "Reclamation",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sz_reclamat.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7568,
+    "title": "Dust Girl",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sz_dustgirl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7569,
+    "title": "Golden Girl",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sz_goldengi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7570,
+    "title": "Bad Luck Girl",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sz_badluckg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14331,
+    "title": "A Sorcerer's Treason",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sz_asorcere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14332,
+    "title": "The Usurper's Crown",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sz_theusurp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14333,
+    "title": "The Firebird's Vengeance",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sz_thefireb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14334,
+    "title": "Sword of the Deceiver",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sz_swordoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11697,
+    "title": "Black Spring",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ac_blackspr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11693,
+    "title": "The Gift (The Naming)",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ac_thegift.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 11694,
+    "title": "The Riddle",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ac_theriddle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11695,
+    "title": "The Crow",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ac_thecrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11696,
+    "title": "The Singing",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ac_thesingi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

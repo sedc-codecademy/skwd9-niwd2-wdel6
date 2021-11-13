@@ -1,0 +1,135 @@
+[
+  {
+    "id": 22933,
+    "title": "The Switch",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jr_theswitc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12142,
+    "title": "Glorious Angels",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jr_glorious.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12143,
+    "title": "Heliotrope",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jr_heliotro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32227,
+    "title": "Dreadnought",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22409,
+    "title": "The Little Bear",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 586,
+    "title": "Mappa Mundi",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jr_mappamun.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 589,
+    "title": "Silver Screen",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jr_silversc.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 28462,
+    "title": "Salvation's Fire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jr_salvatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 379,
+    "title": "Natural History",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jr_naturalh.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 998,
+    "title": "Living Next Door to the God of Love",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jr_livingne.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 2086,
+    "title": "Keeping It Real",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jr_keepingi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2087,
+    "title": "Selling Out",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jr_sellingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2088,
+    "title": "Going Under",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jr_goingund.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1860,
+    "title": "Chasing the Dragon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jr_chasingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3563,
+    "title": "Down to the Bone",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jr_downtoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

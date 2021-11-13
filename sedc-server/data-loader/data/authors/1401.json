@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2837,
+    "title": "The Children of Anthi",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jdb_thechild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4293,
+    "title": "Requiem for Anthi",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jdb_requiemf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7095,
+    "title": "The Pearls",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dc_pearls.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7096,
+    "title": "The Crown",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dc_crown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7092,
+    "title": "Reign of Shadows ",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dc_reignofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7093,
+    "title": "Shadow War",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dc_shadowwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7094,
+    "title": "Realm of Light ",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dc_realmofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7097,
+    "title": "The Sword",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dc_sword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7098,
+    "title": "The Ring",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dc_ring.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7099,
+    "title": "The Chalice",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dc_chalice.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

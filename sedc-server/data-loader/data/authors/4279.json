@@ -1,0 +1,308 @@
+[
+  {
+    "id": 27007,
+    "title": "The Midnight Front",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dm_themidni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31779,
+    "title": "The Iron Codex",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dm_theironc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21100,
+    "title": "Best Defense",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "DM_bestdefe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20496,
+    "title": "Glass Empires",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DM_glassemp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20350,
+    "title": "The Sorrows of Empire",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DM_sorrowse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20351,
+    "title": "Rise Like Lions",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "DM_riselion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20416,
+    "title": "Disavowed",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "DM_disavowe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20481,
+    "title": "Control",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "DM_control.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20379,
+    "title": "A Ceremony of Losses",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "DM_ceremony.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20394,
+    "title": "Zero Sum Game",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "DM_zerosumg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20348,
+    "title": "Warpath",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "DM_warpath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20225,
+    "title": "Destiny",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "DM_destiny.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19072,
+    "title": "Gods of Night",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dm_godsofni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19073,
+    "title": "Mere Mortals",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dm_meremort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19074,
+    "title": "Lost Souls",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dm_lostsoul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25464,
+    "title": "Desperate Hours",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "DM_desperat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20346,
+    "title": "Second Nature",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "DM_secondna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20347,
+    "title": "Long Shot",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "DM_longshot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21008,
+    "title": "Miracle Workers",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "KD_miraclew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21012,
+    "title": "Wildfire",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "KD_wildfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21032,
+    "title": "Grand Designs",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DM_granddes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21054,
+    "title": "Creative Couplings",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DM_creative.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35412,
+    "title": "Collateral Damage",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "DM_collater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18774,
+    "title": "A Time to Kill",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dm_timetoki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18775,
+    "title": "A Time to Heal",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dm_timetohe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19069,
+    "title": "The Persistence of Memory",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dm_persiste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19070,
+    "title": "Silent Weapons",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dm_silentwe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19071,
+    "title": "The Body Electric",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dm_bodyelec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25675,
+    "title": "Fortune of War",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "DM_fortuneo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17816,
+    "title": "Harbinger",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dm_harbinger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17818,
+    "title": "Reap the Whirlwind",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dm_reapthew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17820,
+    "title": "Precipice",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dm_precipic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17821,
+    "title": "Declassified",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dwkdmpdm_declassi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17823,
+    "title": "Storming Heaven",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dm_storming.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

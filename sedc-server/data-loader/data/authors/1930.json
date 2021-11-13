@@ -1,0 +1,83 @@
+[
+  {
+    "id": 36299,
+    "title": "The Kingdom of Back",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "ML_KingdomB.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5282,
+    "title": "Legend",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ml_legend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5283,
+    "title": "Prodigy",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ml_prodigy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9925,
+    "title": "Champion",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ml_champion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24809,
+    "title": "Warcross",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ml_warcross.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28843,
+    "title": "Wildcard",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ml_wildcard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9926,
+    "title": "The Young Elites",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ml_theyoung.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15941,
+    "title": "The Rose Society",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ml_rosesoce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22635,
+    "title": "The Midnight Star",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ml_themidni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

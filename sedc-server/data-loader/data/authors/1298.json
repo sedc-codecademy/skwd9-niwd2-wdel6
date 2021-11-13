@@ -1,0 +1,83 @@
+[
+  {
+    "id": 15332,
+    "title": "The Shadow Revolution",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cgsg_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15333,
+    "title": "The Undying Legion",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cgsg_theundyi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15334,
+    "title": "The Conquering Dark",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cgsg_theconqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31438,
+    "title": "The Haunting of Barry Allen",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cgsg_thehaunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31439,
+    "title": "A Generation of Vipers",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cgsg_agenerat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15331,
+    "title": "The Geomancer",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cgsg_thegeoma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2349,
+    "title": "The Greyfriar",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cgsg_thegreyf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3059,
+    "title": "The Rift Walker",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cgsg_theriftw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4510,
+    "title": "The Kingmakers",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cgsg_thekingm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

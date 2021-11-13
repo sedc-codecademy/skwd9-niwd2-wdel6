@@ -1,0 +1,65 @@
+[
+  {
+    "id": 36109,
+    "title": "Never-Contented Things",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SP_NeverCon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25482,
+    "title": "When I Cast Your Shadow",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sp_whenicas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19928,
+    "title": "Ratspeak",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sp_ratspeak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19927,
+    "title": "Vassa in the Night",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sp_vassaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36110,
+    "title": "Lost Voices",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "SP_LostVoic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36111,
+    "title": "Waking Storms",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "SP_WakingSt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36112,
+    "title": "The Twice Lost",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "SP_TwiceLos.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

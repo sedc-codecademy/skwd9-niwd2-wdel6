@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11516,
+    "title": "Born of the Sea",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "vk_bornofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11517,
+    "title": "Into The Dark",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "vk_intothed.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11518,
+    "title": "The Ivory Trail",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "vk_ivorytra.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

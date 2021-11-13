@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16723,
+    "title": "The Blizzard",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "vs_theblizzard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16803,
+    "title": "Day of the Oprichnik:  A Novel",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "vs_dayoftheo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16802,
+    "title": "Ice Trilogy",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "vs_icetrilogy.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

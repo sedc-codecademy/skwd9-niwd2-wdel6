@@ -1,0 +1,92 @@
+[
+  {
+    "id": 12876,
+    "title": "Promised Land",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cwcf_promised.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12875,
+    "title": "Iceman",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cf_iceman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12874,
+    "title": "The Khan's Persuasion",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cf_thekhans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12873,
+    "title": "Light Raid",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cwcf_lightrai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12872,
+    "title": "Double Nocturne",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cf_doubleno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12871,
+    "title": "Downtime",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cf_downtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12870,
+    "title": "Eclipses",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cf_eclipses.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12869,
+    "title": "Water Witch",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cwcf_waterwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12868,
+    "title": "The Sunbound",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cf_thesunbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12867,
+    "title": "Godsfire",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cf_godsfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

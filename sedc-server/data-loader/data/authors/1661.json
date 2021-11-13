@@ -1,0 +1,65 @@
+[
+  {
+    "id": 36623,
+    "title": "Chosen Ones",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "vr_chosenon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35040,
+    "title": "Carve the Mark",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "VR_carvethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35041,
+    "title": "The Fates Divide",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "VR_fatesdiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3876,
+    "title": "Divergent",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "vr_divergen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3877,
+    "title": "Insurgent",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "vr_insurgen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5969,
+    "title": "Allegiant",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "vr_allegian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36071,
+    "title": "Ark",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "VR_ark.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

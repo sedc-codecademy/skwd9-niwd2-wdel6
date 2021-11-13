@@ -1,0 +1,29 @@
+[
+  {
+    "id": 31844,
+    "title": "Year One",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nr_yearone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31846,
+    "title": "Of Blood and Bone",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "nr_ofblooda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35806,
+    "title": "The Rise of Magicks",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "nr_riseofma.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

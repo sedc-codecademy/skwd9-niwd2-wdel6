@@ -1,0 +1,119 @@
+[
+  {
+    "id": 8804,
+    "title": "Vampire Science",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jbko_vampires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8820,
+    "title": "Seeing I",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kojb_seeingi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8834,
+    "title": "Unnatural History",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "kojb_unnatura.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8880,
+    "title": "The Year of Intelligent Tigers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ko_theyearo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10219,
+    "title": "The Left-Handed Hummingbird",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ko_lefthand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10247,
+    "title": "Set Piece",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ko_setpiece.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10280,
+    "title": "Sleepy",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ko_sleepy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10300,
+    "title": "Return of the Living Dad",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ko_returnof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10303,
+    "title": "So Vile a Sin",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "bako-sovileas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10306,
+    "title": "The Room with No Doors",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ko_theroomw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11797,
+    "title": "Walking to Babylon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ko_walkingt.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9095,
+    "title": "Blue Box",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ko_bluebox.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9132,
+    "title": "Fallen Gods",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jbko_fallengo.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

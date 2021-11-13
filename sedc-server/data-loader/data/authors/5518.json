@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25713,
+    "title": "Master of the Five Magics",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "LH_masteroft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25714,
+    "title": "Secret of the Sixth Magic",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "LH_secretof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25715,
+    "title": "Riddle of the Seven Realms",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "LH_riddleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

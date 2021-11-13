@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36640,
+    "title": "The Inner Circle",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "JF_InnerCir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3622,
+    "title": "Mortal Gods",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jf_mortalgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36639,
+    "title": "The Secrets Of Synchronicity ",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "JF_SecretsS.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

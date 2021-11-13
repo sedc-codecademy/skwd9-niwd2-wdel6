@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11839,
+    "title": "The White List",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "nda_whitelis.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11837,
+    "title": "The Last City",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nda_lastcity.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11838,
+    "title": "The Forgotten City",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nda_forgotte.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

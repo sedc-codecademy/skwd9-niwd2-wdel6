@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25314,
+    "title": "Conan the Hunter",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sam_cthunter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25315,
+    "title": "Conan and the Grim Grey God",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sam_catgrimg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25316,
+    "title": "Conan and the Shaman's Curse",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sam_catshama.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

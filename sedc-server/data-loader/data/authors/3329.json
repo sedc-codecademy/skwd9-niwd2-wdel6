@@ -1,0 +1,65 @@
+[
+  {
+    "id": 13070,
+    "title": "Armageddon",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rhcg_armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13073,
+    "title": "Warhawk",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rhcg_warhawk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13077,
+    "title": "Resurrection",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "rhst_resurrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13078,
+    "title": "Rebellion",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rhar_rebellio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13079,
+    "title": "Paradis",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rhbl_paradis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13080,
+    "title": "Destiny",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rhbl_destiny.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13082,
+    "title": "Redemption",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rhbl_redempti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

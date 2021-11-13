@@ -1,0 +1,45 @@
+[
+  {
+    "id": 12005,
+    "title": "Psychohistorical Crisis",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dk_psychohi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20818,
+    "title": "The Moon Goddess and the Son",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "dk_themoong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20819,
+    "title": "The Moon Goddess and the Son",
+    "year": 1979,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 365,
+    "title": "Courtship Rite",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "dk_courtshi.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 34212,
+    "title": "Shipwright",
+    "year": 1978,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

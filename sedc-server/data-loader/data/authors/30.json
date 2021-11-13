@@ -1,0 +1,817 @@
+[
+  {
+    "id": 25797,
+    "title": "Faery in Shadow",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cjc_faeryins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25796,
+    "title": "The Goblin Mirror",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "cjc_thegobli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23523,
+    "title": "Gwydion and the Dragon",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 755,
+    "title": "The Paladin",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cjc_thepalad.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13857,
+    "title": "Visible Light",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cjc_visiblel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20511,
+    "title": "The Scapegoat",
+    "year": 1985,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21720,
+    "title": "Ealdwood",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cjc_ealdwood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22860,
+    "title": "The Only Death in the City",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6683,
+    "title": "Sunfall",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cjc_sunfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2997,
+    "title": "Wave Without a Shore",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cjc_wavewith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1644,
+    "title": "Serpent's Reach",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "cjc_serpents.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6682,
+    "title": "Hestia",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "cjc_hestia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18106,
+    "title": "Cassandra",
+    "year": 1978,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6526,
+    "title": "Port Eternity",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cjc_porteter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 561,
+    "title": "Voyager in Night",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cjc_voyageri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 372,
+    "title": "Cuckoo's Egg",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cjc_cuckoose.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6676,
+    "title": "Heavy Time",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cjc_heavytim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6679,
+    "title": "Hellburner",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "cjc_hellburn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29,
+    "title": "Downbelow Station",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cjc_downbelo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1443,
+    "title": "Merchanter's Luck",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cjc_merchant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 748,
+    "title": "Rimrunners",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cjc_rimrunne.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1444,
+    "title": "Tripoint",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cjc_tripoint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 711,
+    "title": "Finity's End",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cjc_finityse.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6533,
+    "title": "At the Edge of Space",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cjc_attheedg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6530,
+    "title": "Brothers of Earth",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "cjc_brothers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6532,
+    "title": "Hunter of Worlds",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "cjc_hunterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 366,
+    "title": "The Pride of Chanur",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cjc_thepride.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 776,
+    "title": "Chanur's Venture",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cjc_chanursv.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1398,
+    "title": "The Kif Strike Back",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cjc_thekifst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1399,
+    "title": "Chanur's Homecoming",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cjc_chanhome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1400,
+    "title": "Chanur's Legacy",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "cjc_chanlega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 241,
+    "title": "The Faded Sun:  Kesrith",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cjc_thefaded.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1441,
+    "title": "The Faded Sun:  Shon'jir",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "uklg_shonjir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1442,
+    "title": "The Faded Sun:  Kutath",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "uklg_kutath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31705,
+    "title": "Alliance Rising",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cjcjsf_alliance.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1645,
+    "title": "Forty Thousand in Gehenna",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cjc_fortytho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36,
+    "title": "Cyteen",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cjc_cyteen.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1646,
+    "title": "Regenesis",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cjc_regenesi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6536,
+    "title": "The Dreaming Tree",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cjc_dreaming.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6534,
+    "title": "The Dreamstone",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cjc_dreamsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6535,
+    "title": "The Tree of Swords and Jewels ",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cjc_treeofsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4831,
+    "title": "Rider at the Gate",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cjc_rideratt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6525,
+    "title": "Cloud's Rider",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cjc_cloudsri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 727,
+    "title": "Foreigner",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cjc_foreigne.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 720,
+    "title": "Invader",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cjc_invader.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1266,
+    "title": "Inheritor",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cjc_inherito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1267,
+    "title": "Precursor",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cjc_precurso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 690,
+    "title": "Defender",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cjc_defender.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1268,
+    "title": "Explorer",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cjc_explorer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1269,
+    "title": "Destroyer",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cjc_destroye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1270,
+    "title": "Pretender",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cjc_pretende.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1271,
+    "title": "Deliverer",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cjc_delivere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2461,
+    "title": "Conspirator",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cjc_conspira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2462,
+    "title": "Deceiver",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cjc_deceiver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2463,
+    "title": "Betrayer",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cjc_betrayer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3904,
+    "title": "Intruder",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cjc_intruder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5750,
+    "title": "Protector",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cjc_protecto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6161,
+    "title": "Peacemaker",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cjc_peacemak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11499,
+    "title": "Tracker",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cjc_tracker.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17314,
+    "title": "Visitor",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cjc_visitor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22076,
+    "title": "Convergence",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cjc_converge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25063,
+    "title": "Emergence",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cjc_emergenc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34376,
+    "title": "Resurgence",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "cjc_resurgen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 724,
+    "title": "Fortress in the Eye of Time",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cjc_fortinth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 708,
+    "title": "Fortress of Eagles",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cjc_forteagl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 701,
+    "title": "Fortress of Owls",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cjc_fortress.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3963,
+    "title": "Fortress of Dragons",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cjc_fortdrag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3964,
+    "title": "Fortress of Ice",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cjc_fortice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 406,
+    "title": "Hammerfall",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cjc_hammerfa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1647,
+    "title": "Forge of Heaven",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cjc_forgeofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34681,
+    "title": "The Gates of Hell",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JM_gatesof2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34683,
+    "title": "Kings in Hell",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "JM_kingshe4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34685,
+    "title": "Legions of Hell",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "CC_legions6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26567,
+    "title": "Angel with the Sword",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cjc_angelwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26568,
+    "title": "Festival Moon",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cjc_festival.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26569,
+    "title": "Fever Season",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cjc_feversea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26570,
+    "title": "Troubled Waters",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cjc_troubled.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26571,
+    "title": "Smugglers Gold",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cjc_smuggler.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26572,
+    "title": "Divine Right",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cjc_divineri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26573,
+    "title": "Flood Tide",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cjc_floodtid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26574,
+    "title": "Endgame",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cjc_endgame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3959,
+    "title": "Gate of Ivrel",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "cjc_gateofiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3960,
+    "title": "Well of Shiuan",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cjc_wellofsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3961,
+    "title": "Fires of Azeroth",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "cjc_firesofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3962,
+    "title": "Exile's Gate",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cjc_exilesga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 752,
+    "title": "Rusalka",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cjc_rusalka.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1688,
+    "title": "Chernevog",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cjc_chernevo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1689,
+    "title": "Yvgenie",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cjc_yvgenie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34847,
+    "title": "A Dirge for Sabis",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cjclf_adirgefo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34848,
+    "title": "Wizard Spawn",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cjcna_wizardsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34849,
+    "title": "Reap the Whirlwind",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cjcml_reapthew.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

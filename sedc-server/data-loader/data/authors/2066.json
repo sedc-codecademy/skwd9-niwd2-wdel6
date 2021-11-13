@@ -1,0 +1,29 @@
+[
+  {
+    "id": 6094,
+    "title": "The Unbecoming of Mara Dyer",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mh_theunbec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6095,
+    "title": "The Evolution of Mara Dyer",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mh_theevolu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6096,
+    "title": "The Retribution of Mara Dyer",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mh_theretri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

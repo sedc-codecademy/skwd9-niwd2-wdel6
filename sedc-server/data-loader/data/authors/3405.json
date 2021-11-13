@@ -1,0 +1,28 @@
+[
+  {
+    "id": 32106,
+    "title": "The Book Collector",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13676,
+    "title": "Firethorn",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sm_firehorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13677,
+    "title": "Wildfire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sm_wildfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

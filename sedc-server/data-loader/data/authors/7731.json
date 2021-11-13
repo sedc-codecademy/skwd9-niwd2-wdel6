@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36453,
+    "title": "A Thunder of Stars",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dmjk_athunder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36454,
+    "title": "Seed of Stars",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dmjk_seedofst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36455,
+    "title": "The Neutral Stars",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "dmjk_neutrals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36456,
+    "title": "Where No Stars Guide",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jk_wherenos.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

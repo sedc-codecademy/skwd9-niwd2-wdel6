@@ -1,0 +1,531 @@
+[
+  {
+    "id": 32333,
+    "title": "Deriving Life",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "eb_deriving.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34411,
+    "title": "Lest We Forget",
+    "year": 2019,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35768,
+    "title": "A Time to Reap",
+    "year": 2019,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32784,
+    "title": "Okay, Glory",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27014,
+    "title": "She Still Loves the Dragon",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24801,
+    "title": "And the Balance in Blood",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24300,
+    "title": "The Heart's Filthy Lesson",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23933,
+    "title": "In Libres",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26299,
+    "title": "Covenant",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26802,
+    "title": "The Hand is Quicker",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16078,
+    "title": "This Chance Planet",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eb_thischan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16077,
+    "title": "Faster Gun",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eb_fastergu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26344,
+    "title": "In the House of Aryaman, a Lonely Signal Burns",
+    "year": 2012,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6201,
+    "title": "Shoggoths in Bloom (collection)",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eb_shoggoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26155,
+    "title": "Dolly",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16076,
+    "title": "The Horrid Glory of Its Wings",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "eb_thehorri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16068,
+    "title": "The Girl Who Sang Rose Madder",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "eb_thegirlw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19758,
+    "title": "Shoggoths in Bloom",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25101,
+    "title": "Orm the Beautiful",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16086,
+    "title": "Tideline",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1022,
+    "title": "Undertow",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eb_undertow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 995,
+    "title": "Carnival",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "eb_carnival.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6172,
+    "title": "The Chains That You Refuse",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "eb_thechain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27003,
+    "title": "The Ile of Dogges",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26156,
+    "title": "Two Dreams on Trains",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22544,
+    "title": "Boojum",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25435,
+    "title": "Mongoose",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27252,
+    "title": "The Wreck of the 'Charles Dexter Ward'",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6229,
+    "title": "All the Windwracked Stars",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "eb_allthewi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6230,
+    "title": "By the Mountain Bound",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "eb_bythemou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6231,
+    "title": "The Sea thy Mistress",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eb_theseath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6508,
+    "title": "Book of Iron",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "eb_bookofir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6507,
+    "title": "Bone and Jewel Creatures",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "eb_boneandj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3925,
+    "title": "Range of Ghosts",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eb_rangeofg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6072,
+    "title": "Shattered Pillars",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "eb_shattere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6073,
+    "title": "Steles of the Sky",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eb_stelesof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6851,
+    "title": "A Companion to Wolves",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ebsm_acompani.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6852,
+    "title": "The Tempering of Men",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ebsm_thetempe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13993,
+    "title": "An Apprentice to Elves",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "smeb_anappren.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2517,
+    "title": "Dust",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "eb_dust.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2518,
+    "title": "Chill",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "eb_chill.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4060,
+    "title": "Grail",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eb_grail.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5727,
+    "title": "Hammered",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "eb_hammered.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5728,
+    "title": "Scardown",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "eb_scardown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5729,
+    "title": "Worldwired",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "eb_worldwired.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10701,
+    "title": "Karen Memory",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "eb_karenmem.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26978,
+    "title": "Stone Mad",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "eb_stonemad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24811,
+    "title": "The Stone in the Skull",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "eb_thestone.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32752,
+    "title": "The Red-Stained Wings",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "eb_theredst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31727,
+    "title": "Wax",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6173,
+    "title": "New Amsterdam",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eb_newamste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6198,
+    "title": "Seven for a Secret",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "eb_sevenfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6199,
+    "title": "The White City",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eb_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6200,
+    "title": "ad eternum",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eb_adeternu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6074,
+    "title": "Blood and Iron",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "eb_bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6075,
+    "title": "Whiskey and Water",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eb_whiskeya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6076,
+    "title": "Ink and Steel",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "eb_inkandst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6077,
+    "title": "Hell and Earth",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "eb_hellande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8363,
+    "title": "One-Eyed Jack",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eb_oneeyedj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31657,
+    "title": "Ancestral Night",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "eb_ancestra.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36320,
+    "title": "Machine",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "eb_machine.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

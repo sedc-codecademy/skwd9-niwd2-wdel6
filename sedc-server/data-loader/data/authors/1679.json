@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3984,
+    "title": "Fair Coin",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ecm_faircoin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4500,
+    "title": "Quantum Coin",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ecm_quantumc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1740,
+    "title": "The Adamantine Palace",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sd_theadama.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2660,
+    "title": "The King of the Crags",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sd_thekingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4526,
+    "title": "The Order of the Scales",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sd_theorder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7180,
+    "title": "The Black Mausoleum",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sd_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7182,
+    "title": "Dragon Queen",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sd_dragonqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7181,
+    "title": "The Splintered Gods",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sd_thesplin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13108,
+    "title": "The Silver Kings",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sd_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2661,
+    "title": "The Thief-Taker's Apprentice",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sd_thethief.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7178,
+    "title": "The Warlock's Shadow",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sd_thewarlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7179,
+    "title": "The King's Assassin",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sd_thekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

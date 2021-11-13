@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20541,
+    "title": "The Stairway to the Sun and The Dance of the Comets",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ps_stairway.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20540,
+    "title": "Rakkox the Billionaire and The Great Race",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ps_rakkox.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20542,
+    "title": "Glass! Love!! Perpetual Motion!!!",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ps_glasslove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20539,
+    "title": "Lesabendio",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ps_lesabendio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20538,
+    "title": "The Perpetual Motion Machine",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ps_theperpetual.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

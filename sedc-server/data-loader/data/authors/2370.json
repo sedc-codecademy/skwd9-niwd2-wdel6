@@ -1,0 +1,47 @@
+[
+  {
+    "id": 8915,
+    "title": "The Devil Goblins of Neptune",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ktmd_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8924,
+    "title": "The Hollow Men",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ktmd_thehollo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9041,
+    "title": "The King of Terror",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kt_thekingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9057,
+    "title": "Byzantium!",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kt_byzantiu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9124,
+    "title": "Ghost Ship",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kt_ghostshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17231,
+    "title": "Submission",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "MH_Submissi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3121,
+    "title": "Atomised",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mh_atomised.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7348,
+    "title": "H. P. Lovecraft:  Against the World, Against Life",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mh_hplovecraft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

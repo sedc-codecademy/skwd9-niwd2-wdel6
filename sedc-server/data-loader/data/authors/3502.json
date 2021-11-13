@@ -1,0 +1,38 @@
+[
+  {
+    "id": 28379,
+    "title": "The Beauty",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "AW_TheBeaut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33916,
+    "title": "The Loosening Skin",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "aw_theloose.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 19254,
+    "title": "The Arrival of Missives",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "aw_thearriv.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14132,
+    "title": "The Beauty",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "aw_thebeauty.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

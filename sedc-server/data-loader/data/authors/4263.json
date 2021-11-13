@@ -1,0 +1,64 @@
+[
+  {
+    "id": 31495,
+    "title": "Timshala",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "lc_timshala.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17667,
+    "title": "Nanny's Day",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31481,
+    "title": "Death Sworn",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lc_deathswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31482,
+    "title": "Death Marked",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lc_deathmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31483,
+    "title": "Mistwood",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lc_mistwood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31484,
+    "title": "Nightspell",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lc_nightspe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31485,
+    "title": "Buried Above Ground",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lc_buriedab.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 36088,
+    "title": "The Personality Surgeon",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "CW_Personal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12698,
+    "title": "The Space Vampires",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "cw_thespace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12154,
+    "title": "The Philosopher's Stone",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "cw_thephilo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12699,
+    "title": "The Mind Parasites",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "cw_themindp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22014,
+    "title": "Ritual in the Dark",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "CW_ritualin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22015,
+    "title": "Man Without a Shadow",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "CW_manwitho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22016,
+    "title": "The God of the Labyrinth",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "CW_godlabyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22551,
+    "title": "The Haunted Man: The Strange Genius of David Lindsay",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "CW_hauntedm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

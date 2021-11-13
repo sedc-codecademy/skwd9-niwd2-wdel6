@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3718,
+    "title": "Z for Zachariah",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "rcob_zforzach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16714,
+    "title": "Racso and the Rats of NIMH",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JC_racsorat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16715,
+    "title": "R-T, Margaret, and the Rats of NIMH",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JC_rtratsni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

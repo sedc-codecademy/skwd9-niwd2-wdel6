@@ -1,0 +1,110 @@
+[
+  {
+    "id": 32323,
+    "title": "Monster",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "JT_Monster.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32320,
+    "title": "The Curse",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "JT_TheCurse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32322,
+    "title": "Comes the Wraith",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JT_Comesthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24023,
+    "title": "Book of the Dead",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jt_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35413,
+    "title": "Kiss Not the Child",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "JT_KissNotC.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24022,
+    "title": "Venom",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jt_venom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24021,
+    "title": "Vessel",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jt_vessel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35416,
+    "title": "As Evil Does",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "JT_AsEvilDo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35414,
+    "title": "Evil Dreams",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JT_EvilDrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35415,
+    "title": "The Immortal",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JT_Immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32319,
+    "title": "Unto the Altar",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "JT_UntotheA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32321,
+    "title": "Garden of the Incubus",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "JT_Gardenof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

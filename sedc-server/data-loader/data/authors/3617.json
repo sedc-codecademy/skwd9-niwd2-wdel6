@@ -1,0 +1,56 @@
+[
+  {
+    "id": 14847,
+    "title": "Legacy of Steel",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mhh_legacyof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14863,
+    "title": "The Clandestine Circle",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mh_clandest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14864,
+    "title": "Dragon's Bluff",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mh_dragonsb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14742,
+    "title": "City of the Lost",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mh_cityofthel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14743,
+    "title": "Flight of the Fallen",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mh_flightofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14744,
+    "title": "Return of the Exile",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mh_returnofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

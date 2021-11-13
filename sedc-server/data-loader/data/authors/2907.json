@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11418,
+    "title": "Mage Heart",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jr_magehear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11419,
+    "title": "Fire Angels",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jr_fireange.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11420,
+    "title": "Aramaya",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jr_aramaya.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

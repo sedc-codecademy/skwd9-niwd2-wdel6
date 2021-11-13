@@ -1,0 +1,295 @@
+[
+  {
+    "id": 17981,
+    "title": "The Game of Smash and Recovery",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11066,
+    "title": "Get in Trouble:  Stories",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kl_getintro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24165,
+    "title": "I Can See Right Through You",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28689,
+    "title": "The Lady and the Fox",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9608,
+    "title": "Monstrous Affections:  An Anthology of Beastly Tales",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "klgjg_monstrou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27034,
+    "title": "Two Houses",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9609,
+    "title": "Steampunk! An Anthology of Fantastically Rich and Strange Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "klgjg_steampun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28997,
+    "title": "The Summer People",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26349,
+    "title": "Valley of the Girls",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26902,
+    "title": "The Cinderella Game",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28950,
+    "title": "Secret Identity",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28546,
+    "title": "Pretty Monsters",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4846,
+    "title": "Pretty Monsters",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kl_prettymo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16241,
+    "title": "The Best of Lady Churchill's Rosebud Wristlet",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kl_gjg_bestofla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26431,
+    "title": "The Constable of Abal",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30292,
+    "title": "Light",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28508,
+    "title": "The Wizards of Perfil",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4845,
+    "title": "Magic for Beginners",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kl_magicfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19455,
+    "title": "Magic for Beginners",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18582,
+    "title": "The Faery Handbag",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19871,
+    "title": "Stone Animals",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22588,
+    "title": "Catskin",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23642,
+    "title": "The Hortlak",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8150,
+    "title": "Trampoline",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kl_trampoli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18613,
+    "title": "Louise's Ghost",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4844,
+    "title": "Stranger Things Happen",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kl_stranger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24053,
+    "title": "Shoe and Marriage",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24027,
+    "title": "The Specialist's Hat",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16211,
+    "title": "Travels with the Snow Queen",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23011,
+    "title": "Water Off a Black Dog's Back",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4652,
+    "title": "The Year's Best Fantasy and Horror: Seventeenth Annual Collection",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "edklgjg_theyears17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4653,
+    "title": "The Year's Best Fantasy and Horror: Eighteenth Annual Collection",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "edklgjg_theyears18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4654,
+    "title": "The Year's Best Fantasy and Horror: Nineteenth Annual Collection",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "edklgjg_theyears19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4655,
+    "title": "The Year's Best Fantasy and Horror: Twentieth Annual Collection",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "edklgjg_theyears20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4656,
+    "title": "The Year's Best Fantasy and Horror: Twenty-First Annual Collection",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "edklgjg_theyears21.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

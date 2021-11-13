@@ -1,0 +1,110 @@
+[
+  {
+    "id": 13575,
+    "title": "Angels' Flight",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ns_anflight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13568,
+    "title": "Angels' Blood",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ns_angelsbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13569,
+    "title": "Archangel's Kiss",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ns_archange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13570,
+    "title": "Archangel's Consort",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ns_aconsort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13571,
+    "title": "Archangel's Blade",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ns_arcblade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13572,
+    "title": "Archangel's Storm",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ns_arcstrorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13573,
+    "title": "Archangel's Legion",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ns_arlegion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13574,
+    "title": "Archangel's Shadows",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ns_ashadows.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17653,
+    "title": "Archangel's Enigma",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ns_arenigma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20288,
+    "title": "Archangel's Heart",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ns_archeart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31840,
+    "title": "Archangel's Viper",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ns_arcviper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31842,
+    "title": "Archangel's Prophecy",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ns_aprophec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

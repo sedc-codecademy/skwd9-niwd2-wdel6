@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10549,
+    "title": "Lumen",
+    "year": 1872,
+    "type": "novel",
+    "imageName": "CF_lumen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10470,
+    "title": "Omega: The Last Days of the World",
+    "year": 1894,
+    "type": "novel",
+    "imageName": "CF_omega.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10652,
+    "title": "Death by Silver",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "MS_deathsil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10653,
+    "title": "A Death at the Dionysus Club",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MS_deathdio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16533,
+    "title": "The Lost",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JG_thelost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16534,
+    "title": "Allegiance",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MS_allegian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16537,
+    "title": "Inheritors",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JG_inherito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16538,
+    "title": "Unascended",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JG_unascend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16542,
+    "title": "Heart's Desire",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "AG_heartsde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16543,
+    "title": "Murder at the SGC",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "AG_murderat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

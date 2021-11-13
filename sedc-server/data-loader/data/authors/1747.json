@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4246,
+    "title": "Nocturnal",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ss_nocturna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22863,
+    "title": "Complex God",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27257,
+    "title": "Earthcore",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ss_earthcor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18917,
+    "title": "Alive",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ss_alive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18918,
+    "title": "Alight",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ss_alight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22864,
+    "title": "Alone",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ss_alone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7349,
+    "title": "Infected",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ss_infected.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7350,
+    "title": "Contagious",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ss-contag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7351,
+    "title": "Pandemic",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ss_pandemic.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

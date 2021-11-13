@@ -1,0 +1,20 @@
+[
+  {
+    "id": 13797,
+    "title": "Back to the Future",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "GG_backtoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13820,
+    "title": "Gremlins",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "GG_gremlins.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

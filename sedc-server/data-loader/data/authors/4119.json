@@ -1,0 +1,38 @@
+[
+  {
+    "id": 17199,
+    "title": "Eve of Sin City",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sjd_eveofsin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17201,
+    "title": "Eve of Darkness",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sjd_eveofdar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17202,
+    "title": "Eve of Destruction",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sjd_eveofdes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17203,
+    "title": "Eve of Chaos",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sjd_eveofcha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

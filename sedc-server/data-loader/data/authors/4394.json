@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18719,
+    "title": "Borderline",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mb_borderli.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 21938,
+    "title": "Phantom Pains",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "MB_phantomp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26986,
+    "title": "Impostor Syndrome",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mb_impostor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

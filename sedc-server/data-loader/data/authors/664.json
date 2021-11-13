@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4070,
+    "title": "The Alchemists of Kush",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mf_thealche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1023,
+    "title": "From the Notebooks of Dr. Brain",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mf_fromthen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 667,
+    "title": "The Coyote Kings of the Space-Age Bachelor Pad",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mf_thecoyot.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 17378,
+    "title": "Ascension",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mf_ascensio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17379,
+    "title": "The Darkold",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mf_thedarko.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

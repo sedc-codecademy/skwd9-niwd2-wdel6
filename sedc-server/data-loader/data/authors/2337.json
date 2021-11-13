@@ -1,0 +1,65 @@
+[
+  {
+    "id": 14982,
+    "title": "The Doctor Trap",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sm_thedocto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8829,
+    "title": "The Face-Eater",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sm_thefaceea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8899,
+    "title": "The Infinity Race",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sm_theinfin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10241,
+    "title": "Strange England",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sm_strangeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8935,
+    "title": "Zeta Major",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sm_zetamajo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9030,
+    "title": "Tomb of Valdemar",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sm_tombofva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9105,
+    "title": "The Indestructible Man",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sm_theindes.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

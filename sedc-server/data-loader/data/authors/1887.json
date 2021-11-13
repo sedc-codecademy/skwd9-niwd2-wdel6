@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5073,
+    "title": "Life As We Knew It",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sbp_lifeaswe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5074,
+    "title": "The Dead and the Gone",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sbp_thedeada.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5075,
+    "title": "This World We Live In",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sbp_thisworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11187,
+    "title": "The Shade of the Moon",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sbf_theshade.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

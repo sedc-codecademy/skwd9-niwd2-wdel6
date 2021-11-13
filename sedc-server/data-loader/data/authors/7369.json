@@ -1,0 +1,83 @@
+[
+  {
+    "id": 34854,
+    "title": "Cat Scratch Fever",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "TH_catscrat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34855,
+    "title": "Cataract",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "TH_cataract.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34856,
+    "title": "Wolfwalker",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "TH_wolfwalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34857,
+    "title": "Shadow Leader",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "Th_shadowle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34858,
+    "title": "Storm Runner",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "TH_stormrun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34859,
+    "title": "Grayheart",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "TH_grayhear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34860,
+    "title": "Wolf's Bane",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "TH_wolfsban.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34861,
+    "title": "Silver Moons, Black Steel",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "TH_silvermo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34862,
+    "title": "Wolf in Night",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "TH_wolfinni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

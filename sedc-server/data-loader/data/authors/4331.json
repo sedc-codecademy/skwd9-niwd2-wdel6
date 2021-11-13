@@ -1,0 +1,38 @@
+[
+  {
+    "id": 18328,
+    "title": "Quark/1",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "MH&SRD_Quark1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18329,
+    "title": "Quark/2",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "MH&SRD_Quark2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18330,
+    "title": "Quark/3",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "MH&SRD_Quark3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18332,
+    "title": "Quark/4",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "MH&SRD_Quark4.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

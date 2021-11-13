@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3560,
+    "title": "Blackdog",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kvj_blackdog.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5993,
+    "title": "The Leopard",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kvj_theleopa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10905,
+    "title": "The Lady",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kvj_thelady.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19742,
+    "title": "Gods of Nabban",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kvj_godsofna.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

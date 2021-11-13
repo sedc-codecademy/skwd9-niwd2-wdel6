@@ -1,0 +1,47 @@
+[
+  {
+    "id": 12070,
+    "title": "The Crystal Bucephalus",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ch_thecryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12131,
+    "title": "Millennial Rites",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ch_millenni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10283,
+    "title": "GodEngine",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ch_godengin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9043,
+    "title": "The Quantum Archangel",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ch_thequant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9103,
+    "title": "Synthespians™",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ch_synthesp.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

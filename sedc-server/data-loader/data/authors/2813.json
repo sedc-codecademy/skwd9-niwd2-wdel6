@@ -1,0 +1,281 @@
+[
+  {
+    "id": 18599,
+    "title": "Imaginings: An Anthology of Long Short Fiction",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "krad_imaginin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11065,
+    "title": "Serenity",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "KD_serenity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20197,
+    "title": "Demons of Air and Darkness",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "KD_demonair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20200,
+    "title": "What Lay Beyond",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "PD_whatlayb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20097,
+    "title": "A Good Day to Die",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "krad_agoodday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20098,
+    "title": "Honor Bound",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "krad_honorbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20099,
+    "title": "Enemy Territory",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "krad_enemyter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20100,
+    "title": "A Burning House",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "krad_abruning.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20495,
+    "title": "Obsidian Alliances",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "KD_obsidian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20494,
+    "title": "Echoes and Refractions",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KD_echoesre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20101,
+    "title": "The Brave and the Bold: Book One",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "krad_brabold1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20102,
+    "title": "The Brave and the Bold: Book Two",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "krad_brabold2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20223,
+    "title": "Tales From the Captain's Table",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "krad_talesfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17122,
+    "title": "Tales of the Dominion War",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "KD_talesdom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20419,
+    "title": "The Art of the Impossible:  2328-2346",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "KD_artimpos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20488,
+    "title": "The Dominion and Ferenginar",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "DG_thedomin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20224,
+    "title": "A Singular Destiny",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "krad_singular.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20873,
+    "title": "Mere Anarchy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "KD_mereanar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21007,
+    "title": "Have Tech, Will Travel",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "KD_havetech.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21008,
+    "title": "Miracle Workers",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "KD_miraclew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21009,
+    "title": "Some Assembly Required",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "KD_someasse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21012,
+    "title": "Wildfire",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "KD_wildfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21013,
+    "title": "Breakdowns",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "KD_breakdow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21031,
+    "title": "Aftermath",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KD_aftermat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21055,
+    "title": "Wounds",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KD_wounds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21079,
+    "title": "What's Past",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "KD_whatpast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20413,
+    "title": "Q & A",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "KD_q&a.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20329,
+    "title": "Articles of the Federation",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "KD_articles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19856,
+    "title": "Diplomatic Implausibility",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "krad_diplomat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18776,
+    "title": "A Time For War, A Time For Peace",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "krad_timeforw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20464,
+    "title": "Kali's Wrath",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "KD_kaliswra.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

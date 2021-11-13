@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25565,
+    "title": "Childgrave",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "KG_childgra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23184,
+    "title": "Elizabeth:  A Novel of the Unnatural",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "KG_elizabet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22842,
+    "title": "Hell Hound",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "KG_hellhoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

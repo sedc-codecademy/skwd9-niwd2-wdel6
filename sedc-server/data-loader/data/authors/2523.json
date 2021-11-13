@@ -1,0 +1,64 @@
+[
+  {
+    "id": 16374,
+    "title": "Collected Fictions",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JLB_Collecte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16361,
+    "title": "The Book of Sand",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "JLB_TheBookO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18168,
+    "title": "Utopia of a Tired Man",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9753,
+    "title": "Labyrinths",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jlb_labyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16357,
+    "title": "The Aleph and Other Stories",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "JLB_TheAleph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16359,
+    "title": "Ficciones",
+    "year": 1944,
+    "type": "novel",
+    "imageName": "JLB_Ficcione.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16381,
+    "title": "The Book of Fantasy",
+    "year": 1940,
+    "type": "novel",
+    "imageName": "JLB&SO&ABC_TheBookO.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

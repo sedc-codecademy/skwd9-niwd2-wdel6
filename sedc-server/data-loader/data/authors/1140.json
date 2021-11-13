@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1807,
+    "title": "The House on the Borderland and Other Novels",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "whh_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7576,
+    "title": "The Casebook of Carnacki the Ghost Finder",
+    "year": 1913,
+    "type": "novel",
+    "imageName": "whh_thecaseb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31926,
+    "title": "The Ghost Pirates",
+    "year": 1909,
+    "type": "novel",
+    "imageName": "WHH_GhostPir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31925,
+    "title": "The Boats of the Glen Carrig",
+    "year": 1907,
+    "type": "novel",
+    "imageName": "WHH_Boatsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5192,
+    "title": "The Night Land",
+    "year": 1912,
+    "type": "novel",
+    "imageName": "whh_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

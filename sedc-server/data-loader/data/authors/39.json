@@ -1,0 +1,371 @@
+[
+  {
+    "id": 13853,
+    "title": "Dreamweaver's Dilemma",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lmb_dreamwea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15613,
+    "title": "Women at War",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lmbrjg_womenatw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 737,
+    "title": "The Spirit Ring",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lmmb_thespiri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6351,
+    "title": "Cordelia's Honor",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lmmb_cordelia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1639,
+    "title": "Shards of Honor",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lmmb_shardsof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 39,
+    "title": "Barrayar",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lmmb_barrayar.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 113,
+    "title": "Falling Free",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "lmmb_fallingf.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 35147,
+    "title": "Knife Children",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lmb_knifechi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2174,
+    "title": "Beguilement",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lmmb_beguilem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2175,
+    "title": "Legacy",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lmmb_legacy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2176,
+    "title": "Passage",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lmmb_passage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2177,
+    "title": "Horizon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lmmb_horizon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28572,
+    "title": "The Flowers of Vashnoi",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "lmb_theflowe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17676,
+    "title": "Winterfair Gifts",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lmb_winterfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17675,
+    "title": "Weatherman",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lmb_weatherm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12755,
+    "title": "The Mountains of Mourning",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lmb_mountain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1640,
+    "title": "The Warrior's Apprentice",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lmmb_thewarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 38,
+    "title": "The Vor Game",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lmmb_thevorga.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1641,
+    "title": "Ethan of Athos",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lmmb_ethanofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1642,
+    "title": "Brothers in Arms",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lmmb_brothers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6356,
+    "title": "Borders of Infinity",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lmmb_borderso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 42,
+    "title": "Mirror Dance",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lmmb_mirrorda.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 716,
+    "title": "Cetaganda",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lmmb_cetagand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 82,
+    "title": "Memory",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lmmb_memory.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1643,
+    "title": "Komarr",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lmmb_komarr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 70,
+    "title": "A Civil Campaign",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lmmb_acivilca.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 124,
+    "title": "Diplomatic Immunity",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lmmb_diplomat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2173,
+    "title": "Cryoburn",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lmmb_cryoburn.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5250,
+    "title": "Captain Vorpatril's Alliance",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lmmb_captainv.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 15612,
+    "title": "Gentleman Jole and the Red Queen",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lmb_gentlema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 64,
+    "title": "The Curse of Chalion",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lmmb_thecurse.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 51,
+    "title": "Paladin of Souls",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lmmb_paladino.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 849,
+    "title": "The Hallowed Hunt",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lmmb_thehallo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 16364,
+    "title": "Penric's Demon",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lmb_penricsd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19166,
+    "title": "Penric and the Shaman",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lmb_penrican.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20866,
+    "title": "Penric's Mission",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lmb_penricsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22759,
+    "title": "Mira's Last Dance",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lmb_miraslas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25174,
+    "title": "Penric's Fox",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lmb_penrifox.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25960,
+    "title": "The Prisoner of Limnos",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lmb_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34642,
+    "title": "The Orphans of Raspay",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lmmb_theorpha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36606,
+    "title": "The Physicians of Vilnoc",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "lmb_physicia.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

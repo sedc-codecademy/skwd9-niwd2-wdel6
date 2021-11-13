@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11801,
+    "title": "By Rocket to the Moon:  The Story of Hans Hardt's Miraculous Flight",
+    "year": 1928,
+    "type": "novel",
+    "imageName": "OG_rocketmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11802,
+    "title": "The Shot into Infinity",
+    "year": 1925,
+    "type": "novel",
+    "imageName": "OG_shotinto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11803,
+    "title": "The Stone From the Moon",
+    "year": 1926,
+    "type": "novel",
+    "imageName": "OG_stonemoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

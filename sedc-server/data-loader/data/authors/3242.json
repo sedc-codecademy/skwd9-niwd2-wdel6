@@ -1,0 +1,47 @@
+[
+  {
+    "id": 12430,
+    "title": "Nine Horrors and a Dream",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "jpb_ninehorr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15417,
+    "title": "The Casebook of Lucius Leffing",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jpb_casebook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15418,
+    "title": "The Chronicles of Lucius Leffing",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jpb_chronicl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15419,
+    "title": "Act of Providence",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jpb_dmg_actofpro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15420,
+    "title": "The Adventures of Lucius Leffing",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jpb_adventur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

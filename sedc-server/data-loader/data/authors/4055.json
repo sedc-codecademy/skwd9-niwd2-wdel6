@@ -1,0 +1,108 @@
+[
+  {
+    "id": 32243,
+    "title": "Shadow-Hawk",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "GK_ShadowHa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34435,
+    "title": "In the Country of Tattooed Men",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "GK_IntheCou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23502,
+    "title": "The Ragthorn",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32244,
+    "title": "Dark Hills, Hollow Clocks",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "GK_DarkHill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32242,
+    "title": "Cloudrock",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "GK_CloudRoc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23904,
+    "title": "Hogfoot Right and Bird-Hands",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32509,
+    "title": "A Theatre of Timesmiths",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "GK_Theatero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32510,
+    "title": "Gemini God",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "GK_GeminiGo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32241,
+    "title": "Split Second",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "GK_SplitSec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32240,
+    "title": "The Night of Kadar",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "GK_NightofK.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31857,
+    "title": "In Solitary",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "GK_InSolita.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16930,
+    "title": "Highlander",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "GK_highland.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

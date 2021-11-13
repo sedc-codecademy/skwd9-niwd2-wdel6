@@ -1,0 +1,209 @@
+[
+  {
+    "id": 20891,
+    "title": "The Iron Assassin",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "eg_theirona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15403,
+    "title": "Spellstorm",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "eg_spellsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15222,
+    "title": "Elminster: The Making of a Mage",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "eg_themakin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15224,
+    "title": "Elminster in Myth Drannor",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "eg_inmythd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15225,
+    "title": "The Temptation of Elminster",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "eg_thetempt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15227,
+    "title": "Elminster in Hell",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "eg_elinhell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15228,
+    "title": "Elminster's Daughter",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "eg_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15174,
+    "title": "Spellfire",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "eg_spellfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15175,
+    "title": "Crown of Fire",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "eg_crownoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15176,
+    "title": "Hand of Fire",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "eg_handoffi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15548,
+    "title": "The City of Splendors",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "egec_tcosplen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15400,
+    "title": "Cormyr",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "egjg_cormyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15402,
+    "title": "Death of the Dragon",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "egtd_deathoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15158,
+    "title": "Swords of Eveningstar",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "eg_sworsdsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15159,
+    "title": "Swords of Dragonfire",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eg_dragonfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15160,
+    "title": "The Sword Never Sleeps",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "eg_neversle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15155,
+    "title": "Shadows of Doom",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "eg_shadowso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15156,
+    "title": "Cloak of Shadows",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "eg_cloakofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15157,
+    "title": "All Shadows Fled",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "eg_allshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15154,
+    "title": "The Herald",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eg_theheral.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15397,
+    "title": "Elminster Must Die!",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "eg_elminste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15398,
+    "title": "Bury Elminster Deep",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eg_buryelmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15399,
+    "title": "Elminster Enraged",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eg_eenraged.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

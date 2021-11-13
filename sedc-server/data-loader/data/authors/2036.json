@@ -1,0 +1,89 @@
+[
+  {
+    "id": 15998,
+    "title": "A Guide to the Fruits of Hawai'i",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "adj_aguideto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11191,
+    "title": "Love Is the Drug",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "adj_loveisth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7272,
+    "title": "The Summer Prince",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "adj_summerpr.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 15997,
+    "title": "They Shall Salt the Earth with Seeds of Glass",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24805,
+    "title": "Love Will Tear Us Apart",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32327,
+    "title": "Third Day Lights",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8768,
+    "title": "Racing the Dark",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "adj_racingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8769,
+    "title": "The Burning City",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "adj_theburni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5802,
+    "title": "Moonshine",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "aj_moonshin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5803,
+    "title": "Wicked City",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "aj_wickedci.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

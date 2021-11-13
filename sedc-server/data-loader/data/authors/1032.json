@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1080,
+    "title": "Aztec Century",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ce_azteccen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32260,
+    "title": "Chimeras",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "CE_Chimeras.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22084,
+    "title": "Other Edens",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cerh_othere1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22087,
+    "title": "Other Edens II",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cerh_othere2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22088,
+    "title": "Other Edens III",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cerh_othere3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

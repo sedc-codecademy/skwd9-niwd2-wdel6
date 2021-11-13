@@ -1,0 +1,107 @@
+[
+  {
+    "id": 21779,
+    "title": "Swift to Chase",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "LB_swiftcha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18288,
+    "title": "X's For Eyes",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "LB_XsForEye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6258,
+    "title": "The Beautiful Thing that Awaits Us All",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lb_thebeaut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6256,
+    "title": "The Croning ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lb_thecroni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23664,
+    "title": "Hand of Glory",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8186,
+    "title": "The Light is the Darkness",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lb_thelight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6261,
+    "title": "Occultation and Other Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lb_occultat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19785,
+    "title": "The Forest",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4588,
+    "title": "The Imago Sequence and Other Stories",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lb_theimago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23647,
+    "title": "The Imago Sequence",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19769,
+    "title": "Man with No Name",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lb_manwithn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9548,
+    "title": "Year's Best Weird Fiction, Volume 1",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lb_ybwfvol1.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

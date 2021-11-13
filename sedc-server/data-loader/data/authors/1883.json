@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5038,
+    "title": "The First Betrayal",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pb_thefirst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5039,
+    "title": "The Sea Change",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pb_theseach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5040,
+    "title": "The Final Sacrifice",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pb_thefinal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5041,
+    "title": "Devlin's Luck",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pb_devlinsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5042,
+    "title": "Devlin's Honor",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pb_devlinsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5043,
+    "title": "Devlin's Justice",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pb_devlinsj.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35090,
+    "title": "Wit'ch Fire",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JC_WitchFir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35091,
+    "title": "Wit'ch Storm",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "JC_WitchSto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35092,
+    "title": "Wit'ch War",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "JC_WitchWar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35093,
+    "title": "Wit'ch Gate",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "JC_WitchGat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35094,
+    "title": "Wit'ch Star",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JC_WitchSta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35095,
+    "title": "Shadowfall",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JC_Shadowfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35096,
+    "title": "Hinterland",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "JC_Hinterla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

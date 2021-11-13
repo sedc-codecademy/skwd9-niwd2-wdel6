@@ -1,0 +1,91 @@
+[
+  {
+    "id": 24747,
+    "title": "In Other Lands",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "srb_inotherl.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 35318,
+    "title": "Tell the Wind and Fire",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "SRB_TellWind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9620,
+    "title": "Team Human",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jlsrb_teamhuma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24833,
+    "title": "The Spy Who Never Grew Up",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1913,
+    "title": "The Demon's Lexicon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "srb_thedemon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9615,
+    "title": "The Demon's Covenant",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "srb_tdcovena.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9616,
+    "title": "The Demon's Surrender",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "srb_tdsurren.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9617,
+    "title": "Unspoken",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "srb_unspoken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9618,
+    "title": "Untold",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "srb_untold.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9619,
+    "title": "Unmade",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "srb_unmade.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

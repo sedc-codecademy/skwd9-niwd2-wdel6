@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4826,
+    "title": "Eating Memories",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pa_eatingme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4824,
+    "title": "God's Fires",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pa_godsfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4822,
+    "title": "Brother Termite",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pa_brothera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4821,
+    "title": "Cold Allies",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pa_coldalli.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4823,
+    "title": "Conscience of the Beagle",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pa_conscien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4825,
+    "title": "Flanders",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pa_flanders.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10929,
+    "title": "Cradle of Splendor",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pa_cradleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 607,
+    "title": "Happy Policeman",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pa_happypol.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

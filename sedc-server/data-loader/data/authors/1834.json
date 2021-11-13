@@ -1,0 +1,83 @@
+[
+  {
+    "id": 19869,
+    "title": "Stories:  All-New Tales",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ngas_stories.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4627,
+    "title": "999:  New Tales of Horror and Suspense",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "as_999.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33970,
+    "title": "Toybox",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "as_toybox.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33967,
+    "title": "House Haunted",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "as_househau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33968,
+    "title": "October",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "as_october.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33969,
+    "title": "Totentanz",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "as_totentan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15035,
+    "title": "Personal Agendas",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "as_personal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27273,
+    "title": "Redshift:  Extreme Visions of Speculative Fiction",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "as_redshift.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27274,
+    "title": "Flights: Extreme Visions of Fantasy",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "as_flights1.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

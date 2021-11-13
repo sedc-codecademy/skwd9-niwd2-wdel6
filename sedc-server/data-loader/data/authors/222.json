@@ -1,0 +1,164 @@
+[
+  {
+    "id": 34014,
+    "title": "The Conjure Book",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "aaa_conjureb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34017,
+    "title": "Killing with the Edge of the Moon",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "aaa_killingw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34019,
+    "title": "Twice Dead Things",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "aaa_twicedea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34015,
+    "title": "Centuries",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "aaa_centurie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11681,
+    "title": "Solis",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "aaa_solis.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34013,
+    "title": "The Moon's Wife",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "aaa_moonswif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34018,
+    "title": "Kingdom Of The Grail",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "aaa_kingdomo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 916,
+    "title": "Hunting the Ghost Dancer",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "aaa_huntingt.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6974,
+    "title": "Wyvern ",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "aaa_wyvern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24514,
+    "title": "Beastmarks",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "aaa_beastmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6968,
+    "title": "The Dragon and the Unicorn ",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "aaa_dragonan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6969,
+    "title": "The Eagle and the Sword",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "aaa_eagleand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6970,
+    "title": "The Wolf and the Crown",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "aaa_thewolfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6972,
+    "title": "The Serpent and the Grail ",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "aaa_serpenta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 228,
+    "title": "Radix",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "aaa_radix.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6963,
+    "title": "In Other Worlds ",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "aaa_inotherw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6965,
+    "title": "Arc of the Dream",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "aaa_arcofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6967,
+    "title": "The Last Legends of Earth ",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "aaa_lastlege.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

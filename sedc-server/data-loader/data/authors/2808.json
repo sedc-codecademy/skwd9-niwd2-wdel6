@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11054,
+    "title": "Steel Breeze",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dw_steelbre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11055,
+    "title": "The Devil of Echo Lake",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dw_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11053,
+    "title": "Red Equinox",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dw_redexuin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25551,
+    "title": "Black January",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "DW_blackjan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25552,
+    "title": "Cthulhu Blues",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "DW_cthulhub.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

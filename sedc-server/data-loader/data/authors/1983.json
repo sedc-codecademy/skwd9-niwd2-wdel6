@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5563,
+    "title": "The Demi-Monde: Winter",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rr_winter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5564,
+    "title": "The Demi-Monde: Spring",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rr_spring.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5565,
+    "title": "The Demi-Monde: Summer",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rr_summer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5566,
+    "title": "The Demi-Monde: Fall",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rr_fall.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

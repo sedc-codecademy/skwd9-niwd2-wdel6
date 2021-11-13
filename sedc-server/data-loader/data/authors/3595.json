@@ -1,0 +1,47 @@
+[
+  {
+    "id": 14630,
+    "title": "The Pattern Scars",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cs_patterns.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14629,
+    "title": "The Silences of Home",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cs_silences.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14628,
+    "title": "A Telling of Stars",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cs_tellingo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14631,
+    "title": "The Door in the Mountain",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cs_doorinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14632,
+    "title": "The Flame in the Maze",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cs_flameint.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

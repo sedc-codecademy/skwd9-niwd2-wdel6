@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17404,
+    "title": "Druids",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "JL_druids.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17405,
+    "title": "Captives",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JL_captives.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17406,
+    "title": "Warriors",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JL_warriors.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

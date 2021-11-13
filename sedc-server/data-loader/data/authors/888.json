@@ -1,0 +1,29 @@
+[
+  {
+    "id": 26042,
+    "title": "Future Home of the Living God",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "le_futureho.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19352,
+    "title": "The Painted Drum",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "le_thepaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 886,
+    "title": "The Antelope Wife",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "le_theantel.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

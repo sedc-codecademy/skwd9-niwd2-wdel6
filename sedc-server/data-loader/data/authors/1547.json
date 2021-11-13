@@ -1,0 +1,150 @@
+[
+  {
+    "id": 22284,
+    "title": "Post",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "BC_post.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28739,
+    "title": "Iron Pegasus",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4902,
+    "title": "Mayan December",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bc_mayandec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31938,
+    "title": "The Hebras and the Demons and the Damned",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23369,
+    "title": "My Father's Singularity",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32014,
+    "title": "In Their Garden",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8680,
+    "title": "Building Harlequin's Moon",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lnbc_building.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19873,
+    "title": "Savant Songs",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10913,
+    "title": "Edge of Dark",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bc_edgeofda.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18833,
+    "title": "Spear of Light",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bc_spearofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22224,
+    "title": "Wilders",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bc_wilders.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28435,
+    "title": "Keepers",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "bc_keepers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4505,
+    "title": "The Creative Fire",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bc_thecreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6156,
+    "title": "The Diamond Deep",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bc_thediamo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3479,
+    "title": "The Silver Ship and the Sea",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bc_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3480,
+    "title": "Reading the Wind",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bc_readingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3481,
+    "title": "Wings of Creation",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bc_wingsofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

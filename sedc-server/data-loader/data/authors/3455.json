@@ -1,0 +1,119 @@
+[
+  {
+    "id": 31719,
+    "title": "Starlight Man: The Extraordinary Life of Algernon Blackwood",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ma_starligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35201,
+    "title": "Glimpses of the Unknown: Lost Ghost Stories",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "MA_Glimpses.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16274,
+    "title": "The Feminine Future: Early Science Fiction by Women Writers",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ma_thefemin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27578,
+    "title": "The Mammoth Book of Time Travel SF",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ma_tmbotime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21909,
+    "title": "The Mammoth Book of Apocalyptic SF",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "MA_mammothb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27504,
+    "title": "The Mammoth Book of Extreme Science Fiction",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ma_tmboexsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10457,
+    "title": "The Mammoth Book of New Jules Verne Adventures:  New Tales by the Heirs of Jules Verne",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "EB_mammoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23526,
+    "title": "The Mammoth Book of Sorcerers' Tales",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ma_sorcerer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24326,
+    "title": "The Mammoth Book of Science Fiction",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ma_mboscifi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13919,
+    "title": "The Time Machines:  The S-F Pulp Magazines, the Beginning to 1950",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "MA_timemach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13920,
+    "title": "Transformations:  The S-F Magazines from 1950 to 1970",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "MA_transfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13921,
+    "title": "Gateways To Forever:  The S-F Magazines from 1970 to 1980",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MA_gateways.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13922,
+    "title": "Science Fiction Rebels:  The S-F Magazines from 1981 to 1990",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "MA_sfrebels.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

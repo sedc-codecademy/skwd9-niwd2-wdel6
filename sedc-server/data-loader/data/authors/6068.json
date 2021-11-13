@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32192,
+    "title": "Firebirds",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sn_firebir1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32193,
+    "title": "Firebirds Rising",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sn_firebir2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32194,
+    "title": "Firebirds Soaring: An Anthology of Original Speculative Fiction",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sn_firebir3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

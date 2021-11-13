@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11222,
+    "title": "Ticker",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lm_ticker.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11219,
+    "title": "Eyes Like Stars",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lm_eyeslike.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11220,
+    "title": "Perchance to Dream",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lm_perchanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11221,
+    "title": "So Silver Bright",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lm_sosilver.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 31806,
+    "title": "A People's Future of the United States",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "vljja_apeoples.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24019,
+    "title": "The Changeling",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "vl_thechange.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 16856,
+    "title": "The Ballad of Black Tom",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "vl_theballa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5334,
+    "title": "The Devil in Silver",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "vlv_thedevil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26470,
+    "title": "Lucretia and the Kroons",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "vl_lucretia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4565,
+    "title": "Big Machine",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "vlv_bigmachi.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

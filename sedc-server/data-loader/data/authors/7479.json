@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35370,
+    "title": "Warrior Witch of Hel",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "AD_WarriorW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35371,
+    "title": "Death Riders of Hel",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "AD_DeathRid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35372,
+    "title": "Werebeasts of Hel",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "AD_Werebeas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

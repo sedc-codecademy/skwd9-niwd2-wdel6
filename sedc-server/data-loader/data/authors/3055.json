@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11853,
+    "title": "A Dark Winter",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dl_darkwint.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11854,
+    "title": "A Dark Journey",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dl_darkjour.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11855,
+    "title": "A Dark Victory",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dl_darkvict.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

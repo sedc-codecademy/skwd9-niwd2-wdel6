@@ -1,0 +1,55 @@
+[
+  {
+    "id": 36412,
+    "title": "Race to the Sun",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "RR_racetoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27689,
+    "title": "Welcome to Your Authentic Indian Experience™",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36616,
+    "title": "Black Sun",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "rr_blacksun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27462,
+    "title": "Trail of Lightning",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rr_trailofl.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 32367,
+    "title": "Storm of Locusts",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rr_stormofl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34185,
+    "title": "Resistance Reborn",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "RR_resistan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

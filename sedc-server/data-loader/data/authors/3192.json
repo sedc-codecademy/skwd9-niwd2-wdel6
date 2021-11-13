@@ -1,0 +1,64 @@
+[
+  {
+    "id": 18621,
+    "title": "The Pigeon Summer",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bm_thepigeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24831,
+    "title": "The Sincerity Game",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16913,
+    "title": "The Writ of Years",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bm_thewrito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12273,
+    "title": "Beyond Binary:  Genderqueer and Sexually Fluid Speculative Fiction",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bm_beyondbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16057,
+    "title": "The Finite Canvas",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bm_thefinit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16328,
+    "title": "Though Smoke Shall Hide the Sun",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bm_thoughsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16557,
+    "title": "We Wuz Pushed:  On Joanna Russ and Radical Truth-telling",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bm_wewuzpus.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

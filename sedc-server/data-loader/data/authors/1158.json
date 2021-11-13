@@ -1,0 +1,83 @@
+[
+  {
+    "id": 10566,
+    "title": "Artemis Fowl",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ec_artemisf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10567,
+    "title": "Artemis Fowl and the Arctic Indicent",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ec_theartic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10568,
+    "title": "Artemis Fowl and the Eternity Code",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ec_theeter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10573,
+    "title": "Artemis Fowl and the Opal Deception",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ec_theopald.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10574,
+    "title": "Artemis Fowl and the Lost Colony",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ec_thelostc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10575,
+    "title": "Artemis Fowl and the Time Paradox",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ec_thetimep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10576,
+    "title": "Artemis Fowl and the Atlantis Complex",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ec_theatlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10577,
+    "title": "Artemis Fowl and the Last Guardian",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ec_thelastg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1845,
+    "title": "And Another Thing…",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ec_andanoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

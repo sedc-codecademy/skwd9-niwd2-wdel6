@@ -1,0 +1,20 @@
+[
+  {
+    "id": 8191,
+    "title": "The Grimm Legacy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ps_thegrimm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8192,
+    "title": "The Wells Bequest :  A Companion to the Grimm Legacy",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ps_wellsbeq.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

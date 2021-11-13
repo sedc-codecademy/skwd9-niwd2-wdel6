@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1863,
+    "title": "Far North",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mt_farnorth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7359,
+    "title": "Strange Bodies",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mt_strangebo.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4481,
+    "title": "Fated",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bj_fated.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4482,
+    "title": "Cursed",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bj_cursed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4483,
+    "title": "Taken",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bj_taken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11704,
+    "title": "Chosen",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "BJ_chosen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11705,
+    "title": "Hidden",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "BJ_hidden.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11706,
+    "title": "Veiled",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "BJ_veiled.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18858,
+    "title": "Burned",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bj_burned.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21941,
+    "title": "Bound",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "BJ_bound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27082,
+    "title": "Marked",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "bj_marked.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34394,
+    "title": "Fallen",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "bj_fallen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

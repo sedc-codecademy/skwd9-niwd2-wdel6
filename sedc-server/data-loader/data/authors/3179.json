@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12253,
+    "title": "Vampire Vow",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ms_vampirev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12254,
+    "title": "Vampire Thrall ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ms_vampirethrall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12255,
+    "title": "Vampire Transgression",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ms_vampiretrans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12256,
+    "title": "Vampire Maker",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_vampiremaker.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

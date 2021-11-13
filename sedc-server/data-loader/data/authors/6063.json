@@ -1,0 +1,47 @@
+[
+  {
+    "id": 32100,
+    "title": "Make Way for Dragons!",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "TG_MakeWayF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32101,
+    "title": "Human, Beware!",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "TG_HumanBe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32102,
+    "title": "Dragons on the Town",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "TG_DragonsO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32103,
+    "title": "Song of the Dwarves",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "TG_Songofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32104,
+    "title": "Revenge of the Valkyrie",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "TG_Revengeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

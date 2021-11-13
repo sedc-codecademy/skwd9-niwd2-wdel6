@@ -1,0 +1,74 @@
+[
+  {
+    "id": 28756,
+    "title": "Far Harbor",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mcm_farharbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28742,
+    "title": "Cold Iron",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mcm_coldiron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28744,
+    "title": "Sister to the Rain",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mcm_sisterto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28746,
+    "title": "Skirmish",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mcm_skirmish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28748,
+    "title": "First Battle",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mcm_firstbatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28750,
+    "title": "Last War",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mcm_lastwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28752,
+    "title": "Pirate Prince",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mcm_piratepr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28754,
+    "title": "Floater Factor",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mcm_floaterf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 23154,
+    "title": "The Bridge of Dreams",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31788,
+    "title": "Fancy Bread",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20076,
+    "title": "Arabian Wine",
+    "year": 2004,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19982,
+    "title": "Animae Celestes",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17791,
+    "title": "The Crab Lice",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18627,
+    "title": "The Truest Chill",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19968,
+    "title": "The Weighing of Ayre",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 530,
+    "title": "The Oxygen Barons",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gf_theoxyge.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

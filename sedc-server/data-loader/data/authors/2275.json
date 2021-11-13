@@ -1,0 +1,79 @@
+[
+  {
+    "id": 25486,
+    "title": "Chronosequence",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "hs_chronose.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20670,
+    "title": "Steam Bird",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "hs_steambir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21036,
+    "title": "Silicon Muse",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18013,
+    "title": "The Geometry of Narrative",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20671,
+    "title": "Hurricane Claude",
+    "year": 1983,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8559,
+    "title": "A Rose for Armageddon",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "hs_arosefor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9829,
+    "title": "At the Eye of the Ocean",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "hs_attheeye.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19534,
+    "title": "Wave Rider",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "hs_waveride.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19533,
+    "title": "The Battle of the Abaco Reefs",
+    "year": 1979,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

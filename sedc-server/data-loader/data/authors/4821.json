@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25782,
+    "title": "Glass Houses",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ljm_glasshou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25783,
+    "title": "Proxies",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ljm_proxies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25784,
+    "title": "Burning the Ice",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ljm_burningt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 18428,
+    "title": "Lone Star Universe",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "gwpsu_lonestar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18323,
+    "title": "The Science Fiction Hall of Fame, Volume III",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ACC&GWP_SFHOF3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31950,
+    "title": "To Demons Bound",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "REV_ToDemons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31951,
+    "title": "A Yoke of Magic",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "REV_YokeofMa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31952,
+    "title": "Blood Fountain",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "REV_BloodFou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31953,
+    "title": "Death's Acolyte",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "REV_DeathsAc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31954,
+    "title": "Beasts of the Mist ",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "REV_BeastsMi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31955,
+    "title": "For Crown and Kingdom",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "REV_ForCrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15647,
+    "title": "V: The Chicago Conversion",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "GP_V4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15654,
+    "title": "V: The Texas Run",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "GP_V11.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

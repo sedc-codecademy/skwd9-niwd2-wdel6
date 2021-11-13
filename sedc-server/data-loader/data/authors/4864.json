@@ -1,0 +1,47 @@
+[
+  {
+    "id": 28451,
+    "title": "Small Spaces",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ka_smallspa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34324,
+    "title": "Dead Voices",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ka_deadvoic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21942,
+    "title": "The Bear and The Nightingale",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "KA_bearnigh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25644,
+    "title": "The Girl in the Tower",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ka_thegrili.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27533,
+    "title": "The Winter of the Witch",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ka_thewinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

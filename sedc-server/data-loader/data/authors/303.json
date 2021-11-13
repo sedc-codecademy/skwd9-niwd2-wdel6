@@ -1,0 +1,65 @@
+[
+  {
+    "id": 28863,
+    "title": "The Infinite Man",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "dfg_theinfin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28873,
+    "title": "Project Barrier",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "dfg_projectb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28869,
+    "title": "The Lost Perception",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "dfg_thelostp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28871,
+    "title": "The Last Leap and Other Stories of the Super-Mind",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "dgg_thelastl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28867,
+    "title": "Simulacron-3",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "dfg_simulacr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28865,
+    "title": "Lords of the Psychon",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "dfg_lordsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 307,
+    "title": "Dark Universe",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "dfg_darkuniv.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

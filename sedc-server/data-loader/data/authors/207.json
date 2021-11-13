@@ -1,0 +1,687 @@
+[
+  {
+    "id": 32859,
+    "title": "Concentration",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jd_concentr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31651,
+    "title": "Decimated:  Ten Science Fiction Stories",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jdgz_decimate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4294,
+    "title": "Ghosts by Gaslight:  Stories of Steampunk and Supernatural Suspense",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jdng_ghostsby.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24292,
+    "title": "The Dragon Book:  Magical Tales from the Masters of Modern Fantasy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jdgd_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11451,
+    "title": "The Economy of Light",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jd_economyo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26607,
+    "title": "Dangerous Games",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jdgd_dangames.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26873,
+    "title": "Wizards:  Magical Tales from the Masters of Modern Fantasy",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jdgd_wizardsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26227,
+    "title": "Escape from Earth:  New Adventures in Space",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jdgd_escapefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17751,
+    "title": "Futures Past",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jdgd_futuresp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23397,
+    "title": "Beyond Singularity",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jdgd_bsingula.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18031,
+    "title": "The Fiction Factory",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jd_thefictio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17658,
+    "title": "Robots",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jdgd_robots.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26759,
+    "title": "A.I.s",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jdgd_ais.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 654,
+    "title": "The Rebel",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jd_therebel.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 17194,
+    "title": "Future Crimes",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gdjd_futurec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24984,
+    "title": "Gathering the Bones: Thirty-Four Original Stories from the World's Masters of Horror",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rcdejd_gatherin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19585,
+    "title": "Visitations",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "js_visitati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17749,
+    "title": "Beyond Flesh",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jdgd_beyondfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27181,
+    "title": "Future Sports",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jdgd_fusports.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19441,
+    "title": "The Diamond Pit",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23233,
+    "title": "Genometry",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jdgd_genometr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18046,
+    "title": "Jubilee",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jd_jubilee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27423,
+    "title": "Space Soldiers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jdgd_spacesol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16253,
+    "title": "Aliens Among Us",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jd_gd_aliensam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27473,
+    "title": "Armageddons",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jdgd_armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18483,
+    "title": "Future War",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jdgd_futurewa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26608,
+    "title": "Hackers",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jdgd_hackers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19442,
+    "title": "Da Vinci Rising",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11327,
+    "title": "The Memory Cathedral",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jd_thememor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18029,
+    "title": "High Steel",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jchjd_highstee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27712,
+    "title": "Voices",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26696,
+    "title": "Tattoos",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17995,
+    "title": "The Gods of Mars",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18790,
+    "title": "Bad Medicine",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26456,
+    "title": "Golden Apples of the Sun",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 213,
+    "title": "The Man Who Melted",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jd_themanwh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18809,
+    "title": "Blind Shemmy",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18030,
+    "title": "High Steel",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19586,
+    "title": "Amnesia",
+    "year": 1981,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23841,
+    "title": "Fairy Tale",
+    "year": 1981,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18047,
+    "title": "Going Under",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26645,
+    "title": "Touring",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19631,
+    "title": "Timetipping",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jd_timetipp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18939,
+    "title": "Camps",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18105,
+    "title": "A Quiet Revolution for Death",
+    "year": 1978,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19626,
+    "title": "Future Power",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jdgd_futurepo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19000,
+    "title": "The Dybbuk Dolls",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19632,
+    "title": "Junction",
+    "year": 1973,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25758,
+    "title": "Dreaming Down-Under",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jdjw_ddownund.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25759,
+    "title": "Dreaming Again",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jd_dragain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24668,
+    "title": "Dreaming in the Dark",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jd_dreaming.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25075,
+    "title": "Aliens!",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jdgd_aliens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24049,
+    "title": "Unicorns!",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "gdjd_unicorn1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25073,
+    "title": "Magicats!",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jdgd_magcats1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24253,
+    "title": "Bestiary!",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jdgd_bestiary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25076,
+    "title": "Mermaids!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jdgd_mermaids.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25096,
+    "title": "Sorcerers!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jdgd_sorcerer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25097,
+    "title": "Demons!",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jdgd_demons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25098,
+    "title": "Dogtales!",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jdgd_dogtales.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25099,
+    "title": "Seaserpents!",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jdgd_seaserpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25110,
+    "title": "Dinosaurs!",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jdgd_dinosau1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25074,
+    "title": "Magicats II",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jdgd_magcats2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25112,
+    "title": "Little People!",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jdgd_littlepe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24048,
+    "title": "Unicorns II",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gdjd_unicorn2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25113,
+    "title": "Invaders!",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jdgd_invaders.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25114,
+    "title": "Dragons!",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jdgd_dragons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25115,
+    "title": "Horses!",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jdgd_horses.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25111,
+    "title": "Dinosaurs II",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jdgd_dinosau2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25116,
+    "title": "Angels!",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jdgd_angels.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19794,
+    "title": "Timegates",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jdgd_timegate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24254,
+    "title": "Nanotech",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jdgd_nanotech.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24917,
+    "title": "Clones",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jdgd_clones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26216,
+    "title": "Immortals",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jdgd_immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7395,
+    "title": "Nebula Awards 32",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jd_nebula32.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7347,
+    "title": "Nebula Awards Showcase 2005",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jd_nebula05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11090,
+    "title": "Tor Double #32: Run For The Stars / Echoes of Thunder",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "HE_tordbl32.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18371,
+    "title": "Wandering Stars:  An Anthology of Jewish Fantasy and Science Fiction",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "JD_Wanderin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18044,
+    "title": "More Wandering Stars",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jd_morewand.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

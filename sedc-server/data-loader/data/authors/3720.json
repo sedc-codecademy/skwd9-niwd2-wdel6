@@ -1,0 +1,83 @@
+[
+  {
+    "id": 15295,
+    "title": "Magic Lost, Trouble Found",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ls_magiclos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15296,
+    "title": "Armed & Magical",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ls_armedand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15297,
+    "title": "The Trouble with Demons",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ls_thetroub.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15298,
+    "title": "Bewitched & Betrayed",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ls_bewitche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15299,
+    "title": "Con & Conjure",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ls_conandco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15300,
+    "title": "All Spell Breaks Loose",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ls_allspell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15293,
+    "title": "The Grendel Affair",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ls_thegrend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15294,
+    "title": "The Dragon Conspiracy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ls_dragocon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20183,
+    "title": "The Brimstone Deception",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ls_thebrims.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

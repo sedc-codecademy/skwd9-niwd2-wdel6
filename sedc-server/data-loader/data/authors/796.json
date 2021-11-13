@@ -1,0 +1,107 @@
+[
+  {
+    "id": 5272,
+    "title": "The Woman Who Loved the Moon and Other Stories",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "eal_thewoman.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27826,
+    "title": "At the Embassy Club",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23445,
+    "title": "The Red Hawk",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6846,
+    "title": "The Sardonyx Net ",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "el_sardonyx.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23831,
+    "title": "The Woman Who Loved the Moon",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6847,
+    "title": "A Different Light ",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "el_differen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28270,
+    "title": "Tales from a Vanished Country",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "eal_acm10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 955,
+    "title": "Watchtower",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "eal_watchtow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 956,
+    "title": "The Dancers of Arun",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "eal_thedance.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 794,
+    "title": "The Northern Girl",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "eal_thenorth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6417,
+    "title": "Dragon's Winter",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "eal_dragonsw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6419,
+    "title": "Dragon's Treasure",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "eal_dragonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

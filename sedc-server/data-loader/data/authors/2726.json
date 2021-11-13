@@ -1,0 +1,56 @@
+[
+  {
+    "id": 31972,
+    "title": "Dragonslayer",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "WD_Dragonsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10654,
+    "title": "Willow",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "WD_willow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31977,
+    "title": "The Erthring Cycle",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "WD_Erthring.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31973,
+    "title": "The Memoirs of Alcheringia",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "WD_Memoirso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31975,
+    "title": "The Gaian Expedient",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "WD_GaianExp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31976,
+    "title": "The Master of Norriya",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "WD_Masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

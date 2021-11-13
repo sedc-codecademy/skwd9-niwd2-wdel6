@@ -1,0 +1,38 @@
+[
+  {
+    "id": 20843,
+    "title": "The Pet",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "TP_thepet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20842,
+    "title": "Gypsy World",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "TP_gypsywor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20841,
+    "title": "Space Camp",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "TD_spacecam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20840,
+    "title": "Trapped in Time",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "TP_trappedt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

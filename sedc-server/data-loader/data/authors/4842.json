@@ -1,0 +1,56 @@
+[
+  {
+    "id": 32086,
+    "title": "Identity Seven",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "RL_Identity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32087,
+    "title": "The Thirteen Bracelets",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "RL_Thirteen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32088,
+    "title": "Master of the Etrax",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "RL_Masteroft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21836,
+    "title": "Masters of the Lamp / A Harvest of Hoodwinks",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_masterso_aharvest.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21837,
+    "title": "The Space Barbarians / The Eyes of Bolsk",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_thespace_theeyeso.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21835,
+    "title": "The Hard Way Up / The Veiled World",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ad_thehardw_theveile.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

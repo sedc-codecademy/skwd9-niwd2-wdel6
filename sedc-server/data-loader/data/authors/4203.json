@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17387,
+    "title": "From Here to Timbuktu",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mjd_fromhere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17388,
+    "title": "Steamfunk!",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mdbo_steamfun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17383,
+    "title": "Changa's Safari",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mjd_changa1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17384,
+    "title": "Changa's Safari:  Volume 2",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mjd_changa2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17385,
+    "title": "Changa's Safari:  Volume Three",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mjd_changa3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17386,
+    "title": "Woman of the Woods",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mjd_womanoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

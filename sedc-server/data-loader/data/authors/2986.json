@@ -1,0 +1,45 @@
+[
+  {
+    "id": 26756,
+    "title": "Into Greenwood",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27469,
+    "title": "Free in Asveroth",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11661,
+    "title": "Kirith Kirin",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "JG_kirithk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11663,
+    "title": "The Ordinary",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "JG_ordinary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11664,
+    "title": "The Last Green Tree",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "JG_lastgree.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

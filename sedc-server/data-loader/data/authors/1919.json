@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5246,
+    "title": "Auralia's Colors",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jo_auralias.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5247,
+    "title": "Cyndere's Midnight",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jo_cynderes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5248,
+    "title": "Raven's Ladder",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jo_ravensla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5249,
+    "title": "The Ale Boy's Feast",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jo_thealebo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

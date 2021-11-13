@@ -1,0 +1,20 @@
+[
+  {
+    "id": 34382,
+    "title": "The Deep",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rs_thedeep.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26861,
+    "title": "An Unkindness of Ghosts",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rs_anunkind.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

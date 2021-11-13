@@ -1,0 +1,20 @@
+[
+  {
+    "id": 7840,
+    "title": "Ella Enchanted",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gcl_ellaencha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7843,
+    "title": "Fairest",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gcl_fairest.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

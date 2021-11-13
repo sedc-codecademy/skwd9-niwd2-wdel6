@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20843,
+    "title": "The Pet",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "TP_thepet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20806,
+    "title": "Cardassian Imps",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "MG_cardassi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20805,
+    "title": "Boogeymen",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "MG_boogeyma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20804,
+    "title": "The Starship Trap",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mg_starship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20860,
+    "title": "Surfing Samurai Robots",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "MG_SurfingS.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

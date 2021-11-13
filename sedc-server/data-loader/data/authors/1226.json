@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1964,
+    "title": "Nineteen Eighty-Four",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "go_nineteen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22967,
+    "title": "All Art is Propaganda",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "GO&GP_AllArtIs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17925,
+    "title": "Facing Unpleasant Facts",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "GO_FacingUn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2264,
+    "title": "Animal Farm:  A Fairy Story",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "go_animalfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

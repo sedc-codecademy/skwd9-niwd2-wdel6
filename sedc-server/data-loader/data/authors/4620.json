@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20521,
+    "title": "This Gray Spirit",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "HJ_grayspir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20519,
+    "title": "Cardassia and Andor",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "UM_cardassi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21013,
+    "title": "Breakdowns",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "KD_breakdow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21079,
+    "title": "What's Past",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "KD_whatpast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20520,
+    "title": "Evolution",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "HJ_evolutio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

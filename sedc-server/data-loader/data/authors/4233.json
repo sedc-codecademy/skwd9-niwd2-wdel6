@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17467,
+    "title": "AfroSF:  Science Fiction by African Writers",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "iwh_afrosf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25881,
+    "title": "AfroSFv2",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "IH_afrosfv2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34634,
+    "title": "AfroSFv3",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "iwh_afrosfv3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5135,
+    "title": "King's Daughter",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "jg_kingsdau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5134,
+    "title": "Strange Evil",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "jg_strangee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14551,
+    "title": "The Serpent",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "jg_serpent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5130,
+    "title": "The Serpent",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jg_theserpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14550,
+    "title": "The Dragon",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jg_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5131,
+    "title": "Atlan",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jg_atlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5132,
+    "title": "The City",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jg_thecity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5133,
+    "title": "Some Summer Lands",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jg_somesumm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

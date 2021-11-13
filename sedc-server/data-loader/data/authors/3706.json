@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15240,
+    "title": "Women and Wonders",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sf_womenand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15239,
+    "title": "Ladies and Legends",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sf_ladiesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15238,
+    "title": "Starfawn",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "sf_bp_starfawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

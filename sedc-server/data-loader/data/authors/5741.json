@@ -1,0 +1,29 @@
+[
+  {
+    "id": 27717,
+    "title": "Zone Null",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "hwf_zonenull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27715,
+    "title": "The Mind Net",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "hwf_themindn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27716,
+    "title": "The Orchid Cage",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "hwf_theorchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

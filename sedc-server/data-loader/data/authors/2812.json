@@ -1,0 +1,56 @@
+[
+  {
+    "id": 11062,
+    "title": "The Daedalus Incident ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mjm_thedaeda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11063,
+    "title": "The Enceladus Crisis",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mjm_theencel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11064,
+    "title": "The Venusian Gambit",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mjm_thevenus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19822,
+    "title": "MJ-12:  Inception",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mjm_mj12ince.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25903,
+    "title": "MJ-12: Shadows",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mjm_mj12shad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28834,
+    "title": "MJ-12: Endgame",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mjm_mj12endg.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

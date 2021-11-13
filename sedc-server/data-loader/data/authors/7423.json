@@ -1,0 +1,29 @@
+[
+  {
+    "id": 26450,
+    "title": "Little Heaven",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nc_littlehe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20362,
+    "title": "The Deep",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "nc_thedeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20361,
+    "title": "The Troop",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "nc_thetroop.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

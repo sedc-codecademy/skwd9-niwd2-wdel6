@@ -1,0 +1,110 @@
+[
+  {
+    "id": 17273,
+    "title": "Interstellar:  The Official Movie Novelization",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "GK_interste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9868,
+    "title": "Newton's Cannon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gk_newtonsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9869,
+    "title": "A Calculus of Angels",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gk_acalculu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9870,
+    "title": "Empire of Unreason",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gk_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9871,
+    "title": "The Shadows of God",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gk_theshadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15038,
+    "title": "Dark Genesis",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jgk_darkgene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15039,
+    "title": "Deadly Relations",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jgk_deadlyre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15040,
+    "title": "Final Reckoning",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jgk_finalrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9782,
+    "title": "The Waterborn",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gk_thewater.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9783,
+    "title": "The Blackgod",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gk_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17050,
+    "title": "Firestorm",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JK_firestor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19890,
+    "title": "Independence Day:  Crucible",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "GK_inday4.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 36020,
+    "title": "Horror Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "EN_horrorst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8754,
+    "title": "The Power of Darkness:  Tales of Terror",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "en_thepower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7803,
+    "title": "Five Children and It",
+    "year": 1902,
+    "type": "novel",
+    "imageName": "en_fivechildr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7804,
+    "title": "The Phoenix and the Carpet",
+    "year": 1904,
+    "type": "novel",
+    "imageName": "en_thephoen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7805,
+    "title": "The Story of the Amulet",
+    "year": 1906,
+    "type": "novel",
+    "imageName": "en_thestory.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

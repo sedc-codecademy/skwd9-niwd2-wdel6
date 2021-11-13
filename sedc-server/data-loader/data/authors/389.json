@@ -1,0 +1,38 @@
+[
+  {
+    "id": 391,
+    "title": "Storyteller",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "at_storytel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9794,
+    "title": "Virtual Girl",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "at_virtualg.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 504,
+    "title": "The Color of Distance",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "at_thecolor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12892,
+    "title": "Through Alien Eyes",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "at_througha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 14855,
+    "title": "The Wayward Wizard",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "js_thewaywa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14856,
+    "title": "The Ebony Eye",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_theebony.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14857,
+    "title": "The Stolen Sun",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_thestole.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14925,
+    "title": "Dragon Spell",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "js_dragonsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14930,
+    "title": "Wizard's Betrayal",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "js_wizbetra.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

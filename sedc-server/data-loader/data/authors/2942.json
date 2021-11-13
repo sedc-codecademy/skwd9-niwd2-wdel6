@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11529,
+    "title": "Salvage",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jn_salvage.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11530,
+    "title": "The Darkness Within",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jn_darkness.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11528,
+    "title": "Blood and Dust",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jn_bloodand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21692,
+    "title": "The Big Smoke",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jn_thebigsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

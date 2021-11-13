@@ -1,0 +1,47 @@
+[
+  {
+    "id": 7950,
+    "title": "An Eye for an Eye",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mb_aneyefor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7949,
+    "title": "Noughts & Crosses (Black and White)",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mb_naughtsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7951,
+    "title": "Knife Edge ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mb_knifeedg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7952,
+    "title": "Checkmate ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mb_checkmat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7953,
+    "title": "Double Cross ",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mb_doublecr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

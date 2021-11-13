@@ -1,0 +1,263 @@
+[
+  {
+    "id": 25165,
+    "title": "Noir",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kwj_noir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25164,
+    "title": "Wolf Flow",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "kwj_wolfflow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25163,
+    "title": "Madlands",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kwj_madlands.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25162,
+    "title": "The Night Man",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kwj_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 431,
+    "title": "Farewell Horizontal",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kwj_farewell.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 25161,
+    "title": "In the Land of the Dead",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kwj_inthelan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 546,
+    "title": "Dark Seeker",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "kwj_darkseek.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25160,
+    "title": "Mantis",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "kwj_mantis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4365,
+    "title": "Soul Eater",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "kwj_souleate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3011,
+    "title": "Morlock Night",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "kwj_morlockn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25159,
+    "title": "The Dreamfields",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "kwj_thedream.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25158,
+    "title": "Seeklight",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "kwj_seekligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17020,
+    "title": "Dark Horizon",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "KJ_darkhori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17024,
+    "title": "Cross of Blood",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "KJ_crossofb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8253,
+    "title": "Blade Runner 2: The Edge of Human",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "kwj_theedgeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8254,
+    "title": "Blade Runner 3: Replicant Night",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kwj_replican.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8255,
+    "title": "Blade Runner 4: Eye and Talon",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kwj_eyeandta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3500,
+    "title": "Dr. Adder",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "kwj_adder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25156,
+    "title": "The Glass Hammer",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "kwj_theglass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25157,
+    "title": "Death Arms",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "kwj_deatharm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3010,
+    "title": "Infernal Devices",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "kwj_infernal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5299,
+    "title": "Fiendish Schemes",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kwj_fiendish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23148,
+    "title": "Grim Expectations",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kwj_grimexpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16996,
+    "title": "Warped",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "KJ_warped.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16998,
+    "title": "Bloodletter",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "KJ_bloodlet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16995,
+    "title": "The Bounty Hunter Wars",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "KJ_bountyhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16991,
+    "title": "The Mandalorian Armor",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "KJ_mandalor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16993,
+    "title": "Slave Ship",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "KJ_slaveshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16994,
+    "title": "Hard Merchandise",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "KJ_hardmerc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

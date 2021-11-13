@@ -1,0 +1,92 @@
+[
+  {
+    "id": 10339,
+    "title": "Strange Attraction",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "eel_strangeat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10338,
+    "title": "Free Space",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "eekbl_freespac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10337,
+    "title": "Dante's Disciples",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "eekpc_dantesdi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10340,
+    "title": "The Sandman:  Book of Dreams",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ngeek_sandmanb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10334,
+    "title": "Dark Love",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "naceekmhg_darklove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10335,
+    "title": "Excalibur",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rgmhgeek_excalibu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10336,
+    "title": "Forbidden Acts",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "naceek_forbidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10332,
+    "title": "Tombs",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "eekpc.tombs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10270,
+    "title": "Grails:  Quests of the Dawn",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rgmhgeek_grails.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10333,
+    "title": "Confederacy of the Dead",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rgmhgeek_confeder.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11207,
+    "title": "Enchanted",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ak_enchante.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11208,
+    "title": "Hero",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ak_hero.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11209,
+    "title": "Dearest",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ak_dearest.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

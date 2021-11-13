@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3478,
+    "title": "Star Trek 12",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jb_trek12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11640,
+    "title": "Mudd's Angels: or Mudd's Enterprise",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jal_muddsang.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

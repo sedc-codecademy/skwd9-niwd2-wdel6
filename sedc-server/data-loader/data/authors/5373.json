@@ -1,0 +1,47 @@
+[
+  {
+    "id": 25149,
+    "title": "Fire on the Border",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kod_fireonth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24890,
+    "title": "ORA:CLE",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "kod_oracle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25148,
+    "title": "War of Omission",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "kod_warofomi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25141,
+    "title": "Bander Snatch",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "kod_bandersn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25046,
+    "title": "Mayflies",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "kod_mayflies.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

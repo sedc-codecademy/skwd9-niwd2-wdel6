@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25961,
+    "title": "Walker of Worlds",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tdh_walkerof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25962,
+    "title": "The End-of-Everything Man",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tdh_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25963,
+    "title": "The Last Human",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tdh_thelasth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

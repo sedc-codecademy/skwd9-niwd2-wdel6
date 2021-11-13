@@ -1,0 +1,74 @@
+[
+  {
+    "id": 22720,
+    "title": "The White Road of the Moon",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rn_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25373,
+    "title": "Winter of Ice and Iron",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rn_winterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20274,
+    "title": "The Mountain of Kept Memory",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rn_themount.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5407,
+    "title": "House of Shadows",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rn_houseofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5406,
+    "title": "The Griffin Mage",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rn_thegriff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5403,
+    "title": "Lord of the Changing Winds",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rn_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5404,
+    "title": "Land of the Burning Sands",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rn_landofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5405,
+    "title": "Law of the Broken Earth",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rn_lawofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

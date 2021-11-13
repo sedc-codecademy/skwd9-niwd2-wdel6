@@ -1,0 +1,20 @@
+[
+  {
+    "id": 28199,
+    "title": "I, Zombie",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cs_izombie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28198,
+    "title": "Blood County",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cs_bloodcou.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

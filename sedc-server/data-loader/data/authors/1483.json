@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3189,
+    "title": "The Mysteries of Udolpho",
+    "year": 1794,
+    "type": "novel",
+    "imageName": "ar_themyste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34645,
+    "title": "Gaston de Blondeville",
+    "year": 1826,
+    "type": "novel",
+    "imageName": "AR_gastonde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8790,
+    "title": "The Italian:  or the Confessional of the Black Penitents",
+    "year": 1797,
+    "type": "novel",
+    "imageName": "ar_theitali.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

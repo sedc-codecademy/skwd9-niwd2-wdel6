@@ -1,0 +1,29 @@
+[
+  {
+    "id": 27838,
+    "title": "The Magicians and Mrs. Quent",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gb_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27839,
+    "title": "The House on Durrow Street",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gb_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27840,
+    "title": "The Master of Heathcrest Hall",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gb_themaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

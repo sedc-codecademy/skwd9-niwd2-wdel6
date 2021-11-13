@@ -1,0 +1,47 @@
+[
+  {
+    "id": 19821,
+    "title": "The Left-Handed Fate",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "km_thelefth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2597,
+    "title": "The Boneshaker",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "km_thebones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4944,
+    "title": "The Broken Lands",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "km_thebroke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11192,
+    "title": "Greenglass House",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "km_greengla.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24834,
+    "title": "Ghosts of Greenglass House",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "km_ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

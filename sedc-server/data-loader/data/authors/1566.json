@@ -1,0 +1,355 @@
+[
+  {
+    "id": 23624,
+    "title": "The Bird Catcher",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13584,
+    "title": "Tagging the Moon: Fairy Tales from L.A.",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sps_taggingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13583,
+    "title": "Dragon's Fin Soup (collection)",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sps_dragonsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3550,
+    "title": "Darker Angels",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sps_darkeran.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 13553,
+    "title": "The Vampire's Beautiful Daughter",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sps_thevampi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13582,
+    "title": "The Pavilion of Frozen Women (collection)",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sps_thepavil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20119,
+    "title": "Diamonds Aren't Forever",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23980,
+    "title": "Dragon's Fin Soup",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13552,
+    "title": "Jasmine Nights",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sps_jasminen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13551,
+    "title": "The Wizard's Apprentice",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sps_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23524,
+    "title": "The Pavilion of Frozen Women",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27747,
+    "title": "Lottery Night",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13550,
+    "title": "Moon Dance",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sps_moondanc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13549,
+    "title": "Forgetting Places",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sps_forgetti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13547,
+    "title": "The Fallen Country",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sps_thefalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24025,
+    "title": "Fiddling for Waterbuffaloes",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sps_fiddling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13548,
+    "title": "The Shattered Horse",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sps_theshatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13581,
+    "title": "Fire from the Wine Dark Sea",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sps_firefrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21419,
+    "title": "Absent Thee from Felicity Awhile ...",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9830,
+    "title": "Starship & Haiku",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "sps_starship.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21037,
+    "title": "Aquila",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13556,
+    "title": "The Aquiliad",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sps_theaquil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13557,
+    "title": "Aquila and the Iron Horse",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sps_aatironh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13558,
+    "title": "Aquila and the Sphinx",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sps_aatsphin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13559,
+    "title": "Light on the Sound",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sps_thedawni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13560,
+    "title": "The Throne of Madness",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sps_thethron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13561,
+    "title": "Utopia Hunters",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sps_utopiahu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13562,
+    "title": "The Darkling Wind",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sps_thedarkl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13580,
+    "title": "The Ultimate Mallworld",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sps_theultim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13579,
+    "title": "Mallworld",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "sps_mallworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13565,
+    "title": "The Riverrun Trilogy",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sps_rrtrilog.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13563,
+    "title": "Riverrun",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sps_riverrun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13564,
+    "title": "Forest of the Night (Armorica)",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sps_forestof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13578,
+    "title": "Yestern",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sps_yestern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20414,
+    "title": "Do Comets Dream?",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "SS_docomets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15650,
+    "title": "V: The Alien Swordmaster",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "SPS_V7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15664,
+    "title": "V: Symphony of Terror",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "SPS_V16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3511,
+    "title": "Vampire Junction",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sps_vampirej.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13554,
+    "title": "Valentine",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sps_valentin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13555,
+    "title": "Vanitas: Escape from Vampire Junction",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sps_vanitas.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

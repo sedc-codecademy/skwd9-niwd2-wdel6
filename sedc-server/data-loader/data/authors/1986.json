@@ -1,0 +1,20 @@
+[
+  {
+    "id": 5569,
+    "title": "The City's Son",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tp_thecitys.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5570,
+    "title": "The Glass Republic",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tp_theglass.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

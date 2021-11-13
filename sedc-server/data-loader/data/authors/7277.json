@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34530,
+    "title": "Griffin & Sabine:  An Extraordinary Correspondence",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "nb_griffinand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34531,
+    "title": "Sabine's Notebook:  In Which the Extraordinary Correspondence of Griffin & Sabine Continues",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "nb_sabines.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34532,
+    "title": "The Golden Mean:  In Which the Extraordinary Correspondence of Griffin & Sabine Concludes",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "nb_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34533,
+    "title": "The Pharos Gate:  Griffin & Sabine's Lost Correspondence",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "nb_thepharo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

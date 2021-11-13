@@ -1,0 +1,47 @@
+[
+  {
+    "id": 31979,
+    "title": "At Amberleaf Fair",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "pak_atamberl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28007,
+    "title": "The Idylls of the Queen",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pak_theidyll.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31978,
+    "title": "Wildraith's Last Battle",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pak_wildwrai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31980,
+    "title": "Frostflower and Thorn",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pak_fandthor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31981,
+    "title": "Frostflower and Windbourne",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pak_fandwind.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

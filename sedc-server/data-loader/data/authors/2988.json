@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11689,
+    "title": "Ronia, the Robber's Daughter",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "al_roniathe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11688,
+    "title": "The Brothers Lionheart",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "al_thebroth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11690,
+    "title": "Mio, My Son",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "al_miomyson.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

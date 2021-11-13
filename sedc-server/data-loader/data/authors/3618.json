@@ -1,0 +1,101 @@
+[
+  {
+    "id": 14745,
+    "title": "Pillar of Flame",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rs_pillaroffl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14748,
+    "title": "Queen of the Sea",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rs_queenofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14750,
+    "title": "Tempest's Vow",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rs_tempestsvo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14791,
+    "title": "Crown of Thieves",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rs_crownoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14792,
+    "title": "The Crystal Chalice",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rs_thecryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14793,
+    "title": "City of Fortune",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rs_cityoffo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14865,
+    "title": "Dragon Sword",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rs_dragonsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16470,
+    "title": "The Crane",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "RS_thecrane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16471,
+    "title": "The Dragon",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "RS_dragon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16516,
+    "title": "Wind of Honor",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RS_windhono.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16517,
+    "title": "Wind of Truth",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "RS_windtrut.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

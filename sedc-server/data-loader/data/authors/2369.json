@@ -1,0 +1,38 @@
+[
+  {
+    "id": 28831,
+    "title": "CoDex 1962",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "s_codex196.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8912,
+    "title": "From the Mouth of the Whale",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "s_fromthem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8913,
+    "title": "The Whispering Muse",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "s_thewhisp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8914,
+    "title": "The Blue Fox",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "s_thebluef.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

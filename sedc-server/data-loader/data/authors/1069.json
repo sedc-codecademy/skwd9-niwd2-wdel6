@@ -1,0 +1,83 @@
+[
+  {
+    "id": 9454,
+    "title": "Swords & Dark Magic",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jsla_swordsda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26738,
+    "title": "Sideways in Crime",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "la_sideways.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19836,
+    "title": "Futureshocks",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "la_futuresh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24250,
+    "title": "Live Without a Net",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "la_livewith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4219,
+    "title": "Fast Forward 1",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "la_fastfor1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1207,
+    "title": "Fast Forward 2",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "la_fastforw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9335,
+    "title": "Frostborn",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "la_thronesa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12352,
+    "title": "Nightborn",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "la_nightbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19835,
+    "title": "Skyborn",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "la_skyborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

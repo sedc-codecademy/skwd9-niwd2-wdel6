@@ -1,0 +1,346 @@
+[
+  {
+    "id": 28491,
+    "title": "The Lake Boy",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ar_thelakeb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36441,
+    "title": "Bethany",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "AR_Bethany.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27589,
+    "title": "Between Nine and Eleven",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20165,
+    "title": "The History of Science Fiction (2nd Edition)",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_thehisto2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36578,
+    "title": "Rave and Let Die:  The SF and Fantasy of 2014",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "AR_RaveAndL.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15616,
+    "title": "The Thing Itself",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ar_thething.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 9292,
+    "title": "Bête",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ar_bete.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26525,
+    "title": "Thing and Sick",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30122,
+    "title": "Trademark Bugs: A Legal History",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12114,
+    "title": "Twenty Trillion Leagues Under the Sea",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "AR_TwentyTr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6338,
+    "title": "Adam Robots",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ar_adamrobo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5029,
+    "title": "Jack Glass:  The Story of a Murderer",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ar_jackglas.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 5512,
+    "title": "The Soddit",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "arrrr_thesoddi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26796,
+    "title": "What Did Tessimond Tell You?",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4117,
+    "title": "Anticopernicus",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ar_anticope.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3935,
+    "title": "By Light Alone",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ar_bylighta.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2741,
+    "title": "New Model Army",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ar_newmodel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26558,
+    "title": "Hair",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1675,
+    "title": "Yellow Blue Tibia",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ar_yellowbl.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 22295,
+    "title": "Swiftly",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ar_swiftly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 988,
+    "title": "Gradisil",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ar_gradisil.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24757,
+    "title": "Land of the Headless",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ar_landofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24756,
+    "title": "Splinter",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ar_splinter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16378,
+    "title": "The History of Science Fiction",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ar_thehisto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30214,
+    "title": "Me-Topia",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32225,
+    "title": "And Future King…",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16347,
+    "title": "The Sellamillion",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "AR_TheSella.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6176,
+    "title": "The Snow",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ar_thesnow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24759,
+    "title": "Jupiter Magnified",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ar_jupiterm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24758,
+    "title": "Polystom",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ar_polystom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7275,
+    "title": "Stone",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ar_stone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24755,
+    "title": "On",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ar_on.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24760,
+    "title": "Park Polar",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ar_parkpola.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 576,
+    "title": "Salt",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ar_salt.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28377,
+    "title": "Haven",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ar_haven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34262,
+    "title": "The Man Who Would Be Kling",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ar_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11105,
+    "title": "Saint Rebor",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ar_saintreb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24447,
+    "title": "The Real-Town Murders",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ar_therealt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28710,
+    "title": "By the Pricking of Her Thumb",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ar_bythepri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

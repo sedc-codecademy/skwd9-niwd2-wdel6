@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12464,
+    "title": "The Quatermass Experiment",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "NK_quarterm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12465,
+    "title": "Quatermass II",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "NK_quatma2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12466,
+    "title": "Quatermass and the Pit",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "NK_quatmpit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12467,
+    "title": "Quatermass",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "NK_quaterm4.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

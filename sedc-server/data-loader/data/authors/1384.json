@@ -1,0 +1,127 @@
+[
+  {
+    "id": 5973,
+    "title": "This Alien Shore",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "csf_thisalie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5974,
+    "title": "The Madness Season",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "csf_themadne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31833,
+    "title": "Perfect Day",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2804,
+    "title": "In Conquest Born",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "csf_inconque.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2805,
+    "title": "The Wilding",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "csf_thewildi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2798,
+    "title": "Black Sun Rising",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "csf_blacksun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2799,
+    "title": "When True Night Falls",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "csf_whentrue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2800,
+    "title": "Crown of Shadows",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "csf_crownofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7360,
+    "title": "Dreamwalker",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "csf_dreamwal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14658,
+    "title": "Dreamseeker",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "csf_dreamsee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21408,
+    "title": "Dreamweaver",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "csf_dreamwea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2801,
+    "title": "Feast of Souls",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "csf_feastofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2802,
+    "title": "Wings of Wrath",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "csf_wingsofw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2803,
+    "title": "Legacy of Kings",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "csf_legacyof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

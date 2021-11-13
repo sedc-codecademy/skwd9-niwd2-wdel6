@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4943,
+    "title": "Lost Everything",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bfs_lostever.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7031,
+    "title": "Spaceman Blues:  A Love Song",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bfs_spaceman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25907,
+    "title": "Bookburners",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "MG_bookburn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

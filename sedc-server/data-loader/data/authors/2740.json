@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10696,
+    "title": "The Cabal",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "sd_thecabal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10697,
+    "title": "The Black Moon",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "sd_blackmoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10698,
+    "title": "The Evangelist",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "sd_theevang.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

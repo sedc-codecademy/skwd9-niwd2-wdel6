@@ -1,0 +1,83 @@
+[
+  {
+    "id": 3497,
+    "title": "Dead in the Water",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "nh_deadinth.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24177,
+    "title": "The Ghosts of Tivoli",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "nh_theghost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26085,
+    "title": "Making Love",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mtnh_makinglo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26086,
+    "title": "Witch-Light",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mtnh_witchlig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27983,
+    "title": "Big Damn Hero",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "NH_bigdamnh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16938,
+    "title": "Measure of a Man",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "NH_measureo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4130,
+    "title": "Possessions",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "nh_possessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4131,
+    "title": "The Evil Within",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "nh_theevilw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4132,
+    "title": "The Screaming Season",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "nh_thescrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

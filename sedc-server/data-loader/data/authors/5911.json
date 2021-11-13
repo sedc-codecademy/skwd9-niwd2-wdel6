@@ -1,0 +1,28 @@
+[
+  {
+    "id": 28952,
+    "title": "The Logic of the World",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28957,
+    "title": "The Book from the Sky",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rk_thebookf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28953,
+    "title": "The Scorpions",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rk_thescorp.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

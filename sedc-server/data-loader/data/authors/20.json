@@ -1,0 +1,626 @@
+[
+  {
+    "id": 10326,
+    "title": "Up the Bright River",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pjf_upthebri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8629,
+    "title": "Up from the Bottomless Pit and Other Stories",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pjf_upfromth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8628,
+    "title": "The Caterpillar's Question",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "papjf_thecater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19362,
+    "title": "Riders of the Purple Wage",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pjf_ridersof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8625,
+    "title": "River of Eternity",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pjf_riverofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8630,
+    "title": "Greatheart Silver",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pjf_greathea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8632,
+    "title": "The Purple Book",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pjf_thepurpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8631,
+    "title": "Stations of the Nightmare",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pjf_stations.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2011,
+    "title": "The Unreasoning Mask",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pjf_unreason.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8551,
+    "title": "Dark Is the Sun",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "pjf_darkisth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8623,
+    "title": "Jesus on Mars",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "pjf_jesusonm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10329,
+    "title": "Riverworld and Other Stories",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "pjf_riverwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8550,
+    "title": "Venus on the Half-Shell",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "pjf_venusont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10328,
+    "title": "The Book of Philip José Farmer",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "pjf_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10327,
+    "title": "Down in the Black Gang and Other Stories",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "pjf_downinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8544,
+    "title": "The Wind Whales of Ishmael",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "pjf_thewindw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8447,
+    "title": "The Stone God Awakens",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "pjf_thestone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19363,
+    "title": "Riders of the Purple Wage",
+    "year": 1967,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8445,
+    "title": "Two Hawks from Earth",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "pjf_twohawks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6437,
+    "title": "Dare",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "pjf_dare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8442,
+    "title": "Inside Outside",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "pjf_insideou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8443,
+    "title": "Tongues of the Moon",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "pjf_tongueso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6435,
+    "title": "The Alley God",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "pjf_thealley.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21592,
+    "title": "Open to Me, My Sister",
+    "year": 1960,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10325,
+    "title": "Strange Relations",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "pjf_stranger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21593,
+    "title": "The Alley Man",
+    "year": 1959,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8391,
+    "title": "The Green Odyssey",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "pjf_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6436,
+    "title": "Cache From Outer Space / The Celestial Blueprint and Other Stories",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_cachefro_theceles.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8633,
+    "title": "Lord of the Trees / The Mad Goblin",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_lordofth_themadgo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26502,
+    "title": "The Sliced-Crosswise Only-On-Tuesday World",
+    "year": 1971,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3953,
+    "title": "Dayworld",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pjf_dayworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3954,
+    "title": "Dayworld Rebel",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pjf_dwrebel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3955,
+    "title": "Dayworld Breakup",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "pjf_dwbreaku.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8389,
+    "title": "Escape from Loki",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pjf_escapefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4425,
+    "title": "The Image of the Beast",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "pjf_theimage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4426,
+    "title": "Blown",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "pjf_blown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4427,
+    "title": "Traitor to the Living",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "pjf_traitort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8444,
+    "title": "Night of Light",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "pjf_nightofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8390,
+    "title": "Father to the Stars",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pjf_fatherto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8392,
+    "title": "Flesh",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "pjf_flesh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4352,
+    "title": "A Feast Unknown",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "pjf_afeastun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4467,
+    "title": "Lord of the Trees",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pjf_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8446,
+    "title": "The Mad Goblin",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pjf_themadgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8548,
+    "title": "Hadon of Ancient Opar",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "pjf_hadonofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8549,
+    "title": "Flight to Opar",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "pjf_flightto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8624,
+    "title": "A Barnstormer in Oz:  or, A rationalization and extrapolation of the split-level continuum",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pjf_abarnsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3902,
+    "title": "The Other Log of Phileas Fogg",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "pjf_theother.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25444,
+    "title": "Tales of Riverworld",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pjf_talesofr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21518,
+    "title": "Day of the Great Shout",
+    "year": 1965,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19,
+    "title": "To Your Scattered Bodies Go",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "pjf_toyoursc.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1313,
+    "title": "The Fabulous Riverboat",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "pjf_thefabul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1314,
+    "title": "The Dark Design",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "pjf_thedarkd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1315,
+    "title": "The Magic Labyrinth",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pjf_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1316,
+    "title": "The Gods of Riverworld",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pjf_thegodso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2145,
+    "title": "The Lovers",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "pjf_thelover.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8393,
+    "title": "The Day of Timestop",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "pjf_thedayof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8627,
+    "title": "The Dark Heart of Time",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pjf_thedarkh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18172,
+    "title": "After King Kong Fell",
+    "year": 1973,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8545,
+    "title": "Tarzan Alive",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "pjf_tarzanal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8546,
+    "title": "Doc Savage:  His Apocalyptic Life",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "pjf_docsavag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8547,
+    "title": "The Adventure of the Peerless Peer",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "pjf_theadvent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3970,
+    "title": "Time's Last Gift",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "pjf_timeslas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3971,
+    "title": "Lord Tyger",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "pjf_lordtyge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3947,
+    "title": "Maker Of Universes",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "pjf_makerof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3948,
+    "title": "The Gates of Creation",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "pjf_thegates.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3949,
+    "title": "A Private Cosmos",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "pjf_aprivate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3950,
+    "title": "Behind the Walls of Terra",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "pjf_behindth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3951,
+    "title": "The Lavalite World",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "pjf_thelaval.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8626,
+    "title": "Red Orc's Rage",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pjf_redorcsr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3952,
+    "title": "More Than Fire",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pjf_morethan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

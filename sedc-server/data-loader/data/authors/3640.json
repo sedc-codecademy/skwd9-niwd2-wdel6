@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14926,
+    "title": "The Dragon Well",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dw_dragwell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14927,
+    "title": "Dragon Knight",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dw_dknights.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14928,
+    "title": "Wizard's Return",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dw_wizardsr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18721,
+    "title": "Super Extra Grande",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "yoss_superext.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 29040,
+    "title": "Condomnauts",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "Y_Comdomna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16430,
+    "title": "A Planet for Rent",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "yoss_planetforrent.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

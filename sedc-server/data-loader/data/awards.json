@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Hugo Award",
+    "url": "books_hugo_index.asp"
+  },
+  {
+    "id": 2,
+    "name": "Nebula Award",
+    "url": "books_nebula_index.asp"
+  },
+  {
+    "id": 3,
+    "name": "British Science Fiction Award",
+    "url": "books_bsfa_index.asp"
+  },
+  {
+    "id": 4,
+    "name": "Mythopoeic Award",
+    "url": "books_mytho_index.asp"
+  },
+  {
+    "id": 5,
+    "name": "Locus Science Fiction Award",
+    "url": "books_locus-sf_index.asp"
+  },
+  {
+    "id": 6,
+    "name": "August Derleth Award",
+    "url": "books_bfs-derleth_index.asp"
+  },
+  {
+    "id": 7,
+    "name": "John W. Campbell Memorial Award",
+    "url": "books_campbell_index.asp"
+  },
+  {
+    "id": 8,
+    "name": "World Fantasy Award",
+    "url": "books_wfa_index.asp"
+  },
+  {
+    "id": 9,
+    "name": "Locus Fantasy Award",
+    "url": "books_locus-f_index.asp"
+  },
+  {
+    "id": 10,
+    "name": "Prometheus Award",
+    "url": "books_prometheus_index.asp"
+  },
+  {
+    "id": 11,
+    "name": "Locus First Novel Award",
+    "url": "books_locus-fn_index.asp"
+  },
+  {
+    "id": 12,
+    "name": "Aurora Award",
+    "url": "books_aurora_index.asp"
+  },
+  {
+    "id": 13,
+    "name": "Philip K. Dick Award",
+    "url": "books_pkd_index.asp"
+  },
+  {
+    "id": 14,
+    "name": "Arthur C. Clarke Award",
+    "url": "books_clarke_index.asp"
+  },
+  {
+    "id": 15,
+    "name": "Bram Stoker Award",
+    "url": "books_stoker_index.asp"
+  },
+  {
+    "id": 16,
+    "name": "Otherwise Award",
+    "url": "books_otherwise_index.asp"
+  },
+  {
+    "id": 17,
+    "name": "Aurealis SF Award",
+    "url": "books_aurealis-sf_index.asp"
+  },
+  {
+    "id": 18,
+    "name": "Aurealis Fantasy Award",
+    "url": "books_aurealis-f_index.asp"
+  },
+  {
+    "id": 19,
+    "name": "Aurealis Horror Award",
+    "url": "books_aurealis-h_index.asp"
+  },
+  {
+    "id": 20,
+    "name": "Locus Young Adult Award",
+    "url": "books_locus-ya_index.asp"
+  },
+  {
+    "id": 21,
+    "name": "Andre Norton Award",
+    "url": "books_norton_index.asp"
+  },
+  {
+    "id": 22,
+    "name": "Shirley Jackson Award",
+    "url": "books_jackson_index.asp"
+  },
+  {
+    "id": 23,
+    "name": "David Gemmell Legend Award",
+    "url": "books_legend_index.asp"
+  },
+  {
+    "id": 24,
+    "name": "Red Tentacle Award",
+    "url": "books_redtentacle_index.asp"
+  },
+  {
+    "id": 25,
+    "name": "David Gemmell Morningstar Award",
+    "url": "books_morningstar_index.asp"
+  },
+  {
+    "id": 26,
+    "name": "Golden Tentacle Award",
+    "url": "books_goldententacle_index.asp"
+  },
+  {
+    "id": 27,
+    "name": "Robert Holdstock Award",
+    "url": "books_bfs-holdstock_index.asp"
+  },
+  {
+    "id": 28,
+    "name": "Locus Horror Award",
+    "url": "books_locus-h_index.asp"
+  }
+]

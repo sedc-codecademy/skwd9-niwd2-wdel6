@@ -1,0 +1,29 @@
+[
+  {
+    "id": 7923,
+    "title": "Tymon's Flight",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mv_tymonsfl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7970,
+    "title": "Samiha's Song",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mv_samihass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7971,
+    "title": "Oracle's Fire",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mv_oraclesf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

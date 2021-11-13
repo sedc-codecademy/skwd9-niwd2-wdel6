@@ -1,0 +1,87 @@
+[
+  {
+    "id": 24096,
+    "title": "The Unorthodox Dr. Draper and Other Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "wbs_theunort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7936,
+    "title": "The Ocean and All Its Devices",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "wbs_theocean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24095,
+    "title": "The Essayist in the Wilderness",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22767,
+    "title": "The Foster Child",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26585,
+    "title": "The Halfway House at the Heart of Darkness",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8081,
+    "title": "Irrational Fears",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "WBS_Irratio.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34192,
+    "title": "Downloading Midnight",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7918,
+    "title": "Resume with Monsters",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "wbs_resume.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8082,
+    "title": "Zod Wallop",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WBS_ZodWallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27617,
+    "title": "A Child's Christmas in Florida",
+    "year": 1993,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

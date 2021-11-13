@@ -1,0 +1,74 @@
+[
+  {
+    "id": 12505,
+    "title": "Nebula Maker",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "os_nebulama.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2106,
+    "title": "Sirius:  A Fantasy Of Love And Discord",
+    "year": 1944,
+    "type": "novel",
+    "imageName": "os_sirius.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1762,
+    "title": "Star Maker",
+    "year": 1937,
+    "type": "novel",
+    "imageName": "os_starmake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2105,
+    "title": "Odd John:  A Story Between Jest and Earnest",
+    "year": 1935,
+    "type": "novel",
+    "imageName": "os_oddjohn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11422,
+    "title": "To The End Of Time",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "os_totheend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11522,
+    "title": "Darkness and the Light",
+    "year": 1942,
+    "type": "novel",
+    "imageName": "OS_darkness.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1757,
+    "title": "Last and First Men:  A Story of the Near and Far Future",
+    "year": 1930,
+    "type": "novel",
+    "imageName": "os_lastandf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10506,
+    "title": "Last Men in London",
+    "year": 1932,
+    "type": "novel",
+    "imageName": "os_lastmeno.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

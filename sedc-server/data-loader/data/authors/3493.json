@@ -1,0 +1,136 @@
+[
+  {
+    "id": 14084,
+    "title": "Killer Karma",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lk_killerka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14083,
+    "title": "Wilding Nights",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lk_wildingn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14082,
+    "title": "The Leopard's Daughter",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lk_theleopa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14080,
+    "title": "Liberty's World",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lk_libertys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21381,
+    "title": "Symphony for a Lost Traveler",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14081,
+    "title": "Aventine",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lk_aventine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14079,
+    "title": "Deadly Silents",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "lk_deadlysi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14078,
+    "title": "The Monitor, the Miners, and the Shree",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "lk_themonit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14077,
+    "title": "A Voice Out of Ramah",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "lk_avoiceou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14071,
+    "title": "Blood Hunt",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lk_bloodhun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14072,
+    "title": "Bloodlinks",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "lk_bloodlin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14073,
+    "title": "Blood Games",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lk_bloodgam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14074,
+    "title": "The Doppelgänger Gambit",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "lk_thedoppe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14075,
+    "title": "Spider Play",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lk_spiderpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14076,
+    "title": "Dragon's Teeth",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lk_dragonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

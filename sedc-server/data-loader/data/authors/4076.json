@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17006,
+    "title": "The Girl in the High Tower",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ga_thegirli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17005,
+    "title": "The Rain Is a Lie",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ga_theraini.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17004,
+    "title": "The Department of Alterations",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gb_thedepar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17014,
+    "title": "Crewel",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ga_crewel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17015,
+    "title": "Altered",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ga_altered.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17016,
+    "title": "Unraveled",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ga_unravel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

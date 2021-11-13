@@ -1,0 +1,69 @@
+[
+  {
+    "id": 17784,
+    "title": "Thirteen Ways to Water and Other Stories",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bhr_thirteen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24123,
+    "title": "Don Ysidro",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17783,
+    "title": "Wind Over Heaven: And Other Dark Tales",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "bhr_windover.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17788,
+    "title": "How the Highland People Came to Be",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17785,
+    "title": "The Dead Boy At Your Window",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17786,
+    "title": "Thirteen Ways to Water",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17789,
+    "title": "Lifeboat on a Burning Sea",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "bhr_lifeboat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17787,
+    "title": "These Shoes Strangers Have Died Of",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

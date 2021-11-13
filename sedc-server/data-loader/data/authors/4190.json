@@ -1,0 +1,20 @@
+[
+  {
+    "id": 17345,
+    "title": "Food for the Gods",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kd_foodfort.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17346,
+    "title": "Kraken Bake",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kd_krakenba.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 4160,
+    "title": "The Pisstown Chaos",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "do_thepisst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16350,
+    "title": "The Blast",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "do_theblast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16921,
+    "title": "The Old Reactor",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "do_theoldreactor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16922,
+    "title": "The Devil in Kansas",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "do_thedevilin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8095,
+    "title": "Boons & The Camp",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "do_boons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4158,
+    "title": "Motorman",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "do_motorman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4159,
+    "title": "The Age of Sinatra",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "do_theageof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

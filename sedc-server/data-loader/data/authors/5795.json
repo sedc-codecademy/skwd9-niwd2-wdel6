@@ -1,0 +1,20 @@
+[
+  {
+    "id": 28019,
+    "title": "Speculator",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dcjh_speculat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28020,
+    "title": "Drug Lord",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dcjh_druglord.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

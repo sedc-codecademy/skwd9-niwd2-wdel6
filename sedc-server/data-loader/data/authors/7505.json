@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35497,
+    "title": "The Memory Keepers",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "NN_MemoryKe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35498,
+    "title": "Girls of Paper and Fire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "NN_GirlsPap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35499,
+    "title": "Girls of Storm and Shadow",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "NN_GirlsSto.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

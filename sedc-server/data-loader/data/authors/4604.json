@@ -1,0 +1,36 @@
+[
+  {
+    "id": 28332,
+    "title": "The Need for Air",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "lp_theneedf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30170,
+    "title": "Emergency Protocol",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28564,
+    "title": "Justice Systems in Quantum Parallel Probabilities",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20381,
+    "title": "The Three Lives of Sonata James",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lp_thethree.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24695,
+    "title": "Roadsouls",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bj_roadsoul.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24693,
+    "title": "Long Night Dance",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "bj_longnigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24694,
+    "title": "Dark Heart",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bj_darkhear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8298,
+    "title": "Listening at the Gate ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bj_listenin.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

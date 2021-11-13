@@ -1,0 +1,47 @@
+[
+  {
+    "id": 3514,
+    "title": "The Hill of Dreams",
+    "year": 1907,
+    "type": "novel",
+    "imageName": "am_thehillo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3515,
+    "title": "Tales of Horror and the Supernatural",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "am_talesofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26778,
+    "title": "The Angel of Mons:  The Bowman and other Legends of the War",
+    "year": 1915,
+    "type": "novel",
+    "imageName": "AM_theangel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12404,
+    "title": "The House of Souls",
+    "year": 1906,
+    "type": "novel",
+    "imageName": "AM_housesou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7513,
+    "title": "The Three Impostors",
+    "year": 1895,
+    "type": "novel",
+    "imageName": "am_thethree.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

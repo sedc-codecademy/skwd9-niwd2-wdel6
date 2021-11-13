@@ -1,0 +1,53 @@
+[
+  {
+    "id": 23467,
+    "title": "Dark Gods",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tedk_darkgods.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23468,
+    "title": "Nadelman's God",
+    "year": 1985,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 942,
+    "title": "The Ceremonies",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "tedk_thecerem.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23835,
+    "title": "Children of the Kingdom",
+    "year": 1980,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23833,
+    "title": "Petey",
+    "year": 1979,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23757,
+    "title": "The Events at Poroth Farm",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "tedk_theevent.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

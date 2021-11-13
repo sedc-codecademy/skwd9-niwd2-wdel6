@@ -1,0 +1,128 @@
+[
+  {
+    "id": 14405,
+    "title": "You Have Never Been Here:  New and Selected Stories",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mr_youhaven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7726,
+    "title": "The Memory Garden",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mr_thememor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8097,
+    "title": "The Mothers of Voorhisville",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mr_themoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28646,
+    "title": "The Corpse Painter's Masterpiece",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7727,
+    "title": "Holiday",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mr_holiday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28550,
+    "title": "Evidence of Love in a Case of Abandonment :  One Daughter's Personal Account",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32050,
+    "title": "Traitor",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26842,
+    "title": "Holiday",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17099,
+    "title": "Journey into the Kingdom",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23655,
+    "title": "Map of Dreams",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7728,
+    "title": "Map of Dreams (collection)",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mr_mapofdre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19817,
+    "title": "You Have Never Been Here",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16848,
+    "title": "Cold Fires",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mr_coldfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26468,
+    "title": "Bread and Bombs",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23076,
+    "title": "The Girl Who Ate Butterflies",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

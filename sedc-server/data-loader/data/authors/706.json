@@ -1,0 +1,334 @@
+[
+  {
+    "id": 16849,
+    "title": "Where the Lost Things Are",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rrtb_wherethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5341,
+    "title": "Any Day Now",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tb_anydayno.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24278,
+    "title": "TVA Baby and Other Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tb_tvababy2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31894,
+    "title": "About It",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16299,
+    "title": "The Cockroach Hat",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tb_thecockr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16265,
+    "title": "TVA Baby",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tb_tvababy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16081,
+    "title": "Catch 'Em in the Act",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tb_catchemi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32140,
+    "title": "Pirates of the Somali Coast",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32174,
+    "title": "Brother, Can You Spare a Dime?",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19872,
+    "title": "Scout's Honor",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27330,
+    "title": "Dear Abbey",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tb_dearabbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31807,
+    "title": "Greetings",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32605,
+    "title": "I Saw the Light",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32637,
+    "title": "Charlie's Angels",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25657,
+    "title": "The Pickup Artist",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tb_thepicku.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17745,
+    "title": "In the Upper Room:  And Other Likely Stories",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tb_intheupp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17744,
+    "title": "macs",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34024,
+    "title": "An Office Romance",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34151,
+    "title": "In the Upper Room",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25640,
+    "title": "Pirates of the Universe",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tb_pirateso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27585,
+    "title": "There Are No Dead",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21341,
+    "title": "Dead Man's Curve",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6247,
+    "title": "Bears Discover Fire and Other Stories",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tb_bearsdis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17746,
+    "title": "England Underway",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18682,
+    "title": "Necronauts",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20984,
+    "title": "The Shadow Knows",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27679,
+    "title": "Two Guys from the Future",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21363,
+    "title": "Press Ann",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17651,
+    "title": "They're Made Out of Meat",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tb_theyrema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17649,
+    "title": "Bears Discover Fire",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tb_bearsdiscover.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 744,
+    "title": "Voyage to the Red Planet",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tb_voyageto.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25487,
+    "title": "Fire on the Mountain",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tb_fireonth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 932,
+    "title": "Talking Man",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tb_talkingm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36119,
+    "title": "Wyrldmaker",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "TB_Wyrldmak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 710,
+    "title": "Saint Leibowitz and the Wild Horse Woman",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "wmm_saintlei.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7736,
+    "title": "The Left Left Behind",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "TB_TheLeftL.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20561,
+    "title": "Numbers Don't Lie",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tb_numbersd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26560,
+    "title": "The Hole in the Hole",
+    "year": 1994,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20562,
+    "title": "Get Me to the Church on Time",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

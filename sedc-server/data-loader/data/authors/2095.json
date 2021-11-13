@@ -1,0 +1,92 @@
+[
+  {
+    "id": 35877,
+    "title": "Wings of Fire",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AA_WingsFir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16369,
+    "title": "AbductiCon",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "aa_abductic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8184,
+    "title": "2012: Midnight at Spanish Gardens",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "aa_2012midn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7931,
+    "title": "The Hidden Queen",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "aa_thehidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7932,
+    "title": "The Changer of Days",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "aa_thechang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7590,
+    "title": "The Secrets of Jin-shei",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "aa_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7591,
+    "title": "The Embers of Heaven",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "aa_theember.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7940,
+    "title": "Gift of the Unmage",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "aa_giftofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7941,
+    "title": "Spellspam",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "aa_spellspa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7942,
+    "title": "Cybermage",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "aa_cybermag.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

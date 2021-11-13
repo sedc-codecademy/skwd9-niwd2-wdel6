@@ -1,0 +1,164 @@
+[
+  {
+    "id": 27067,
+    "title": "Starless",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jc_starless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21560,
+    "title": "Miranda and Caliban",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jc_mirandaa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6355,
+    "title": "Dark Currents",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jc_darkcurr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6357,
+    "title": "Autumn Bones",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jc_autumnbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9518,
+    "title": "Poison Fruit",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jc_poisonfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3323,
+    "title": "Kushiel's Dart",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jc_kdart.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 687,
+    "title": "Kushiel's Chosen",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jc_kushiels.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3366,
+    "title": "Kushiel's Avatar",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jc_kavatar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3367,
+    "title": "Kushiel's Scion",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jc_kscion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3368,
+    "title": "Kushiel's Justice",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jc_kjustice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3369,
+    "title": "Kushiel's Mercy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jc_kmercy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6348,
+    "title": "Naamah's Kiss ",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jc_nkiss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6349,
+    "title": "Naamah's Curse",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jc_ncurse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6350,
+    "title": "Naamah's Blessing",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jc_nblessin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6353,
+    "title": "Santa Olivia",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jc_santaoli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6354,
+    "title": "Saints Astray",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jc_saintsas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4282,
+    "title": "Banewreaker",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jc_banewrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6352,
+    "title": "Godslayer",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jc_godslaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

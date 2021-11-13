@@ -1,0 +1,137 @@
+[
+  {
+    "id": 2637,
+    "title": "Shades of Grey",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jf_shadesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36498,
+    "title": "The Constant Rabbit:  A Novel",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "JF_constant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28580,
+    "title": "Early Riser",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jf_earlyris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6941,
+    "title": "The Last Dragonslayer",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jf_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6942,
+    "title": "The Song of the Quarkbeast",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jf_thesongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6943,
+    "title": "The Eye of Zoltar",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jf_theeyeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10250,
+    "title": "The Big Over Easy",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jf_thebigov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10251,
+    "title": "The Fourth Bear",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jf_thefourt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3325,
+    "title": "The Eyre Affair",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jf_theeyrea.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3355,
+    "title": "Lost in a Good Book",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jf_lostinag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3356,
+    "title": "The Well of Lost Plots",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jf_thewello.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3357,
+    "title": "Something Rotten",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jf_somethin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3358,
+    "title": "First Among Sequels",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jf_firstamo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3359,
+    "title": "One of our Thursdays is Missing",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jf_oneofour.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4661,
+    "title": "The Woman Who Died a Lot",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jf_thewoman.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

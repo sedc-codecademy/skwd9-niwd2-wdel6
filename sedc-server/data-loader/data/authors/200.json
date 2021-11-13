@@ -1,0 +1,729 @@
+[
+  {
+    "id": 13929,
+    "title": "Finches of Mars",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bwa_fincheso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1046,
+    "title": "HARM",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bwa_harm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13930,
+    "title": "Super-State",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bwa_supersta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32636,
+    "title": "A Matter of Mathematics",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8764,
+    "title": "Supertoys Last All Summer Long:  and Other Stories of Future Time",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "BWA_Supertoy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32703,
+    "title": "Steppenpferd",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32749,
+    "title": "An Apollo Asteroid",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4490,
+    "title": "White Mars or, The Mind Set Free:  A 21st-Century Utopia",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "bwa_whitemar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7264,
+    "title": "The Twinkling of an Eye:  My Life as an Englishman",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "bwa_thetwink.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24449,
+    "title": "The Secret of This Book",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ba_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23532,
+    "title": "The God Who Slept With Women",
+    "year": 1994,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27639,
+    "title": "Friendship Bridge",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24483,
+    "title": "A Tupolev Too Far and Other Stories",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "bwa_atupolev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27684,
+    "title": "FOAM",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24333,
+    "title": "Bury My Heart at W. H. Smith's",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "bwa_burymyhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24654,
+    "title": "Best SF Stories of Brian W. Aldiss (1988 edition)",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "bwa_bsfs1988.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13940,
+    "title": "The Year Before Yesterday (Cracken at Critical)",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "bwa_theyearb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7226,
+    "title": "Trillion Year Spree:  The History of Science Fiction",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "bwa_trillion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24332,
+    "title": "The Pale Shadow of Science",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bwa_thepales.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24510,
+    "title": "Seasons in Flight",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "bwa_seasonsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23944,
+    "title": "Journey to the Goat Star",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "bwa_journeyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13931,
+    "title": "Moreau's Other Island (An Island Called Moreau)",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bwa_moreauso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13932,
+    "title": "Enemies of the System:  A Tale of Homo Uniformis",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bwa_enemieso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13933,
+    "title": "Brothers of the Head",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bwa_brothers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4358,
+    "title": "The Malacia Tapestry",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ba_themalac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8765,
+    "title": "Hell's Cartographers:  Some Personal Histories of Science Fiction Writers",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "BWA_HellsCar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8396,
+    "title": "Science Fiction Art",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ba-sciencef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13939,
+    "title": "The Eighty-Minute Hour: A Space Opera",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bwa_theeight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4145,
+    "title": "Billion Year Spree:  The History of Science Fiction",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bwa_billion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8386,
+    "title": "The Book of Brian Aldiss",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ba_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1060,
+    "title": "The Moment of Eclipse:  A Collection of Short Stories",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "bwa_themomen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10612,
+    "title": "The Shape of Further Things:  Speculation on Change",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "BL_shapethi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7169,
+    "title": "Barefoot in the Head",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "BWA_Barefoot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10613,
+    "title": "Intangible Inc. and Other Stories",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "BA_intangib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8763,
+    "title": "Report on Probability A",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "BWA_ReportOn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19093,
+    "title": "Total Environment",
+    "year": 1968,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8762,
+    "title": "Cryptozoic! / An Age",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ba_cryptozo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10892,
+    "title": "The Saliva Tree and Other Strange Growths",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "bwa_thesaliv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8394,
+    "title": "Earthworks",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ba_earthwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18327,
+    "title": "Man in His Time",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19672,
+    "title": "The Saliva Tree",
+    "year": 1965,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1994,
+    "title": "Greybeard",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ba_greybear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8387,
+    "title": "Starswarm",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ba_starswar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8395,
+    "title": "The Interpreter",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ba_bowdownt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8388,
+    "title": "The Primal Urge",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ba_theprima.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9354,
+    "title": "Galaxies Like Grains of Sand",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "bwa_galaxies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8294,
+    "title": "The Canopy of Time",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ba_thecanop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8385,
+    "title": "Space, Time and Nathaniel",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ba_spacetim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21316,
+    "title": "Vanguard from Alpha / The Changeling Worlds",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_vanguard_thechang.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21300,
+    "title": "Bow Down to Nul / The Dark Destroyers",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_bowdownt_thedarkd.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18108,
+    "title": "Best SF: 1967",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf67.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18109,
+    "title": "Best SF: 1968",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf68.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18111,
+    "title": "Best SF: 1969",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf69.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18112,
+    "title": "Best SF: 1970",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf70.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18114,
+    "title": "Best SF: 1971",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf71.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18115,
+    "title": "Best SF: 1972",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf72.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18117,
+    "title": "Best SF: 1973",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf73.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18118,
+    "title": "Best SF: 1974",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf74.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18119,
+    "title": "Best SF: 75, The Ninth Annual",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "HH&BWA_BestSf75.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7363,
+    "title": "Dracula Unbound",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "BWA_draculaU.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4659,
+    "title": "Frankenstein Unbound",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bwa_frankens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25137,
+    "title": "Galactic Empires",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "bwa_galempi0.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25135,
+    "title": "Galactic Empires Volume One",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bwa_galempi1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25136,
+    "title": "Galactic Empires Volume Two",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bwa_galempi2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12896,
+    "title": "The Male Response",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "BA_maleresp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1992,
+    "title": "Hothouse / The Long Afternoon of Earth",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ba_hothouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2099,
+    "title": "Helliconia",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ba_hellicon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 222,
+    "title": "Helliconia Spring",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "bwa_hellicos.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 781,
+    "title": "Helliconia Summer",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "bwa_hellsumm.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 206,
+    "title": "Helliconia Winter",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bwa_hellicon.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 21590,
+    "title": "Hothouse",
+    "year": 1961,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8766,
+    "title": "The Detached Retina:  Aspects of SF and Fantasy",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "BWA_TheDetac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1768,
+    "title": "Non-Stop",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ba_non-stop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4658,
+    "title": "Last Orders",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ba_lastorde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4657,
+    "title": "The Dark Light Years",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ba_thedarkl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7547,
+    "title": "Nebula Award Stories Two",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "bwahh_nebula02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13705,
+    "title": "Life in the West",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "BA_lifewest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13706,
+    "title": "Forgotten Life",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "BA_forgotte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13707,
+    "title": "Remembrance Day",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "BA_remembra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13708,
+    "title": "Somewhere East of Life",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "BA_somewher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34944,
+    "title": "Super-toys Last All Summer Long",
+    "year": 1969,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11085,
+    "title": "Tor Double #3: Born With The Dead / The Saliva Tree",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "BA_tordbl3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

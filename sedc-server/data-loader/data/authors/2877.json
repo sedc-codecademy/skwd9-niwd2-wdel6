@@ -1,0 +1,38 @@
+[
+  {
+    "id": 20267,
+    "title": "Three Promises: An American Faerie Tale Collection",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bo_threepro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11263,
+    "title": "The Stolen",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "boc_thestole.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11264,
+    "title": "The Forgotten",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "boc_theforgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20266,
+    "title": "The Returned",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bo_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

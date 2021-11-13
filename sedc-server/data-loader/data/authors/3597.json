@@ -1,0 +1,101 @@
+[
+  {
+    "id": 34186,
+    "title": "The Enterprise War",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JM_theenter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36548,
+    "title": "Die Standing",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "JM_diestand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21096,
+    "title": "Hell's Heart",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JM_hellshea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21097,
+    "title": "The Jackal's Trick",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JM_jackaltr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21098,
+    "title": "The Hall of Heroes",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JM_hallhero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20233,
+    "title": "Takedown",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JM_takedown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17189,
+    "title": "Kenobi",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JJM_kenobi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14638,
+    "title": "A New Dawn",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jjm_anewdawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25674,
+    "title": "Canto Bight:  Journey to Star Wars: The Last Jedi",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SA_cantobig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17221,
+    "title": "Lost Tribe of the Sith:  The Collected Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JM_losttrib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17186,
+    "title": "Knight Errant",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JJM_knighter.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

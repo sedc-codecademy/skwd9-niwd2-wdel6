@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16015,
+    "title": "No Sister of Mine",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jgf_nosister.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16016,
+    "title": "Sister Lost, Sister Found",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jg_sisterlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16017,
+    "title": "Sisters Flight",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jg_sistersf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

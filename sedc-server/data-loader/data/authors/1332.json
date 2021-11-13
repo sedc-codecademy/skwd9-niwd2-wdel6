@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2592,
+    "title": "Foundling",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dmc_foundlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2593,
+    "title": "Lamplighter",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dmc_lampligh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2594,
+    "title": "Factotum",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dmc_factotum.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

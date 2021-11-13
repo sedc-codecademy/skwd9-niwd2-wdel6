@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20683,
+    "title": "Portal",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rs_portal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1063,
+    "title": "A.K.A.: A Cosmic Fable",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "rs_akaacosm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32275,
+    "title": "The Time Trip",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "RS_TimeTrip.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

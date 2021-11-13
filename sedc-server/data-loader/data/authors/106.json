@@ -1,0 +1,258 @@
+[
+  {
+    "id": 12550,
+    "title": "A Thousand Deaths",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gae_Athousan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12549,
+    "title": "Live! from Planet Earth",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gae_Livefrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12545,
+    "title": "Budayeen Nights",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gae_Budayeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12547,
+    "title": "Maureen Birnbaum:Barbarian Swordsperson",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gae_maureenb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12680,
+    "title": "The Red Tape War",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "red-tape-war.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12546,
+    "title": "The Zork Chronicles",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gae_thezorkc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20999,
+    "title": "Everything But Honor",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18010,
+    "title": "The Aliens Who Knew, I Mean, Everything",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12674,
+    "title": "Idle Pleasure",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "Idle-pleasure.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12679,
+    "title": "Heroics",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "HEROICS1979.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12564,
+    "title": "Death in Florence",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "deathinflorence.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12671,
+    "title": "Dirty Tricks",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gae_DirtyTri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12548,
+    "title": "Irrational Numbers",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "gae_irration.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12677,
+    "title": "Those Gentle Voices",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "those-gentle-voices.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10694,
+    "title": "Nightmare Blue",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "gd_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24754,
+    "title": "Relatives",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "gae_relative.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 281,
+    "title": "What Entropy Means to Me",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "gae_whatentr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21490,
+    "title": "All the Last Wars at Once",
+    "year": 1971,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24659,
+    "title": "The Old Funny Stuff",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gae_acm01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18533,
+    "title": "Schrödinger's Kitten",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gae_schrodin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21194,
+    "title": "The City on the Sand",
+    "year": 1973,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19521,
+    "title": "Marîd Changes His Mind",
+    "year": 1989,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 121,
+    "title": "When Gravity Fails",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "gae_whengrav.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 110,
+    "title": "A Fire in the Sun",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gae_afireint.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1665,
+    "title": "The Exile Kiss",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gae_theexile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17039,
+    "title": "Man the Fugitive",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "GE_manthefu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17040,
+    "title": "Escape to Tomorrow",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "GE_escapeto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17041,
+    "title": "Journey into Terror",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "GE_journeyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17042,
+    "title": "Lord of the Apes",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "GE_lordapes.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

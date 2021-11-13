@@ -1,0 +1,83 @@
+[
+  {
+    "id": 14726,
+    "title": "Power Hungry",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "hw_powerhun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14727,
+    "title": "Exiles",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "hw_exiles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14728,
+    "title": "Perchance to Dream",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "hw_perchance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14722,
+    "title": "The Covenant of the Crown",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "hw_thecoven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14723,
+    "title": "Deep Domain",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "hw_deepdoma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14724,
+    "title": "The Better Man",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "hw_betterma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15645,
+    "title": "V: East Coast Crisis",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ACC_V2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15649,
+    "title": "V: Prisoners and Pawns",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "HW_V6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15655,
+    "title": "V: Path to Conquest",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "HW_V12.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

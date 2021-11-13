@@ -1,0 +1,47 @@
+[
+  {
+    "id": 7809,
+    "title": "Unclean Spirits",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mlnh_uncleans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7810,
+    "title": "Darker Angels",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mlnh_darkeran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7811,
+    "title": "Vicious Grace",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mlnh_viciousg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7812,
+    "title": "Killing Rites",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mlnh_killingr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7813,
+    "title": "Graveyard Child",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mlnh_graveyar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

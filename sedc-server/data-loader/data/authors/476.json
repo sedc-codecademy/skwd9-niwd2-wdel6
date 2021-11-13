@@ -1,0 +1,218 @@
+[
+  {
+    "id": 10042,
+    "title": "Afterworlds",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sw_afterwor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4543,
+    "title": "So Yesterday",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sw_soyester.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 477,
+    "title": "Evolution's Darling",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sw_evolutio.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10044,
+    "title": "Fine Prey",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sw_fineprey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10043,
+    "title": "Polymorph",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sw_polymorp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20280,
+    "title": "Horizon",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sw_horizon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1736,
+    "title": "Leviathan",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sw_leviatha.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2290,
+    "title": "Behemoth",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sw_behemoth.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3766,
+    "title": "Goliath",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sw_goliath.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11194,
+    "title": "The Secret Hour",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sw_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11195,
+    "title": "Touching Darkness",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sw_touching.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11196,
+    "title": "Blue Noon",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sw_bluenoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3641,
+    "title": "Peeps",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sw_peeps.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3661,
+    "title": "The Last Days",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sw_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11160,
+    "title": "The Risen Empire",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "SW_risenemp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11161,
+    "title": "The Killing of Worlds",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "SW_killingw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3658,
+    "title": "Uglies",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sw_uglies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3659,
+    "title": "Pretties",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sw_pretties.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3660,
+    "title": "Specials",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sw_specials.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3640,
+    "title": "Extras",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sw_extras.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28979,
+    "title": "Impostors",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sw_impostor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14149,
+    "title": "Zeroes",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "swmldb_zeroes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19569,
+    "title": "Swarm",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "swdbml_swarm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27491,
+    "title": "Nexus",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "swmldb_nexus.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

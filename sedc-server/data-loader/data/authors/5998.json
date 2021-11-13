@@ -1,0 +1,38 @@
+[
+  {
+    "id": 31547,
+    "title": "The Last Passenger",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ml_thelastp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31544,
+    "title": "The Beginning of the End",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ml_thebegin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31545,
+    "title": "Dark Days",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ml_darkdays.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31546,
+    "title": "The Wrath of the Just",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ml_thewrath.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

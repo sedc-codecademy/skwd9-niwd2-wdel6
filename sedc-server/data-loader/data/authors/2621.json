@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10259,
+    "title": "Another",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "YA_another.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18676,
+    "title": "Another Episode S/O",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "YA_anotheso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

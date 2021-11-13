@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36643,
+    "title": "The Book of the Damned",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "DAF_BookDamn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36644,
+    "title": "Flesh and Blood",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "DAF_FleshBlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36642,
+    "title": "The Devil's End",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "DAF_DevilsEn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

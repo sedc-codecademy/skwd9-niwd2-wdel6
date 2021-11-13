@@ -1,0 +1,47 @@
+[
+  {
+    "id": 13047,
+    "title": "The Purgatory Zone",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ad_thepruga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13048,
+    "title": "The Splendid Freedom",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ad_thesplen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13046,
+    "title": "Karma (The Karma Affair)",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ad_karma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13045,
+    "title": "The Siege of Faltara",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ad_thesiege.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13044,
+    "title": "A Hostage for Hinterland",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ad_ahostage.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

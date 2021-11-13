@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35988,
+    "title": "Marooned",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "MC_Marooned.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35966,
+    "title": "Cyborg",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "MC_Cyborg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35986,
+    "title": "Cyborg 2: Operation Nuke",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "mc_cyborg2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20752,
+    "title": "What Price Honor?",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "DS_whatpric.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20753,
+    "title": "Daedalus",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "DS_daedalus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20754,
+    "title": "Daedalus's Children",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "DS_daedaluc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20755,
+    "title": "Rosetta",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "DS_rosetta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20756,
+    "title": "The Children of Kings",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "DS_thechildren.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

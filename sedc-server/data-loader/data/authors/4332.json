@@ -1,0 +1,92 @@
+[
+  {
+    "id": 27723,
+    "title": "Furthermore",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tm_furtherm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27724,
+    "title": "Whichwood",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tm-whichwoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18344,
+    "title": "Unite Me",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "TM_UniteMe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18343,
+    "title": "Fracture Me",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "TM_Fracture.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18342,
+    "title": "Destroy Me",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "TM_DestroyM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18339,
+    "title": "Shatter Me",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "TM_ShatterM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18340,
+    "title": "Unravel Me",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "TM_UnravelM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18341,
+    "title": "Ignite Me",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "TM_IgniteMe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34207,
+    "title": "Restore Me",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tm_restorem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34209,
+    "title": "Defy Me",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tm_defyme.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 36568,
+    "title": "String City",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ge_stringci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6144,
+    "title": "Talus and the Frozen King",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ge_talusand.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

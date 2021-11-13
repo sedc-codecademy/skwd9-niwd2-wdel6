@@ -1,0 +1,118 @@
+[
+  {
+    "id": 22876,
+    "title": "Selfie",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26531,
+    "title": "Fleet",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29019,
+    "title": "The Black Feminist's Guide to Science Fiction Film Editing",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22577,
+    "title": "Searching for Slave Leia",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26269,
+    "title": "Your Final Apocalypse",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25751,
+    "title": "Beach Blanket Spaceship",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8432,
+    "title": "Diana Comet and Other Improbable Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sm_dianacom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16195,
+    "title": "Drag Queen Astronaut",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16196,
+    "title": "Seven Sexy Cowboy Robots",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16194,
+    "title": "Diana Comet and the Disappearing Lover",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16197,
+    "title": "The Ghost Girls of Rumney Mill",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8421,
+    "title": "The Outback Stars",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sm_theoutba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8423,
+    "title": "The Stars Down Under",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sm_tsdownun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8424,
+    "title": "The Stars Blue Yonder",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sm_tsblueyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

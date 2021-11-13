@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4281,
+    "title": "The Enterprise of Death",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jb_theenter.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1930,
+    "title": "The Sad Tale of the Brothers Grossbart",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jb_thesadta.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5255,
+    "title": "The Folly of the World",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jb_thefolly.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

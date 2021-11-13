@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3391,
+    "title": "The Case of the Vanishing Boy",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ak_thecaseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10794,
+    "title": "The Forgotten Door",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "AK_forgotdo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10800,
+    "title": "Escape to Witch Mountain",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ak_escapeto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10801,
+    "title": "Return from Witch Mountain",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ak_returnfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

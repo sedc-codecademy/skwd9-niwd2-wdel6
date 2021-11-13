@@ -1,0 +1,101 @@
+[
+  {
+    "id": 28197,
+    "title": "The Deadly Sky",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dp_thedeadl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28196,
+    "title": "The Dimensioneers",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sp_thedimen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28194,
+    "title": "Doomtime",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "sp_doomtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28195,
+    "title": "Earth in Twilight",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "dp_earthint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28193,
+    "title": "The Fluger",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "sp_thefluge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28192,
+    "title": "The Spinner",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "dp_thespinn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28191,
+    "title": "Spaceling",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "dp_spacelin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28190,
+    "title": "Earthchild",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "dp_earthchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8475,
+    "title": "A Billion Days of Earth",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "DP_Abillion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8474,
+    "title": "Star Rider",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "DP_StarRide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21861,
+    "title": "Mister Justice / Hierarchies",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ad_misterju_heirerach.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

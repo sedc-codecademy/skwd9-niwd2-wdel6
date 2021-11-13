@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5841,
+    "title": "The Thief",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mwt_thethief.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5842,
+    "title": "The Queen of Attolia",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mwt_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5843,
+    "title": "The King of Attolia",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mwt_thekingo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5844,
+    "title": "A Conspiracy of Kings",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mwt_aconspir.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25426,
+    "title": "Thick as Thieves",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mwt_thickast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31820,
+    "title": "Return of the Thief",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "mwt_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

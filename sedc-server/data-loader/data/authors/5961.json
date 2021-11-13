@@ -1,0 +1,20 @@
+[
+  {
+    "id": 30193,
+    "title": "The Fungus",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "hak_thefungu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30195,
+    "title": "Slimer",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "hak_slimer.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

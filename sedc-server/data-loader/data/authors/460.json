@@ -1,0 +1,47 @@
+[
+  {
+    "id": 15512,
+    "title": "The Gravity Pilot",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mmb_thegravi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15513,
+    "title": "Watermind",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mmb_watermin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 853,
+    "title": "War Surf",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mmb_warsurf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15514,
+    "title": "Neurolink",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mmb_neurolin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 462,
+    "title": "Hyperthought",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mmb_hypertho.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

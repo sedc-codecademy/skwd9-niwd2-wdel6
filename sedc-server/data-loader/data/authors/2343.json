@@ -1,0 +1,110 @@
+[
+  {
+    "id": 14958,
+    "title": "The Monsters Inside",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sc_themonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14963,
+    "title": "The Feast of the Drowned",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sc_thefeast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14966,
+    "title": "The Art of Destruction",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sc_theartof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14968,
+    "title": "Sting of the Zygons",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sc_stingoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15059,
+    "title": "The Vampire of Paris",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sc_thevampi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8842,
+    "title": "Parallel 59",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ndsc_parallel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8860,
+    "title": "The Ancestor Cell",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pasc_theances.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8877,
+    "title": "Vanishing Point",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sc_vanishin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8902,
+    "title": "Timeless",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sc_timeless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8911,
+    "title": "To the Slaughter",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sc_tothesla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9054,
+    "title": "The Shadow in the Glass",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jrsc_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9089,
+    "title": "Ten Little Aliens",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sc_tenlittl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

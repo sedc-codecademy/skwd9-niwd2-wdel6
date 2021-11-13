@@ -1,0 +1,380 @@
+[
+  {
+    "id": 30216,
+    "title": "Street Freaks",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tb_streetfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8154,
+    "title": "Indomitable",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tb_indomita.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8151,
+    "title": "Wards of Faerie",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tb_wardsoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8152,
+    "title": "Bloodfire Quest",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tb_bloodfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8153,
+    "title": "Witch Wraith",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tb_witchwra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8112,
+    "title": "The High Druid's Blade",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tb_thedefen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11905,
+    "title": "The Darkling Child",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tb_thedarkl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17934,
+    "title": "The Sorcerer's Daughter",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tb_thesorce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23144,
+    "title": "The Black Elfstone",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tb_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28338,
+    "title": "The Skaar Invasion",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tb_theskaar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33880,
+    "title": "The Stiehl Assassin",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tb_thestieh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8139,
+    "title": "Armageddon's Children",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tb_armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8140,
+    "title": "The Elves of Cintra",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tb_theelves.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8141,
+    "title": "The Gypsy Morph",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tb_thegypsy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2944,
+    "title": "The Scions of Shannara",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tb_thescion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2945,
+    "title": "The Druid of Shannara",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tb_thedruid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2946,
+    "title": "The Elf Queen of Shannara",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tb_theelfqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2947,
+    "title": "The Talismans of Shannara",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tb_thetalis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8136,
+    "title": "Jarka Ruus",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tb_jarkaruu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8137,
+    "title": "Tanequil",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tb_tanequil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8138,
+    "title": "Straken",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tb_straken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8113,
+    "title": "Bearers of the Black Staff",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tb_bearerso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4545,
+    "title": "The Measure of the Magic",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tb_themeasu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2948,
+    "title": "Magic Kingdom For Sale - SOLD!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tb_magickin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2949,
+    "title": "The Black Unicorn",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tb_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2950,
+    "title": "Wizard at Large",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tb_wizardat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2951,
+    "title": "The Tangle Box",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tb_thetangl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2952,
+    "title": "Witches' Brew",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tb_witchesb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2953,
+    "title": "A Princess of Landover",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tb_aprinces.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17618,
+    "title": "Hook",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "TB_hook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12317,
+    "title": "The World of Shannara",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tbtp_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8114,
+    "title": "First King of Shannara",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tb_firstkin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2941,
+    "title": "The Sword of Shannara",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "tb_thesword.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2942,
+    "title": "The Elfstones of Shannara",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "tb_theelfst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2943,
+    "title": "The Wishsong of Shannara",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tb_thewishs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10618,
+    "title": "Star Wars, Episode 1: The Phantom Menace",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tb_thephant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8133,
+    "title": "Ilse Witch",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tb_ilsewitc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8134,
+    "title": "Antrax",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tb_antrax.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8135,
+    "title": "Morgawr",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tb_morgawr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5772,
+    "title": "Running With the Demon",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tb_runningw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5773,
+    "title": "A Knight of the Word",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tb_aknighto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5774,
+    "title": "Angel Fire East",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tb_angelfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

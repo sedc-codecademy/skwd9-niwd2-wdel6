@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10479,
+    "title": "New Writings in SF-4",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jc_newwrsf4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10480,
+    "title": "New Writings in SF-8",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jc_newwrsf8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10481,
+    "title": "New Writings in SF-16 ",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jc_newwsf16.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

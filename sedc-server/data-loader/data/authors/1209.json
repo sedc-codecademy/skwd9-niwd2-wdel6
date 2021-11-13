@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1914,
+    "title": "The Forest of Hands and Teeth",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cr_thefores.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15701,
+    "title": "The Dead-Tossed Waves",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cr_thedeadt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15702,
+    "title": "The Dark and Hollow Places",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cr_thedarka.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

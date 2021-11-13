@@ -1,0 +1,65 @@
+[
+  {
+    "id": 32690,
+    "title": "Sleepeasy",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "TMW_Sleepeas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32693,
+    "title": "Little Boy Lost",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "TMW_LittleBo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32689,
+    "title": "The Last Vampire",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "TMW_LastVamp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32699,
+    "title": "Boundaries",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "TMW_Boundari.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32694,
+    "title": "The School",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "TMW_School.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32687,
+    "title": "A Manhattan Ghost Story",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "TMW_Manhatta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32688,
+    "title": "The Waiting Room",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "TMW_WaitingR.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

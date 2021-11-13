@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35778,
+    "title": "Invaders on the Moon",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "KN_Invaders.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35777,
+    "title": "The Mutants",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "KN_Mutants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35776,
+    "title": "The Unearth People",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "KN_UnearthP.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

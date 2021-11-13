@@ -1,0 +1,829 @@
+[
+  {
+    "id": 36401,
+    "title": "If It Bleeds",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "SK_ifitblee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35112,
+    "title": "The Institute:  A Novel",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SK_institut.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28516,
+    "title": "Elevation",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sk_elevatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28511,
+    "title": "Flight or Fright",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "skbv_flightor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27408,
+    "title": "The Outsider",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sk_theoutsi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23732,
+    "title": "Gwendy's Button Box",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "skrc_gwendysb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24406,
+    "title": "Sleeping Beauties",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "skok_sleeping.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13990,
+    "title": "The Bazaar of Bad Dreams",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sk_thebazaa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21669,
+    "title": "Obits",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sk_obits.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9622,
+    "title": "Revival",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sk_revival.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5585,
+    "title": "Joyland",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sk_joyland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7364,
+    "title": "In the Tall Grass",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "skjh_inthetal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3830,
+    "title": "11/22/63",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sk_112263.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 23731,
+    "title": "Blockade Billy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sk_blockade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6876,
+    "title": "Full Dark, No Stars",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sk_fulldark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7282,
+    "title": "Stephen King Goes to the Movies",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sk_stephenk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1702,
+    "title": "Under the Dome",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sk_underthe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3596,
+    "title": "Duma Key",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sk_dumakey.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6914,
+    "title": "Just After Sunset",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sk_justafte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26901,
+    "title": "The New York Times at Special Bargain Rates",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8049,
+    "title": "Blaze",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rbsk_blaze.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6850,
+    "title": "Cell",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sk_cell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1018,
+    "title": "Lisey's Story",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sk_liseysst.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 8353,
+    "title": "The Colorado Kid",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sk_thecolor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6948,
+    "title": "Everything's Eventual:  14 Dark Tales",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sk_everythi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3575,
+    "title": "From a Buick 8",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sk_fromabui.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6673,
+    "title": "Dreamcatcher",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sk_dreamcat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7001,
+    "title": "The Girl Who Loved Tom Gordon",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sk_thegirlw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7312,
+    "title": "Storm of the Century",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sk_stormoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1160,
+    "title": "Bag of Bones",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sk_bagofbon.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 3567,
+    "title": "Hearts in Atlantis",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sk_heartsin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3544,
+    "title": "The Green Mile",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sk_thegreen.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7060,
+    "title": "Rose Madder",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sk_rosemadd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3539,
+    "title": "Insomnia",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sk_insomnia.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23965,
+    "title": "The Man in the Black Suit",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7102,
+    "title": "Nightmares & Dreamscapes",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sk_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6748,
+    "title": "Dolores Claiborne",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sk_doloresc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7198,
+    "title": "Gerald's Game",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sk_geraldsg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3530,
+    "title": "Needful Things",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sk_needfult.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7170,
+    "title": "Four Past Midnight",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sk_fourpast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25958,
+    "title": "The Dark Half",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sk_thedarkh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 927,
+    "title": "Misery",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sk_misery.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7233,
+    "title": "The Tommyknockers",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sk_tommykno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23883,
+    "title": "The End of the Whole Mess",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 765,
+    "title": "It",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sk_it.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 3688,
+    "title": "The Eyes of the Dragon",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sk_theeyeso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4609,
+    "title": "Skeleton Crew",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sk_skeleton.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23452,
+    "title": "The Ballad of the Flexible Bullet",
+    "year": 1984,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20069,
+    "title": "Beachworld",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8050,
+    "title": "Thinner",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sk_thinner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6779,
+    "title": "Christine",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sk_christin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26632,
+    "title": "Cycle of the Werewolf",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sk_cycleoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 944,
+    "title": "Pet Sematary",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sk_petsemat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23441,
+    "title": "The Breathing Method",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5257,
+    "title": "Different Seasons",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sk_differen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31675,
+    "title": "Rita Hayworth and Shawshank Redemption",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8051,
+    "title": "The Running Man",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sk_runningm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1131,
+    "title": "Cujo",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "sk_cujo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24182,
+    "title": "Danse Macabre",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "sk_dansemac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23839,
+    "title": "The Reach",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8052,
+    "title": "Roadwork",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "sk_roadwork.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1128,
+    "title": "Firestarter",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "sk_firestar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 953,
+    "title": "The Mist",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "sk_themist.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26600,
+    "title": "The Monkey",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "sk_themonke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 796,
+    "title": "The Dead Zone",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "sk_thedeadz.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8053,
+    "title": "The Long Walk",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "sk_thelongw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4608,
+    "title": "Night Shift",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "sk_nightshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 963,
+    "title": "The Stand",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "sk_thestand.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 26599,
+    "title": "The Cat from Hell",
+    "year": 1977,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26619,
+    "title": "Children of the Corn",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "sk_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8054,
+    "title": "Rage",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "sk_rage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 975,
+    "title": "Salem's Lot",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "sk_salemslo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3293,
+    "title": "Carrie",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "sk_carrie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7338,
+    "title": "Mr. Mercedes",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sk_mrmerced.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12066,
+    "title": "Finders Keepers",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sk_findersk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18867,
+    "title": "End of Watch",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sk_endofwat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18832,
+    "title": "The Way Station",
+    "year": 1980,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1319,
+    "title": "The Gunslinger",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sk_thegunsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1320,
+    "title": "The Drawing of the Three",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sk_thedrawi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1321,
+    "title": "The Waste Lands",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sk_thewaste.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 713,
+    "title": "Wizard and Glass",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sk_wizardan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 680,
+    "title": "Wolves of the Calla",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sk_wolvesof.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 676,
+    "title": "Song of Susannah",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sk_songofsu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1186,
+    "title": "The Dark Tower",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sk_thedarkt.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3878,
+    "title": "The Wind Through the Keyhole",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sk_thewindt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6662,
+    "title": "Desperation",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sk-desperat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8048,
+    "title": "The Regulators",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sk_theregul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8354,
+    "title": "The Secretary of Dreams, Volume One",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sk_tsodv1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8355,
+    "title": "The Secretary of Dreams, Volume Two",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sk_tsodv2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3128,
+    "title": "The Shining",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "sk_theshini.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5618,
+    "title": "Doctor Sleep",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sk_doctorsl.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 779,
+    "title": "The Talisman",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "skps_thetalis.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3572,
+    "title": "Black House",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "skps_blackhou.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 20783,
+    "title": "The Terrans",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jj_theterra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20784,
+    "title": "The V'Dan",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jj_thevdan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20785,
+    "title": "The Blockade",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jj_theblock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3909,
+    "title": "A Soldier's Duty",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jj_asoldier.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6219,
+    "title": "An Officer's Duty",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jj_anoffice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6221,
+    "title": "Hellfire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jj_hellfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20781,
+    "title": "Hardship",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jj_hardship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20782,
+    "title": "Damnation",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jj_damnatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32060,
+    "title": "The Electric State",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SS_TheElect.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34610,
+    "title": "Tales from the Loop",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ss_talesfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34611,
+    "title": "Things from the Flood",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ss_thingsfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

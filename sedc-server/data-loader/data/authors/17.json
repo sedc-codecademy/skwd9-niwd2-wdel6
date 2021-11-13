@@ -1,0 +1,753 @@
+[
+  {
+    "id": 34165,
+    "title": "Thinkertoy",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21021,
+    "title": "Muddle Earth",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jb_muddleea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13681,
+    "title": "A Maze of Stars",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "JB_mazestar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27730,
+    "title": "The First Since Ancient Persia",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21022,
+    "title": "Children of the Thunder",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jb_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23916,
+    "title": "A Case of Painter's Ear",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jb_acaseofp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21023,
+    "title": "The Shift Key",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jb_theshift.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21024,
+    "title": "The Tides of Time",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jb_thetides.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21025,
+    "title": "The Crucible of Time",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jb_thecruci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21026,
+    "title": "Manshape",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jb_manshape.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10262,
+    "title": "The Infinitive of Go",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jb_theinfinit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21027,
+    "title": "Players at the Game of People",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jb_playersa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21056,
+    "title": "Tomorrow May Be Even Worse",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "JB_Tomorrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10260,
+    "title": "The Atlantic Abomination",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jb_theatlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21106,
+    "title": "The Book of John Brunner",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jb_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10314,
+    "title": "Interstellar Empire",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jb_interste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 804,
+    "title": "The Shockwave Rider",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jb_theshock.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21028,
+    "title": "Give Warning to the World",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jb_givewarn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21029,
+    "title": "Total Eclipse",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jb_totalecl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10319,
+    "title": "Web of Everywhere",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jb_thewebof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21069,
+    "title": "More Things in Heaven",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jb_morethin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21030,
+    "title": "The Stone That Never Came Down",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jb_thestone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21105,
+    "title": "Time-Jump",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jb_timejump.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21104,
+    "title": "Entry to Elsewhen",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jb_entrytoe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21095,
+    "title": "From This Day Forward",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jb_fromthis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 280,
+    "title": "The Sheep Look Up",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jb_thesheep.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21115,
+    "title": "The Stardroppers",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jb_thestard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21043,
+    "title": "The Dramaturges of Yan",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "jb_thedrama.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21044,
+    "title": "The Wrong End of Time",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "jb_thewrong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21045,
+    "title": "The Gaudy Shadows",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jb_thegaudy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21047,
+    "title": "Double, Double",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_doubledo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 822,
+    "title": "The Jagged Orbit",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_thejagge.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21072,
+    "title": "Meeting at Infinity",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_meetinga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10318,
+    "title": "Times Without Number",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_timeswit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21046,
+    "title": "Timescoop",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_timescoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 321,
+    "title": "The Whole Man",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_thewhole.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21048,
+    "title": "Bedlam Planet",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_bedlampl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21076,
+    "title": "Catch a Falling Star",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_catchafa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21073,
+    "title": "Into the Slave Nebula",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_intothes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10316,
+    "title": "Not Before Time",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_notbefor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10317,
+    "title": "Out of My Mind",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_outofmym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16,
+    "title": "Stand on Zanzibar",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_standonz.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 10261,
+    "title": "Born Under Mars",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jb_bornunde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21050,
+    "title": "The Productions of Time",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jb_theprodu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21049,
+    "title": "Quicksand",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jb_quicksan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21075,
+    "title": "The World Swappers",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jb_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21094,
+    "title": "No Other Gods But Me",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jb_nootherg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21066,
+    "title": "The Day of the Star Cities",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jb_thedayof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10315,
+    "title": "The Long Result",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jb_thelongr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21093,
+    "title": "Now Then!",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jb_nowthen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 323,
+    "title": "The Squares of the City",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jb_thesquar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26500,
+    "title": "The Last Lonely Man",
+    "year": 1964,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21068,
+    "title": "To Conquer Chaos",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "jb_toconque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21070,
+    "title": "The Dreaming Earth",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "jb_thedream.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21092,
+    "title": "No Future in It",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jb_nofuture.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21071,
+    "title": "The Super Barbarians",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jb_thesuper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21074,
+    "title": "The Brink",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "jb_thebrink.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21077,
+    "title": "Threshold of Eternity / The War of Two Worlds",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_threshol_thewarof.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21083,
+    "title": "Edge of Time / The 100th Millennium",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_edgeofti_the100th.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21087,
+    "title": "Echo in the Skull / Rocket to Limbo",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_echointh_rocketto.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21084,
+    "title": "Siege of the Unseen / The World Swappers",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_siegeoft_theworld.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21086,
+    "title": "Dr. Futurity / Slavers of Space",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_drfururi_slaverso.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21088,
+    "title": "Vulcan's Hammer / The Skynappers",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_vulcansh_theskyna.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21085,
+    "title": "The Atlantic Abomination / The Martian Missile",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_theatlan_themarti.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21091,
+    "title": "Sanctuary in the Sky / The Secret Martians",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_sanctuar_thesecre.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21089,
+    "title": "Beyond the Silver Sky / Meeting at Infinity",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ad_beyondth_meetinga.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21110,
+    "title": "The Rim of Space / Secret Agent of Terra",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_therimof_secretag.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21113,
+    "title": "Times Without Number / Destiny's Orbit",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_timeswit_destinys.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21114,
+    "title": "Listen! The Stars! / The Rebellers",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ad_listenth_therebel.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21116,
+    "title": "The Astronauts Must Not Land / The Space-Time Juggler",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ad_theastro_thespace.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21111,
+    "title": "Castaways' World / The Rites of Ohe",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ad_castaway_therites.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21117,
+    "title": "The Arsenal of Miracles / Endless Shadow",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_thearsen_endlesss.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21118,
+    "title": "The Beasts of Kohl / A Planet Of Your Own",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_thebeast_aplaneto.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21041,
+    "title": "Enigma from Tantalus / The Repairmen of Cyclops",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_enimmafr_therepai.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21042,
+    "title": "The Altar on Asconel / Android Avenger",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_thealtar_androida.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18423,
+    "title": "The Best of John Brunner",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "JBrunner_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4379,
+    "title": "Beyond the Gate of Worlds",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rs_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26668,
+    "title": "The Things That Are Gods",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3429,
+    "title": "The Compleat Traveller in Black",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "jb_thecompl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20834,
+    "title": "Dread Empire",
+    "year": 1971,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21082,
+    "title": "Victims of the Nova",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jb_victimso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21108,
+    "title": "The Avengers of Carrig",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_theaveng.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21107,
+    "title": "Polymath",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jb_polymath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21109,
+    "title": "The Repairmen of Cyclops",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jb_therepai.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

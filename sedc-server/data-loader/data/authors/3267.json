@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35263,
+    "title": "Salvaged",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mr_salvaged.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12587,
+    "title": "Asylum",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mr_asylum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12588,
+    "title": "Sanctum",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mr_sanctum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35262,
+    "title": "Catacomb",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "MR_Catacomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

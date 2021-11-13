@@ -1,0 +1,349 @@
+[
+  {
+    "id": 36015,
+    "title": "Hella",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "dg_hella.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27892,
+    "title": "The Further Adventures of Mr. Costello",
+    "year": 2016,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19901,
+    "title": "The Involuntary Human",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dg_thinvol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 860,
+    "title": "Child of Earth",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dg_childofe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27076,
+    "title": "In the Quake Zone",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dg_inthequa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19902,
+    "title": "Dancer in the Dark",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18683,
+    "title": "The Martian Child:  A Novel About a Single Father Adopting a Son (Based on a True Story)",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dg_tmcnovel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18684,
+    "title": "The Martian Child",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "dg_tmcnvltt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26957,
+    "title": "Chess with a Dragon",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dg_chesswit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13427,
+    "title": "Enemy Mine",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bbldg_enemymin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26956,
+    "title": "Deathbeast",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "dg_deathbea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34529,
+    "title": "Ascents of Wonder",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "DG_Ascentso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 246,
+    "title": "Moonstar Odyssey",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "dg_moonstar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34528,
+    "title": "Alternities",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "DG_Alternit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19419,
+    "title": "Science Fiction Emphasis 1",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "dg_sfemphas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 274,
+    "title": "The Man Who Folded Himself",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "dg_themanwh.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 19012,
+    "title": "In the Deadlands",
+    "year": 1972,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26958,
+    "title": "Space Skimmer",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dg_spaceski.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 282,
+    "title": "When Harlie Was One",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dg_whenharl.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 19011,
+    "title": "With a Finger in My I",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dg_withafin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8690,
+    "title": "The Flying Sorcerers",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "dgln_theflyin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18174,
+    "title": "Protostars",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "dg_protosta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11626,
+    "title": "The Galactic Whirlpool",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "dg_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19432,
+    "title": "Jumping Off the Planet",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7028,
+    "title": "Jumping Off the Planet",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dg_jumpingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7029,
+    "title": "Bouncing Off the Moon",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dg_bouncing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7030,
+    "title": "Leaping to the Stars ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dg_leapingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17044,
+    "title": "Battle for the Planet of the Apes",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "DG_battlepa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10624,
+    "title": "Encounter at Farpoint",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dg_encounte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9150,
+    "title": "Starhunt (Yesterday's Children)",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dg_starhunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9147,
+    "title": "The Voyage of the Star Wolf",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dg_thevoyag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9148,
+    "title": "The Middle of Nowhere",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dg_themiddl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9149,
+    "title": "Blood and Fire",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dg_bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26959,
+    "title": "Under the Eye of God",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dg_underthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26960,
+    "title": "A Covenant of Justice",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "dg_acovenan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17140,
+    "title": "A Matter for Men",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dg_amatterf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17141,
+    "title": "A Day for Damnation",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dg_adayford.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17142,
+    "title": "A Rage for Revenge",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "dg_aragefor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17143,
+    "title": "A Season for Slaughter",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dg_aseasonf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

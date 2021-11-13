@@ -1,0 +1,20 @@
+[
+  {
+    "id": 13111,
+    "title": "The Waterborne Blade",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sm_thewater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13112,
+    "title": "Waterborne Exile",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sm_watexile.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

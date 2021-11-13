@@ -1,0 +1,479 @@
+[
+  {
+    "id": 30259,
+    "title": "The Mammoth Book of Halloween Stories: Terrifying Tales Set on the Scariest Night of the Year!",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sj_hallowee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23667,
+    "title": "Horrorology",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sJ_horrorol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8595,
+    "title": "Fearie Tales: Stories of the Grimm and Gruesome",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sj_fearieta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5580,
+    "title": "A Book of Horrors",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sj_abookofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4534,
+    "title": "Haunts:  Reliquaries of the Dead",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sj_haunts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24154,
+    "title": "Visitants: Stories of Fallen Angels & Heavenly Hosts",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sj_visitant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8364,
+    "title": "Horror:  Another 100 Best Books",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SJKN_HorrorAn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24368,
+    "title": "Dark Detectives",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sj_darkdete.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26999,
+    "title": "The Mammoth Book of Werewolves",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sj_tmbowere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10943,
+    "title": "H. P. Lovecraft's Book of Horror",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sjdc_hplovecr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26961,
+    "title": "The Mammoth Book of Vampires",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sj_tmbovamp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24213,
+    "title": "Clive Barker's Shadows in Eden",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sj_clivebar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35803,
+    "title": "Now We Are Sick:  An Anthology of Nasty Verse",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "NG&SJ_NowWeAre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8148,
+    "title": "Horror: 100 Best Books",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sjkn_horror100.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24677,
+    "title": "Dark Terrors",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sjds_dterror1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24678,
+    "title": "Dark Terrors 2",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sjds_dterror2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24679,
+    "title": "Dark Terrors 3",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sjds_dterror3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24680,
+    "title": "Dark Terrors 4",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sjds_dterror4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24681,
+    "title": "Dark Terrors 5",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sjds_dterror5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24682,
+    "title": "Dark Terrors 6",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sjds_dterror6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26875,
+    "title": "In the Footsteps of Dracula:  Tales of the Un-Dead Count",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sj_inthefoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26919,
+    "title": "The Mammoth Book of Frankenstein",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sj_tmbofran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10939,
+    "title": "H. P. Lovecraft and Others:  Shadows Over Innsmouth",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "SJ_shadows.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10940,
+    "title": "H. P. Lovecraft and Others:  Weird Shadows Over Innsmouth",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SJ_weirdsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10941,
+    "title": "H. P. Lovecraft and Others:  Weirder Shadows Over Innsmouth",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "SJ_weirders.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4605,
+    "title": "The Mammoth Book of Best New Horror",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sjrc_bestnh01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4761,
+    "title": "The Mammoth Book of Best New Horror 2",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sjrc_bestnh02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4762,
+    "title": "The Mammoth Book of Best New Horror 3",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sjrc_bestnh03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4763,
+    "title": "The Mammoth Book of Best New Horror 4",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sjrc_bestnh04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4764,
+    "title": "The Mammoth Book of Best New Horror 5",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sjrc_bestnh05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4765,
+    "title": "The Mammoth Book of Best New Horror 6",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sjrc_bestnh06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4766,
+    "title": "The Mammoth Book of Best New Horror 7",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sj_bestnh07.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4767,
+    "title": "The Mammoth Book of Best New Horror 8",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sj_bestnh08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4768,
+    "title": "The Mammoth Book of Best New Horror 9",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sj_bestnh09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4769,
+    "title": "The Mammoth Book of Best New Horror 10",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sj_bestnh10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4770,
+    "title": "The Mammoth Book of Best New Horror 11",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sj_bestnh11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4771,
+    "title": "The Mammoth Book of Best New Horror 12",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sj_bestnh12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4772,
+    "title": "The Mammoth Book of Best New Horror 13",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sj_bestnh13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4773,
+    "title": "The Mammoth Book of Best New Horror 14",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sj_bestnh14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4774,
+    "title": "The Mammoth Book of Best New Horror 15",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sj_bestnh15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4775,
+    "title": "The Mammoth Book of Best New Horror 16",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sj_bestnh16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4776,
+    "title": "The Mammoth Book of Best New Horror 17",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sj_bestnh17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4777,
+    "title": "The Mammoth Book of Best New Horror 18",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sj_bestnh18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4778,
+    "title": "The Mammoth Book of Best New Horror 19",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sj_bestnh19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4779,
+    "title": "The Mammoth Book of Best New Horror 20",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sj_bestnh20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4780,
+    "title": "The Mammoth Book of Best New Horror 21",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sj_bestnh21.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4781,
+    "title": "The Mammoth Book of Best New Horror 22",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sj_bestnh22.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4782,
+    "title": "The Mammoth Book of Best New Horror 23",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sj_bestnh23.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9610,
+    "title": "The Mammoth Book of Best New Horror 24",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sj_mbobnh24.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9611,
+    "title": "The Mammoth Book of Best New Horror 25",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sj_mbobnh25.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26648,
+    "title": "Best New Horror #26",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sj_bnhorr26.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26649,
+    "title": "Best New Horror #27",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sj_bnhorr27.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26650,
+    "title": "Best New Horror #28",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sj_bnhorr28.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

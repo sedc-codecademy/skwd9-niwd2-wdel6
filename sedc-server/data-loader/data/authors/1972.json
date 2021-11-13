@@ -1,0 +1,65 @@
+[
+  {
+    "id": 23868,
+    "title": "Cottingley",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "al_cottingl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24998,
+    "title": "The Crow Garden",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "al_thecrowg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20180,
+    "title": "The Hidden People",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "al_thehidde.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12303,
+    "title": "The Unquiet House",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "al_theunqui.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5547,
+    "title": "Path of Needles",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "al_pathofne.jpg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5546,
+    "title": "A Cold Season",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "al_acoldsea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14138,
+    "title": "A Cold Silence",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "al_acoldsil.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

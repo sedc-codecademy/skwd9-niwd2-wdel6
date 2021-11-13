@@ -1,0 +1,101 @@
+[
+  {
+    "id": 34054,
+    "title": "Cinnabar",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gd_cinnabar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34057,
+    "title": "Marrakesh",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gd_marrakes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34055,
+    "title": "Captain Sinbad",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gd_captains.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34058,
+    "title": "The Thief of Kalimar",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gd_thiefofk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34053,
+    "title": "The Haven",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gd_thehaven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34059,
+    "title": "Lady of the Haven",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gd_ladyofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34060,
+    "title": "Dungeons of Kuba",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gd_dungeons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34061,
+    "title": "The Falcon of Eden",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gd_falconof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34062,
+    "title": "The Beasts of Hades",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gd_beastsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28674,
+    "title": "Samarkand",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gd_samarkan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28676,
+    "title": "Samarkand Dawn",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gd_sdawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

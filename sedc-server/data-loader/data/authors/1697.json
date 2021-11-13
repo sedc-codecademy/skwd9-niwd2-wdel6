@@ -1,0 +1,92 @@
+[
+  {
+    "id": 14033,
+    "title": "The Girl of Fire and Thorns Stories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rc_fatstrori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4100,
+    "title": "The Girl of Fire and Thorns",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rc_thegirlo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14031,
+    "title": "The Crown of Embers",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rc_thecrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14032,
+    "title": "The Bitter Kingdom",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rc_thebitte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14034,
+    "title": "Walk on Earth a Stranger",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rc_walkonea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19947,
+    "title": "Like a River Glorious",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rc_likeariv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36392,
+    "title": "Into the Bright Unknown",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rc_intotheb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36126,
+    "title": "Star Wars, Episode 9: The Rise of Skywalker",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "RC_riseofsk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25674,
+    "title": "Canto Bight:  Journey to Star Wars: The Last Jedi",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SA_cantobig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28112,
+    "title": "Most Wanted",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "RC_mostwant.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

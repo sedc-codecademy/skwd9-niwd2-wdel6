@@ -1,0 +1,56 @@
+[
+  {
+    "id": 32523,
+    "title": "Cardmaster",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "CE_CardMast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15591,
+    "title": "Star of Cursrah",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ce_starofcu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15542,
+    "title": "Sword Play",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ce_swordpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15543,
+    "title": "Dangerous Games",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ce_dangerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15544,
+    "title": "Mortal Consequences",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ce_mortalco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32522,
+    "title": "Tales of Robin Hood",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "CE_TalesofR.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

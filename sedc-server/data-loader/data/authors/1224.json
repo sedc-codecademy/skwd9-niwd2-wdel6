@@ -1,0 +1,65 @@
+[
+  {
+    "id": 32238,
+    "title": "Gingerbread",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ho_gingerbr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18509,
+    "title": "What Is Not Yours Is Not Yours",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ho_whatisnot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6331,
+    "title": "Boy, Snow, Bird",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ho_boysnowb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4078,
+    "title": "Mr. Fox",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ho_mrfox.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1935,
+    "title": "White is for Witching",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ho_whiteisf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8796,
+    "title": "The Opposite House",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ho_theoppos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6332,
+    "title": "The Icarus Girl",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ho_theicaru.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

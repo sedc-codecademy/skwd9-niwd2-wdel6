@@ -1,0 +1,56 @@
+[
+  {
+    "id": 14957,
+    "title": "Ghost of Chance",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "wsb_ghostofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3102,
+    "title": "Naked Lunch",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "wb_nakedlun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4362,
+    "title": "Cities of the Red Night",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "wsb_citiesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1601,
+    "title": "The Soft Machine",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "wsb_thesoftm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 833,
+    "title": "Nova Express",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "wsb_novaexpr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1602,
+    "title": "The Ticket That Exploded",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "wsb_theticke.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

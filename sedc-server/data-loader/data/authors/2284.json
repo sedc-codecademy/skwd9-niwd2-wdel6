@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8635,
+    "title": "Dead Harvest",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cfh_deadharv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8636,
+    "title": "The Wrong Goodbye",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cfh_thewrong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8637,
+    "title": "The Big Reap",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cfh_thebigre.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

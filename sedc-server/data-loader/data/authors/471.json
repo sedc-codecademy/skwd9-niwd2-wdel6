@@ -1,0 +1,101 @@
+[
+  {
+    "id": 2363,
+    "title": "Diva",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mwt_diva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 994,
+    "title": "Remains",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mwt_remains.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4456,
+    "title": "Of Stars and Shadows",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mwt_ofstarsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2364,
+    "title": "Realtime",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mwt_realtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4455,
+    "title": "Extensions",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mwt_extensio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31762,
+    "title": "Mirage",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mwt_mirage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31763,
+    "title": "Chimera",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mwt_chimera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31764,
+    "title": "Aurora",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mwt_aurora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 472,
+    "title": "Compass Reach",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mwt_compassr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2361,
+    "title": "Metal of Night",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mwt_metalofn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2362,
+    "title": "Peace and Memory",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mwt_peaceand.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

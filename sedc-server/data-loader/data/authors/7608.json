@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35971,
+    "title": "Crown of Acorns",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cf_crownofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35974,
+    "title": "Obsidian Mirror",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cf_obsidian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35975,
+    "title": "The Slanted Worlds",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cf_slantedw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35976,
+    "title": "The Door in the Moon",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cf_doormoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35977,
+    "title": "The Speed of Darkness",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cf_speedofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35972,
+    "title": "Incarceron",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cf_incarcer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35973,
+    "title": "Sapphique",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cf_sapphiqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

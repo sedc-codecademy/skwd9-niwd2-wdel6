@@ -1,0 +1,178 @@
+[
+  {
+    "id": 8189,
+    "title": "The Best of James H. Schmitz ",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jhs_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24558,
+    "title": "The Eternal Frontiers",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jhs_theetern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19670,
+    "title": "Research Alpha",
+    "year": 1965,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24562,
+    "title": "Agent of Vega",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "jhs_agentofv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24554,
+    "title": "Telzey Amberdon",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jhs_telzeyam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24555,
+    "title": "T'nT: Telzey & Trigger",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jhs_tnttelze.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24556,
+    "title": "Trigger & Friends",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jhs_triggera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24557,
+    "title": "The Hub: Dangerous Territory",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jhs_thehubda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18360,
+    "title": "Balanced Ecology",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19113,
+    "title": "Planet of Forgetting",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21585,
+    "title": "Lion Loose",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "jhs_lionloos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20440,
+    "title": "A Tale of Two Clocks",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jhs_ataleoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20430,
+    "title": "A Nice Day for Screaming, and Other Tales of the Hub",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jhs_aniceday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8558,
+    "title": "The Demon Breed",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jms_thedemon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20441,
+    "title": "A Pride of Monsters",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jhs_aprideof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19114,
+    "title": "Goblin Night",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24559,
+    "title": "The Universe Against Her",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "jhs_theunive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24560,
+    "title": "The Lion Game",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jhs_theliong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24561,
+    "title": "The Telzey Toy",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jhs_theteze.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 328,
+    "title": "The Witches of Karres",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jhs_thewitch.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

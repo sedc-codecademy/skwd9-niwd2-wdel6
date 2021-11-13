@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24787,
+    "title": "Wolfking",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bw_wolfking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24788,
+    "title": "The Lost Prince",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bw_thelostk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24789,
+    "title": "Rebel Angel",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "bw_rebelang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24790,
+    "title": "Sorceress",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bw_sorceres.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "id": 29054,
+    "title": "The Gist Hunter and Other Stories",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "MH_TheGistH.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14621,
+    "title": "Black Brillion",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mh_blackbri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14622,
+    "title": "Template",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mh_template.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9742,
+    "title": "Gullible's Travels",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mh_gullible.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9740,
+    "title": "Fools Errant",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mh_foolserr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9741,
+    "title": "Fool Me Twice",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mh_foolmetw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19347,
+    "title": "The Helper and His Hero",
+    "year": 2007,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31690,
+    "title": "Hapthorn's Last Case",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28982,
+    "title": "The Gist Hunter",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32393,
+    "title": "Mastermindless",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2643,
+    "title": "Majestrum",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mh_majestru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2644,
+    "title": "The Spiral Labyrinth",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mh_thespira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2642,
+    "title": "Hespira",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mh_hespira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23071,
+    "title": "The Archon",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23156,
+    "title": "The Blood of a Dragon",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23085,
+    "title": "A Face of Black Iron",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22879,
+    "title": "The Ba of Phalloon",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23026,
+    "title": "Enter Saunterance",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22795,
+    "title": "His Elbow, Unkissed",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22976,
+    "title": "A Hole in the World",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22856,
+    "title": "Phalloon the Illimitable",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23006,
+    "title": "Under the Scab",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22713,
+    "title": "And Then Some",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22753,
+    "title": "Sleeper",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22857,
+    "title": "A Wizard's Henchman",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mh_awizards.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3908,
+    "title": "The Other",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mh_theother.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8608,
+    "title": "The Damned Busters ",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mh_thedamme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8609,
+    "title": "Costume Not Included",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mh_costumen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8610,
+    "title": "Hell to Pay",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mh_helltopa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

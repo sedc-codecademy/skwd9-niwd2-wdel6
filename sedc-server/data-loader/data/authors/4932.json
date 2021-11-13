@@ -1,0 +1,47 @@
+[
+  {
+    "id": 32214,
+    "title": "The Sharpest Edge",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "SMS_Sharpest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32215,
+    "title": "The Cage",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "SMS_TheCage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32216,
+    "title": "Shadow's Son",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "SMS_ShadowsS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32217,
+    "title": "Shadow's Daughter",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "SM_ShadowsD.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22247,
+    "title": "Exodus",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "swsm_exodus.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

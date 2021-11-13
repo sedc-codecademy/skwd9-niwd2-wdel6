@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20527,
+    "title": "A Vision of Fire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gajr_avisiono.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20528,
+    "title": "A Dream of Ice",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gajr_adreamof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20529,
+    "title": "The Sound of Seas",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gajr_thesound.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

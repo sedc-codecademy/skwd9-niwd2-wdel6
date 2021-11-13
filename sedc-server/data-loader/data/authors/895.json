@@ -1,0 +1,74 @@
+[
+  {
+    "id": 893,
+    "title": "Dry Water",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "esn_drywater.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18462,
+    "title": "The Fall of Reach",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "en_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31378,
+    "title": "First Strike",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "en_firststr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31371,
+    "title": "Ghosts of Onyx",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "en_ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18291,
+    "title": "Signal to Noise",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ESN_SignalTo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18292,
+    "title": "A Signal Shattered",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ESN_ASignalS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32477,
+    "title": "Mortal Coils",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ESN_MortalCo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32478,
+    "title": "All That Lives Must Die",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ESN_AllThatL.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": 27482,
+    "title": "The Dancing Floor",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27537,
+    "title": "Dr. Tilmann's Consultant: A Scientific Romance",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12488,
+    "title": "A Princess of the Chameln",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cw_aprinces.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12489,
+    "title": "Yorath the Wolf",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cw_yoraththe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12490,
+    "title": "The Summer's King",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cw_thesumme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12491,
+    "title": "The Wanderer",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cwkr_thewande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11020,
+    "title": "The Luck of Brin's Five",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "cw_thelucko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11021,
+    "title": "The Nearest Fire",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "cw_theneare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11022,
+    "title": "The Tapestry Warriors",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cw_thetapes.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

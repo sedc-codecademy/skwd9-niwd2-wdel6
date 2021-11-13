@@ -1,0 +1,29 @@
+[
+  {
+    "id": 27250,
+    "title": "The Goliath Stone",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ln_thegolia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14122,
+    "title": "Man-Kzin Wars XII",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ln_mankzin12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11575,
+    "title": "Red Tide",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ln_bt_mh_redtide.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

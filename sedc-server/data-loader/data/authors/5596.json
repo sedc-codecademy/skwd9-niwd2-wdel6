@@ -1,0 +1,29 @@
+[
+  {
+    "id": 26373,
+    "title": "Glory Imperialis",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mcahrw_gloryimp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26366,
+    "title": "Commissar",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ah_commissa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26536,
+    "title": "Hunt for Voldorius",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ah_huntforv.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

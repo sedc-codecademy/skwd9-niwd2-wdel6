@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5392,
+    "title": "Tempest Rising",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "np_tempestr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5393,
+    "title": "Tracking the Tempest",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "np_tracking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5394,
+    "title": "Tempest's Legacy",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "np_legacy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5395,
+    "title": "Eye of the Tempest",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "np_eyeofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5396,
+    "title": "Tempest's Fury",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "np_tempests.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5397,
+    "title": "Tempest Reborn",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "np_reborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

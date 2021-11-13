@@ -1,0 +1,234 @@
+[
+  {
+    "id": 27417,
+    "title": "The Listener",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rm_theliste.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12195,
+    "title": "The Border",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rm_theborde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19621,
+    "title": "Gone South",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rmc_gonesout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 915,
+    "title": "Boy's Life",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rrmc_boyslife.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 3525,
+    "title": "Mine",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rrmc_mine.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19622,
+    "title": "Blue World and Other Stories",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rmc_blueworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 928,
+    "title": "Swan Song",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rrmc_swansong.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3521,
+    "title": "Stinger",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rrmc_stinger.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23487,
+    "title": "Best Friends",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23879,
+    "title": "Nightcrawlers",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19620,
+    "title": "Usher's Passing",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rmc_usherspa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19619,
+    "title": "Mystery Walk",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "rmc_mysteryw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19591,
+    "title": "They Thirst",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rm_theythir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19617,
+    "title": "Bethany's Sin",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rmc_bethanys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19618,
+    "title": "The Night Boat",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rmc_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19616,
+    "title": "Baal",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "rmc_baal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6276,
+    "title": "I Travel by Night",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rmc_itravelb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19629,
+    "title": "Last Train from Perdition",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rmc_lasttrai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7168,
+    "title": "Speaks the Nightbird",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rm_speaksth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19611,
+    "title": "The Queen of Bedlam",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rmc_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19612,
+    "title": "Mister Slaughter",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rmc_mistersl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19613,
+    "title": "The Providence Rider",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rmc_theprovi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19614,
+    "title": "The River of Souls",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rmc_theriver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19566,
+    "title": "Freedom of the Mask",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rm_freedomo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3524,
+    "title": "The Wolf's Hour",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rrmc_thewolfs.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 19615,
+    "title": "The Hunter from the Woods",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rmc_thehunte.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

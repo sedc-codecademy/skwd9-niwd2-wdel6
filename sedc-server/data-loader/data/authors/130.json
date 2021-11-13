@@ -1,0 +1,146 @@
+[
+  {
+    "id": 20991,
+    "title": "The Rapture Effect",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jac_theraptu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20972,
+    "title": "The Infinity Link",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jac_infinity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10564,
+    "title": "Battlestar Galactica",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JC_battlest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9325,
+    "title": "Neptune Crossing",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jac_neptunec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9326,
+    "title": "Strange Attractors",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jac_strangea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9327,
+    "title": "The Infinite Sea",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jac_theinfin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9328,
+    "title": "Sunborn",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jac_sunborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34798,
+    "title": "The Reefs of Time",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jac_reefsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20990,
+    "title": "Seas of Ernathe",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jac_seasofer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20989,
+    "title": "Star Rigger's Way",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jac_startigg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20986,
+    "title": "Panglor",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jac_panglor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20987,
+    "title": "Dragons in the Stars",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jac_dragonsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20988,
+    "title": "Dragon Rigger",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jac_dragonri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 136,
+    "title": "Eternity's End",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jac_eternity.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20992,
+    "title": "From a Changeling Star",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jac_fromacha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20993,
+    "title": "Down the Stream of Stars",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jac_downthes.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

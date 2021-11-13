@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11906,
+    "title": "Destiny of The Light",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lc_destinyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11907,
+    "title": "Daughter of The Dark",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lc_daughter.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11908,
+    "title": "Glimmer in the Maelstrom",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lc_glimmeri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

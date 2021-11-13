@@ -1,0 +1,37 @@
+[
+  {
+    "id": 35018,
+    "title": "Salvation Day",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kw_salvatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20211,
+    "title": "Shallow Graves",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kw_shallowg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17167,
+    "title": "Last Train to Jubilee Bay",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kw_lasttrai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22467,
+    "title": "The Day They Came",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

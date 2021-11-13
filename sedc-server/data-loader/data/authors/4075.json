@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16999,
+    "title": "At the End of Babel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ml_attheend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16997,
+    "title": "The Shards of Heaven",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ml_theshard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20797,
+    "title": "The Gates of Hell",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ml_thegatesofhell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26037,
+    "title": "The Realms of God",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ml_therealm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

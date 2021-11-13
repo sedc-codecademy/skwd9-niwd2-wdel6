@@ -1,0 +1,29 @@
+[
+  {
+    "id": 651,
+    "title": "Queen of the States",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "js_queenoft.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 34778,
+    "title": "The Travails Jane Saint and Other Stories",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JS_travails.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19531,
+    "title": "The Hieros Gamos of Sam and An Smith",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "js_thehiero.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

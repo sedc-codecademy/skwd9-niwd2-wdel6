@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4099,
+    "title": "The Space Between",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "by_thespace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6722,
+    "title": "Fiendish",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "by_fiendish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6721,
+    "title": "Paper Valentine ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "by_paperval.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6719,
+    "title": "The Replacement ",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "by_replacem.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 33867,
+    "title": "The Steps of the Sun",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "WT_Stepsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24506,
+    "title": "Far From Home",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "wt_farfromh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 820,
+    "title": "Mockingbird",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "wt_mockingb.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3392,
+    "title": "The Man Who Fell to Earth",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "wt_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

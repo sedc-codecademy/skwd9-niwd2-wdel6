@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3586,
+    "title": "Dread in the Beast",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cj_dreadint.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31503,
+    "title": "Containment: The Death of Earth",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cj_containm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31501,
+    "title": "Season of the Witch",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cj_seasonof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31502,
+    "title": "The Myth of Falling",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cj_themytho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31500,
+    "title": "Soma",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cj_soma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31499,
+    "title": "Vestal",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cj_vestal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31498,
+    "title": "Haunter",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cj_haunter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31497,
+    "title": "The Symbiotic Fascination",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cj_thissymb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

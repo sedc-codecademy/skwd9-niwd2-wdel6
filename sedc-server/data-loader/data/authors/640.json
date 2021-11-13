@@ -1,0 +1,209 @@
+[
+  {
+    "id": 642,
+    "title": "Fiasco",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sl_fiasco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7405,
+    "title": "His Master's Voice",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "SL_HisMaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7410,
+    "title": "The Chain of Chance",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "SL_TheChain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7406,
+    "title": "Memoirs Found in a Bathtub",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "SL_MemoirsF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7412,
+    "title": "Microworlds",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "SL_Microwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3625,
+    "title": "The Cyberiad",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "sl_thecyber.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14347,
+    "title": "Summa Technologiae",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "SL_summatec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7407,
+    "title": "Mortal Engines",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "SL_MortalEn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7409,
+    "title": "Return From the Stars",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "SL_ReturnFr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2044,
+    "title": "Solaris",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "sl_solaris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7404,
+    "title": "Eden",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "SL_Eden.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7258,
+    "title": "The Investigation",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "sl_theinvest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7411,
+    "title": "The Invincible",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "SL_TheInvin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7408,
+    "title": "One Human Minute",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "SL_OneHuman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7398,
+    "title": "Imaginary Magnitude",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "SL_Imaginar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7397,
+    "title": "A Perfect Vacuum",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "SL_Aperfect.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7401,
+    "title": "Peace on Earth",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "SL_PeaceOnE.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7218,
+    "title": "The Futurological Congress:  From the Memoirs of Ijon Tichy",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "sl_thefutur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7399,
+    "title": "The Star Diaries",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "SL_StarDiar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7400,
+    "title": "Memoirs of a Space Traveler",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "SL_MemoirsO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13890,
+    "title": "Stanislaw Lem:  Selected Letters to Michael Kandel",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "PS_lemlette.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7402,
+    "title": "Tales of Pirx the Pilot",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "SL_TalesOfP.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7403,
+    "title": "More Tales of Pirx the Pilot",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "SL_MoreTale.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

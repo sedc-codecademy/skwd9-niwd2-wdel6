@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36698,
+    "title": "The Initiation",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CB_Initiati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36699,
+    "title": "The Expedition",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CB_Expediti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36700,
+    "title": "The Insurrection",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "CB_Insurrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

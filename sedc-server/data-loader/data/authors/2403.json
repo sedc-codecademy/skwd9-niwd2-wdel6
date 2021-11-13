@@ -1,0 +1,28 @@
+[
+  {
+    "id": 9063,
+    "title": "Sherwood Nation",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bp_sherwood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22560,
+    "title": "Bear and Shifty",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9062,
+    "title": "Couch",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bp_couch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

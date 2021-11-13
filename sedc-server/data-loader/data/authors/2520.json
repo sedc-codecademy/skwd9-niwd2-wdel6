@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9739,
+    "title": "Lilith:  A Romance",
+    "year": 1895,
+    "type": "novel",
+    "imageName": "gm_lilith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17841,
+    "title": "At the Back of the North Wind",
+    "year": 1871,
+    "type": "novel",
+    "imageName": "gm_atthebla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9738,
+    "title": "Phantastes:  A Fairie Romance for Men and Women",
+    "year": 1858,
+    "type": "novel",
+    "imageName": "gm_phantast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17842,
+    "title": "The Princess and the Goblin",
+    "year": 1872,
+    "type": "novel",
+    "imageName": "gm_tpatgobl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17843,
+    "title": "The Princess and Curdie",
+    "year": 1883,
+    "type": "novel",
+    "imageName": "gm_tpacurdi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

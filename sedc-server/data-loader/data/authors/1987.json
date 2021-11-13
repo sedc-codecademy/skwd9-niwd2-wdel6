@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11506,
+    "title": "The Pilo Family Circus",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "we_pilofami.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5571,
+    "title": "The Pilgrims",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "we_thepilgr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5572,
+    "title": "Shadow",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "we_shadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5573,
+    "title": "World's End",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "we_worldsen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

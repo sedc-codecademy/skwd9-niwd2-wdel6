@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1742,
+    "title": "Blood of Ambrose",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "je_bloodofa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2299,
+    "title": "This Crooked Way",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "je_thiscroo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2300,
+    "title": "The Wolf Age",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "je_thewolfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3834,
+    "title": "A Guile of Dragons",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "je_aguileof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4911,
+    "title": "Wrath-Bearing Tree",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "je_wrathbea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10761,
+    "title": "The Wide World's End",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "je_thewidew.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

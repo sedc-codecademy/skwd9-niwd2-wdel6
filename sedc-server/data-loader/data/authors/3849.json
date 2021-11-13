@@ -1,0 +1,20 @@
+[
+  {
+    "id": 15900,
+    "title": "Black Wolf",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dg_blackwol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15903,
+    "title": "Lord of Stormweather",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dg_lordofst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

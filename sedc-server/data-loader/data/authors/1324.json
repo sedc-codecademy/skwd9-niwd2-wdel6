@@ -1,0 +1,103 @@
+[
+  {
+    "id": 24149,
+    "title": "Summerland",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "hr_summerla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11607,
+    "title": "Hannu Rajaniemi: Collected Fiction",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "hr_hannuraj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30106,
+    "title": "Invisible Planets",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26562,
+    "title": "Tyche and the Ants",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17497,
+    "title": "Elegy for a Young Elk",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28652,
+    "title": "The Server and the Dragon",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19789,
+    "title": "His Master's Voice",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26785,
+    "title": "Deus Ex Homine",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35585,
+    "title": "Lions and Gazelles",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2536,
+    "title": "The Quantum Thief",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "hr_thequant.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4276,
+    "title": "The Fractal Prince",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "hr_thefract.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6162,
+    "title": "The Causal Angel",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "hr_thecausa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

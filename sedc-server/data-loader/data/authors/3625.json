@@ -1,0 +1,74 @@
+[
+  {
+    "id": 14892,
+    "title": "The Dragon Isles",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sds_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14858,
+    "title": "Warrior's Heart",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sds_warheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14859,
+    "title": "Warrior's Blood",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sds_warblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14860,
+    "title": "Warrior's Bones",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sds_warbones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14924,
+    "title": "The Dying Kingdom",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sds_thedying.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16467,
+    "title": "The Scorpion",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "SS_scorpion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16468,
+    "title": "The Phoenix",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SS_phoenix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16469,
+    "title": "The Lion",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SS_thelion.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

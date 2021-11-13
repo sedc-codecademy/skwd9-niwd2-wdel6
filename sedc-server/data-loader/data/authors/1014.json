@@ -1,0 +1,380 @@
+[
+  {
+    "id": 28492,
+    "title": "The Future Is Blue",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cmv_thefutur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27066,
+    "title": "Space Opera",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cmv_spaceope.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 25738,
+    "title": "Down and Out in R'lyeh",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25107,
+    "title": "The Glass Town Game",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cmv_theglass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23849,
+    "title": "The Refrigerator Monologues",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cmv_therefri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23848,
+    "title": "The Future Is Blue",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24961,
+    "title": "Snow Day",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26447,
+    "title": "The Lily and the Horn",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18725,
+    "title": "The Long Goodnight of Violet Wild",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22222,
+    "title": "Planet Lion",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11670,
+    "title": "Radiance",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cmv_radiance.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13195,
+    "title": "Speak Easy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cmv_speakeas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6717,
+    "title": "The Bread We Eat in Dreams",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "CMV_TheBread.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6753,
+    "title": "The Melancholy of Mechagirl",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cmv_melancho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6707,
+    "title": "Six-Gun Snow White",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cmv_sixgunsn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17560,
+    "title": "Fade to White",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cmv_fadetowh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22510,
+    "title": "A Hole to China",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29033,
+    "title": "One Breath, One Stroke",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26185,
+    "title": "The Bread We Eat in Dreams",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2659,
+    "title": "Deathless",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cmv_deathles.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3868,
+    "title": "Silently and Very Fast",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cmv_silently.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17552,
+    "title": "White Lines on a Green Field",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22197,
+    "title": "How to Become a Mars Overlord",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25753,
+    "title": "Thirteen Ways of Looking at Space/Time",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26446,
+    "title": "A Delicate Architecture",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27099,
+    "title": "Golubash, or Wine-Blood-War-Elegy",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1723,
+    "title": "Palimpsest",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cmv_palimpse.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 25432,
+    "title": "The Radiant Car Thy Sparrows Drew",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21717,
+    "title": "A Buyer's Guide to Maps of Antartica",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23373,
+    "title": "A Dirge for Prester John",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25084,
+    "title": "Urchins, While Swimming",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6715,
+    "title": "Oracles: A Pilgrimage ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cmv_oraclesa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2657,
+    "title": "Yume No Hon: The Book of Dreams",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cmv_yumenoha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2656,
+    "title": "The Labyrinth",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cmv_thelabyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2590,
+    "title": "The Habitation of the Blessed",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cmv_thehabit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4080,
+    "title": "The Folded World",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cmv_thefolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16459,
+    "title": "The Girl Who Ruled Fairyland — For a Little While",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cmv_thegrilw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2658,
+    "title": "The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cmv_thegirlw.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4701,
+    "title": "The Girl Who Fell Beneath Fairyland and Led the Revels There",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cmv_fellbene.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5970,
+    "title": "The Girl Who Soared Over Fairyland and Cut the Moon in Two",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cmv_soaredov.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11280,
+    "title": "The Boy Who Lost Fairyland",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cmv_theboywh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17133,
+    "title": "The Girl Who Raced Fairyland All the Way Home",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cmv_tgwraced.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1020,
+    "title": "In the Night Garden",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cmv_theorpha.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 6755,
+    "title": "In the Cities of Coin and Spice",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cmv_inthecit.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

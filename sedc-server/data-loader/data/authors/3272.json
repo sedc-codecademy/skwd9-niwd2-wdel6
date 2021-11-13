@@ -1,0 +1,55 @@
+[
+  {
+    "id": 22615,
+    "title": "Ash Minette",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12640,
+    "title": "The War in the Waste",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "fs_thewarin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12641,
+    "title": "The Daemon in the Machine",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "fs_thedaemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12642,
+    "title": "Trickster in the Ashes",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "fs_atrickst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12643,
+    "title": "Humility Garden",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "fs_humility.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12644,
+    "title": "Delta City",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "fs_deltacit.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

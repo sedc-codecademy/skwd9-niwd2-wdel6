@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10768,
+    "title": "The Magical Mimics in Oz",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "JS_magicalm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10769,
+    "title": "The Shaggy Man of Oz",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "JS_shaggyma.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

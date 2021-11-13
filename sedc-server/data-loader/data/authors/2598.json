@@ -1,0 +1,56 @@
+[
+  {
+    "id": 35627,
+    "title": "Thrice Bound",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "RG_ThriceBo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35628,
+    "title": "Bull God",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "RG_BullGod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10113,
+    "title": "This Scepter'd Isle",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mlrg_thisscep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10114,
+    "title": "Ill Met by Moonlight",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mlrg_illmetby.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10115,
+    "title": "By Slanderous Tongues",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mlrg_byslande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10116,
+    "title": "And Less Than Kind",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mlrg_andlesst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

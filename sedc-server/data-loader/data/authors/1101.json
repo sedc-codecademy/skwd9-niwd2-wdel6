@@ -1,0 +1,281 @@
+[
+  {
+    "id": 23302,
+    "title": "North Over Empty Space",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24985,
+    "title": "Not a Miracle but a Marvel",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26593,
+    "title": "A Wedding Night's Dream",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23351,
+    "title": "The Wilderness Within",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12592,
+    "title": "Heirs of Grace",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tp_heirsofg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12597,
+    "title": "Antiquities and Tangibles & Other Stories",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tp_antiquit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24242,
+    "title": "Rags & Bones: New Twists on Timeless Tales",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mmtp_ragsandb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4079,
+    "title": "Briarpatch",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tp_briarpat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12593,
+    "title": "The Nex",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tp_thenex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24241,
+    "title": "Sympathy for the Devil",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tp_sympathy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19804,
+    "title": "Her Voice in a Bottle",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16270,
+    "title": "Silver Linings",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tp_silverli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25239,
+    "title": "The River Boy",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28930,
+    "title": "Artifice and Intelligence",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12598,
+    "title": "Hart & Boot & Other Stories",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tp_hartandb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12599,
+    "title": "If There Were Wolves",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tp_iftherew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21307,
+    "title": "Impossible Dreams",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5700,
+    "title": "The Strange Adventures of Rangergirl",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tp_thestran.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 12600,
+    "title": "Little Gods",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tp_littlego.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16287,
+    "title": "Little Gods",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25531,
+    "title": "The Wrong Stars",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tp_thewrong.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28213,
+    "title": "The Dreaming Stars",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tp_dreaming.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34384,
+    "title": "The Forbidden Stars",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tp_theforbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12594,
+    "title": "Bone Shop",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tp_boneshop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5667,
+    "title": "Blood Engines",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tap_bloodeng.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5668,
+    "title": "Poison Sleep",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tap_poisonsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5669,
+    "title": "Dead Reign",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tap_deadreig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1720,
+    "title": "Spell Games",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tap_spellga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12596,
+    "title": "Broken Mirrors",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tp_brokenmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5670,
+    "title": "Grim Tides",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tap_grimtide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12591,
+    "title": "Bride of Death",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tp_brideofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12595,
+    "title": "Lady of Misrule",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tp_ladyofmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

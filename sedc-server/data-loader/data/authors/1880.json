@@ -1,0 +1,137 @@
+[
+  {
+    "id": 5804,
+    "title": "Song of the Beast",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cb_songofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5013,
+    "title": "Son of Avonar",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cb_sonofavo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5014,
+    "title": "Guardians of the Keep",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cb_guardianso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5015,
+    "title": "The Soul Weaver",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cb_thesoulw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5016,
+    "title": "Daughter of Ancients",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cb_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5019,
+    "title": "The Spirit Lens",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cb_thespiri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5020,
+    "title": "The Soul Mirror",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cb_thesoulm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5021,
+    "title": "The Daemon Prism",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cb_thedaemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5017,
+    "title": "Flesh and Spirit",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cb_fleshand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5018,
+    "title": "Breath and Bone",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cb_breathan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5010,
+    "title": "Transformation",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cb_transfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5011,
+    "title": "Revelation",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cb_revelati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5012,
+    "title": "Restoration",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cb_restorat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8984,
+    "title": "Dust and Light",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cb_dustandl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14671,
+    "title": "Ash and Silver",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cb_ashandsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

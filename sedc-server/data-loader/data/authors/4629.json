@@ -1,0 +1,74 @@
+[
+  {
+    "id": 23651,
+    "title": "The Fair Folk",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mk_thefairf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24921,
+    "title": "The Dragon Quintet",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mk_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20568,
+    "title": "Masterpieces of Terror and the Supernatural",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mk_masterpi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33962,
+    "title": "Fiends and Creatures",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "mk_fiendsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25030,
+    "title": "A Cold Blue Light",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mkpg_acoldblu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25031,
+    "title": "Ghosts of Night and Morning",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mk_ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25038,
+    "title": "The Masters of Solitude",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "kmpg_themaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25039,
+    "title": "Wintermind",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mkpg_wintermi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

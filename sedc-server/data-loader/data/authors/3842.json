@@ -1,0 +1,20 @@
+[
+  {
+    "id": 15862,
+    "title": "The Beginning",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JR_quantuml.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15861,
+    "title": "The Ghost and the Gumshoe",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JR_ghostgum.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

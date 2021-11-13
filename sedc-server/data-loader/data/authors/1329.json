@@ -1,0 +1,174 @@
+[
+  {
+    "id": 32056,
+    "title": "The Light Brigade",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kh_thelight.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 34609,
+    "title": "Meet Me in the Future",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kh_meetmein.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34407,
+    "title": "Corpse Soldier",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30180,
+    "title": "The Fisherman and the Pig",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18713,
+    "title": "The Stars Are Legion",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kh_starsare.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18896,
+    "title": "The Geek Feminist Revolution: Essays",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kh_thegeekf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25044,
+    "title": "The Red Secretary",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23333,
+    "title": "The War of Heroes",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16707,
+    "title": "Elephants and Corpses",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kh_elephant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23235,
+    "title": "The Light Brigade",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24958,
+    "title": "The Plague Givers",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22740,
+    "title": "Enyo-Enyo",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32139,
+    "title": "The Women of Our Occupation",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28574,
+    "title": "Apocalypse Nyx",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kh_apocalyp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2573,
+    "title": "God's War",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kh_godswar.jpg",
+    "nominations": 6,
+    "wins": -1
+  },
+  {
+    "id": 4312,
+    "title": "Infidel",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kh_infidel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4700,
+    "title": "Rapture",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kh_rapture.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7787,
+    "title": "The Mirror Empire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kh_mirrorem.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 13997,
+    "title": "Empire Ascendant",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kh_empireas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24436,
+    "title": "The Broken Heavens",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "kh_brokenhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

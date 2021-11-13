@@ -1,0 +1,29 @@
+[
+  {
+    "id": 26651,
+    "title": "Lord of Snow and Shadows",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sa_lordofsn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26652,
+    "title": "Prisoner of Ironsea Tower",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sa_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26653,
+    "title": "Children of the Serpent Gate",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sa_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

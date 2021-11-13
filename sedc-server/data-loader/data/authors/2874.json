@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11275,
+    "title": "The Winter Prince",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ew_thewinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11276,
+    "title": "A Coalition of Lions",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ew_acoaliti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11277,
+    "title": "The Sunbird",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ew_thesunbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11255,
+    "title": "The Lion Hunter",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ew_thelionh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11256,
+    "title": "The Empty Kingdom",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ew_theempty.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

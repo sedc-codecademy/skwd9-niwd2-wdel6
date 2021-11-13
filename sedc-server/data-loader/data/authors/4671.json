@@ -1,0 +1,56 @@
+[
+  {
+    "id": 31982,
+    "title": "Central Heat",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DD_CentralH.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31983,
+    "title": "The Green God",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "DD_GreenGod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31984,
+    "title": "The Children of Shiny Mountain",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "DD_TheChild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20775,
+    "title": "The Captains' Honor",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "DD_captains.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20773,
+    "title": "The Trellisane Confrontation",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "DD_trellisa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20774,
+    "title": "Timetrap",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DD_timetrap.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

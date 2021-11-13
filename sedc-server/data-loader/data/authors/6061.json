@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32074,
+    "title": "The Last Dragonlord",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JB_LastDrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32075,
+    "title": "Dragon and Phoenix",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "JB_DragonPh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32076,
+    "title": "Bard's Oath",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JB_BardsOat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

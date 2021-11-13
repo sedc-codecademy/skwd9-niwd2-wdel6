@@ -1,0 +1,533 @@
+[
+  {
+    "id": 20637,
+    "title": "Winter's Dreams",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gc_wintersd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20625,
+    "title": "Sung in Blood",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gc_sunginbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2421,
+    "title": "The Tower of Fear",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gc_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20626,
+    "title": "The Dragon Never Sleeps",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gc_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11683,
+    "title": "A Matter of Time",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gc_matterof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20627,
+    "title": "The Swordbearer",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "gc_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20628,
+    "title": "The Heirs of Babylon",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "gc_theheirs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20621,
+    "title": "Bleak Seasons",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gc_bleaksea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20622,
+    "title": "She is the Darkness",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gc_sheisthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20623,
+    "title": "Water Sleeps",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gc_watersle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20624,
+    "title": "Soldiers Live",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gc_soldiers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2414,
+    "title": "The Chronicles of The Black Company",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gc_chronicl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2415,
+    "title": "The Books of the South",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gc_thebooks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2416,
+    "title": "The Return of The Black Company",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gc_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2417,
+    "title": "The Many Deaths of The Black Company",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gc_themanyd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28450,
+    "title": "Port of Shadows",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gc_portofsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20615,
+    "title": "The Black Company",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gc_theblackco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20616,
+    "title": "Shadows Linger",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gc_shadowsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20617,
+    "title": "The White Rose",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gc_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20618,
+    "title": "Shadow Games",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gc_shadowga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20619,
+    "title": "The Silver Spike",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gc_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20620,
+    "title": "Dreams of Steel",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gc_dreamsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20632,
+    "title": "Darkwar",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gc_darkwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20629,
+    "title": "Doomstalker",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gc_doomstal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20630,
+    "title": "Warlock",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gc_warlock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20631,
+    "title": "Ceremony",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "gc_ceremony.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9467,
+    "title": "A Shadow of All Night Falling",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gc_ashadowo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9468,
+    "title": "October's Baby",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gc_octobers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9469,
+    "title": "All Darkness Met",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gc_alldarkn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9465,
+    "title": "The Fire in His Hands",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gc_thefirei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9466,
+    "title": "With Mercy Toward None",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gc_withmerc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9474,
+    "title": "An Empire Unacquainted with Defeat:  A Chronicle of the Dread Empire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gc_anempire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9464,
+    "title": "A Fortress in Shadow:  A Chronicle of the Dread Empire",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gc_afortres.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9470,
+    "title": "A Cruel Wind:  A Chronicle of the Dread Empire",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gc_acruelwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9471,
+    "title": "Reap the East Wind",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "gc_reapthee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9472,
+    "title": "An Ill Fate Marshalling",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gc_anillfat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9473,
+    "title": "A Path to Coldness of Heart",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gc_apathtoc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14409,
+    "title": "Sweet Silver Blues",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "GC_sweetssi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14410,
+    "title": "Bitter Gold Hearts",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "GC_bittergo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14411,
+    "title": "Cold Copper Tears",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "GC_coldcopp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14412,
+    "title": "Old Tin Sorrows",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "GC_oldtinso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14413,
+    "title": "Dread Brass Shadows",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "GC_dreadbra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14414,
+    "title": "Red Iron Nights",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "GC_redironn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14415,
+    "title": "Deadly Quicksilver Lies",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "GC_deadlyqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14416,
+    "title": "Petty Pewter Gods",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "GC_pettygew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14417,
+    "title": "Faded Steel Heat",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "GC_fadedste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14418,
+    "title": "Angry Lead Skies",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "GC_angrylea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14419,
+    "title": "Whispering Nickel Idols",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "GC_whisperi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14420,
+    "title": "Cruel Zinc Melodies",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "GC_cruelzin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14421,
+    "title": "Gilded Latten Bones",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "GC_gildedla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14422,
+    "title": "Wicked Bronze Ambition",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "GC_wickedbr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2418,
+    "title": "The Tyranny of the Night",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gc_thetryan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2419,
+    "title": "Lord of the Silent Kingdom",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gc_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2420,
+    "title": "Surrender to the Will of the Night",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gc_surrende.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6473,
+    "title": "Working God's Mischief",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gc_workingg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20633,
+    "title": "Passage at Arms",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gc_passagea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20634,
+    "title": "Shadowline",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "gc_shadowli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20635,
+    "title": "Starfishers",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "gc_starfish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20636,
+    "title": "Stars' End",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "gc_starsend.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

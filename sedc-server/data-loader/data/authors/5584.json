@@ -1,0 +1,83 @@
+[
+  {
+    "id": 26188,
+    "title": "The Moomins and the Great Flood",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "TJ_TheMoomi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26189,
+    "title": "Comet in Moominland",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "TJ_CometInM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26190,
+    "title": "Finn Family Moomintroll",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "TJ_FinnFami.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26191,
+    "title": "The Exploits of Moominpappa",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "tj_theexplo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26192,
+    "title": "Moominsummer Madness",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "TJ_Moominsu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26193,
+    "title": "Moominland Midwinter",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "TJ_Moominla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26194,
+    "title": "Tales from Moominvalley",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "TJ_TalesFro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26195,
+    "title": "Moominpappa at Sea",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "TJ_Moominpa_AtSea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26196,
+    "title": "Moominvalley in November",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "TJ_Moominva.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

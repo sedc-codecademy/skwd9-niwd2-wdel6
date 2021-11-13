@@ -1,0 +1,65 @@
+[
+  {
+    "id": 428,
+    "title": "The Silicon Man",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cp_thesilic.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 34581,
+    "title": "Free Zone",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "CP_FreeZone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34580,
+    "title": "Planet of the Voles",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "CP_PlanetVo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14913,
+    "title": "The Gas",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "CP_TheGas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34579,
+    "title": "Garbage World",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "CP_GarbageW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8122,
+    "title": "Dream Makers:  The Uncommon People Who Write Science Fiction",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "CP_DreamMa1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8123,
+    "title": "Dream Makers, Volume II:  The Uncommon Men & Women Who Write Science Fiction",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "CP_DreamMa2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,807 @@
+[
+  {
+    "id": 18876,
+    "title": "The Seascape Tattoo",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lnsb_theseasc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27250,
+    "title": "The Goliath Stone",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ln_thegolia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2386,
+    "title": "The Best of Larry Niven",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lnjs_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4399,
+    "title": "Stars and Gods",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ln_starsand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12167,
+    "title": "The Draco Tavern",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ln_thedraco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8680,
+    "title": "Building Harlequin's Moon",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lnbc_building.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14060,
+    "title": "Scatterbrain",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ln_scatterb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8689,
+    "title": "Saturn's Race",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lnsb_saturnsr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24393,
+    "title": "Rainbow Mars (collection)",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ln_rainbowm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4398,
+    "title": "Destiny's Road",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ln_destinys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8691,
+    "title": "Achilles' Choice",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lnsb_achilles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9448,
+    "title": "Fallen Angels",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lnjpmf_fallenan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24295,
+    "title": "Playgrounds of the Mind",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ln_playgrou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20836,
+    "title": "N-Space",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ln_nspace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21301,
+    "title": "The Return of William Proxmire",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 373,
+    "title": "Footfall",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lnjp_footfall.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21203,
+    "title": "Limits",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ln_limits.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8688,
+    "title": "The Descent of Anansi",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lnsb_thedesce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2012,
+    "title": "Oath of Fealty",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "lnjp_oathoffe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12166,
+    "title": "Convergent Series",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ln_converge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21061,
+    "title": "The Locusts",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 355,
+    "title": "Lucifer's Hammer",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "lnjp_lucifers.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13347,
+    "title": "A Hole in Space",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ln_aholeins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21486,
+    "title": "The Hole Man",
+    "year": 1974,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13346,
+    "title": "The Flight of the Horse",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ln_thefligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14029,
+    "title": "Inconstant Moon (collection)",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ln_Inconsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18238,
+    "title": "All the Myriad Ways (collection)",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "LN_AllTheMy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8690,
+    "title": "The Flying Sorcerers",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "dgln_theflyin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20835,
+    "title": "The Fourth Profession",
+    "year": 1971,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21487,
+    "title": "Inconstant Moon",
+    "year": 1971,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21504,
+    "title": "All the Myriad Ways",
+    "year": 1968,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18359,
+    "title": "Wrong-Way Street",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6611,
+    "title": "Bowl of Heaven",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gbln_bowlofhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6612,
+    "title": "Shipstar",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gbln_shipstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 788,
+    "title": "Dream Park",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "lnsb_dreampar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1696,
+    "title": "The Barsoom Project",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lnsb_thebarso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1697,
+    "title": "The California Voodoo Game",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lnsb_thecalif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13062,
+    "title": "The Moon Maze Game",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lnsb_themoonm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4444,
+    "title": "The Legacy of Heorot",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lnjpsb_thelegac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4443,
+    "title": "Beowulf's Children",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lnjpsb_beowulfs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 249,
+    "title": "Inferno",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "lnjp_inferno.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6531,
+    "title": "Escape from Hell",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lnjp_escapefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21145,
+    "title": "The Borderland of Sol",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21291,
+    "title": "The Jigsaw Man",
+    "year": 1967,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21290,
+    "title": "Neutron Star",
+    "year": 1966,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18358,
+    "title": "Becalmed in Hell",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12175,
+    "title": "World of Ptavvs",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ln_worldofp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6528,
+    "title": "Neutron Star (collection)",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ln_neutrons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13885,
+    "title": "A Gift from Earth",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ln_agiftfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34391,
+    "title": "The Shape of Space",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ln_theshape.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 348,
+    "title": "Protector",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ln_protecto.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6529,
+    "title": "Tales of Known Space",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ln_talesofk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13884,
+    "title": "Crashlander",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ln_crashlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10864,
+    "title": "Fleet of Worlds",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lneml_fleetofw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10865,
+    "title": "Juggler of Worlds",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lneml_jugglero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10866,
+    "title": "Destroyer of Worlds",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lneml_destroye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10867,
+    "title": "Betrayer of Worlds",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lneml_betrayer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10868,
+    "title": "Fate of Worlds",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lneml_fateofwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20828,
+    "title": "ARM",
+    "year": 1975,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19106,
+    "title": "Flatlander",
+    "year": 1967,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12168,
+    "title": "The Long ARM of Gil Hamilton",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ln_thelonga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12169,
+    "title": "The Patchwork Girl",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ln_thepatchw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34388,
+    "title": "Flatlander",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ln_flatland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18,
+    "title": "Ringworld",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ln_ringworl.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 361,
+    "title": "The Ringworld Engineers",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ln_theringw.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1329,
+    "title": "The Ringworld Throne",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ln_rwthrone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1330,
+    "title": "Ringworld's Children",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ln_rwchildr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18306,
+    "title": "Not Long Before the End",
+    "year": 1969,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12174,
+    "title": "The Magic Goes Away",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ln_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18304,
+    "title": "The Magic May Return",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ln_tmmayret.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18305,
+    "title": "More Magic",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ln_moremagi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14059,
+    "title": "The Man-Kzin Wars",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ln_mankzin1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14058,
+    "title": "Man-Kzin Wars II",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ln_mankzin2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14113,
+    "title": "Man-Kzin Wars III",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ln_mankzin3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14114,
+    "title": "Man-Kzin Wars IV",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ln_mankzin4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14115,
+    "title": "Man-Kzin Wars V",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ln_mankzin5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14116,
+    "title": "Man-Kzin Wars VI",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ln_mankzin6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14117,
+    "title": "Man-Kzin Wars VII",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ln_mankzin7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14118,
+    "title": "Man-Kzin Wars VIII:  Choosing Names",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ln_mankzin8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14119,
+    "title": "Man-Kzin Wars IX",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ln_mankzin9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14121,
+    "title": "Man-Kzin Wars XI",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ln_mankzin11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14122,
+    "title": "Man-Kzin Wars XII",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ln_mankzin12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14123,
+    "title": "Man-Kzin Wars XIII",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ln_mankzin13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14124,
+    "title": "Man-Kzin Wars XIV",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ln_mankzin14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32596,
+    "title": "Man-Kzin Wars XV",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ln_mankzi15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 267,
+    "title": "The Mote in God's Eye",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "lnjp_themotei.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1695,
+    "title": "The Gripping Hand",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "lnjp_thegripp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 803,
+    "title": "A World Out of Time",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ln_aworldou.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 211,
+    "title": "The Integral Trees",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ln_theinteg.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1698,
+    "title": "The Smoke Ring",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ln_thesmoke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11575,
+    "title": "Red Tide",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ln_bt_mh_redtide.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

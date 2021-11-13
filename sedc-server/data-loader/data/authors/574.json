@@ -1,0 +1,490 @@
+[
+  {
+    "id": 32057,
+    "title": "Permafrost",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ar_permafro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28773,
+    "title": "Holdfast",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18878,
+    "title": "Beyond the Aquila Rift:  The Best of Alastair Reynolds",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17521,
+    "title": "The Medusa Chronicles",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sbar_themedus.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 27893,
+    "title": "Sixteen Questions for Kamala Chatterjee",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26848,
+    "title": "A Murmuration",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11039,
+    "title": "Slow Bullets",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "AR_slowbul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27864,
+    "title": "In Babelsberg",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27310,
+    "title": "A Map of Mercury",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27253,
+    "title": "The Water Thief",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27157,
+    "title": "Ascension Day",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22694,
+    "title": "At Budokan",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6466,
+    "title": "Deep Navigation",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ar_deepnava.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26748,
+    "title": "Sleepover",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ar_sleepove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2613,
+    "title": "Terminal World",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ar_terminal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6502,
+    "title": "Troika ",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ar_troika.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32019,
+    "title": "The Fixation",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21882,
+    "title": "Scales",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6504,
+    "title": "Thousandth Night / Minla's Flowers",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ar_thou_minl.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32040,
+    "title": "Fury",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6503,
+    "title": "The Six Directions of Space",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ar_thesixdi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26238,
+    "title": "The Sledge-Maker's Daughter",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27103,
+    "title": "Signal to Noise",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32149,
+    "title": "Tiger, Burning",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6465,
+    "title": "Zima Blue and Other Stories",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ar_zimablue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26786,
+    "title": "Beyond the Aquila Rift",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 857,
+    "title": "Pushing Ice",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ar_pushingi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26747,
+    "title": "Understanding Space and Time",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27089,
+    "title": "Zima Blue",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1106,
+    "title": "Century Rain",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ar_centuryr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28711,
+    "title": "Belladonna Nights",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1226,
+    "title": "House of Suns",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ar_houseofs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21440,
+    "title": "The Iron Tactician",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_irontact.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27506,
+    "title": "Merlin's Gun",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ar_merlinsg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15066,
+    "title": "Harvest of Time",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ar_harvesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3832,
+    "title": "Blue Remembered Earth",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ar_bluereme.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5711,
+    "title": "On the Steel Breeze",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ar_ontheste.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12109,
+    "title": "Poseidon's Wake",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ar_poseidon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27934,
+    "title": "Night Passage",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17524,
+    "title": "The Last Log of the Lachrimosa",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6634,
+    "title": "Galactic North (collection)",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ar_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27108,
+    "title": "Nightingale",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6633,
+    "title": "Diamond Dogs, Turquoise Days",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ar_diamondd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26746,
+    "title": "Turquoise Days",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ar_turquois.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26757,
+    "title": "Glacial",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26988,
+    "title": "Great Wall of Mars",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27419,
+    "title": "Galactic North",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26237,
+    "title": "A Spy in Europa",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 575,
+    "title": "Revelation Space",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ar_revelati.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1100,
+    "title": "Chasm City",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ar_chasmcit.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 682,
+    "title": "Redemption Ark",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ar_redempti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1105,
+    "title": "Absolution Gap",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ar_absoluti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1112,
+    "title": "The Prefect",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ar_theprefe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25718,
+    "title": "Elysium Fire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ar_elysiumf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19484,
+    "title": "Revenger",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_revenger.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 31706,
+    "title": "Shadow Captain",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ar_shadowca.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35614,
+    "title": "Bone Silence",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "ar_bonesile.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "id": 15888,
+    "title": "Forgotten Suns",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jt_forgotte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35869,
+    "title": "Nine White Horses:  Nine Tales of Horses and Magic",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JT_ninewhit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7115,
+    "title": "Kingdom of the Grail ",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jt_kingdomo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8063,
+    "title": "Household Gods",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jtht_househol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19857,
+    "title": "Death and the Lady",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7089,
+    "title": "Ars Magica ",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jt_arsmagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35824,
+    "title": "A Wind in Cairo",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jt_awindinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7087,
+    "title": "Alamut",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jt_alamut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7088,
+    "title": "The Dagger and the Cross ",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jt_daggeran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 910,
+    "title": "Lord of the Two Lands",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jt_lordofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7090,
+    "title": "Queen of the Amazons",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jt_queenoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7091,
+    "title": "Bring Down the Sun",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jt_bringdow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32342,
+    "title": "The Hall of the Mountain King",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jt_thehallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32343,
+    "title": "The Lady of Han-Gilen",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jt_theladyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32344,
+    "title": "A Fall of Princes",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jt_afallofp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32345,
+    "title": "Arrows of the Sun",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jt_arrowsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32346,
+    "title": "Spear of Heaven",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jt_spearofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32347,
+    "title": "Tides of Darkness",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jt_tidesofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32348,
+    "title": "Avaryan Rising",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jt_avaryanr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32349,
+    "title": "Avaryan Resplendent",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jt_resplend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32358,
+    "title": "Devil's Bargain",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jt_devilsba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32359,
+    "title": "House of War",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jt_houseofw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32354,
+    "title": "White Mare's Daughter",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jt_whitemar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32355,
+    "title": "The Shepherd Kings",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jt_thesheph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10582,
+    "title": "Lady of Horses",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "JT_ladyofho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32356,
+    "title": "Daughter of Lir",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jt_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32357,
+    "title": "The Hound and the Falcon",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jt_thehound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7084,
+    "title": "The Isle of Glass",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jt_isleofgl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7085,
+    "title": "The Golden Horn",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jt_goldenho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7086,
+    "title": "The Hounds of God",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jt_houndsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7112,
+    "title": "The Mountain's Call ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jt_mountain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7113,
+    "title": "Song of Unmaking ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jt_songofun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7114,
+    "title": "Shattered Dance ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jt_shattered.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32379,
+    "title": "Rite of Conquest",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jt_riteofco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32380,
+    "title": "King's Blood",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jt_kingsblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

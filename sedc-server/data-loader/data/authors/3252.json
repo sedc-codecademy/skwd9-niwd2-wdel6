@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13311,
+    "title": "The Odious Ones",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "js_theodiou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12453,
+    "title": "The Time Dissolver",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "js_thetimed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21493,
+    "title": "The Man Who Lived Forever / The Mars Monopoly",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_themanwh_themarsm.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21255,
+    "title": "One Against Herculum / Secret of the Lost Race",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_oneagain_secretof.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

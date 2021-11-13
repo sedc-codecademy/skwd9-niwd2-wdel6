@@ -1,0 +1,83 @@
+[
+  {
+    "id": 16474,
+    "title": "Free Fall",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "WK_freefall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13189,
+    "title": "Decision at Thunder Rift",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "whkj_decision.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13190,
+    "title": "Mercenary's Star",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "whkj_mercenar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13191,
+    "title": "The Price of Glory",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "whkj_priceofg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13401,
+    "title": "Tactics of Duty",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "whk_tacticso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13416,
+    "title": "Operation Excalibur",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "whk_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34366,
+    "title": "Bolo Brigade",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "whkj_bolobrig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34367,
+    "title": "Bolo Rising",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "WK_BoloRisi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34368,
+    "title": "Bolo Strike",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "WK_BoloStri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 36421,
+    "title": "Deeplight",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "fh_deepligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24445,
+    "title": "A Skinful of Shadows",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "fh_askinful.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17888,
+    "title": "The Lie Tree",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "fh_thelietr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11121,
+    "title": "Cuckoo Song",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "fh_cuckooso.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 6833,
+    "title": "A Face Like Glass",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "FH_AFaceLik.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1732,
+    "title": "The Lost Conspiracy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "fh_thelostc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27115,
+    "title": "Halfway House",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6834,
+    "title": "Fly by Night",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "FH_FlyByNig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4087,
+    "title": "Twilight Robbery (Fly Trap)",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "fh_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

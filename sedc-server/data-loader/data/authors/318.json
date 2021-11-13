@@ -1,0 +1,290 @@
+[
+  {
+    "id": 31528,
+    "title": "The Best of E. E. 'Doc' Smith",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "eeds_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31527,
+    "title": "Masters of Space",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "eeds_masterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31526,
+    "title": "The Galaxy Primes",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "eeds_thegalax.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31525,
+    "title": "Spacehounds of IPC:  A Tale of the Inter-Planetary Corporation",
+    "year": 1931,
+    "type": "novel",
+    "imageName": "eeds_spacehou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31509,
+    "title": "The Imperial Stars",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "eedssg_theimper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31510,
+    "title": "Stranglers' Moon",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "eedssg_strangle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31511,
+    "title": "The Clockwork Traitor",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "eedssg_theclock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31512,
+    "title": "Getaway World",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "eedssg_getawayw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31513,
+    "title": "The Bloodstar Conspiracy",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "eedssg_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31514,
+    "title": "The Purity Plot",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "eedssg_thepurit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31515,
+    "title": "Planet of Treachery",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "eedssg_planetof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31516,
+    "title": "Eclipsing Binaries",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "eedssg_eclipsin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31517,
+    "title": "The Omicron Invasion",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "eedssg_theomicr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31518,
+    "title": "Revolt of the Galaxy",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "eedssg_revoltof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2115,
+    "title": "Triplanetary",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "eeds_lensman1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2116,
+    "title": "First Lensman",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "eeds_lensman2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2117,
+    "title": "Galactic Patrol",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "eeds_lensman3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2118,
+    "title": "Grey Lensman",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "eeds_lensman4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2119,
+    "title": "Second Stage Lensman",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "eeds_lensman5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2121,
+    "title": "Children of the Lens",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "eeds_lensman6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2120,
+    "title": "Masters of the Vortex",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "eeds_lensman7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31519,
+    "title": "Lord Tedric",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "eedsge_lordtedr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31520,
+    "title": "Space Pirates",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "eedsge_spacepir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31521,
+    "title": "Black Knight of the Iron Sphere",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "eedsge_blackkni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31522,
+    "title": "Alien Realms",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "eedsge_alienrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11319,
+    "title": "The Galaxy Primes",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ES_galaxyp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1411,
+    "title": "The Skylark of Space",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "eeds_theskyla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1412,
+    "title": "Skylark Three",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "eeds_skylark3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1413,
+    "title": "Skylark of Valeron",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "eeds_skylarko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 322,
+    "title": "Skylark DuQuesne",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "eeds_skylarkd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31523,
+    "title": "Subspace Explorers",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "eeds_subspace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31524,
+    "title": "Subspace Encounter",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "eeds_ssencoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

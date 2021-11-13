@@ -1,0 +1,92 @@
+[
+  {
+    "id": 14381,
+    "title": "The Squire's Tale",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gm_thesquir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14382,
+    "title": "The Squire, His Knight, and His Lady",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gm_hisknigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14383,
+    "title": "The Savage Damsel and the Dwarf ",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gm_thesavag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14384,
+    "title": "Parsifal's Page",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gm_parsifal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14385,
+    "title": "The Ballad of Sir Dinadan",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gm_theballa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14386,
+    "title": "The Princess, the Crone, and the Dung-Cart Knight",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gm_theprinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14387,
+    "title": "The Lioness and Her Knight",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gm_thelione.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14388,
+    "title": "The Quest of the Fair Unknown",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gm_thequest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14389,
+    "title": "The Squire's Quest",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gm_thesques.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14390,
+    "title": "The Legend of the King",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gm_thelegen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

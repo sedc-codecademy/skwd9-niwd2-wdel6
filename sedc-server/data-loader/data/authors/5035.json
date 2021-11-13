@@ -1,0 +1,20 @@
+[
+  {
+    "id": 22641,
+    "title": "Philip K. Dick",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DM_philipkd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22640,
+    "title": "The Rainbow Quest of Thomas Pynchon",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "DM_rainbowq.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

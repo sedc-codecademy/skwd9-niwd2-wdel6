@@ -1,0 +1,27 @@
+[
+  {
+    "id": 17719,
+    "title": "Aloha",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32603,
+    "title": "Flight Correction",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 471,
+    "title": "Divine Intervention",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kw_divinein.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

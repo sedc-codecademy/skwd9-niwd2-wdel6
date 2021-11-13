@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19713,
+    "title": "The Stopped Heart",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jm_thestopp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8974,
+    "title": "The Quickening ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jm_quickeni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8973,
+    "title": "Then",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jm_then.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

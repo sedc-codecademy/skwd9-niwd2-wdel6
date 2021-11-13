@@ -1,0 +1,20 @@
+[
+  {
+    "id": 7594,
+    "title": "Three Gothic Novels",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cbb_three.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3099,
+    "title": "Wieland",
+    "year": 1798,
+    "type": "novel",
+    "imageName": "cbb_wieland.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

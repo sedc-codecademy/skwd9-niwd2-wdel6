@@ -1,0 +1,29 @@
+[
+  {
+    "id": 516,
+    "title": "CrashCourse",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "wb_crashcou.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7558,
+    "title": "ClipJoint",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "WB_Clipjoin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7559,
+    "title": "PsyKosis",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WB_PsyKosis.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

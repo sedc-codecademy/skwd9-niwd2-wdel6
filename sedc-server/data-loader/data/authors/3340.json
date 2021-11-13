@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13113,
+    "title": "Wolf Pack",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rnc_woldpack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13413,
+    "title": "Wolves on the Border",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rnc_wolveson.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13417,
+    "title": "Heir to the Dragon",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rnc_heirtoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34995,
+    "title": "Never Deal with a Dragon",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RNC_NeverDea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34996,
+    "title": "Choose Your Enemies Carefully",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "RNC_ChooseYo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34997,
+    "title": "Find Your Own Truth",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "RNC_FindYour.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

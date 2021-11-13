@@ -1,0 +1,92 @@
+[
+  {
+    "id": 15683,
+    "title": "The Shadow Stone",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rb_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15586,
+    "title": "Swordmage",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rb_swordmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15587,
+    "title": "Corsair",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rb_corsair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15588,
+    "title": "Avenger",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rb_avenger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15545,
+    "title": "The City of Ravens",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rb_tcoraven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15549,
+    "title": "Forsaken House",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rb_forsaken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15550,
+    "title": "Farthest Reach",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rb_farthest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15551,
+    "title": "Final Gate",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rb_finalgat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15675,
+    "title": "Condemnation",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rb_condemna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25724,
+    "title": "Valiant Dust",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rb_valiantd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

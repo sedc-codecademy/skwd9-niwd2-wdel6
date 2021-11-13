@@ -1,0 +1,74 @@
+[
+  {
+    "id": 22124,
+    "title": "Star's End",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "crc_starsend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24421,
+    "title": "The Witch Who Came in from the Cold",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lsmgcrcitms_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14202,
+    "title": "Our Lady of the Ice",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "CRC_ourladyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5129,
+    "title": "The Mad Scientist's Daughter",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "crc_themadsc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27374,
+    "title": "Magic of Blood and Sea",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "crc_magicofb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5127,
+    "title": "The Assassin's Curse",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "crc_theassas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5128,
+    "title": "The Pirate's Wish",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "crc_thepirat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27442,
+    "title": "Magic of Wind and Mist",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "crc_magicofw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

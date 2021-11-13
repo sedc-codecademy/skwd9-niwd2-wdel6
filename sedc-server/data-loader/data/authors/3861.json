@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21694,
+    "title": "Shivering World",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kt_shiverin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16628,
+    "title": "The Truce at Bakura",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "KT_trucebak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15959,
+    "title": "Balance Point",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kt_balancep.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

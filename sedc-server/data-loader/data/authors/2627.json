@@ -1,0 +1,47 @@
+[
+  {
+    "id": 10290,
+    "title": "The Leopard Mask",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "KK_theleop2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10291,
+    "title": "Warrior in the Wilderness",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KK_warriori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10292,
+    "title": "Battle of Nospherus",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KK_battleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10293,
+    "title": "Prisoner of the Lagon",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KK_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10294,
+    "title": "The Marches King",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KK_themarch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

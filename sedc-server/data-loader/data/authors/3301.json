@@ -1,0 +1,65 @@
+[
+  {
+    "id": 12929,
+    "title": "Dead to Me",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "as_deadtome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12930,
+    "title": "Deader Still",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "as_deaderst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12931,
+    "title": "Dead Matter",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "as_deadmatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12932,
+    "title": "Dead Waters",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "as_deadwate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12933,
+    "title": "Alchemystic",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "as_alchemys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12934,
+    "title": "Stonecast",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "as_stonecas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12935,
+    "title": "Incarnate",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "as_incarnat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

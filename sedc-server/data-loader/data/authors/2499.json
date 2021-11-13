@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19137,
+    "title": "Science Fiction Horizons No. 1",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "tb_sfhorizo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9529,
+    "title": "An ABC of Science Fiction",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "tbj_theabcofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9528,
+    "title": "Connoisseur's Science Fiction",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "tbj_connoiss.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 8317,
+    "title": "Dancing Jack",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ljm_dancingj.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 33871,
+    "title": "The Watcher's Mask",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "LJM_Watchers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8318,
+    "title": "Fire Logic ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ljm_firelogi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8319,
+    "title": "Earth Logic ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ljm_earthlog.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8320,
+    "title": "Water Logic ",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ljm_waterlog.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35127,
+    "title": "Air Logic",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ljm_airlogic.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

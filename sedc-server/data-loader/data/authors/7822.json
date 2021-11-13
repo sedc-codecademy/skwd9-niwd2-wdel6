@@ -1,0 +1,56 @@
+[
+  {
+    "id": 36669,
+    "title": "Labyrinth",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "DS_Labyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36670,
+    "title": "City of Crystal Shadow",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "DS_CityCrys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36671,
+    "title": "Dark Paradise",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "DS_DarkPara_.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36666,
+    "title": "The First Name",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "DS_FirstNam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36667,
+    "title": "Groa's Other Eye",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "DS_GroasOth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36668,
+    "title": "Three Trumps Sounding",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DS_ThreeTru.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

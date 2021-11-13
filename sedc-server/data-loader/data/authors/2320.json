@@ -1,0 +1,92 @@
+[
+  {
+    "id": 12068,
+    "title": "Evolution",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jp_evolutio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8807,
+    "title": "War of the Daleks",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jp_warofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8818,
+    "title": "Legacy of the Daleks",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jp_legacyof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9166,
+    "title": "Timewyrm: Genesys",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jp_timewyrm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15831,
+    "title": "Independence",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "JP_independ.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19842,
+    "title": "Objective: Bajor",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jp_objectiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20574,
+    "title": "Prisoners of Peace",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "JP_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20573,
+    "title": "Field Trip",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "JP_fieldtri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19866,
+    "title": "Here There Be Dragons",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jp_herether.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19864,
+    "title": "The Death of Princes",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jp_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

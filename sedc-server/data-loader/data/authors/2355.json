@@ -1,0 +1,56 @@
+[
+  {
+    "id": 14959,
+    "title": "Winner Takes All",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jr_winnerta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14935,
+    "title": "The Stone Rose",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jr_thestone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14969,
+    "title": "The Last Dodo",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jr_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15062,
+    "title": "The Pictures of Emptiness",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jr_thepictu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8876,
+    "title": "Earthworld",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jr_earthwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9098,
+    "title": "Wolfsbane",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jr_wolfsban.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

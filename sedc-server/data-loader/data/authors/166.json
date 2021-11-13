@@ -1,0 +1,712 @@
+[
+  {
+    "id": 23340,
+    "title": "Trip Trap",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26659,
+    "title": "Hopscotch",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kja_hopscotc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26617,
+    "title": "Ignition",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kjadb_ignition.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26604,
+    "title": "Blindfold",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "kja_blindfol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26598,
+    "title": "Ill Wind",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "kjadb_illwind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13684,
+    "title": "Climbing Olympus",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "KJA_climbing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 173,
+    "title": "Assemblers of Infinity",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "kja_assemble.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25623,
+    "title": "The Trinity Paradox",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kjadb_thetrini.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19760,
+    "title": "Lifeline",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kjadb_lifeline.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28463,
+    "title": "Uncharted",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kjasah_uncharte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26575,
+    "title": "Clockwork Angels",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kja_clangels.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26576,
+    "title": "Clockwork Lives",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kjanp_clolives.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26639,
+    "title": "Virtual Destruction",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kjadb_virtuald.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26640,
+    "title": "Fallout",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "kjadb_fallout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26641,
+    "title": "Lethal Exposure",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kjadb_lethalex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2688,
+    "title": "Hunters of Dune",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bhkja_hunterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2689,
+    "title": "Sandworms of Dune",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bhkja_sandworm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34595,
+    "title": "Tales of Dune:  Expanded Edition",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "BH_talesofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2692,
+    "title": "The Road to Dune",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "fhbhkja_theroadt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26878,
+    "title": "Gamearth",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kja_gameeart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26879,
+    "title": "Gameplay",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kja_gameplay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26880,
+    "title": "Game's End",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kja_gamesend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20735,
+    "title": "Dune: Red Plague",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bhkja_duneredp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6477,
+    "title": "Sisterhood of Dune",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bhkja_sisterho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6478,
+    "title": "Mentats of Dune",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bhkja_mentatso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16745,
+    "title": "Navigators of Dune",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "BH_navigato.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2677,
+    "title": "Hellhole",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bhkja_hellhole.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6479,
+    "title": "Hellhole: Awakening",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bhkja_hellhawa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9372,
+    "title": "Hellhole: Inferno",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bhkja_hinferno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2690,
+    "title": "Paul of Dune",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bhkja_paulofdu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2691,
+    "title": "The Winds of Dune",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bhkja_thewinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2685,
+    "title": "Dune: The Butlerian Jihad",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bhkja_thebutle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2686,
+    "title": "Dune: The Machine Crusade",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "bhkja_themachi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2687,
+    "title": "Dune: The Battle of Corrin",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bhkja_thebattl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7341,
+    "title": "Nebula Awards Showcase 2011",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kja_nebula11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2682,
+    "title": "Dune: House Atreides",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "bhkja_houseatr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2683,
+    "title": "Dune: House Harkonnen",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "bhkja_househar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2684,
+    "title": "Dune: House Corrino",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "bhkja_housecor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5458,
+    "title": "Hidden Empire",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kja_hiddenem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5459,
+    "title": "A Forest of Stars",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jka_aforesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5457,
+    "title": "Horizon Storms",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "kja_horisons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5456,
+    "title": "Scattered Suns",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kja_scattere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5455,
+    "title": "Of Fire and Night",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kja_offirean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5460,
+    "title": "Metal Swarm",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kja_metalswa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5461,
+    "title": "The Ashes of Worlds",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kja_theashes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16791,
+    "title": "Island in a Sea of Stars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kja_islandin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7391,
+    "title": "The Dark Between the Stars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kja_thedarkb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12064,
+    "title": "Blood of the Cosmos",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kja_bloodoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19296,
+    "title": "Eternity's Mind",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kja_eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20846,
+    "title": "Higher Score",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RM_highersc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16811,
+    "title": "Darksaber",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "KA_darksabe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16816,
+    "title": "The Jedi Academy Trilogy",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "KA_jediacad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16813,
+    "title": "Jedi Search",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "KA_jedisear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16814,
+    "title": "Dark Apprentice",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "KA_darkappr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16815,
+    "title": "Champions of the Force",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "KA_champion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17003,
+    "title": "Star Wars Tales",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "KA_swtales.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17000,
+    "title": "Tales from the Mos Eisley Cantina",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "KA_talesmos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17001,
+    "title": "Tales from Jabba's Palace",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "KA_talesjab.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17002,
+    "title": "Tales of the Bounty Hunters",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "KA_talesbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21223,
+    "title": "Heirs of the Force",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM_heirsfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21224,
+    "title": "Shadow Academy",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM_shadowac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21225,
+    "title": "The Lost Ones",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM_lostones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21226,
+    "title": "Lightsabers",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM_lightsab.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21227,
+    "title": "Darkest Knight",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RM_darkestk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21228,
+    "title": "Jedi Under Siege",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RM_jediunde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21229,
+    "title": "Shards of Alderaan",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RM_shardsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21230,
+    "title": "Diversity Alliance",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RM_diversit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21231,
+    "title": "Delusions of Grandeur",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RE_delusion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21232,
+    "title": "Jedi Bounty",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RM_jediboun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21233,
+    "title": "The Emperor's Plague",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RM_emperors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21234,
+    "title": "Return to Ord Mantell",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RM_returnto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21235,
+    "title": "Trouble on Cloud City ",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RM_troubleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21236,
+    "title": "Crisis at Crystal Reef",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RM_crisisat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11569,
+    "title": "Tau Ceti",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ka_ss_tauceti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5462,
+    "title": "The Edge of the World",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kja_theedgeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5463,
+    "title": "The Map of All Things",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kja_themapof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5464,
+    "title": "The Key to Creation",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kja_thekeyto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33882,
+    "title": "Spine of the Dragon",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kja_spineoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24334,
+    "title": "War of the Worlds:  Global Dispatches",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kja_wotwglob.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

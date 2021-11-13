@@ -1,0 +1,64 @@
+[
+  {
+    "id": 24276,
+    "title": "Matilda Told Such Dreadful Lies:  The Essential Lucy Sussex",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ls_mathildat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32808,
+    "title": "The Queen of Erewhon",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11760,
+    "title": "Black Ice",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ls_blackice.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11761,
+    "title": "The Scarlet Rider",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ls_thescarl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11759,
+    "title": "Deersnake",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ls_deersnak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34639,
+    "title": "Absolute Uncertainty",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ls_absolute.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15663,
+    "title": "Thief of Lives",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ls_thiefofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

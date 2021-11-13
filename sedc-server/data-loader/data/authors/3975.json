@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16425,
+    "title": "Marseguro",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ew_marseguro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16426,
+    "title": "Terra Insegura",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ew_terrains.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30269,
+    "title": "Worldshaper",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ew_worldsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35031,
+    "title": "Master of the World",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ew_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 21481,
+    "title": "Tales of the Peculiar",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rr_talesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4093,
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rr_misspere.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6185,
+    "title": "Hollow City",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rr_hollowci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14193,
+    "title": "Library of Souls",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rr_libraryo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30147,
+    "title": "A Map of Days",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rr_amapofda.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

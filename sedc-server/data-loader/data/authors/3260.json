@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12469,
+    "title": "A Midsummer Night's Dream",
+    "year": 1623,
+    "type": "novel",
+    "imageName": "WS_midsumn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12470,
+    "title": "The Tempest",
+    "year": 1623,
+    "type": "novel",
+    "imageName": "WS_tempest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12468,
+    "title": "The Tragedy of Macbeth",
+    "year": 1623,
+    "type": "novel",
+    "imageName": "WS_macbeth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

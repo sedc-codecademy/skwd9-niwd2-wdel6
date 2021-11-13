@@ -1,0 +1,65 @@
+[
+  {
+    "id": 879,
+    "title": "The Grand Ellipse",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pv_thegrand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11745,
+    "title": "The White Tribunal",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pv_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11746,
+    "title": "The Gates of Twilight",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pv_thegates.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11747,
+    "title": "The Wolf of Winter",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pv_thewolfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11748,
+    "title": "Illusion",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pv_illusion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11749,
+    "title": "The Luck of Relian Kru",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pv_thelucko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11750,
+    "title": "The Curse of the Witch-Queen",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pv_thecurse.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

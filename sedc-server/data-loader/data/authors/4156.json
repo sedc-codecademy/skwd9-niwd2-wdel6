@@ -1,0 +1,47 @@
+[
+  {
+    "id": 17274,
+    "title": "Kino's Journey Vol. 1:  The Beautiful World",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KS_kinosjou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28232,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 1:  Squad Jam",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "KS_gungale1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28664,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 2:  Second Squad Jam: Start",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "KS_gungale2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31611,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 3:  Second Squad Jam: Finish",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RK_gungale3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33863,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 4:  3rd Squad Jam: Betrayers' Choice",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RK_gungale4.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

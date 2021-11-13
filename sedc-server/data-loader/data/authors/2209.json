@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13341,
+    "title": "Cthulhu's Dark Cults:  Ten Tales of Dark & Secretive Orders",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "DC_cthulhus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13339,
+    "title": "The Spiraling Worm:  Man vs. the Cthulhu Mythos",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DC_spiralin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13342,
+    "title": "Extreme Planets",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "DC_extremep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8243,
+    "title": "Cthulhu Unbound 3 ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dcbms_cthulhu3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

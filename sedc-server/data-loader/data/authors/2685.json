@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10555,
+    "title": "Imaging Mars: A Literary History",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RC_imaginin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10556,
+    "title": "Olaf Stapledon: Speaking for the Future",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "RC_olafstap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14162,
+    "title": "H. G. Wells",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "RC_hgwells.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

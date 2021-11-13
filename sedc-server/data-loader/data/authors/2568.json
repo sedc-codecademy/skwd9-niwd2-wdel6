@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9937,
+    "title": "Kill or Cure",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rl_killorcu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23228,
+    "title": "Smiler's Fair",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rl_smilersf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23229,
+    "title": "The Hunter's Kind",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rl_thehunte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14578,
+    "title": "Anno Mortis",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rl_annomort.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

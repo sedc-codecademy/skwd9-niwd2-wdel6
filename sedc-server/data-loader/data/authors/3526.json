@@ -1,0 +1,227 @@
+[
+  {
+    "id": 34671,
+    "title": "Phantom Regiments",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RA_phantomr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24536,
+    "title": "Friends of the Horseclans II",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rapca_fohorse2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24535,
+    "title": "Friends of the Horseclans",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "rapca_fohorse1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14230,
+    "title": "The Coming of the Horseclans",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ra_thecomin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14231,
+    "title": "Swords of the Horseclans",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ra_swordsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14232,
+    "title": "Revenge of the Horseclans",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ra_revengeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14233,
+    "title": "A Cat of Silvery Hue",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ra_acatofsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14234,
+    "title": "The Savage Mountains",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ra_thesavag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14235,
+    "title": "The Patrimony",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ra_thepatri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14236,
+    "title": "Horseclans Odyssey",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ra_horsecla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14237,
+    "title": "The Death of a Legend",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ra_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14238,
+    "title": "The Witch Goddess",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ra_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14239,
+    "title": "Bili the Axe",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ra_bilithea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14240,
+    "title": "Champion of the Last Battle",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ra_champion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14241,
+    "title": "A Woman of the Horseclans",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ra_awomanof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14242,
+    "title": "Horses of the North",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ra_horsesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14243,
+    "title": "A Man Called Milo Morai",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ra_amancall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14244,
+    "title": "The Memories of Milo Morai",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ra_thememor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14245,
+    "title": "Trumpets of War",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ra_trumpets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14246,
+    "title": "Madman's Army",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ra_madmansa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14247,
+    "title": "The Clan of the Cats",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ra_theclano.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14311,
+    "title": "Magic in Ithkar",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "anra_Ithkar1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14312,
+    "title": "Magic in Ithkar 2",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "anra_Ithkar2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14313,
+    "title": "Magic in Ithkar 3",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "anra_Ithkar3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14314,
+    "title": "Magic in Ithkar 4",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "anra_Ithkar4.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

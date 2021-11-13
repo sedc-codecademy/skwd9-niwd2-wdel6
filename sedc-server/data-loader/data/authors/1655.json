@@ -1,0 +1,317 @@
+[
+  {
+    "id": 7054,
+    "title": "The Silvered",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "th_silvered.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35665,
+    "title": "Relative Magic",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "TH_Relative.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24392,
+    "title": "What Ho, Magic!",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "th_whathoma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7055,
+    "title": "The Fire's Stone",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "th_firessto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7045,
+    "title": "The Enchantment Emporium",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "th_enchantm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7046,
+    "title": "The Wild Ways ",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "th_wildways.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9656,
+    "title": "The Future Falls",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "th_thefutur.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6052,
+    "title": "Summon the Keeper",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "th_summonth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6053,
+    "title": "The Second Summoning",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "th_thesecon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6054,
+    "title": "Long Hot Summoning",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "th_longhots.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14052,
+    "title": "An Ancient Peace",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "th_anancien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23290,
+    "title": "A Peace Divided",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "th_apeacedi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28424,
+    "title": "The Privilege of Peace",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "th_theprivi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7050,
+    "title": "Sing the Four Quarters",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "th_singthef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7051,
+    "title": "Fifth Quarter",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "th_fifthqua.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7052,
+    "title": "No Quarter ",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "th_noquarte.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7053,
+    "title": "The Quartered Sea ",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "th_quartere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12119,
+    "title": "Gate of Darkness, Circle of Light",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "th_gateofda.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7047,
+    "title": "Smoke and Shadows ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "th_smokesha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7048,
+    "title": "Smoke and Mirrors ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "th_smokemir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7049,
+    "title": "Smoke and Ashes ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "th_smokeash.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3840,
+    "title": "Valor's Choice",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "th_valorsch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3841,
+    "title": "The Better Part of Valor",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "th_thebette.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3842,
+    "title": "The Heart of Valor",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "th_theheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3843,
+    "title": "Valor's Trial",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "th_valorstr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3844,
+    "title": "The Truth of Valor",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "th_thetruth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10643,
+    "title": "Blood Price",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "TH_bloodpri.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 10644,
+    "title": "Blood Trail",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "TH_bloodtra.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10645,
+    "title": "Blood Lines",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "TH_bloodlin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10646,
+    "title": "Blood Pact",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "TH_bloodpac.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10647,
+    "title": "Blood Debt",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "TH_blooddeb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10648,
+    "title": "Blood Bank",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "TH_bloodban.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34624,
+    "title": "Wizard of the Grove",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "th_wizardof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34622,
+    "title": "Child of the Grove",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "th_childof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34623,
+    "title": "The Last Wizard",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "th_thelastw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 19477,
+    "title": "The Rise of Io",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "wc_theriseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31704,
+    "title": "The Fall of Io",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "wc_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8091,
+    "title": "The Lives of Tao",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "wc_thelives.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8092,
+    "title": "The Deaths of Tao",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "wc_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11282,
+    "title": "Rebirths of Tao",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "wc_therebir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19099,
+    "title": "The Days of Tao",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "wc_thedayso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11667,
+    "title": "Time Salvager",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "wc_timesalv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17703,
+    "title": "Time Siege",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "wc_timesieg.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

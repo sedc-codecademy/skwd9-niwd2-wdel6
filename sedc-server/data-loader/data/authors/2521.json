@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9744,
+    "title": "The Marching Dead",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lb_themarch.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9743,
+    "title": "The Corpse-Rat King",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lb_thecorpse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9745,
+    "title": "Through Soft Air",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lb_throughs.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

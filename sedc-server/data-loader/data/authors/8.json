@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1783,
+    "title": "Dark Benediction",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "wmm_darkbene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21217,
+    "title": "The Darfsteller",
+    "year": 1955,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7,
+    "title": "A Canticle for Leibowitz",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "wmmj_acanticl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 710,
+    "title": "Saint Leibowitz and the Wild Horse Woman",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "wmm_saintlei.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

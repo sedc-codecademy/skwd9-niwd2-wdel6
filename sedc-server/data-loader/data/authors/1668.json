@@ -1,0 +1,119 @@
+[
+  {
+    "id": 9681,
+    "title": "Dead Reckoning",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mlre_deadreck.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33866,
+    "title": "Murder by Magic: Twenty Tales of Crime and the Supernatural",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "RE_Murderby.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31891,
+    "title": "The Warslayer",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RE_Warslaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10156,
+    "title": "Beyond World's End",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mlre_beyondwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10157,
+    "title": "Spirits White as Lightning",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mlre_spiritsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10158,
+    "title": "Mad Maudlin",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mlre_madmaudl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10159,
+    "title": "Music to My Sorrow",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mlre_musictom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3917,
+    "title": "The Shadow of Albion",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "anre_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3918,
+    "title": "Leopard in Exile",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "anre_leopardi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7009,
+    "title": "Legacies",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mlre_legacies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7010,
+    "title": "Conspiracies",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mlre_conspira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7011,
+    "title": "Sacrifices",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mlre_sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7012,
+    "title": "Victories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mlre_victories.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

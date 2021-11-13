@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1896,
+    "title": "Mister Gum",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rh_mistergu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20259,
+    "title": "Engelbrecht Again!",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "RH_Engelbre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20300,
+    "title": "A New Universal History of Infamy",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "RH_ANewUniv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23003,
+    "title": "Eternal Horizon",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20258,
+    "title": "The Smell of Telescopes",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "RH_TheSmell.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

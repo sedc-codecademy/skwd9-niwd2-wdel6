@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11049,
+    "title": "Cannonbridge",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jb_cannonbr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8256,
+    "title": "The Somnambulist",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "JB_TheSomna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8257,
+    "title": "The Domino Men",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "JB_TheDomin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

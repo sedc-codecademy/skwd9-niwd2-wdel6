@@ -1,0 +1,36 @@
+[
+  {
+    "id": 25978,
+    "title": "A Shadow All of Light",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "fc_ashadowa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16233,
+    "title": "The Silent Woman",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23745,
+    "title": "The Lodger",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "fc_thelodge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23947,
+    "title": "The Somewhere Doors",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

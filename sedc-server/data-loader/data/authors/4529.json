@@ -1,0 +1,44 @@
+[
+  {
+    "id": 19694,
+    "title": "Awakening",
+    "year": 2007,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19899,
+    "title": "Bear Daughter",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jb_beardaug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19898,
+    "title": "The Fear Gun",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35816,
+    "title": "Lord Stink and Other Stories",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JB_SordStin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19999,
+    "title": "The Window",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

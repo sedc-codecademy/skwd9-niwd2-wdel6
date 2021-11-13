@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15600,
+    "title": "Konrad",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dg_konrad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15601,
+    "title": "Shadowbreed",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "dg_shadowbr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15602,
+    "title": "Warblade",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dg_warblade.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

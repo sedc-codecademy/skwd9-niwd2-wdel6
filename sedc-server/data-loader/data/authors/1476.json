@@ -1,0 +1,47 @@
+[
+  {
+    "id": 36356,
+    "title": "The Freedom Artist",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "bo_thefreed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17381,
+    "title": "Starbook",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bo_starbook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17380,
+    "title": "Astonishing the Gods",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "bo_astonish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3183,
+    "title": "The Famished Road",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bo_thefamis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17382,
+    "title": "Infinite Riches",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "bo_infinite.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

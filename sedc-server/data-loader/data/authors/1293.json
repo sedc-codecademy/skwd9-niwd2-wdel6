@@ -1,0 +1,288 @@
+[
+  {
+    "id": 36658,
+    "title": "Firewalkers",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "AT_firewalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32400,
+    "title": "Cage of Souls",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "at_cageofso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35516,
+    "title": "Made Things",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "at_madethin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34005,
+    "title": "Walking to Aldebaran",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "at_walkingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28113,
+    "title": "The Expert System's Brother",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "at_theexper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25647,
+    "title": "Dogs of War",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "at_dogsofwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30166,
+    "title": "Dress Rehearsal",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19218,
+    "title": "Spiderlight",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "at_spiderli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23224,
+    "title": "Children of Dagon",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10979,
+    "title": "Guns of the Dawn",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "at_gunsofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25376,
+    "title": "Ironclads",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "at_ironclad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28415,
+    "title": "Redemption's Blade",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "at_redempti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18417,
+    "title": "Children of Time",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "at_children.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32420,
+    "title": "Children of Ruin",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "at_childruin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22412,
+    "title": "The Tiger and the Wolf",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "at_thetiger.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22413,
+    "title": "The Bear and the Serpent",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "at_thebeara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27869,
+    "title": "The Hyena and the Hawk",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "at_thehyena.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27445,
+    "title": "Feast and Famine",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "at_feastand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2308,
+    "title": "Empire in Black and Gold",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "at_empirein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2309,
+    "title": "Dragonfly Falling",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "at_dragonfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2310,
+    "title": "Blood of the Mantis",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "at_bloodoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2311,
+    "title": "Salute the Dark",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "at_saluteth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4137,
+    "title": "The Scarab Path",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "at_thescara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5702,
+    "title": "The Sea Watch",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "at_theseawa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5703,
+    "title": "Heirs of the Blade",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "at_heirsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5704,
+    "title": "The Air War",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "at_theairwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5705,
+    "title": "War Master's Gate",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "at_warmaste.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10977,
+    "title": "Seal of the Worm",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "at_thesealo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29085,
+    "title": "Spoils of War",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "at_spoilsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29087,
+    "title": "A Time for Grief",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "at_atimefor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29089,
+    "title": "For Love of Distant Shores",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "at_forloveo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29091,
+    "title": "The Scent of Tears",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "at_thescent.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

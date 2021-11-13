@@ -1,0 +1,20 @@
+[
+  {
+    "id": 13288,
+    "title": "Main Event",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jdl_maineven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13293,
+    "title": "D.R.T.",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jdl_drt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": 28673,
+    "title": "Troll Blood",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23483,
+    "title": "Flight",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35221,
+    "title": "The Blue Hawk",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "PD_BlueHawk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 455,
+    "title": "The Green Gene",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "pd_thegreen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6443,
+    "title": "The Ropemaker",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pd_theropem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6444,
+    "title": "Angel Isle",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pd_angelisl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35559,
+    "title": "Water: Tales of Elemental Spirits",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RM_WaterTal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35560,
+    "title": "Fire: Tales of Elemental Spirits",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RM_FireTale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24238,
+    "title": "Earth and Air:  Tales of Elemental Creatures",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pd_earthand.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

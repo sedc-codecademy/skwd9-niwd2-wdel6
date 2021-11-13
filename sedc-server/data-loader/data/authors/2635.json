@@ -1,0 +1,137 @@
+[
+  {
+    "id": 32016,
+    "title": "We Think, Therefore We Are",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pc_wethinkt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32150,
+    "title": "Forbidden Planets",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pc_forbidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32307,
+    "title": "Constellations: The Best of New British SF",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pc_constell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24685,
+    "title": "Mars Probes",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pc_marsprob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24684,
+    "title": "Moon Shots",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pc_moonshot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10337,
+    "title": "Dante's Disciples",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "eekpc_dantesdi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27658,
+    "title": "Escardy Gap",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pcjl_escardyg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10332,
+    "title": "Tombs",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "eekpc.tombs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24994,
+    "title": "Foursight",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pc_foursigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24995,
+    "title": "Futures",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pc_futures.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25418,
+    "title": "Infinities",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pc_infiniti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25419,
+    "title": "Cities",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pc_cities.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27655,
+    "title": "Narrow Houses",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pc_narrowho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27656,
+    "title": "Touch Wood",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pc_touchwoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27657,
+    "title": "Blue Motel",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pc_bluemote.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

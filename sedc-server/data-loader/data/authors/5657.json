@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35340,
+    "title": "Strange Grace",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "TG_StrangeG.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27070,
+    "title": "The Queens of Innis Lear",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tg_queensof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34442,
+    "title": "Lady Hotspur",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "TG_LadyHots.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

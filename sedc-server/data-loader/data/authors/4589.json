@@ -1,0 +1,92 @@
+[
+  {
+    "id": 20202,
+    "title": "Dark Passions, Book One",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SW_darkpas1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20203,
+    "title": "Dark Passions, Book Two",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SW_darkpas2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20194,
+    "title": "One Small Step",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SW_onesmall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20200,
+    "title": "What Lay Beyond",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "PD_whatlayb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20204,
+    "title": "The Badlands, Book One",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "SW_badland1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20205,
+    "title": "The Badlands, Book Two",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "SW_badland2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20212,
+    "title": "The Tempest",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sw_thetempe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20215,
+    "title": "The Best and the Brightest",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sw_thebesta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20214,
+    "title": "Sins of Commission",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sw_sinsofco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20213,
+    "title": "Violations",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sw_violatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

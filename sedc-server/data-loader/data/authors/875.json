@@ -1,0 +1,72 @@
+[
+  {
+    "id": 6493,
+    "title": "Attack of the Jazz Giants and Other Stories ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gf_attackof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16179,
+    "title": "Madonna of the Maquiladora",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19984,
+    "title": "How Meersh the Bedeviler Lost His Toes",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6560,
+    "title": "The Pure Cold Light",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gf_purecold.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6559,
+    "title": "Lyrec",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gf_lyrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6402,
+    "title": "Shadowbridge",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gf_shadowbr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6403,
+    "title": "Lord Tophet",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gf_lordtoph.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 873,
+    "title": "Fitcher's Brides",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gf_fitchers.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

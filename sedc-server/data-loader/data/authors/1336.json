@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2608,
+    "title": "The Passage",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jc_thepassa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6645,
+    "title": "The Twelve",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jc_thetwelv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18164,
+    "title": "The City of Mirrors",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jc_thecity.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

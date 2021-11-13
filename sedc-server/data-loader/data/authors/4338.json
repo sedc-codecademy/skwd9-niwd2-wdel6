@@ -1,0 +1,325 @@
+[
+  {
+    "id": 36009,
+    "title": "Split Heirs",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "LWE_SplitHei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18407,
+    "title": "Crosstime Traffic",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lwe_crosstim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18733,
+    "title": "Newer York: Stories of Science Fiction and Fantasy About the World's Greatest City",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lwe_neweryor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36011,
+    "title": "Denner's Wreck",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "LWE_DennersW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18406,
+    "title": "Why I Left Harry's All-Night Hamburgers",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36010,
+    "title": "Shining Steel",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "LWE_ShiningS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21452,
+    "title": "The Wizard Lord",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lwe_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21453,
+    "title": "The Ninth Talisman",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lwe_theninth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21454,
+    "title": "The Summer Palace",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lwe_thesumme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21442,
+    "title": "A Young Man Without Magic",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lwe_ayoungma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21443,
+    "title": "Above His Proper Station",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lwe_abovehis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21459,
+    "title": "The Misenchanted Sword",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lwe_themisen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21460,
+    "title": "With a Single Spell",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lwe_withasin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21461,
+    "title": "The Unwilling Warlord",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lwe_theunwil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21462,
+    "title": "The Blood of a Dragon",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lwe_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21463,
+    "title": "Taking Flight",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "lwe_takingfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21464,
+    "title": "The Spell of the Black Dagger",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "lwe_thespell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21465,
+    "title": "Night of Madness",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lwe_nightofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21466,
+    "title": "Ithanalin's Restoration",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lwe_ithanali.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21467,
+    "title": "The Spriggan Mirror",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lwe_thesprig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21468,
+    "title": "The Vondish Ambassador",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lwe_thevondi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21469,
+    "title": "The Unwelcome Warlock",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lwe_theunwel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21470,
+    "title": "The Sorcerer's Widow",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lwe_thesorce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21471,
+    "title": "Relics of War",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lwe_relicsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21455,
+    "title": "The Lure of the Basilisk",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "lwe_thelureo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21456,
+    "title": "The Seven Altars of Dusarra",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "lwe_theseven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21457,
+    "title": "The Sword of Bheleu",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "lwe_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21458,
+    "title": "The Book of Silence",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "lwe_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21449,
+    "title": "Dragon Weather",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lwe_dragonwe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21450,
+    "title": "The Dragon Society",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lwe_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21451,
+    "title": "Dragon Venom",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lwe_dragonve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21444,
+    "title": "Out of This World",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lwe_outofthi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21445,
+    "title": "In the Empire of Shadow",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lwe_intheemp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21446,
+    "title": "The Reign of the Brown Magician",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lwe_thereign.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21447,
+    "title": "The Cyborg and the Sorcerers",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lwe_thecybor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21448,
+    "title": "The Wizard and the War Machine",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lwe_wizardan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

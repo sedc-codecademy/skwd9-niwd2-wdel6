@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36513,
+    "title": "Thorn",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ik_thorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21832,
+    "title": "Sunbolt",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "IK_sunbolt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21833,
+    "title": "Memories of Ash",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "IK_memories.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

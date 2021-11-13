@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35637,
+    "title": "Doll's Eyes",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "BW_DollsEye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35639,
+    "title": "Twins",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "BW&JG_Twins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34340,
+    "title": "The Tribe",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "bw_thetribe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

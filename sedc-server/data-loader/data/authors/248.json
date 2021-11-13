@@ -1,0 +1,56 @@
+[
+  {
+    "id": 253,
+    "title": "Autumn Angels",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "abc_autumnan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17850,
+    "title": "The Platypus of Doom and Other Nihilists",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "abc_theplaty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17851,
+    "title": "An East Wind Coming",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "abc_aneastwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32504,
+    "title": "Flash Gordon",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ABC_FlashGor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32505,
+    "title": "Planetfall",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ABC_Planetfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32506,
+    "title": "Stationfall",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ABC_Stationf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

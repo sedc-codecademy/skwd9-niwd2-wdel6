@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5935,
+    "title": "The Remaining",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "djm_theremai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5936,
+    "title": "Aftermath",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "djm_aftermat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6085,
+    "title": "Refugees",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "djm_refugees.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6086,
+    "title": "Fractured",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "djm_fracture.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

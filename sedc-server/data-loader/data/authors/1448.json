@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3111,
+    "title": "House of Leaves",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mzd_houseofl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11668,
+    "title": "The Familiar:  One Rainy Day in May ",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "md_familiar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

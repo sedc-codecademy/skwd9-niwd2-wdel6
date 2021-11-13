@@ -1,0 +1,47 @@
+[
+  {
+    "id": 18595,
+    "title": "The Clockwork Scarab",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cg_theclock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18596,
+    "title": "The Spiritglass Charade",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cg_thespiri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18597,
+    "title": "The Chess Queen Enigma",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cg_thechess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32483,
+    "title": "The Carnelian Crow",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cg_thecarne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35539,
+    "title": "The Zeppelin Deception",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "CG_zeppelin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

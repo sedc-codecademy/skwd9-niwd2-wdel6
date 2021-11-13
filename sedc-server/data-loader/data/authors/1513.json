@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9221,
+    "title": "Call to Arms",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_calltoar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3273,
+    "title": "Descent of Angels: Loyalty and honour",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ms_descento.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26370,
+    "title": "Imperial Guard Omnibus",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "slspms_imperial.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26355,
+    "title": "Fifteen Hours",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ms_fifteenh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

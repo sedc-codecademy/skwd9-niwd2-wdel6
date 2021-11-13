@@ -1,0 +1,47 @@
+[
+  {
+    "id": 28511,
+    "title": "Flight or Fright",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "skbv_flightor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16395,
+    "title": "The Dark Tower Companion:  A Guide to Stephen King's Epic Fantasy",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "BV_darktowe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16398,
+    "title": "Twenty-First Century King",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "BV_twentyfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16397,
+    "title": "The Good, The Bad, & the Ugly:  Eight Secondary Characters from the Dark Tower",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "BV_goodbad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16396,
+    "title": "The Road to the Dark Tower:  Exploding Stephen King's Magnum Opus",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "BV_roaddark.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

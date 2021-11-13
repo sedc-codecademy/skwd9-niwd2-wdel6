@@ -1,0 +1,38 @@
+[
+  {
+    "id": 23471,
+    "title": "Night Visions 4",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pjm_nightv04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23473,
+    "title": "Night Visions 6",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pjm_nightv06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23475,
+    "title": "Night Visions 8",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pjm_nightv08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23476,
+    "title": "Night Visions 9",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pjm_nightv09.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

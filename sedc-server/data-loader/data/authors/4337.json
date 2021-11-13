@@ -1,0 +1,54 @@
+[
+  {
+    "id": 24050,
+    "title": "Shaunessy Fong",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "wfw_shauness.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24047,
+    "title": "The Shade of Lo Man Gong",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "wfw_theshade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33865,
+    "title": "Masterplay",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "WFW_Masterpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18404,
+    "title": "Hong's Bluff",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18405,
+    "title": "Wong's Lost and Found Emporium",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28287,
+    "title": "Wong's Lost and Found Emporium and Other Oddities",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "wfw_acm28.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

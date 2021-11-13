@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17876,
+    "title": "Seeing the Light",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ecb_seeingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17877,
+    "title": "Drowning in Amber",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ecb_drowning.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36574,
+    "title": "Stalking the Dead",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ecb_stalking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36575,
+    "title": "Dying on Second",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ecb_dyingons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36576,
+    "title": "Hearing Voices",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ecb_hearingv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36577,
+    "title": "Haunting the Haunted",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ecb_haunting.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

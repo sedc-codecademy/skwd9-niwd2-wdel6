@@ -1,0 +1,47 @@
+[
+  {
+    "id": 15565,
+    "title": "The Alchemist's Daughter",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ek_alchemis.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15564,
+    "title": "The Snow Queen",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ek_snowquee.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15561,
+    "title": "Journey to Aprilioth",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ek_journeyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15562,
+    "title": "Songs from the Drowned Lands",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ek_songsfro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15563,
+    "title": "The Sarsen Witch",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ek_sarsenwi.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

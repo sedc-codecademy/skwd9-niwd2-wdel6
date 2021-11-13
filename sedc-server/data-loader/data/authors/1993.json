@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5605,
+    "title": "Generation V",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mlb_generati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15907,
+    "title": "Iron Night",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mlb_ironnigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15906,
+    "title": "Tainted Blood",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mlb_taintedb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15905,
+    "title": "Dark Ascension",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mlb_darkasce.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

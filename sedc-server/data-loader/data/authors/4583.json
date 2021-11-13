@@ -1,0 +1,28 @@
+[
+  {
+    "id": 20159,
+    "title": "A Wild Swan",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "MC_AWildSwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23649,
+    "title": "In the Machine",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23650,
+    "title": "Specimen Days",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mc_specimen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

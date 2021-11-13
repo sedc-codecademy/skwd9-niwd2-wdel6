@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13609,
+    "title": "The Unnoticeables:  A Novel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RB_unnotice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21778,
+    "title": "The Empty Ones:  A Novel",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RB_emptyone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26564,
+    "title": "Kill All Angels",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rb_killalla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

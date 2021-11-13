@@ -1,0 +1,47 @@
+[
+  {
+    "id": 27695,
+    "title": "You Know How the Story Goes",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "toh_youknowh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16038,
+    "title": "The Day the World Turned Upside Down",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "toh_ssdaythe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17168,
+    "title": "Hex",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "toh_hex.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16036,
+    "title": "The Ink Readers of Doi Saket",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "toh_theinkre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16037,
+    "title": "The Boy Who Cast No Shadow",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "toh_theboywh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

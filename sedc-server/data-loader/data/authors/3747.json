@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15503,
+    "title": "Six Heirs",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pg_sixheirs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15504,
+    "title": "The Orphans' Promise",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pg_theorpha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15505,
+    "title": "Shadow of the Ancients",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pg_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13917,
+    "title": "Alien Contact",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "MH_aliencon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13918,
+    "title": "Is Anybody Out There?",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "MH_isanybod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35281,
+    "title": "Witpunk",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "CL&MH_Witpunk.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

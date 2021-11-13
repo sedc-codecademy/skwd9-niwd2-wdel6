@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34566,
+    "title": "Pile of Bones",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bc_pileofbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34567,
+    "title": "Path of Smoke",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bc_pathofsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34568,
+    "title": "Prize of Night",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bc_prizeofn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

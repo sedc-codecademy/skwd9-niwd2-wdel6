@@ -1,0 +1,45 @@
+[
+  {
+    "id": 17738,
+    "title": "The Cure for Everything",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17741,
+    "title": "The Golem",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6411,
+    "title": "The Annunciate",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sp_theannun.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12210,
+    "title": "Speaking Dreams",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sf_speaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2820,
+    "title": "Hand of Prophecy",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sp_handofpr.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

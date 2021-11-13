@@ -1,0 +1,38 @@
+[
+  {
+    "id": 8460,
+    "title": "A Box of Dreams",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "DM_ABoxOfDr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8457,
+    "title": "Memoirs of a Gnostic Dwarf",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "DM_MemoirsO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8459,
+    "title": "Orlando Crispe's Flesh-Eater's Cookbook",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "DM_OrlandoC.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8458,
+    "title": "Confessions of a Flesh-Eater",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "DM_Confessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

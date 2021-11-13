@@ -1,0 +1,209 @@
+[
+  {
+    "id": 15025,
+    "title": "Voices",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jv_voices.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15028,
+    "title": "Blood Oath",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jv_bloodoat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17117,
+    "title": "Behind Enemy Lines",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jv_dwbook1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17119,
+    "title": "Tunnel Through the Stars",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jv_dwbook3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19342,
+    "title": "Antimatter",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jv_antimatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20354,
+    "title": "Aftershock",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "JV_aftersho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19334,
+    "title": "Masks",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jv_masks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19335,
+    "title": "Contamination",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jv_contamin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19336,
+    "title": "War Drums",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jv_wardrums.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19337,
+    "title": "Rogue Saucer",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jv_roguesau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19338,
+    "title": "Gemworld: Book One",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jv_gemworl1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19339,
+    "title": "Gemworld: Book Two",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jv_gemworl2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18768,
+    "title": "A Time to Be Born",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jv_timetobe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18769,
+    "title": "A Time to Die",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jv_timetodi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19145,
+    "title": "Quarantine",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jv_quaranti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20358,
+    "title": "Capture the Flag",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "JV_capturef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20359,
+    "title": "Crossfire",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "JV_crosfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18764,
+    "title": "The Genesis Wave: Book One",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jv_gwbook1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18765,
+    "title": "The Genesis Wave: Book Two",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jv_gwbook2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18766,
+    "title": "The Genesis Wave: Book Three",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jv_gwbook3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18767,
+    "title": "Genesis Force",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jv_genesisf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19340,
+    "title": "Sanctuary",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jv_sanctuar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19341,
+    "title": "Mind Meld",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jv_mindmeld.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 5336,
+    "title": "Gone Girl",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gf_gonegirl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18825,
+    "title": "What Do You Do? a.k.a. The Grownup",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "GF_WhatDoYo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

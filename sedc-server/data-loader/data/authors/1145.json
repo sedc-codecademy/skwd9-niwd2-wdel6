@@ -1,0 +1,83 @@
+[
+  {
+    "id": 8777,
+    "title": "Strange Tales",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rk_stranget.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9153,
+    "title": "With the Night Mail and As Easy as A.B.C.",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rk_withthen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1816,
+    "title": "The Mark of the Beast",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rk_themarko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18068,
+    "title": "Puck of Pook's Hill",
+    "year": 1906,
+    "type": "novel",
+    "imageName": "RK_PuckOfPo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18067,
+    "title": "Just So Stories",
+    "year": 1902,
+    "type": "novel",
+    "imageName": "RK_JustSoSt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17509,
+    "title": "The Phantom 'Rickshaw and Other Eerie Tales",
+    "year": 1888,
+    "type": "novel",
+    "imageName": "rk_thephant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18074,
+    "title": "The Jungle Books",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "RK_Jungle0.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18069,
+    "title": "The Jungle Book",
+    "year": 1894,
+    "type": "novel",
+    "imageName": "RK_Jungle1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18071,
+    "title": "The Second Jungle Book",
+    "year": 1895,
+    "type": "novel",
+    "imageName": "RK_Jungle2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8782,
+    "title": "The Sunday Books",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mmmp_thesunda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21356,
+    "title": "Boy in Darkness and Other Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "MP_BoyInDar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34808,
+    "title": "Peake's Progress",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "MP_peakesp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6750,
+    "title": "Letters from a Lost Uncle",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "MP_LettersF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3186,
+    "title": "Titus Groan",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "mp_titusgro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3190,
+    "title": "Gormenghast",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "mp_gormengh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3191,
+    "title": "Titus Alone",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "mp_titusalo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3192,
+    "title": "Titus Awakes",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mp_titusawa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

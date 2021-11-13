@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36347,
+    "title": "Body Farm Z",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ds_bodyfarmz.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36349,
+    "title": "Contrition",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ds_contriti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36348,
+    "title": "Devil Dragon",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ds_devildra.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

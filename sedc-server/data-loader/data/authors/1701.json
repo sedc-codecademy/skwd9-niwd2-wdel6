@@ -1,0 +1,74 @@
+[
+  {
+    "id": 19251,
+    "title": "A City Dreaming",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dp_acitydre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20577,
+    "title": "meat+drink",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dp_meatdrin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14567,
+    "title": "The Builders",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dp_thebuild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11056,
+    "title": "Those Above",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dp_thoseabo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17699,
+    "title": "Those Below",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dp_thosebel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4104,
+    "title": "Low Town",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dp_lowtown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11005,
+    "title": "Tomorrow the Killing",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dp_tomorrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11006,
+    "title": "She Who Waits",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dp_shewhowa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

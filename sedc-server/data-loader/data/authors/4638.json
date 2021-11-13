@@ -1,0 +1,47 @@
+[
+  {
+    "id": 24269,
+    "title": "Fata Morgana",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "srbkm_fatamorg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20599,
+    "title": " Mortality Bridge",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "srb_mortalit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20600,
+    "title": "The Architect of Sleep",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "srb_thearchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20597,
+    "title": "Ariel",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "srb_ariel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20598,
+    "title": "Elegy Beach",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "srb_elegybea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5340,
+    "title": "Seraphina",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rh_seraphin.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 21923,
+    "title": "Shadow Scale",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RH_shadowsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27782,
+    "title": "Tess of the Road",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rh_tessofth.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

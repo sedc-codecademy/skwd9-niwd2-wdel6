@@ -1,0 +1,110 @@
+[
+  {
+    "id": 32794,
+    "title": "Starsong",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DP_Starsong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14774,
+    "title": "The Covenant of the Forge",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dp_thecoven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14775,
+    "title": "Hammer and Axe",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dp_hammeran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14776,
+    "title": "The Swordsheath Scroll",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dp_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14740,
+    "title": "The Gates of Thorbardin",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dp_thegates.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14854,
+    "title": "The Gully Dwarves",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dp_thegully.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32795,
+    "title": "The Whispers",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "DP_Whispers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32796,
+    "title": "Faces of Infinity",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DP_FacesofI.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32797,
+    "title": "Paradox Gate",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DP_ParadoxG.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32798,
+    "title": "Viper's Spawn",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "DP_VipersSp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32799,
+    "title": "The Scavenger",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "DP_Scavenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32800,
+    "title": "Blood Ties",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DP_BloodTie.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

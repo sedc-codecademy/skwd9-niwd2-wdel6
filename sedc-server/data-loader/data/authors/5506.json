@@ -1,0 +1,137 @@
+[
+  {
+    "id": 31875,
+    "title": "The Master of Evil",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "DCS_Masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31876,
+    "title": "Sorrowing Vengeance",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "DCS_Sorrowin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31877,
+    "title": "The Passing of the Gods",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "DCS_Passingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25628,
+    "title": "Oron",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "DS_oron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25630,
+    "title": "The Sorcerer's Shadow",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "DS_sorcerer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25634,
+    "title": "Mosutha's Magic",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "DS_mosuthas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25637,
+    "title": "The Valley of Ogrum",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "DS_valleyof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25639,
+    "title": "The Ghost Army",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "DS_ghostarm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25603,
+    "title": "The Ring of Ikribu",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "DS_ringofik.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25604,
+    "title": "Demon Night",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "DS_demonnig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25605,
+    "title": "When Hell Laughs",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "DS_whenhell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25608,
+    "title": "Endithor's Daughter",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "DS_endithor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25609,
+    "title": "Against the Prince of Hell",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "DS_againstp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25612,
+    "title": "Star of Doom",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "DS_stardoom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31878,
+    "title": "The Witch of the Indies",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "DCS_Witchoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

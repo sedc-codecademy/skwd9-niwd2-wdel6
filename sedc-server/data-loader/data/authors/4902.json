@@ -1,0 +1,56 @@
+[
+  {
+    "id": 23047,
+    "title": "Ecdysis",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jb_ecdysis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23241,
+    "title": "Mental Diplopia",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jb_mentaldi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22090,
+    "title": "The Virtual Swallows of Hog Island",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jb_thevirtu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36633,
+    "title": "Pure",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JB_pure.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36634,
+    "title": "Fuse",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JB_fuse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36635,
+    "title": "Burn",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JB_burn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1885,
+    "title": "Ghost Monster",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sc_ghostmon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1240,
+    "title": "The Midnight Man",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sc_themidni.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1176,
+    "title": "The Night of the Triffids",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sc_thenight.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23869,
+    "title": "Case of the Bedevilled Poet:  A Sherlock Holmes Enigma",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sc_caseofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34922,
+    "title": "Secrets of the Dead",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "SC_Secretso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34923,
+    "title": "This Rage of Echoes",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "SC_ThisRage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23641,
+    "title": "Exorcising Angels",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34924,
+    "title": "King Blood",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "SC_KingBloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1146,
+    "title": "Blood Crazy",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sc_bloodcra.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9145,
+    "title": "The Dalek Factor",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sc_thedalek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1166,
+    "title": "Vampyrrhic",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sc_vampyrrh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1185,
+    "title": "Vampyrrhic Rites",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sc_vamprite.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34925,
+    "title": "Whitby Vampyrrhic",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "SC_WhitbyVa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34926,
+    "title": "His Vampyrrhic Bride",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "SC_HisVampy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34927,
+    "title": "Her Vampyrrhic Heart",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "SC_HerVampy.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

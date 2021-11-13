@@ -1,0 +1,47 @@
+[
+  {
+    "id": 34270,
+    "title": "A Hazardous Engagement",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "gs_ahazardo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5845,
+    "title": "Babylon Steel",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gs_babylons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5846,
+    "title": "Dangerous Gifts",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gs_dangerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7330,
+    "title": "Shanghai Sparrow",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gs_shanghai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36567,
+    "title": "Sparrow Falling",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gs_sparrowf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

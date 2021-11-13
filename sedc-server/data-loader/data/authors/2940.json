@@ -1,0 +1,83 @@
+[
+  {
+    "id": 34051,
+    "title": "Aurora Rising",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "akjk_aurising.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15934,
+    "title": "Illuminae",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ak_jk_illumina.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20473,
+    "title": "Gemina",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "akjk_gemina.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27022,
+    "title": "Obsidio",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "akjk_obsidio.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11519,
+    "title": "These Broken Stars",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ak_ms_thesebro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11520,
+    "title": "This Shattered World",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ak_ms_thisshat.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 11521,
+    "title": "Their Fractured Light",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ak_ms_theirfra.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27021,
+    "title": "Unearthed",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "akms_unearthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34050,
+    "title": "Undying",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "akms_undying.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 18349,
+    "title": "Happily Ever After",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "KC_HappilyE.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18345,
+    "title": "The Selection",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "KC_TheSelec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18346,
+    "title": "The Elite",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "KC_TheElite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18347,
+    "title": "The One",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "KC_TheOne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18348,
+    "title": "The Heir",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "KC_TheHeir.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

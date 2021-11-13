@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8013,
+    "title": "From Other Shores:  An Omnibus",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "co_fromother.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18015,
+    "title": "Ghost Town",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8012,
+    "title": "The Shores of Another Sea",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "co_theshoresof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8011,
+    "title": "Unearthly Neighbors",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "co_unearthly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35935,
+    "title": "The Winds of Time",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "CO_windtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8010,
+    "title": "Shadows in the Sun",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "co_shadows.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8008,
+    "title": "A Star Above It:  Selected Stories Volume 1",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "co_astarabove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8009,
+    "title": "Far From This Earth:  Selected Stories Volume 2",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "co_farfromthis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10372,
+    "title": "Mists of Dawn",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "co_mistsofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

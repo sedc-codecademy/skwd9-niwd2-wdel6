@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19216,
+    "title": "Chains",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ajh_chains.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19400,
+    "title": "Steeplejack",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ajh_steeplej.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24045,
+    "title": "Firebrand",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ajh_firebran.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

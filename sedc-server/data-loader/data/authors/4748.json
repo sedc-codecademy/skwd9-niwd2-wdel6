@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21155,
+    "title": "The Root",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ngt_theroot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27006,
+    "title": "The Tree",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ngt_thetree.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34180,
+    "title": "The Fruit",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ngt_thefruit.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

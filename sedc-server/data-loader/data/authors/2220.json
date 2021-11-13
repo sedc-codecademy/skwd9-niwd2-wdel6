@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25361,
+    "title": "Artemis:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AW_artemis.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8279,
+    "title": "The Martian",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "aw_themarti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36075,
+    "title": "Randomize",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "AW_randomiz.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

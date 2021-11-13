@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36598,
+    "title": "The Heritage of Heinlein:  A Critical Reading of the Fiction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tdcjs_heritage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22826,
+    "title": "Robert Silverberg",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "TC_robertsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22827,
+    "title": "Frederik Pohl",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "TC_frederik.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22828,
+    "title": "John Wyndham",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tdc_johnwynd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

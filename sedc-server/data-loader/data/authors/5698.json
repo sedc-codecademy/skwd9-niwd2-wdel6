@@ -1,0 +1,28 @@
+[
+  {
+    "id": 27391,
+    "title": "Obsidian Harvest",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27395,
+    "title": "High Aztech",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "eh_highazte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27394,
+    "title": "Cortez on Jupiter",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "eh_cortezon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

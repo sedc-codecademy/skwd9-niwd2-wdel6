@@ -1,0 +1,56 @@
+[
+  {
+    "id": 11629,
+    "title": "The Price of the Phoenix",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "sm_mc_priceoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11630,
+    "title": "The Fate of the Phoenix",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "sm_mc_fateofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11631,
+    "title": "Star Trek: The New Voyages",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "sm_mc_newvoyag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11632,
+    "title": "Star Trek: The New Voyages 2",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "sm_mc_newvoya2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11634,
+    "title": "The Prometheus Design",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sm_mc_promethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11635,
+    "title": "Triangle",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sm_mc_triangle.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

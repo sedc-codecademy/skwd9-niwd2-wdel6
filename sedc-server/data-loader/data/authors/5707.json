@@ -1,0 +1,38 @@
+[
+  {
+    "id": 27466,
+    "title": "Promise of Shadows",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ji_promiseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27467,
+    "title": "Vengeance Bound",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ji_vengeanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27465,
+    "title": "Dread Nation",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ji_dreadnat.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 35874,
+    "title": "Deathless Divide",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "JI_deathles.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

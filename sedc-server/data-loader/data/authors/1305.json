@@ -1,0 +1,416 @@
+[
+  {
+    "id": 36561,
+    "title": "Made to Order: Robots and Revolution",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "js_madetoor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34797,
+    "title": "Mission Critical",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "js_missionc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18897,
+    "title": "Drowned Worlds",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "js_drownedw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24232,
+    "title": "Under My Hat:  Tales from the Cauldron",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "js_undermyh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2388,
+    "title": "Life on Mars:  Tales from the New Frontier",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "js_lifeonma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24233,
+    "title": "Godlike Machines",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_godlikem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9454,
+    "title": "Swords & Dark Magic",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jsla_swordsda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25100,
+    "title": "Wings of Fire",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jsmsj_wingsoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28917,
+    "title": "The Starry Rift:  Tales of New Tomorrows",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "js_thestarr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3032,
+    "title": "The Best Science Fiction and Fantasy of the Year:  Volume One",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_bestsff1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3033,
+    "title": "The Best Science Fiction and Fantasy of the Year:  Volume Two",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "js_bestsff2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3034,
+    "title": "The Best Science Fiction and Fantasy of the Year:  Volume Three",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_bestsff3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3035,
+    "title": "The Best Science Fiction and Fantasy of the Year:  Volume Four",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_bestsff4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3036,
+    "title": "The Best Science Fiction and Fantasy of the Year:  Volume Five",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "js_bestsff5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4732,
+    "title": "The Best Science Fiction and Fantasy of the Year:  Volume Six",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "js_bestsff6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4733,
+    "title": "The Best Science Fiction and Fantasy of the Year:  Volume Seven",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "js_bestsff7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6780,
+    "title": "The Best Science Fiction and Fantasy of the Year: Volume Eight",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "js_tbsffoty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12063,
+    "title": "The Best Science Fiction and Fantasy of the Year: Volume Nine",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "js_bsffoty9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17961,
+    "title": "The Best Science Fiction and Fantasy of the Year: Volume Ten",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "js_bsffoy10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22150,
+    "title": "The Best Science Fiction and Fantasy of the Year: Volume Eleven",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "js_tbsff11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27342,
+    "title": "The Best Science Fiction and Fantasy of the Year: Volume Twelve",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "js_tbsfaf12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33973,
+    "title": "The Best Science Fiction & Fantasy of the Year: Volume Thirteen",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "js_tbsff13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19461,
+    "title": "Best Short Novels:  2004",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "js_bsnv2004.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19462,
+    "title": "Best Short Novels:  2005",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "js_bsnv2005.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19463,
+    "title": "Best Short Novels:  2006",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "js_bsnv2006.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19464,
+    "title": "Best Short Novels:  2007",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_bsnv2007.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3037,
+    "title": "Eclipse One:  New Science Fiction and Fantasy",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_eclipse1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3038,
+    "title": "Eclipse Two:  New Science Fiction and Fantasy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "js_eclipse2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3039,
+    "title": "Eclipse Three:  New Science Fiction and Fantasy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_eclipse3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3040,
+    "title": "Eclipse Four:  New Science Fiction and Fantasy",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "js_eclipse4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19925,
+    "title": "Fantasy:  The Best of 2004",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "khjs_fant2004.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19926,
+    "title": "Fantasy:  The Very Best of 2005",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "js_fant2005.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2387,
+    "title": "Engineering Infinity",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_engineer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7457,
+    "title": "Edge of Infinity",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "js_edgeofin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7458,
+    "title": "Reach for Infinity",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "js_reachfor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16280,
+    "title": "Meeting Infinity",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "js_meetingi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20409,
+    "title": "Bridging Infinity",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "js_bridging.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24977,
+    "title": "Infinity Wars",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "js_infiwars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28414,
+    "title": "Infinity's End",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "js_infinend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9612,
+    "title": "Fearsome Journeys",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "js_fearsome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9613,
+    "title": "Fearsome Magics",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "js_femagics.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4182,
+    "title": "The New Space Opera",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gdjs_tnso1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4183,
+    "title": "The New Space Opera 2",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gdjs_tnso2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18608,
+    "title": "Science Fiction: The Best of 2003",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "khjs_sfbo2003.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18609,
+    "title": "Science Fiction: The Best of 2004",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "khjs_sfbo2004.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19938,
+    "title": "Science Fiction:  The Very Best of 2005",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "js_sftvbo05.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

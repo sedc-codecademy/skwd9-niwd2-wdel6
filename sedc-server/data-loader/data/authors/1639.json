@@ -1,0 +1,56 @@
+[
+  {
+    "id": 18970,
+    "title": "The End of the Dream",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "pw_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10456,
+    "title": "Gladiator",
+    "year": 1930,
+    "type": "novel",
+    "imageName": "PW_gladiato.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3726,
+    "title": "The Disappearance",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "pw_thedisap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10458,
+    "title": "The Savage Gentleman",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "PW_savageg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3727,
+    "title": "When Worlds Collide",
+    "year": 1933,
+    "type": "novel",
+    "imageName": "pweb_whenworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10418,
+    "title": "After Worlds Collide",
+    "year": 1934,
+    "type": "novel",
+    "imageName": "PW_afterwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

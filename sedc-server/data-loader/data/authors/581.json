@@ -1,0 +1,305 @@
+[
+  {
+    "id": 34266,
+    "title": "Big Cat & Other Stories",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "gj_bigcatan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20650,
+    "title": "Proof of Concept",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gj_proofofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20092,
+    "title": "Emergence",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26996,
+    "title": "Bricks, Sticks, Straw",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6401,
+    "title": "The Universe of Things",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gj_theunive.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27147,
+    "title": "The Vicar of Mars",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19354,
+    "title": "Grazing the Long Acre",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gj_grazingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1855,
+    "title": "Spirit",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gj_spirit.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 666,
+    "title": "Life",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gj_life.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 16214,
+    "title": "La Cenerentola",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gj_lacenere.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16213,
+    "title": "Balinese Dancer",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gj_balinese.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26750,
+    "title": "Red Sonja and Lessingham in Dreamland",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23000,
+    "title": "The Grass Princess",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22999,
+    "title": "Seven Tales and a Fable",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gj_sevental.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 639,
+    "title": "Kairos",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gj_kairos.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26725,
+    "title": "The Snow Apples",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 649,
+    "title": "Escape Plans",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "gj_escapepl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 626,
+    "title": "White Queen",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gj_whiteque.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 611,
+    "title": "North Wind",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gj_northwin.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1571,
+    "title": "Phoenix Café",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gj_phoenixc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 585,
+    "title": "Bold as Love",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gj_boldaslo.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1102,
+    "title": "Castles Made of Sand",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gj_castlesm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 582,
+    "title": "Midnight Lamp",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gj_midnight.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1580,
+    "title": "Band of Gypsies",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gj_bandofgy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1581,
+    "title": "Rainbow Bridge",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gj_rainbowb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31881,
+    "title": "The Ki-anna",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31970,
+    "title": "Collision",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26636,
+    "title": "Saving Tiamaat",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17678,
+    "title": "The Tomb Wife",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26638,
+    "title": "The Voyage Out",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26417,
+    "title": "The Fulcrum",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26637,
+    "title": "The Buonarotti Quartet",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gj_thebuona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13865,
+    "title": "Divine Endurance",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gj_divineen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13971,
+    "title": "Deconstructing the Starships:  Science, Fiction and Reality",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "GJ_deconstr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35905,
+    "title": "Joanna Russ",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GJ_JoannaRu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

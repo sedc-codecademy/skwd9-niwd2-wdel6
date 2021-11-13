@@ -1,0 +1,38 @@
+[
+  {
+    "id": 27688,
+    "title": "Want",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cp_want.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14641,
+    "title": "Serpentine",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cp_serpentine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9154,
+    "title": "Silver Phoenix",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cp_silverph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9156,
+    "title": "Fury of the Phoenix",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cp_furyofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,735 @@
+[
+  {
+    "id": 27941,
+    "title": "Starlight Express",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24421,
+    "title": "The Witch Who Came in from the Cold",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lsmgcrcitms_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19299,
+    "title": "Not So Much Said the Cat",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ms_notsomuc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22233,
+    "title": "Passage of Earth",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27267,
+    "title": "The She-Wolf's Hidden Grin",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16462,
+    "title": "The Dala Horse",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ms_thedalah.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26415,
+    "title": "For I Have Lain Me Down on the Stone of Loneliness and I'll Not Be Back Again",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27005,
+    "title": "Libertarian Russia",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31936,
+    "title": "Steadfast Castle",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16324,
+    "title": "The Trains that Climb the Winter Tree",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mseg_thetrain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22858,
+    "title": "The Armies of Elfland",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24183,
+    "title": "Hope-in-the-Mist: The Extraordinary Career and Mysterious Life of Hope Mirrlees",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ms_hopeinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16271,
+    "title": "Zeppelin City",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mseg_zeppelin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5317,
+    "title": "The Best of Michael Swanwick",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ms_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17599,
+    "title": "From Babel's Fall'n Glory We Fled…",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32048,
+    "title": "The Scarecrow's Boy",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5318,
+    "title": "The Dog Said Bow-Wow",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ms_thedogsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26472,
+    "title": "The Skysailor's Tale",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21274,
+    "title": "A Small Room in Koboldtown",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26622,
+    "title": "Urdumheim",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19808,
+    "title": "Lord Weary's Empire",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26512,
+    "title": "Tin Marsh",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32229,
+    "title": "The Periodic Table of Science Fiction",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ms_theperio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26379,
+    "title": "Triceratops Summer",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32489,
+    "title": "Coyote at the End of History",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26302,
+    "title": "King Dragon",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20879,
+    "title": "Legions in Time",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 58,
+    "title": "Bones of the Earth",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ms_bonesoft.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 21276,
+    "title": "'Hello,' Said the Stick",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17598,
+    "title": "Slow Life",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ms_slowlife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16344,
+    "title": "Being Gardner Dozois",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "MS_BeingGar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32678,
+    "title": "Under's Game",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21287,
+    "title": "Moon Dogs",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21328,
+    "title": "Moon Dogs (collection)",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "MS_MoonDogs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24041,
+    "title": "The Raggle Taggle Gypsy-O",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5319,
+    "title": "Tales of Old Earth",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ms_talesofo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17750,
+    "title": "Ancient Engines",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17739,
+    "title": "Scherzo with Tyrannosaur",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17752,
+    "title": "Radiant Doors",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21288,
+    "title": "The Very Pulse of the Machine",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19798,
+    "title": "Wild Minds",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24420,
+    "title": "A Geography of Unknown Lands",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ms_ageograp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 79,
+    "title": "Jack Faust",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ms_jackfaus.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 16353,
+    "title": "The Postmodern Archipelago",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "MS_ThePostm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26602,
+    "title": "The Wisdom of Old Earth",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17038,
+    "title": "The Dead",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19767,
+    "title": "Radio Waves",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21289,
+    "title": "Walking Out",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23966,
+    "title": "The Changeling's Tale",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19208,
+    "title": "Cold Iron",
+    "year": 1993,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6578,
+    "title": "Gravity's Angels",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ms_gravitys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19207,
+    "title": "Griffin's Egg",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ms_griffins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 102,
+    "title": "Stations of the Tide",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ms_stations.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 19707,
+    "title": "The Edge of the World",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27761,
+    "title": "The Dragon Line",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9415,
+    "title": "Vacuum Flowers",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ms_vacuumfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26634,
+    "title": "Covenant of Souls",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18780,
+    "title": "Dogfight",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17995,
+    "title": "The Gods of Mars",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9836,
+    "title": "In the Drift",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ms_inthedri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26456,
+    "title": "Golden Apples of the Sun",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19206,
+    "title": "Marrow Death",
+    "year": 1984,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18789,
+    "title": "Trojan Horse",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19853,
+    "title": "The Man Who Met Picasso",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18824,
+    "title": "Mummer Kiss",
+    "year": 1981,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26645,
+    "title": "Touring",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17601,
+    "title": "The Feast of Saint Janis",
+    "year": 1980,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18831,
+    "title": "Ginungagap",
+    "year": 1980,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13286,
+    "title": "Chasing the Phoenix",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ms_chasingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4065,
+    "title": "Dancing with Bears",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ms_dancingw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17600,
+    "title": "The Dog Said Bow-Wow",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21275,
+    "title": "The Little Cat Laughed to See Such Sport",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32228,
+    "title": "Girls and Boys, Come Out to Play",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28685,
+    "title": "Tawny Petticoats",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 616,
+    "title": "The Iron Dragon's Daughter",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ms_theirond.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1237,
+    "title": "The Dragons of Babel",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ms_thedrago.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 33986,
+    "title": "The Iron Dragon's Mother",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ms_idmother.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16525,
+    "title": "The Mongolian Wizard",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ms_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16565,
+    "title": "The Fire Gown",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ms_thefireg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16566,
+    "title": "Day of the Kraken",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ms_dayofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16567,
+    "title": "The House of Dreams",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ms_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16685,
+    "title": "The Night of the Salamander",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ms_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16687,
+    "title": "The Pyramid of Krakow",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ms_thepyram.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16688,
+    "title": "The Phantom in the Maze",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ms_thephant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33893,
+    "title": "Murder in the Spook House",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ms_murderin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34390,
+    "title": "The New Prometheus",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ms_thenewpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16660,
+    "title": "The Woman Who Shook the World-Tree",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ms_womanwho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

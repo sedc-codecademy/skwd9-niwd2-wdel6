@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6817,
+    "title": "Archangel Protocol",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lm_archange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6818,
+    "title": "Fallen Host",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lm_fallenho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6820,
+    "title": "Messiah Node ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lm_messiahn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 669,
+    "title": "Apocalypse Array",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lm_apocalyp.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

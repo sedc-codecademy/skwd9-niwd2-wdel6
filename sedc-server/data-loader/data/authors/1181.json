@@ -1,0 +1,83 @@
+[
+  {
+    "id": 28905,
+    "title": "The Seven Whistlers",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "abcg_theseven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1879,
+    "title": "Death's Daughter",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ab_deathsda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4795,
+    "title": "Cat's Claw",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ab_catsclaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4792,
+    "title": "Serpent's Storm",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ab_serpents.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4794,
+    "title": "How to be Death",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ab_howtobed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4793,
+    "title": "The Golden Age of Death",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ab_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19573,
+    "title": "The Witches of Echo Park",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ab_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19574,
+    "title": "The Last Dream Keeper",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ab_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23607,
+    "title": "The End of Magic",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ab_endofmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

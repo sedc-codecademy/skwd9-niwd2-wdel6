@@ -1,0 +1,324 @@
+[
+  {
+    "id": 7183,
+    "title": "A Pleasure to Burn:  Fahrenheit 451 Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rb_apleasur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20071,
+    "title": "We'll Always Have Paris:  Stories",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rb_wellalwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13778,
+    "title": "Now and Forever:  Somewhere a Band is Playing & leviathan '99",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "RB_nowforev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20073,
+    "title": "The Cat's Pajamas",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rb_thecatsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13692,
+    "title": "Bradbury Stories:  100 of His Most Celebrated Tales",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "RB_bradbury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20065,
+    "title": "One More For the Road",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rb_onemoref.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 876,
+    "title": "From the Dust Returned",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "rb_fromthed.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 34092,
+    "title": "Driving Blind",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rb_drivingb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34093,
+    "title": "Mr. Pale",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4036,
+    "title": "Quicker Than the Eye",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rb_quickkert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20072,
+    "title": "Green Shadows, White Whale",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rb_greensha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4035,
+    "title": "A Graveyard for Lunatics:  Another Tale of Two Cities",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rb_agraveya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7966,
+    "title": "The Toynbee Convector ",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rb_thetoynb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4033,
+    "title": "Death is a Lonely Business",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rb_deathisa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24212,
+    "title": "The Stories of Ray Bradbury",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rb_thestorie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28621,
+    "title": "Long After Midnight",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "rb_longafte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4038,
+    "title": "The Halloween Tree",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rb_thehallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18245,
+    "title": "I Sing the Body Electric!",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "RB_ISingThe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4664,
+    "title": "S is for Space",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "rb_sisforsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9725,
+    "title": "The Machineries of Joy",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "rb_themachi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4663,
+    "title": "R is for Rocket",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "rb_risforro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31569,
+    "title": "The Small Assassin",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "RB_smallasa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9724,
+    "title": "The Day it Rained Forever",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "rb_thedayit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25589,
+    "title": "The Dragon",
+    "year": 1955,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4037,
+    "title": "The October Country",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "rb_theoctob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1966,
+    "title": "Fahrenheit 451",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "rb_fahrenhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4034,
+    "title": "The Golden Apples of the Sun",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "rb_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18022,
+    "title": "Timeless Stories for Today and Tomorrow",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "RB_Timeless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2138,
+    "title": "The Illustrated Man",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "rb_theillus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1965,
+    "title": "The Martian Chronicles",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "rb_themarti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20066,
+    "title": "Classic Stories 1:  From the Golden Apples of the Sun and R Is for Rocket",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rb_classic1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20067,
+    "title": "Classic Stories 2:  From A Medicine for Melancholy and S Is for Space",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rb_classic2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3612,
+    "title": "Dandelion Wine",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "rb_dandelio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4039,
+    "title": "Farewell Summer",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rb_farewell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1822,
+    "title": "Something Wicked This Way Comes",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "rb_somethin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4040,
+    "title": "Summer Morning, Summer Night",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rb_summermo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

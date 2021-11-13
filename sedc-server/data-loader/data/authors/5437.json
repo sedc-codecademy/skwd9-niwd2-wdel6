@@ -1,0 +1,37 @@
+[
+  {
+    "id": 35536,
+    "title": "Cries from the Static",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "DS_CriesSta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35535,
+    "title": "A Rhapsody for the Eternal",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "DS_Rhapsody.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25167,
+    "title": "Transtexting Pose",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35534,
+    "title": "A Dirge for the Temporal",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "DS_DirgeTem.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

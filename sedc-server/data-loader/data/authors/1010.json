@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1013,
+    "title": "Infoquake",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dle_infoquak.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1636,
+    "title": "MultiReal",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dle_multirea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1637,
+    "title": "Geosynchron",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dle_geosynch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

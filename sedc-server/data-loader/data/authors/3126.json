@@ -1,0 +1,20 @@
+[
+  {
+    "id": 12023,
+    "title": "Enemy Glory",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "km_enemyglo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12025,
+    "title": "Hecate's Glory",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "km_hecatesg.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

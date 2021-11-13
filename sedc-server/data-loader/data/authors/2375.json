@@ -1,0 +1,38 @@
+[
+  {
+    "id": 8937,
+    "title": "Last Man Running",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cb_lastmanr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8955,
+    "title": "Corpse Marker",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cb_corpsema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9059,
+    "title": "Psi-Ence Fiction",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cb_psiencef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9106,
+    "title": "Match of the Day",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cb_matchoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

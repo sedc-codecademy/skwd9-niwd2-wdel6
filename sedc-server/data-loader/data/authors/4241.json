@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17506,
+    "title": "The 100",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "km_the100.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17507,
+    "title": "Day 21",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "km_the100da.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17508,
+    "title": "Homecoming",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "km_the100ho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

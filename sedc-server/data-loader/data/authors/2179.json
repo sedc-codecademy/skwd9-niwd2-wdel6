@@ -1,0 +1,101 @@
+[
+  {
+    "id": 28314,
+    "title": "City of Ghosts",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ves_cityofgh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16899,
+    "title": "Warm Up",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ves_warmup.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14363,
+    "title": "The Archived",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "vs_thearchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14364,
+    "title": "The Unbound",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "vs_theunbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11357,
+    "title": "A Darker Shade of Magic",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ves_adarkers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16444,
+    "title": "A Gathering of Shadows",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ves_agatheri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21562,
+    "title": "A Conjuring of Light",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ves_aconjuri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19597,
+    "title": "This Savage Song",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "veb_thissava.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25884,
+    "title": "Our Dark Duet",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "VS_ourdarkd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8079,
+    "title": "Vicious",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "VES_Vicious.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28313,
+    "title": "Vengeful",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ves_vengeful.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

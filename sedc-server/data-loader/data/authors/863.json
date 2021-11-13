@@ -1,0 +1,63 @@
+[
+  {
+    "id": 19471,
+    "title": "Getting to Know You:  Stories",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dm_gettingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19495,
+    "title": "The Wedding Album:  Love is Just Science Fiction",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dm_theweddi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 861,
+    "title": "Counting Heads",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dm_counting.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 8149,
+    "title": "Mind Over Ship",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "DM_MindOver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27497,
+    "title": "Getting to Know You",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20024,
+    "title": "We Were Out of Our Minds with Joy",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25680,
+    "title": "First Contact",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dm_firstcon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6614,
+    "title": "The Thief Lord",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cf_thethief.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3663,
+    "title": "Inkheart",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cf_inkheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3648,
+    "title": "Inkspell",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cf_inkspell.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3664,
+    "title": "Inkdeath",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cf_inkdeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

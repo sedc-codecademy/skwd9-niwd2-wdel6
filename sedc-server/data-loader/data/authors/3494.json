@@ -1,0 +1,56 @@
+[
+  {
+    "id": 14105,
+    "title": "The Clan of the Cave Bear",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jma_theclano.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14106,
+    "title": "The Valley of Horses",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jma_thevalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14107,
+    "title": "The Mammoth Hunters",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jma_themammo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14108,
+    "title": "The Plains of Passage",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jma_theplain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14109,
+    "title": "The Shelters of Stone",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jma_theshelt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14110,
+    "title": "The Land of Painted Caves",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jma_thelando.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

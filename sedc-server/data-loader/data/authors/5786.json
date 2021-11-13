@@ -1,0 +1,20 @@
+[
+  {
+    "id": 28001,
+    "title": "We See Everything",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ws_weseeeve.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28000,
+    "title": "Concentr8",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ws_concentr8.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

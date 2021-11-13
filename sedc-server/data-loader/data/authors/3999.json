@@ -1,0 +1,38 @@
+[
+  {
+    "id": 33913,
+    "title": "Graveyard Mind",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cg_graveyar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16582,
+    "title": "Thunder Road",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cg_thunderr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16583,
+    "title": "Tombstone Blues",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cg_tombston.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16584,
+    "title": "Too Far Gone",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cg_toofargo.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

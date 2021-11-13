@@ -1,0 +1,20 @@
+[
+  {
+    "id": 17279,
+    "title": "Magic Moon",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "WH_magicmoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17280,
+    "title": "Children of Magic Moon",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "WH_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

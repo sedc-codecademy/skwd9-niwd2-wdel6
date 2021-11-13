@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24329,
+    "title": "The High Kings",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jc_thehighk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4353,
+    "title": "Red Moon and Black Mountain",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jc_redmoona.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5076,
+    "title": "The Grey Mane of Morning",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jc_thegreym.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5077,
+    "title": "When Voiha Wakes",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jc_whenvoih.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

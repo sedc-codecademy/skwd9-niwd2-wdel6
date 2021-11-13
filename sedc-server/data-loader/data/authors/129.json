@@ -1,0 +1,250 @@
+[
+  {
+    "id": 34080,
+    "title": "More Walls Broken",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tp_morewall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26041,
+    "title": "Down and Out in Purgatory:  The Collected Stories of Tim Powers",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tp_downandout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19567,
+    "title": "Down and Out in Purgatory",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tp_downando.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16433,
+    "title": "Medusa's Web",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tp_medusasw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19491,
+    "title": "Salvage and Demolition",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tp_salvagea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3887,
+    "title": "Hide Me Among the Graves",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tp_hidemeam.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24161,
+    "title": "The Bible Repairman and Other Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tp_thebible.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24162,
+    "title": "A Journey of Only Two Paces",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26432,
+    "title": "The Bible Repairman",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tp_biblerep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1011,
+    "title": "Three Days to Never",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tp_threeday.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23539,
+    "title": "Strange Itineraries",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tp_strangei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 135,
+    "title": "Declare",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tp_dclare.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 24370,
+    "title": "Night Moves and Other Stories",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tp_nightmov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7634,
+    "title": "On Pirates",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "JPB&TP_OnPirate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23538,
+    "title": "Where They Are Hid",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23948,
+    "title": "The Better Boy",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 750,
+    "title": "The Stress of Her Regard",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tp_thestres.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 759,
+    "title": "On Stranger Tides",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tp_onstrang.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23486,
+    "title": "Night Moves",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 205,
+    "title": "Dinner at Deviant's Palace",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tp_dinnerat.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1808,
+    "title": "The Drawing of the Dark",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tp_thedrawi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11568,
+    "title": "Nobody's Home",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tp_NobodysH.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 562,
+    "title": "The Anubis Gates",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tp_theanubi.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 736,
+    "title": "Last Call",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tp_lastcall.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 160,
+    "title": "Expiration Date",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tp_expirati.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 712,
+    "title": "Earthquake Weather",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tp_earthqua.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 28119,
+    "title": "Alternate Routes",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tp_alternat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36312,
+    "title": "Forced Perspectives",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "tp_forcedpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

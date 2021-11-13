@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5848,
+    "title": "Grave Witch",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kp_gravewit.JPG",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5849,
+    "title": "Grave Dance",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kp_gravedan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5850,
+    "title": "Grave Memory",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kp_gravemem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5851,
+    "title": "Once Bitten",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kp_oncebitt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5852,
+    "title": "Twice Dead",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kp_twicedea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

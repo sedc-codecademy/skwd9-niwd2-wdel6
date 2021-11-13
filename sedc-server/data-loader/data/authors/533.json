@@ -1,0 +1,134 @@
+[
+  {
+    "id": 12793,
+    "title": "Time and Robbery",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ro_timeandr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1654,
+    "title": "Centuries Ago and Very Fast",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ro_centurie.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25202,
+    "title": "Acid and Stoned Reindeer",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1049,
+    "title": "Time's Child",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ro_timeschi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12792,
+    "title": "Outlaw School",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ro_outlawsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23009,
+    "title": "Scarey Rose in Deep History",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12791,
+    "title": "Gaia's Toys",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ro_gaiastoy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12790,
+    "title": "Slow Funeral",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ro_slowfune.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12794,
+    "title": "Alien Bootlegger and Other Stories",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ro_alienboo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12789,
+    "title": "The Illegal Rebirth of Billy the Kid",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ro_theilleg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16139,
+    "title": "Accelerated Grimace",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 540,
+    "title": "Becoming Alien",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ro_becoming.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 534,
+    "title": "Being Alien",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ro_beingali.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12788,
+    "title": "Human to Human",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ro_humantoh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26180,
+    "title": "Alien Bootlegger",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ro_alienboot.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

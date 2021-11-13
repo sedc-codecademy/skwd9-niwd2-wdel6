@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21174,
+    "title": "The Wonderful O",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "JT_TheWonder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21172,
+    "title": "The 13 Clocks",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "JT_13Clocks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21173,
+    "title": "The White Deer",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "JT_TheWhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

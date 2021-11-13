@@ -1,0 +1,20 @@
+[
+  {
+    "id": 13119,
+    "title": "Armada:  A Novel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "EC_armada.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3630,
+    "title": "Ready Player One",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ec_readypla.jpg",
+    "nominations": 3,
+    "wins": -1
+  }
+]

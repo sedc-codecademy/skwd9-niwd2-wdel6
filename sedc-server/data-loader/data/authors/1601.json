@@ -1,0 +1,46 @@
+[
+  {
+    "id": 34673,
+    "title": "Second Lives",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pdc_secondli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3584,
+    "title": "The Wind Caller",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pdc_thewindc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35690,
+    "title": "Bell, Book & Beyond",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "PDC_BellBook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24020,
+    "title": "Canyons",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pdc_canyons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23997,
+    "title": "Dust Motes",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

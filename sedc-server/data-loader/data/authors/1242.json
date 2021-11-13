@@ -1,0 +1,576 @@
+[
+  {
+    "id": 16456,
+    "title": "Can & Can'tankerous",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "he_cancanta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11567,
+    "title": "The Top of the Volcano:  The Award-Winning Stories of Harlan Ellison",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "he_TheTopOf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17670,
+    "title": "How Interesting: A Tiny Man",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17722,
+    "title": "Goodbye to All That",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2062,
+    "title": "Troublemakers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ht_troublem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9437,
+    "title": "Slippage:  Previously Uncollected, Precariously Poised Stories",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "he_slippage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19252,
+    "title": "Mefisto in Onyx",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "he_mefistoi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17853,
+    "title": "The Man Who Rowed Christopher Columbus Ashore",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4268,
+    "title": "The Harlan Ellison Hornbook",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "he_theharla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4265,
+    "title": "Harlan Ellison's Watching",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "he_harlanel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3987,
+    "title": "Angry Candy",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "he_angrycan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21016,
+    "title": "The Function of Dream Sleep",
+    "year": 1988,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9414,
+    "title": "The Essential Ellison:  A 35-Year Retrospective",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "he_theessen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4262,
+    "title": "An Edge in My Voice",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "he_anedgein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7832,
+    "title": "Medea: Harlan's World",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "HE_Medea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18781,
+    "title": "Paladin of the Lost Hour",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24255,
+    "title": "Sleepless Nights in the Procrustean Bed",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "he_sleeples.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2055,
+    "title": "The Deadly Streets",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "he_thedeadl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2061,
+    "title": "Stalking the Nightmare",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "he_stalking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20745,
+    "title": "All the Lies That Are My Life",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "he_alltheli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2064,
+    "title": "Shatterday",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "he_shatterd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21295,
+    "title": "Count the Clock That Tells the Time",
+    "year": 1978,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2052,
+    "title": "Strange Wine",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "he_strangel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18121,
+    "title": "Jeffty Is Five",
+    "year": 1977,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21297,
+    "title": "Croatoan",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2046,
+    "title": "Deathbird Stories:  A Pantheon of Modern Gods",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "he_deathbir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2053,
+    "title": "No Doors, No Windows",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "he_nodoorsn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10989,
+    "title": "Phoenix Without Ashes",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ebhe_phoenixw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2056,
+    "title": "Rumble",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "he_webofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18165,
+    "title": "Shatterday",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21193,
+    "title": "Adrift Just Off the Islets of Langerhans: Latitude 38° 54' N, Longitude 77° 00' 13",
+    "year": 1974,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2065,
+    "title": "Approaching Oblivion",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "he_approach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31572,
+    "title": "The Time of the Eye",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "HE_thetimeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31571,
+    "title": "All the Sounds of Fear",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "he_alltheso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19108,
+    "title": "The Deathbird",
+    "year": 1973,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19016,
+    "title": "Basilisk",
+    "year": 1972,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18217,
+    "title": "On the Downhill Side",
+    "year": 1972,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8456,
+    "title": "Alone Against Tomorrow:  Stories of Alienation in Speculative Fiction",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "HE_AloneAga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2060,
+    "title": "Partners in Wonder",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "he_partners.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20425,
+    "title": "Brillo",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2057,
+    "title": "Over the Edge",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "he_overthee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2050,
+    "title": "The Beast That Shouted Love at the Heart of the World",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "he_thebeast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21299,
+    "title": "The Beast that Shouted Love",
+    "year": 1968,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4266,
+    "title": "Love Ain't Nothing But Sex Misspelled",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "he_loveaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18307,
+    "title": "Shattered Like a Glass Goblin",
+    "year": 1968,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2054,
+    "title": "From the Land of Fear",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "he_fromthel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2049,
+    "title": "I Have No Mouth and I Must Scream",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "he_ihavenom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21506,
+    "title": "I Have No Mouth, and I Must Scream",
+    "year": 1967,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19107,
+    "title": "Pretty Maggie Moneyeyes",
+    "year": 1967,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21514,
+    "title": "Delusion for a Dragon Slayer",
+    "year": 1966,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2051,
+    "title": "Paingod and Other Delusions",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "he_paingoda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18336,
+    "title": "'Repent, Harlequin!' Said the Ticktockman",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "he_repentha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2063,
+    "title": "Ellison Wonderland",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "he_ellisonw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4263,
+    "title": "Children of the Streets",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "he_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4264,
+    "title": "Gentleman Junkie and Other Stories of the Hung-Up Generation",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "he_gentlema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4267,
+    "title": "Memos From Purgatory",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "he_memosfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21294,
+    "title": "The Man With Nine Lives / A Touch of Infinity",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_themanwi_atouchof.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7287,
+    "title": "Five Fates",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "klpa_fivefate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19256,
+    "title": "The Region Between",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "he_theregio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2047,
+    "title": "Dangerous Visions",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "he_dangerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2048,
+    "title": "Again, Dangerous Visions",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "he_againdan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2059,
+    "title": "The City on the Edge of Forever",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "he_thecityo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11090,
+    "title": "Tor Double #32: Run For The Stars / Echoes of Thunder",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "HE_tordbl32.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28547,
+    "title": "Blood's a Rover",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "he_bloodsar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2058,
+    "title": "Vic and Blood",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "he_vicandbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19660,
+    "title": "A Boy and His Dog",
+    "year": 1969,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

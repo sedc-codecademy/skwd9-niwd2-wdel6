@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25545,
+    "title": "Bliss House",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "LB_blisshou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25546,
+    "title": "Charlotte's Story",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "LB_charlott.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25547,
+    "title": "The Abandoned Heart",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "LB_abandone.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

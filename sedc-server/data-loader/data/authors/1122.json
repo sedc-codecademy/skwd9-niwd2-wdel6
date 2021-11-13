@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5589,
+    "title": "The Grass King's Concubine",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ks_thegrass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1748,
+    "title": "Living with Ghosts",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ks_livingwi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34272,
+    "title": "Serpent Rose",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ks_serpentr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

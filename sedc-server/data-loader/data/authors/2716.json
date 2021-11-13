@@ -1,0 +1,146 @@
+[
+  {
+    "id": 10626,
+    "title": "Emissary",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "JD_emissary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11680,
+    "title": "Surak's Soul",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jmd_suraksso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10632,
+    "title": "The Expanse",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jmd_theexpan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11581,
+    "title": "Star Trek: The Final Frontier",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "vnm_stfinalf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11582,
+    "title": "Star Trek: The Undiscovered Country",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "vnm_stundisc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11583,
+    "title": "Star Trek: Generations",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jmd_stgenera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11584,
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jmd_stfirstc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11585,
+    "title": "Star Trek: Insurrection",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jmd_stinsurr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11586,
+    "title": "Star Trek: Nemesis",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jmd_stnemesi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11678,
+    "title": "Resistance",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jmd_resistan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11679,
+    "title": "Possession",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jmd_possessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11673,
+    "title": "Mindshadow",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jmd_mindshad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11674,
+    "title": "Demons",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jmd_demons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11675,
+    "title": "Bloodthirst",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jmd_bloodthi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11676,
+    "title": "The Lost Years",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jmd_lostyear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11677,
+    "title": "Recovery",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jmd_recovery.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

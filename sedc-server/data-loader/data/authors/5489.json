@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34604,
+    "title": "The Bone Ships",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rjb_thebones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25540,
+    "title": "Age of Assassins",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "RB_ageofass.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 25541,
+    "title": "Blood of Assassins",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "RB_bloodofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27999,
+    "title": "King of Assassins",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rjb_kingofas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

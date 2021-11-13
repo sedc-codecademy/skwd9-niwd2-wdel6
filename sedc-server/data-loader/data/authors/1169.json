@@ -1,0 +1,56 @@
+[
+  {
+    "id": 3860,
+    "title": "Artemis",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pp_artemis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2521,
+    "title": "Hell Ship",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pp_hellship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34260,
+    "title": "Morpho",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pp_morpho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2519,
+    "title": "Debatable Space",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pp_debatabl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1859,
+    "title": "Red Claw",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pp_redclaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2520,
+    "title": "Version 43",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pp_version43.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

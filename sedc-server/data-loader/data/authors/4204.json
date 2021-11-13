@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17389,
+    "title": "Redeemer:  The Cross Chronicles",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bo_theredee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17388,
+    "title": "Steamfunk!",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mdbo_steamfun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17390,
+    "title": "Moses:  The Chronicles of Harriet Tubman",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bo_mosesthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

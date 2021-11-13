@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24764,
+    "title": "The Leto Bundle",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mw_theletob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24767,
+    "title": "No Go the Bogeyman:  Scaring, Lulling, and Making Mock",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mw_nogotheb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24765,
+    "title": "Wonder Tales: Six Stories of Enchantment",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mw_wonderta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24766,
+    "title": "From the Beast to the Blonde:  On Fairy Tales and Their Tellers",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mw_fromtheb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

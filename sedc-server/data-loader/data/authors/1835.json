@@ -1,0 +1,127 @@
+[
+  {
+    "id": 13034,
+    "title": "Amazonas",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ar_amazonas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13033,
+    "title": "The Back of Beyond: New Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ar_thebacko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13032,
+    "title": "The Bones Wizard (collection)",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ar_thebones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13038,
+    "title": "Haunting Women",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ar_haunting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13037,
+    "title": "Vampires",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ar_vampires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13036,
+    "title": "Halloween Horrors",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ar_hallowee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13031,
+    "title": "Quadriphobia",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ar_quadriph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23877,
+    "title": "The Bones Wizard",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13030,
+    "title": "Cast a Cold Eye",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ar_castacol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13029,
+    "title": "Dead White",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ar_deadwhit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13028,
+    "title": "The Kill",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ar_thekill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13035,
+    "title": "Perpetual Light",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ar_perpetua.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13027,
+    "title": "Panther!",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ar_panther.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4628,
+    "title": "Night Visions 1",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ar_nightvis.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

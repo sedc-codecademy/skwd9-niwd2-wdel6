@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36360,
+    "title": "The Fictional Man",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ae_fictiona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9941,
+    "title": "Death Got No Mercy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ae_deathgot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14577,
+    "title": "I, Zombie",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ae_izombie.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

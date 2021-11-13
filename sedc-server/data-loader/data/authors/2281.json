@@ -1,0 +1,38 @@
+[
+  {
+    "id": 8600,
+    "title": "Full Spectrum",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "lasm_fullspec1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16254,
+    "title": "Full Spectrum 2",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "la_fullspe2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16255,
+    "title": "Full Spectrum 3",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "la_fullspe3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16257,
+    "title": "Full Spectrum 4",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "la_fullspe4.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

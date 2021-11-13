@@ -1,0 +1,29 @@
+[
+  {
+    "id": 31968,
+    "title": "Pandora's Legions",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "CA_Pandoras.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31965,
+    "title": "The Steel, The Mist, And The Blazing Sun",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "CA_SteelMis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31964,
+    "title": "The Day the Machines Stopped",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "CA_DayMachi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

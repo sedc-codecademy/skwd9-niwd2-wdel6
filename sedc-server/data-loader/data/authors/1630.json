@@ -1,0 +1,227 @@
+[
+  {
+    "id": 14816,
+    "title": "Intellivore",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dd_intelliv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14815,
+    "title": "Dark Mirror",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dd_darkmirr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14808,
+    "title": "The Wounded Sky",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dd_woundeds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14810,
+    "title": "Doctor's Orders",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dd_doctorso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14809,
+    "title": "Spock's World",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dd_spockswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5284,
+    "title": "My Enemy, My Ally",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dd_myenemym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14811,
+    "title": "The Romulan Way",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dd_romulanw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14812,
+    "title": "Swordhunt",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dd_swordhun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14813,
+    "title": "Honor Blade",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dd_honorbla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14814,
+    "title": "The Empty Chair",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dd_emptycha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32068,
+    "title": "The Levin-Gad",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dd_levingad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14321,
+    "title": "The Door Into Fire",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "dd_thedoori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14322,
+    "title": "The Door into Shadow",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dd_tdishado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14323,
+    "title": "The Door into Sunset",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "dd_tdisunse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36081,
+    "title": "The Landlady",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dd_landlady.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3665,
+    "title": "So You Want to be a Wizard",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dd_soyouwan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3666,
+    "title": "Deep Wizardry",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "dd_deepwiza.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3667,
+    "title": "High Wizardry",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dd_highwiza.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3668,
+    "title": "A Wizard Abroad",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dd_awizarda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3669,
+    "title": "The Wizard's Dilemma",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dd_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3656,
+    "title": "A Wizard Alone",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dd_wizardal.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3670,
+    "title": "Wizard's Holiday",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dd_wizardsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3671,
+    "title": "Wizards at War",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dd_wizardsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3672,
+    "title": "A Wizard of Mars",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dd_awizardo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20382,
+    "title": "Games Wizards Play",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dd_gameswiz.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

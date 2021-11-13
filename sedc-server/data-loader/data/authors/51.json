@@ -1,0 +1,260 @@
+[
+  {
+    "id": 36067,
+    "title": "The Oppenheimer Alternative",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "rjs_oppenhei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16452,
+    "title": "Quantum Night",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rjs_quantumn.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4716,
+    "title": "Red Planet Blues",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rjs_redplane.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3886,
+    "title": "Triggers",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rjs_triggers.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12113,
+    "title": "Identity Theft: And Other Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rjs_identity.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1037,
+    "title": "Rollback",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rjs_rollback.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 19453,
+    "title": "Identity Theft",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 858,
+    "title": "Mindscan",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rjs_mindscan.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21310,
+    "title": "Shed Skin",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 67,
+    "title": "Calculating God",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rjs_calculat.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 32807,
+    "title": "The Blue Planet",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1261,
+    "title": "Flashforward",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rjs_flashfor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1824,
+    "title": "Golden Fleece",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rjs_goldenfl.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 76,
+    "title": "Factoring Humanity",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rjs_factorin.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 78,
+    "title": "Frameshift",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rjs_frameshi.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21661,
+    "title": "The Hand You're Dealt",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rs_handyour.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12112,
+    "title": "Illegal Alien",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rjs_illegala.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 84,
+    "title": "Starplex",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rjs_starplex.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 163,
+    "title": "The Terminal Experiment",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rjs_thetermi.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 12111,
+    "title": "End of an Era",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rjs_endofane.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 50,
+    "title": "Hominids",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rjs_hominids.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 55,
+    "title": "Humans",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rjs_humans.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1259,
+    "title": "Hybrids",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rjs_hybrids.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1834,
+    "title": "Far-Seer",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rjs_far-seer.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2434,
+    "title": "Fossil Hunter",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rjs_fossilhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2435,
+    "title": "Foreigner",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rjs_foreigne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1260,
+    "title": "WWW: Wake",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rjs_wake.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 2208,
+    "title": "WWW: Watch",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rjs_watch.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2209,
+    "title": "WWW: Wonder",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rjs_wonder.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

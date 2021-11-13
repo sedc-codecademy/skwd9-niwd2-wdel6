@@ -1,0 +1,176 @@
+[
+  {
+    "id": 27301,
+    "title": "Quicken",
+    "year": 2013,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4338,
+    "title": "Science Fiction: The 101 Best Novels 1985-2010",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dbpdf_sfthe101.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27151,
+    "title": "The Beancounter's Cat",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16523,
+    "title": "Time Considered as a Series of Thermite Burns in No Particular Order",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "db_timecons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19799,
+    "title": "Under the Moons of Venus",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28946,
+    "title": "The Qualia Engine",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16269,
+    "title": "The Ruined Queen of Harvest World",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "db_theruine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19816,
+    "title": "This Wind Blowing, and This Tide",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11332,
+    "title": "Transcension",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "db_transcen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11513,
+    "title": "The Book of Revelation:  or Dark Gray",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "db_rb_bookofre.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24328,
+    "title": "Centaurus:  The Best of Australian Science Fiction",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dghdb_centauru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11331,
+    "title": "The White Abacus",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "db_thewhite.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11512,
+    "title": "Zones",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "db_rb_zones.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27540,
+    "title": "Schrödinger's Dog",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35759,
+    "title": "The Black Grail",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "DB_TheBlackG.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 444,
+    "title": "The Dreaming Dragons",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "db_thedream.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11337,
+    "title": "The Judas Mandala",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "db_thejudas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11514,
+    "title": "Godplayers",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "db_godplaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11515,
+    "title": "K-Machines",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "db_kmachine.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11576,
+    "title": "Beyond the Doors of Death",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rs_db_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

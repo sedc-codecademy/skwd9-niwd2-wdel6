@@ -1,0 +1,36 @@
+[
+  {
+    "id": 23408,
+    "title": "The Memorial Page",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6724,
+    "title": "That Book Your Mad Ancestor Wrote",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kjb_thatbook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22861,
+    "title": "Alsiso",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 868,
+    "title": "The Etched City",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "kjb_theetche.jpg",
+    "nominations": 3,
+    "wins": -1
+  }
+]

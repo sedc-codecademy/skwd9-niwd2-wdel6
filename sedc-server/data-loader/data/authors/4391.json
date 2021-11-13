@@ -1,0 +1,182 @@
+[
+  {
+    "id": 20929,
+    "title": "Collision Course",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "WS_collisio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20935,
+    "title": "Spectre",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "WS_spectre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20936,
+    "title": "Dark Victory",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "WS_darkvict.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20937,
+    "title": "Preserver",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "WS_preserve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20934,
+    "title": "Odyssey",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "WS_odyssey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20931,
+    "title": "The Ashes of Eden",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WS_theashso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20932,
+    "title": "The Return",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "WS_return.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20933,
+    "title": "Avenger",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "WS_avenger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20938,
+    "title": "Captain's Peril",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "WS_captains.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20939,
+    "title": "Captain's Blood",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "WS_capblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20940,
+    "title": "Captain's Glory",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "WS_capglory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18655,
+    "title": "TekWar",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ws_tekwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20921,
+    "title": "TekLords",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "WS_teklords.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20922,
+    "title": "TekLab",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "WS_teklab.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20923,
+    "title": "Tek Vengeance",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "WS_tekvenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20924,
+    "title": "Tek Secret",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "WS_teksecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20925,
+    "title": "Tek Power",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "WS_tekpower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20926,
+    "title": "Tek Money",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WS_tekmoney.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20927,
+    "title": "Tek Kill",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "WS_tekkill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20928,
+    "title": "Tek Net",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "WS_teknet.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

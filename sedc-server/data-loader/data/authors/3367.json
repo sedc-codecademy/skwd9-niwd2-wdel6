@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13366,
+    "title": "Star Ka'at",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "andm_starkaat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13367,
+    "title": "Star Ka'at World",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "andm_skaworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13368,
+    "title": "Star Ka'ats and the Plant People ",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "andm_plantpeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13369,
+    "title": "Star Ka'ats and the Winged Warriors",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "andm_wingedwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

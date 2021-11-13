@@ -1,0 +1,128 @@
+[
+  {
+    "id": 12339,
+    "title": "The Sorcerers' Plague",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dbc_thesorce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12340,
+    "title": "The Horsemen's Gambit",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dbc_thehorse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12341,
+    "title": "The Dark-Eyes' War",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dbc_thedarke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12321,
+    "title": "Spell Blind",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dbc_spellbli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17964,
+    "title": "His Father's Eyes",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dbc_hisfathe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17965,
+    "title": "Shadow's Blade",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dbc_shadowsb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30089,
+    "title": "Children of Amarid",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dbc_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30090,
+    "title": "The Outlanders",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dbc_theoutla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30091,
+    "title": "Eagle-Sage",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dbc_eaglesag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12283,
+    "title": "Rules of Ascension",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dbc_rulesofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12284,
+    "title": "Seeds of Betrayal ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dbc_seedsofb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12285,
+    "title": "Bonds of Vengeance ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dbc_bondsofv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12282,
+    "title": "Shapers of Darkness",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dbc_shaperso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12286,
+    "title": "Weavers of War ",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dbc_weaverso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

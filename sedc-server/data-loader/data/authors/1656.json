@@ -1,0 +1,99 @@
+[
+  {
+    "id": 27914,
+    "title": "Guardian Angels & Other Monsters",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dhw_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24781,
+    "title": "The Clockwork Dynasty",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dhw_theclock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23217,
+    "title": "God Mode",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14027,
+    "title": "Press Start to Play",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jjadhw_presssta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28797,
+    "title": "The Blue Afternoon That Lasted Forever",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7684,
+    "title": "Robot Uprisings",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jja_robotupr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4156,
+    "title": "Amped",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dhw_amped.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16268,
+    "title": "The Nostalgist",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dhw_thenosta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36505,
+    "title": "The Andromeda Evolution",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dhw_andromed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3869,
+    "title": "Robopocalypse",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dhw_robopoca.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5990,
+    "title": "Robogenesis",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dhw_robogene.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

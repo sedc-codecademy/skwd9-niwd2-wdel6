@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35920,
+    "title": "Enemy",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "KE_Enemy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35921,
+    "title": "Outlaw",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "KE_Outlaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35922,
+    "title": "Ally",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "KE_Ally.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35809,
+    "title": "How Rory Thorne Destroyed the Multiverse",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "KE_HowRoryT.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

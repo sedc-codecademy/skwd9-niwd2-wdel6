@@ -1,0 +1,20 @@
+[
+  {
+    "id": 515,
+    "title": "Bunch!",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "drb_bunch.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9387,
+    "title": "Moderan ",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "drb_moderan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

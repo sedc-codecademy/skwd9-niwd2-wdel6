@@ -1,0 +1,109 @@
+[
+  {
+    "id": 32032,
+    "title": "The Grays",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ws_thegrays.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17948,
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "WS_dayafter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17949,
+    "title": "Nature's End",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "WS_naturese.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23886,
+    "title": "Pain",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17946,
+    "title": "War Day and the Journey Onward",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "WS_warday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12415,
+    "title": "The Wolfen",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ws_thewolfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17900,
+    "title": "Alien Hunter",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ws_alienhun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17901,
+    "title": "Alien Hunter: Underworld",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ws_ahunderw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17902,
+    "title": "Alien Hunter: The White House",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ws_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17897,
+    "title": "The Hunger",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ws_thehunge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17898,
+    "title": "The Last Vampire",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ws_thelastv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17899,
+    "title": "Lilith's Dream: A Tale of the Vampire Life",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ws_lilithsd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

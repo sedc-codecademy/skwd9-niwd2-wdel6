@@ -1,0 +1,56 @@
+[
+  {
+    "id": 31915,
+    "title": "The Prince of Ill Luck",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "SD_Princeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31916,
+    "title": "The Wind-Witch",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "SD_thewindw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31917,
+    "title": "The True Knight",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "SD_TrueKnig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31912,
+    "title": "The Ring of Allaire",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "SD_RingofAl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31913,
+    "title": "The Sword of Calandra",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "SD_SwordofC.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31914,
+    "title": "The Mountains of Channadran",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "SD_Mountain.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16422,
+    "title": "Defining Diana",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ht_defining.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16423,
+    "title": "Steel Whispers",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ht_steelwhi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16424,
+    "title": "Stealing Home",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ht_stealing.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

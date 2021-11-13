@@ -1,0 +1,47 @@
+[
+  {
+    "id": 7016,
+    "title": "Death of an Ordinary Man ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gd_deathofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7017,
+    "title": "I, Lucifer ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gd_ilucifer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4573,
+    "title": "The Last Werewolf",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gd_thelastw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7014,
+    "title": "Talulla Rising ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gd_talullar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7015,
+    "title": "By Blood We Live",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gd_bybloodw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

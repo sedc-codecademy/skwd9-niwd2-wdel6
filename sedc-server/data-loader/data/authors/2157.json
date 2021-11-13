@@ -1,0 +1,29 @@
+[
+  {
+    "id": 7926,
+    "title": "The Grim Company",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ls_thegrimc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12972,
+    "title": "Sword of the North",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ls_swordoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25554,
+    "title": "Dead Man's Steel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "LS_deadmans.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

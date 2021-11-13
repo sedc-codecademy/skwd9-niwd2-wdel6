@@ -1,0 +1,224 @@
+[
+  {
+    "id": 35831,
+    "title": "Or What You Will",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "jw_orwhatyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27081,
+    "title": "Poor Relations",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "jw_poorrela.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34035,
+    "title": "Lent",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jw_lent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22049,
+    "title": "An Informal History of the Hugos",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jw_informal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26522,
+    "title": "Starlings",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jw_starling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23341,
+    "title": "A Burden Shared",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jw_aburdens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6866,
+    "title": "My Real Children",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jw_myrealch.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 16148,
+    "title": "Sleeper",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jw_sleeper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6764,
+    "title": "What Makes This Book So Great",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JW_WhatMake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22853,
+    "title": "Turnover",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3872,
+    "title": "Among Others",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jw_amongoth.jpg",
+    "nominations": 6,
+    "wins": -1
+  },
+  {
+    "id": 22973,
+    "title": "The Panda Coin",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1725,
+    "title": "Lifelode",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jw_lifelode.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 26849,
+    "title": "Three Twilight Tales",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 867,
+    "title": "Tooth and Claw",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jw_toothand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10705,
+    "title": "The Just City",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jw_thejustc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12059,
+    "title": "The Philosopher Kings",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jw_thephilo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18812,
+    "title": "Necessity",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jw_necessit.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4903,
+    "title": "The King's Peace",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jw_thekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4904,
+    "title": "The King's Name",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jw_kingsnam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4905,
+    "title": "The Prize in the Game",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jw_theprize.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16147,
+    "title": "Escape to Other Worlds with Science Fiction",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jw_escapeto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1002,
+    "title": "Farthing",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jw_farthing.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 4494,
+    "title": "Ha'penny",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jw_hapenny.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4495,
+    "title": "Half a Crown",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jw_halfacro.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

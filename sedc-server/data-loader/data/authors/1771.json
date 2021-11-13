@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5482,
+    "title": "Forbidden Blood",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kp_forbidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4391,
+    "title": "Blood Rights",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kp_bloodrig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5480,
+    "title": "Flesh and Blood",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kp_fleshand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5481,
+    "title": "Bad Blood",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kp_badblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5483,
+    "title": "Out for Blood",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kp_outforbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5484,
+    "title": "Last Blood",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kp_lastbloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

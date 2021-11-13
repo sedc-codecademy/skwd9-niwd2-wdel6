@@ -1,0 +1,65 @@
+[
+  {
+    "id": 12883,
+    "title": "The End of the Empire",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "aag_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12877,
+    "title": "The Revolution from Rosinante",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "aag_therevol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12878,
+    "title": "Long Shot for Rosinante",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "aag_longshot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12879,
+    "title": "The Pirates of Rosinante",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "aag_thepirat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12880,
+    "title": "Wizenbeak",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "aag_wizenbea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12881,
+    "title": "The Shadow Shaia",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "aag_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12882,
+    "title": "Lord of the Troll-Bats",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "aag_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

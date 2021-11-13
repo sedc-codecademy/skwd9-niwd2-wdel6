@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17322,
+    "title": "Wickedly Dangerous",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "DB_wickedly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17323,
+    "title": "Wickedly Wonderful",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "DB_wwonderf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17324,
+    "title": "Wickedly Powerful",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "DB_wpowerfu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26589,
+    "title": "Dangerously Charming",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "db_dcharmin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26590,
+    "title": "Dangerously Divine",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "db_dadivine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32385,
+    "title": "Dangerously Fierce",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "db_dangerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

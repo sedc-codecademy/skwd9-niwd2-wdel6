@@ -1,0 +1,47 @@
+[
+  {
+    "id": 28312,
+    "title": "The Deathless",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pn_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34675,
+    "title": "The Ruthless",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pn_ruthless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12318,
+    "title": "The Vagrant",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pn_thevagra.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22922,
+    "title": "The Malice",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pn_malice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23125,
+    "title": "The Seven",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pn_theseven.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

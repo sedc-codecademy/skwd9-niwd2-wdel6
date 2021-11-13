@@ -1,0 +1,92 @@
+[
+  {
+    "id": 16341,
+    "title": "Fiction 2000:  Cyberpunk and the Future of Narrative",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "TS_fiction2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36399,
+    "title": "Science Fiction and the Two Cultures:  Essays on Bridging the Gap Between the Sciences and the Humanities",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gwgs_sfandthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10663,
+    "title": "Gregory Benford",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "GS_gregoryb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22473,
+    "title": "Robert A. Heinlein: Stranger in His Own Land",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "GS_roberthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22474,
+    "title": "The Farthest Shores of Ursula K. Le Guin",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "GS_farthest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22475,
+    "title": "The Bradbury Chronicles",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "GS_bradbury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22476,
+    "title": "Harland Ellison: Unrepentant Harlequin",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "GS_harlande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22479,
+    "title": "The Space Odysseys of Arthur C. Clarke",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "GS_spaceody.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22478,
+    "title": "The Delany Intersection",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "GS_delanyin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22477,
+    "title": "The Classic Years of Robert A. Heinlein",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "GS_classicy.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

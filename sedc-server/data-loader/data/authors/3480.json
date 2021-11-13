@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10552,
+    "title": "The World as it Shall Be",
+    "year": 1846,
+    "type": "novel",
+    "imageName": "ES_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10596,
+    "title": "The Last Man",
+    "year": 1805,
+    "type": "novel",
+    "imageName": "JG_lastman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13991,
+    "title": "Tales of the Next Great War, 1871-1914:  Future Warfare and of Battles Still-to-Come",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "IFC_talesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13992,
+    "title": "The Great War with Germany, 1890-1914:  Fictions and Fantasies of the War-to-Come",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "IFC_greatwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

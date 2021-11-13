@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1908,
+    "title": "Storm Glass",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mvs_stormgla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2448,
+    "title": "Sea Glass",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mvs_seaglass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2449,
+    "title": "Spy Glass",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mvs_spyglass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7191,
+    "title": "Inside Out",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mvs_insideou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7498,
+    "title": "Outside In",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mvs_outsidei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34004,
+    "title": "Navigating the Stars",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mvs_navigati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5769,
+    "title": "Poison Study",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mvs_poisonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5770,
+    "title": "Magic Study",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mvs_magicstu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5771,
+    "title": "Fire Study",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mvs_firestud.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20285,
+    "title": "Shadow Study",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mvs_shadowst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20286,
+    "title": "Night Study",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mvs_nightstu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22415,
+    "title": "Dawn Study",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mvs_dawnstud.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

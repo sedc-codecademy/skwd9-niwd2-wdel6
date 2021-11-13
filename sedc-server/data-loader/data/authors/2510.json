@@ -1,0 +1,110 @@
+[
+  {
+    "id": 9668,
+    "title": "Crown of Vengeance",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mljm_crownofv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25564,
+    "title": "Blade of Empire",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ML_bladeofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9665,
+    "title": "The Phoenix Unchained",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mljm_punchain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9666,
+    "title": "The Phoenix Endangered",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mljm_pendange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9667,
+    "title": "The Phoenix Transformed",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mljm_ptransfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9670,
+    "title": "The Old Magic",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jm_moldmagi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9671,
+    "title": "The King's Wizard",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jm_mkingswi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9672,
+    "title": "The End of Magic",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jm_mtheendo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9662,
+    "title": "The Outstretched Shadow",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mljm_theoutst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9663,
+    "title": "To Light a Candle",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mljm_tolight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9664,
+    "title": "When Darkness Falls",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mljm_whendark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9669,
+    "title": "The House of the Four Winds",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mljm_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

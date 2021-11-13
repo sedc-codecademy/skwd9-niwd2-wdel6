@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3101,
+    "title": "The End of the World News: An Entertainment",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ab_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1993,
+    "title": "A Clockwork Orange",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ab_aclockwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7309,
+    "title": "The Wanting Seed",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ab_thewanti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

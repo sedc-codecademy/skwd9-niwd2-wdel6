@@ -1,0 +1,20 @@
+[
+  {
+    "id": 26091,
+    "title": "Ghostwright",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mc_ghostwri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26090,
+    "title": "Saint Peter's Wolf",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mc_saintpet.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

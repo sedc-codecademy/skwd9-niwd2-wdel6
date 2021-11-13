@@ -1,0 +1,92 @@
+[
+  {
+    "id": 35135,
+    "title": "Moon's Artifice",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "TL_MoonsArt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35136,
+    "title": "Old Man's Ghosts",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "TL_OldMansG.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18883,
+    "title": "Stranger of Tempest",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tl_stranger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24707,
+    "title": "Princess of Blood",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tl_princess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35134,
+    "title": "Knight of Stars",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "TL_KnightSt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2139,
+    "title": "The Stormcaller",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tl_thestorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2140,
+    "title": "The Twilight Herald",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tl_thetwili.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2141,
+    "title": "The Grave Thief",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tl_thegrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2142,
+    "title": "The Ragged Man",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tl_theragge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6157,
+    "title": "The Dusk Watchman",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tl_theduskw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

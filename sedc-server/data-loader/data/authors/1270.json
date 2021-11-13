@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2192,
+    "title": "Midshipman's Hope",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "df_midshipm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2193,
+    "title": "Challenger's Hope",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "df_challeng.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2194,
+    "title": "Prisoner's Hope",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "df_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2195,
+    "title": "Fisherman's Hope",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "df_fisherma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2196,
+    "title": "Voices of Hope",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "df_voicesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2197,
+    "title": "Patriarch's Hope",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "df_patriarc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2198,
+    "title": "Children of Hope",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "df_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

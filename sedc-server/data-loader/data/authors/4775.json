@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21484,
+    "title": "The Man Who Mastered Time / Overlords From Space",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_themanwh_overlord.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23054,
+    "title": "The Little Men",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "jek_thelittl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23055,
+    "title": "Hunters of Space",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "jek_hunterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

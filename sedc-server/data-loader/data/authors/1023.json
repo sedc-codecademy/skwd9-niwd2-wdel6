@@ -1,0 +1,65 @@
+[
+  {
+    "id": 36503,
+    "title": "88 Names",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "mr_88names.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17299,
+    "title": "Lovecraft Country",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mr_lovecraftcountry.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 22296,
+    "title": "The Mirage",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mr_themirag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1050,
+    "title": "Bad Monkeys",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mr_badmonke.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6410,
+    "title": "Set This House in Order",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mr_setthish.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7603,
+    "title": "Sewer, Gas & Electric",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "MR_SewerGas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5639,
+    "title": "Fool on the Hill",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mr_foolonth.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36387,
+    "title": "The Human Son",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "ajw_humanson.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34717,
+    "title": "The Last Dog on Earth",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AW_lastdog.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23684,
+    "title": "The End of the World Running Club",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ajw_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36386,
+    "title": "The End of the World Survivors Club",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ajw_survivor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

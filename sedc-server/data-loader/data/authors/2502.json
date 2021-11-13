@@ -1,0 +1,167 @@
+[
+  {
+    "id": 35651,
+    "title": "Star Destroyers",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CR_StarDest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9559,
+    "title": "Guardian of Night",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "td_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28534,
+    "title": "The Valley of the Gardens",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19997,
+    "title": "The Robot's Twilight Companion",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "td_therobot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19998,
+    "title": "Radio Praha",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27477,
+    "title": "Earthling",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "td_earthlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26623,
+    "title": "A Dry, Quiet War",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27566,
+    "title": "The Robot's Twilight Companion",
+    "year": 1996,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21338,
+    "title": "Life on the Moon",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27476,
+    "title": "Warpath",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "td_warpath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9557,
+    "title": "The Heretic",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tddd_theheret.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9558,
+    "title": "The Savior",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tddd_thesavio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27470,
+    "title": "Grist",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10511,
+    "title": "Metaplanetary",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "td_metaplan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10512,
+    "title": "Superluminal",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "td_superlum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20327,
+    "title": "Savage Trade",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "TD_savagetr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20326,
+    "title": "Devil's Bargain",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "TD_devilbar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18903,
+    "title": "The Dragon Hammer",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "td_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24404,
+    "title": "The Amber Arrow",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "td_theamber.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

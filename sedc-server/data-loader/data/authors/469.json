@@ -1,0 +1,65 @@
+[
+  {
+    "id": 25745,
+    "title": "The Rosetta Codex",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rpr_thetoset.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 470,
+    "title": "Ship of Fools",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "rpr_shipoffo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24375,
+    "title": "Terminal Visions",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rpr_terminal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 532,
+    "title": "Subterranean Gallery",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rpr_subterra.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 621,
+    "title": "Destroying Angel",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rpr_destroyi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 503,
+    "title": "Carlucci's Edge",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rpr_carledge.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 494,
+    "title": "Carlucci's Heart",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rpr_carlucci.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

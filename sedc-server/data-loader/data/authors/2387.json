@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24031,
+    "title": "Afterlife",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ms_afterlif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8998,
+    "title": "Brilliance Saga",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ms_brillian.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8999,
+    "title": "A Better World",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ms_abetterw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24030,
+    "title": "Written in Fire",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ms_writteni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

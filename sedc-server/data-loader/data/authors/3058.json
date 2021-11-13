@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11859,
+    "title": "A Crown for Cold Silver",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "am_acrownfor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18548,
+    "title": "A Blade of Black Steel",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "am_abladeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26425,
+    "title": "A War in Crimson Embers",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "am_awarincr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

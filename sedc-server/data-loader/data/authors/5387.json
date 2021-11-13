@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24933,
+    "title": "Batman: The Dark Knight Returns",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "fm_thedarkk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35106,
+    "title": "Batman: The Dark Knight Strikes Again",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "FM_darkkni2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35107,
+    "title": "Batman: The Dark Knight: Master Race",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "FM_darkkni3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

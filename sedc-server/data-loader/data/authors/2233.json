@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13566,
+    "title": "Little Star",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jal_littlest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8302,
+    "title": "Let the Right One In ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jal_lettheri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30233,
+    "title": "I Am Behind You",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jal_iambehin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30234,
+    "title": "I Always Find You",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jal_ialwaysf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

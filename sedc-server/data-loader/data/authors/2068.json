@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6100,
+    "title": "Traitor's Blade",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sdc_traitors.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12632,
+    "title": "Knight's Shadow",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sdc_knightss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18834,
+    "title": "Saint's Blood",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sdc_saintsbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22448,
+    "title": "Tyrant's Throne",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sdc_tythrone.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

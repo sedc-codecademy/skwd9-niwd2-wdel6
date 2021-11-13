@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5597,
+    "title": "The City",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sg_thecity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17131,
+    "title": "The Immortal Throne",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sg_theimmor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8173,
+    "title": "Fall of Kings",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dgsg_fallofki.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

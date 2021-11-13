@@ -1,0 +1,107 @@
+[
+  {
+    "id": 23418,
+    "title": "The Stone Lover",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22585,
+    "title": "Lázaro y Antonio",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19539,
+    "title": "Those Who Favor Fire",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mr_thosewho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19538,
+    "title": "The Sword of Winter",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mr_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19537,
+    "title": "A City in the North",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mr_acityint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 250,
+    "title": "Islands",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mr_islands.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19536,
+    "title": "Dangerous Games",
+    "year": 1980,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13316,
+    "title": "Journey",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "mr_journey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19535,
+    "title": "Dangerous Games",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mr_dangerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7495,
+    "title": "The Nebula Awards #19",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mr_nebula19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18102,
+    "title": "New Dimensions 11",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rsmr_ndimen11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18103,
+    "title": "New Dimensions 12",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rsmr_ndimen12.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

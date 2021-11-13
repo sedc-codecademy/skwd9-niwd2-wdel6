@@ -1,0 +1,320 @@
+[
+  {
+    "id": 35191,
+    "title": "Houses Under the Sea",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "CRK_HousesUn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34573,
+    "title": "The Very Best of Caitlín R. Kiernan",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "crk_theveryb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30283,
+    "title": "The Dinosaur Tourist",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "crk_thedinos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22718,
+    "title": "Dear Sweet Filthy World",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "crk_dearswee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28713,
+    "title": "Fairy Tale of Wood Street",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27275,
+    "title": "Whisper Road (Murder Ballad No. 9)",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27116,
+    "title": "Interstate Love Song (Murder Ballad No. 8)",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6509,
+    "title": "The Ape's Wife and Other Stories",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "crk_apeswife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21751,
+    "title": "Black Helicopters",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "crk_blackhel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21790,
+    "title": "The Prayer of Ninety Cats",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28679,
+    "title": "The Road of Needles",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24216,
+    "title": "Confessions of a Five-Chambered Heart",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "crk_confessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5079,
+    "title": "The Drowning Girl",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "crk_thedrown.jpg",
+    "nominations": 8,
+    "wins": -1
+  },
+  {
+    "id": 35097,
+    "title": "Fake Plastic Trees",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28677,
+    "title": "Goggles (c.1910)",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26348,
+    "title": "Tidal Forces",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6359,
+    "title": "The Ammonite Violin & Others",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "crk_theammon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16161,
+    "title": "Galápagos",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24289,
+    "title": "A Is for Alien",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "crk_aisforal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1716,
+    "title": "The Red Tree",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "crk_theredtr.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 22480,
+    "title": "The Steam Dancer (1896)",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25170,
+    "title": "The Ape's Wife",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22314,
+    "title": "Faces in Revolving Souls",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23422,
+    "title": "La Peau Verte",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26247,
+    "title": "Riding the White Bull",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36105,
+    "title": "Candles for Elizabeth",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "CRK_CandlesF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17107,
+    "title": "Two Worlds and In Between:  The Best of Caitlin R. Kiernan (Volume One)",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "crk_twoworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17109,
+    "title": "Beneath an Oil-Dark Sea:  The Best of Caitlin R. Kiernan (Volume Two)",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "crk_beneatha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28701,
+    "title": "Dancy vs. the Pterosaur",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6323,
+    "title": "Threshold",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "crk_threshol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6325,
+    "title": "Low Red Moon",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "crk_lowredmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6318,
+    "title": "Daughter of Hounds",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "crk_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4607,
+    "title": "Silk",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "crk_silk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6320,
+    "title": "Murder of Angels",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "crk_murderof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20644,
+    "title": "Agents of Dreamland",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "crk_agentsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27409,
+    "title": "Black Helicopters",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ck_blackhel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36615,
+    "title": "The Tindalos Asset",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "crk_tindalos.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": 370,
+    "title": "Emergence",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "drp_emergenc.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 20811,
+    "title": "Seeking",
+    "year": 1983,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20810,
+    "title": "Emergence",
+    "year": 1981,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20812,
+    "title": "Threshold",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "drp_threshol.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

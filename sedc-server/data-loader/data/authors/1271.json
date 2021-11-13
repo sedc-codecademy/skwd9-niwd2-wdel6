@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24243,
+    "title": "The Best of Stanley G. Weinbaum",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "sgw_bestofst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11257,
+    "title": "The Red Peri",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "SW_redperi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2207,
+    "title": "A Martian Odyssey and Other Science Fiction Tales",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "sgw_amartian.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

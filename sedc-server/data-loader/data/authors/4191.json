@@ -1,0 +1,55 @@
+[
+  {
+    "id": 28342,
+    "title": "Old Souls",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17348,
+    "title": "Zeroboxer",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "fl_zeroboxe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25649,
+    "title": "Exo",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "fl_exo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28343,
+    "title": "Cross Fire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "fl_crossfir.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25648,
+    "title": "Jade City",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "fl_jadecity.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 34074,
+    "title": "Jade War",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "fl_jadewar.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

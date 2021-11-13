@@ -1,0 +1,238 @@
+[
+  {
+    "id": 17950,
+    "title": "The Wall of America",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tmd_thewallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32673,
+    "title": "In Xanadu",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7266,
+    "title": "The Dreams Our Stuff Is Made Of:  How Science Fiction Conquered the World",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "td_thedreams.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17951,
+    "title": "Voices of the Kill",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24647,
+    "title": "The Man Who Had No Idea: A Collection of Stories",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "tmd_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18820,
+    "title": "Understanding Human Behavior",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24304,
+    "title": "Fundamental Disch",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tmd_fundamen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21063,
+    "title": "The Man Who Had No Idea",
+    "year": 1978,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19067,
+    "title": "The Asian Shore",
+    "year": 1970,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1998,
+    "title": "Camp Concentration",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "tmd_campconc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18246,
+    "title": "Under Compulsion",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "TMD_UnderCom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3426,
+    "title": "Echo Round His Bones",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "tmd_echoroun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19127,
+    "title": "One Hundred and Two H-Bombs",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "tmd_onehundr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35799,
+    "title": "The Puppies of Terra",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "TMD_ThePuppi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19128,
+    "title": "102 H-Bombs",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18395,
+    "title": "Come to Venus Melancholy",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21515,
+    "title": "Planet of Exile / Mankind Under the Leash",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_planetof_mankindu.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16074,
+    "title": "The Brave Little Toaster",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tmd_thebrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35042,
+    "title": "The Brave Little Toaster Goes to Mars",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "TMD_Bravemars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 270,
+    "title": "334",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "tmd_334.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 832,
+    "title": "The Genocides",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "tmd_thegenoc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 237,
+    "title": "On Wings of Song",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tmd_onwingso.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 27191,
+    "title": "The Prisoner",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "tmd_thepriso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4368,
+    "title": "The Businessman:  A Tale of Terror",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "tmd_thebusin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3529,
+    "title": "The M.D.:  A Horror Story",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tmd_themd.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 17556,
+    "title": "The Priest: A Gothic Romance",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tmd_thepries.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17557,
+    "title": "The Sub: A Study in Witchcraft",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tmd_thesub.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14945,
+    "title": "The Alien Sea",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ls_thealien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26371,
+    "title": "Hammer of the Emperor",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lsspsl_hammerof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26358,
+    "title": "Desert Raiders",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ls_desertra.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

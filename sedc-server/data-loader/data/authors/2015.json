@@ -1,0 +1,45 @@
+[
+  {
+    "id": 31537,
+    "title": "Shadowdrop",
+    "year": 2018,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22460,
+    "title": "The Mermaid and the Mortal Thing",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5697,
+    "title": "The Scroll of Years",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cw_thescrol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6151,
+    "title": "The Silk Map",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cw_thesilkm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10908,
+    "title": "The Chart of Tomorrows",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cw_thechart.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

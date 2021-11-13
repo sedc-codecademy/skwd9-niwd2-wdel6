@@ -1,0 +1,47 @@
+[
+  {
+    "id": 25109,
+    "title": "Book of a Thousand Days",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sh_bookofat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7960,
+    "title": "The Goose Girl ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sh_thegoose.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7961,
+    "title": "Enna Burning ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sh_ennaburn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7962,
+    "title": "River Secrets ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sh_riversec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7963,
+    "title": "Forest Born ",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sh_forestbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

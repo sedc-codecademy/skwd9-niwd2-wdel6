@@ -1,0 +1,38 @@
+[
+  {
+    "id": 31595,
+    "title": "The Priory of the Orange Tree",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SS_prioryor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10917,
+    "title": "The Bone Season:  A Novel",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "SS_bonesea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10918,
+    "title": "The Mime Order:  A Novel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "SS_mimeord.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35219,
+    "title": "The Song Rising",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SS_SongRisi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

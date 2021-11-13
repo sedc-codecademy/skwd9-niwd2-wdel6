@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19277,
+    "title": "Starborn",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lh_starbor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25018,
+    "title": "Heartland",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lh_heartland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25651,
+    "title": "Firestorm",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lh_firestro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

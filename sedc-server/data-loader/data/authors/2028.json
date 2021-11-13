@@ -1,0 +1,121 @@
+[
+  {
+    "id": 31549,
+    "title": "The Raven Tower",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "al_theraven.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26142,
+    "title": "Another Word for World",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23072,
+    "title": "Maiden, Mother, Crone",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25029,
+    "title": "The Unknown God",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28934,
+    "title": "The Endangered Camp",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30224,
+    "title": "Hesperia and Glory",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23126,
+    "title": "Provenance",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "al_provenan.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 16258,
+    "title": "She Commands Me and I Obey",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "al_shecomma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16238,
+    "title": "Night's Slow Poison",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "al_nightssl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5744,
+    "title": "Ancillary Justice",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "al_ancillar.jpg",
+    "nominations": 9,
+    "wins": -1
+  },
+  {
+    "id": 9533,
+    "title": "Ancillary Sword",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "al_answord.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 11656,
+    "title": "Ancillary Mercy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "al_ancilmer.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 28892,
+    "title": "The God of Au",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16611,
+    "title": "The Nalendar",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

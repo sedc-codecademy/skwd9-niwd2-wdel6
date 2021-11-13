@@ -1,0 +1,503 @@
+[
+  {
+    "id": 10045,
+    "title": "Soulminder",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tz_soulmind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10981,
+    "title": "The Green and the Gray",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tz_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10433,
+    "title": "Manta's Gift",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tz_mantasgi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10982,
+    "title": "Angelmass",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tz_angelmas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10983,
+    "title": "The Icarus Hunt",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tz_theicaru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10984,
+    "title": "Warhorse",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tz_warhorse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10985,
+    "title": "Deadman Switch",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tz_deadmans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24524,
+    "title": "Time Bomb and Zahndry Others",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tz_timebomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10986,
+    "title": "Triplet",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tz_triplet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10891,
+    "title": "Cascade Point and Other Stories",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tz_cascadeplint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10987,
+    "title": "Spinneret",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tz_spinnere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10988,
+    "title": "A Coming of Age",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "tz_acomingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21020,
+    "title": "Return to the Fold",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20736,
+    "title": "Cascade Point",
+    "year": 1983,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21038,
+    "title": "Pawn's Gambit",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9855,
+    "title": "The Blackcollar",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tz_theblack.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9856,
+    "title": "The Backlash Mission",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tz_thebackl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9857,
+    "title": "The Judas Solution",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tz_thejudas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10061,
+    "title": "Cobra Slave",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tz_cobslave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10980,
+    "title": "Cobra Outlaw",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tz_cooutlaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26068,
+    "title": "Cobra Traitor",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tz_ctraitor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2964,
+    "title": "Cobra",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tz_cobra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2965,
+    "title": "Cobra Strike",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tz_cobrastr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2966,
+    "title": "Cobra Bargain",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tz_cobrabar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2967,
+    "title": "Cobra Alliance",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tz_cobraall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2968,
+    "title": "Cobra Guardian",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tz_cobragua.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2969,
+    "title": "Cobra Gamble",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tz_cobragam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2961,
+    "title": "Conquerors' Pride",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tz_conpride.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2962,
+    "title": "Conquerors' Heritage",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tz_conherit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2963,
+    "title": "Conquerors' Legacy",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tz_conlegac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9560,
+    "title": "A Call to Duty",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dwtz_acalltod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15931,
+    "title": "A Call to Arms",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dw_tz_calltoar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27898,
+    "title": "A Call to Vengeance",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dwtztp_acalltov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3894,
+    "title": "Night Train to Rigel",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tz_nighttra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3895,
+    "title": "The Third Lynx",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tz_thethird.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3896,
+    "title": "Odd Girl Out",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tz_oddgirlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3897,
+    "title": "The Domino Pattern",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tz_thedomin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3898,
+    "title": "Judgment at Proteus",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tz_judgment.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22724,
+    "title": "Pawn",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tz_pawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32404,
+    "title": "Knight",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tz_knight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36393,
+    "title": "Queen",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "tz_queen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16620,
+    "title": "Scoundrels",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "TZ_scoundre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16621,
+    "title": "Choices of One",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "TZ_choiceso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16622,
+    "title": "Allegiance",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "TZ_allegian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16623,
+    "title": "Outbound Flight",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "TZ_outbound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16624,
+    "title": "Survivor's Quest",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "TZ_survivor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20472,
+    "title": "Thrawn",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "TZ_thrawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27018,
+    "title": "Thrawn: Alliances",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "TZ_thrawnal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34184,
+    "title": "Thrawn: Treason",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "TZ_thrawnt3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16625,
+    "title": "Specter of the Past",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "TZ_spectero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16626,
+    "title": "Vision of the Future",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "TZ_visionof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3298,
+    "title": "Heir to the Empire",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tz_heirtoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3299,
+    "title": "Dark Force Rising",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tz_darkforc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3300,
+    "title": "The Last Command",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tz_thelastc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36366,
+    "title": "Chaos Rising",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "TZ_chaosris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11084,
+    "title": "Tor Double #2: Hardfought / Cascade Point",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gbtz_tordbl2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

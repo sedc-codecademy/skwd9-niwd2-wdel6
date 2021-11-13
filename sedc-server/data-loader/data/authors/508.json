@@ -1,0 +1,29 @@
+[
+  {
+    "id": 509,
+    "title": "RIM: A Novel of Virtual Reality",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ab_rim.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23713,
+    "title": "Mir: A Novel of Virtual Reality",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ab_mir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23714,
+    "title": "Chi: A Novel of Virtual Reality",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ab_chi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

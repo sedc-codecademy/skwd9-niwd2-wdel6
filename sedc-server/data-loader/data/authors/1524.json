@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3319,
+    "title": "Contact",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cs_contact.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24279,
+    "title": "Cosmos",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "cs_cosmos.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 505,
+    "title": "Reluctant Voyagers",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ev_reluctan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2841,
+    "title": "The Silent City",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ev_thesilen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 519,
+    "title": "In the Mothers' Land",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ev_inthemot.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6741,
+    "title": "Dreams of the Sea",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ev_dreamsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6742,
+    "title": "A Game of Perfection",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ev_gameofpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

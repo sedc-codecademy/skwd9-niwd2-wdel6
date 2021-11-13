@@ -1,0 +1,65 @@
+[
+  {
+    "id": 23724,
+    "title": "All Hallows' Eve",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "CW_allhallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23723,
+    "title": "Descent into Hell",
+    "year": 1937,
+    "type": "novel",
+    "imageName": "CW_descenti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23722,
+    "title": "Shadows of Ecstacy",
+    "year": 1933,
+    "type": "novel",
+    "imageName": "CW_shadowso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23721,
+    "title": "The Greater Trumps",
+    "year": 1932,
+    "type": "novel",
+    "imageName": "CW_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23720,
+    "title": "Many Dimensions",
+    "year": 1931,
+    "type": "novel",
+    "imageName": "CW_manydime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23719,
+    "title": "The Place of the Lion",
+    "year": 1931,
+    "type": "novel",
+    "imageName": "CW_theplace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12193,
+    "title": "War in Heaven",
+    "year": 1930,
+    "type": "novel",
+    "imageName": "cw_warinhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

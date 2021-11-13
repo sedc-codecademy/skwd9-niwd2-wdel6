@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12344,
+    "title": "Dreams of Shreds and Tatters",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ad_dreamsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2537,
+    "title": "The Drowning City",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ad_thedrown.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2538,
+    "title": "The Bone Palace",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ad_thebonep.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4110,
+    "title": "Kingdoms of Dust",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ad_kingdoms.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

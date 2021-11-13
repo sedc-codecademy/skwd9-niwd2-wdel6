@@ -1,0 +1,97 @@
+[
+  {
+    "id": 34040,
+    "title": "Longer",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mb_longer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25908,
+    "title": "All I Ever Dreamed",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "MB_allIever.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6496,
+    "title": "What the Doctor Ordered ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mb_whatthed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29046,
+    "title": "Twenty-Two and You",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4445,
+    "title": "The Healer",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mb_theheale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26387,
+    "title": "Know How, Can Do",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16224,
+    "title": "Fidelity:  A Primer",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26084,
+    "title": "X, Y",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mb_xy.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22240,
+    "title": "The Brains of Rats (collection)",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "MB_brainrat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23081,
+    "title": "The Brains of Rats",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30230,
+    "title": "Thoreau's Microscope",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mb_thoreaus.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12319,
+    "title": "Dead But Not Forgotten",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "chtlpk_deadbutn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10016,
+    "title": "Games Creatures Play",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "chtlpk_gamescre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5551,
+    "title": "An Apple for the Creature",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "chtlpk_anapplef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5550,
+    "title": "Home Improvement: Undead Edition",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "chtlpk_homeimpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20402,
+    "title": "The Bloodbound",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "el_blobound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20403,
+    "title": "The Bloodforged",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "el_blforged.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20404,
+    "title": "The Bloodsworn",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "el_blosworn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1244,
+    "title": "Valley of Day-Glo",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ndc_valleyof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1015,
+    "title": "A Small and Remarkable Life",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ndc_asmallan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27313,
+    "title": "Dragonhead",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13069,
+    "title": "Magic Feathers:  The Mike and Nick Show",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mrndc_madigfea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21324,
+    "title": "Sarajevo",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21362,
+    "title": "The Winterberry",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

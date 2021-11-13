@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10368,
+    "title": "Aphrodite",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "MY_aphrodit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10367,
+    "title": "Ghost in the Shell 2 - Innocence:  After The Long Goodbye",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "MY_GITS2IN2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

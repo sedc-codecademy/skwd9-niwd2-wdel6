@@ -1,0 +1,83 @@
+[
+  {
+    "id": 29045,
+    "title": "The Blue Salt Road",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jmh_theblues.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24835,
+    "title": "A Pocketful of Crows",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jh_apocketf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9005,
+    "title": "Chocolat",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jh_chocolat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9006,
+    "title": "The Lollipop Shoes ",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jh_lollipop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9007,
+    "title": "Peaches for Monsieur le Curé ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jh_peachesf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10809,
+    "title": "Runemarks",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jh_runemark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10810,
+    "title": "Runelight",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jh_runeligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9008,
+    "title": "The Gospel of Loki ",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jh_gospelof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27405,
+    "title": "The Testament of Loki",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jmh_thetesta.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

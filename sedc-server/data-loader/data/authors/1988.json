@@ -1,0 +1,65 @@
+[
+  {
+    "id": 11174,
+    "title": "Beast Master's Ark",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "AN_beastark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11175,
+    "title": "Beast Master's Circus",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "AN_beastcir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11176,
+    "title": "Beast Master's Quest",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "AN_beastque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5592,
+    "title": "The Duke's Ballad",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "anlmc_thedukes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9578,
+    "title": "Silver May Tarnish",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "anlm_silverma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9572,
+    "title": "The Key of the Keplian",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "anlm_thekeyof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5588,
+    "title": "Ciara's Song",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "anlmc_ciarasso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

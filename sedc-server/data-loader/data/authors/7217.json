@@ -1,0 +1,56 @@
+[
+  {
+    "id": 34309,
+    "title": "A Second Infinity",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "MDW_SecondIn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34308,
+    "title": "My Father Immortal",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mdw_myfather.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34307,
+    "title": "Mercedes Nights",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mdw_mercedes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34310,
+    "title": "Wolf-Dreams",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mdw_wolfdrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34311,
+    "title": "Nightreaver",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mdw_nightrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34312,
+    "title": "Bloodfang",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mdw_bloodfan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35077,
+    "title": "Brain Twister: The Complete Psi-Power Trilogy",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "MP_psipower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 302,
+    "title": "Brain Twister",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "mp_braintwi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35075,
+    "title": "The Impossibles",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "MP_theimpos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35076,
+    "title": "Supermind",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "MP_supermin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

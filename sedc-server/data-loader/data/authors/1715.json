@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4129,
+    "title": "Ghosts of Coronado Bay",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jgf_ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34936,
+    "title": "Hellrider",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JGF_Hellride.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17448,
+    "title": "The Cure",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jgf_thecure.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

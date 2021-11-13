@@ -1,0 +1,56 @@
+[
+  {
+    "id": 35354,
+    "title": "Altar of Eden",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "JR_AltarEde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35353,
+    "title": "Ice Hunt",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "JR_IceHunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35352,
+    "title": "Amazonia",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JR_Amazonia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35351,
+    "title": "Deep Fathom",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "JR_DeepFath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35350,
+    "title": "Excavation",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "JR_Excavati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35349,
+    "title": "Subterranean",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "JR_Subterr2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

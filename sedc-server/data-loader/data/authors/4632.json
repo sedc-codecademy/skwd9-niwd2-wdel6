@@ -1,0 +1,110 @@
+[
+  {
+    "id": 34900,
+    "title": "Aliens: The Female War",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "SP_femalewa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34904,
+    "title": "Aliens: Labyrinth",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "SP_labyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34906,
+    "title": "Aliens: Berserker",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "SP_berserke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34919,
+    "title": "Aliens: Criminal Enterprise",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SP_criminal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20580,
+    "title": "Cloak",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SP_cloak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20581,
+    "title": "Rising Son",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "SP_risingso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20582,
+    "title": "Unity",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "SP_unity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20583,
+    "title": "Avatar: Book One of Two",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SP_avatar1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20584,
+    "title": "Avatar: Book Two of Two",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SP_avatar2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20585,
+    "title": "Night of the Wolves, 2345-2357",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SP_nightwol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20586,
+    "title": "Dawn of the Eagles, 2360-2369",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SP_dawneagl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20587,
+    "title": "Inception",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "SP_inceptio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

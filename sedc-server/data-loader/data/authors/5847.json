@@ -1,0 +1,308 @@
+[
+  {
+    "id": 28399,
+    "title": "Chase",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sh_chase.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28398,
+    "title": "Monolith",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sh_monolith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28396,
+    "title": "X The Unknown",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sh_xtheunkn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28395,
+    "title": "Twins of Evil",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sh_twinsofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28394,
+    "title": "Epitaph",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sh_epitaph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28388,
+    "title": "Necessary Evil",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sh_necessar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28393,
+    "title": "Last Rites",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sh_lastrite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28392,
+    "title": "Body Count",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sh_bodycoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28391,
+    "title": "Unmarked Graves",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sh_unmarked.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28390,
+    "title": "Dying Words",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sh_dyingwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28389,
+    "title": "Twisted Souls",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sh_twisteds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28387,
+    "title": "Hybrid",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sh_hybrid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28369,
+    "title": "Warhol's Prophecy",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sh_warholsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28367,
+    "title": "Knife Edge",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sh_knifeedg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28368,
+    "title": "Purity",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sh_purity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28366,
+    "title": "Stolen Angels",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sh_stolenan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28365,
+    "title": "Lucy's Child",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sh_lucyschi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28364,
+    "title": "White Ghost",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sh_whitegho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28363,
+    "title": "Deadhead",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sh_deadhead.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28362,
+    "title": "Heathen",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sh_heathen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28361,
+    "title": "Captives",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sh_captives.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28360,
+    "title": "Renegades",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sh_renegade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28359,
+    "title": "Nemesis",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sh_nemesis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28358,
+    "title": "Assassin",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sh_assassin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28356,
+    "title": "Deathday",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sh_deathday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28357,
+    "title": "Victims",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sh_victims.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28355,
+    "title": "Relics",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sh_relics.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28370,
+    "title": "Erebus",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sh_erebus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28354,
+    "title": "Shadows",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sh_shadows.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28353,
+    "title": "Spawn",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sh_spawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28352,
+    "title": "The Skull",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sh_theskull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28397,
+    "title": "The Revenge of Frankenstein",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sh_thereven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28350,
+    "title": "Slugs",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sh_slugs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28351,
+    "title": "Breeding Ground",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sh_breeding.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

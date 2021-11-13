@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4702,
+    "title": "Disappearing Nightly",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lr_disappea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4703,
+    "title": "Doppelgangster",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lr_doppelga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4704,
+    "title": "Unsympathetic Magic",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lr_unsympat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4705,
+    "title": "Vamparazzi",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lr_vamparaz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4706,
+    "title": "Polterheist",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lr_polterhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8977,
+    "title": "The Misfortune Cookie",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lr_themisfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10729,
+    "title": "Abracadaver",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lr_abercada.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6765,
+    "title": "In Legend Born",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lr_inlegend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6766,
+    "title": "The White Dragon",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lr_whitedra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6767,
+    "title": "The Destroyer Goddess ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lr_destroye.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 28853,
+    "title": "Time's Convert",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dh_timescon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4786,
+    "title": "A Discovery of Witches",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dh_adiscove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4787,
+    "title": "Shadow of Night",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dh_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7512,
+    "title": "The Book of Life",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dh_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": 28070,
+    "title": "The Best of Wilson Tucker",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "wt_thebestof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28068,
+    "title": "Resurrection Days",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "wt_resurrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28067,
+    "title": "Ice and Iron",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "wt_iceandir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 293,
+    "title": "The Year of the Quiet Sun",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "wt_theyearo.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 8552,
+    "title": "To the Tombaugh Station",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "wt_tothetom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8535,
+    "title": "The Lincoln Hunters",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "wt_thelinco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28069,
+    "title": "The Science-Fiction Subtreasury",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "wt_thesfsub.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8536,
+    "title": "Wild Talent",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "wt_wildtale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28066,
+    "title": "The Long Loud Silence",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "wt_thelongl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8553,
+    "title": "To the Tombaugh Station / Earthman, Go Home!",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_tothetom_earthman.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12913,
+    "title": "The City in the Sea",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "wt_thecityi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30273,
+    "title": "The Time Masters",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "wt_thetimem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30275,
+    "title": "Time Bomb",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "wt_timebomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

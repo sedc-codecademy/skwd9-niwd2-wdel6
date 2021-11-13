@@ -1,0 +1,263 @@
+[
+  {
+    "id": 26321,
+    "title": "Forges of Mars",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gmn_forgesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26315,
+    "title": "Priests of Mars",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gmn_priestso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26316,
+    "title": "Lords of Mars",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gmn_lordsofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26317,
+    "title": "Gods of Mars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gmn_godsofma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26172,
+    "title": "Magnus the Red",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gmn_magnusth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3269,
+    "title": "False Gods: The heresy takes root",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gmn_falsegod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3272,
+    "title": "Fulgrim: Visions of treachery",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gmn_fulgrim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3276,
+    "title": "Mechanicum: War comes to Mars",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gmn_mechanic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3279,
+    "title": "A Thousand Sons: All is dust…",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gmn_athousan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3284,
+    "title": "The Outcast Dead: The truth lies within",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gmn_theourca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4743,
+    "title": "Angel Exterminatus",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gmn_angelext.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10075,
+    "title": "Vengeful Spirit",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gmn_vengeful.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26169,
+    "title": "The Crimson King",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gmn_thecrims.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36201,
+    "title": "Sons of the Selenar",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "gmn_sonsofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7858,
+    "title": "Heldenhammer",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gm_heldenha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7859,
+    "title": "Empire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gm_empire.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7860,
+    "title": "God King",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gm_godking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26277,
+    "title": "Nightbringer",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gmn_nightbri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26278,
+    "title": "Warriors of Ultramar",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gmn_warriors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26279,
+    "title": "Dead Sky, Black Sun",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gmn_deadskyb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26280,
+    "title": "The Killing Ground",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gmn_thekilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26281,
+    "title": "Courage and Honour",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gmn_couragea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26282,
+    "title": "The Chapter's Due",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gmn_thechapt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15567,
+    "title": "Guardians of the Forest ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gm_Guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15568,
+    "title": "Defenders of Ulthuan",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gm_defender.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15569,
+    "title": "Sons of Ellyrion",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gm_sonsofel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15707,
+    "title": "The Ambassador",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gm_theambas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15708,
+    "title": "Ursun's Teeth",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gm_ursunste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15213,
+    "title": "The Legend of Sigmar",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gm_legendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

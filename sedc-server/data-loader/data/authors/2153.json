@@ -1,0 +1,56 @@
+[
+  {
+    "id": 31745,
+    "title": "The Ingenious",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dh_theingen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7922,
+    "title": "Warrior Priest",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dh_warriorp.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15489,
+    "title": "Sigvald",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dh_sigvald.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15496,
+    "title": "Orion: The Vaults of Winter",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dh_orionthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15497,
+    "title": "Orion: Tears of Isha",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dh_oriontea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15498,
+    "title": "Orion: The Council of the Beast",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dh_orioncou.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

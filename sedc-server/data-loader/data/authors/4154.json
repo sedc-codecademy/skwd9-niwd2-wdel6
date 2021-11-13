@@ -1,0 +1,47 @@
+[
+  {
+    "id": 36125,
+    "title": "The Migration",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "HM_migratio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24205,
+    "title": "Gifts for the One Who Comes After",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "hm_giftsfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17269,
+    "title": "The Hanging Game",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "hm_thehangi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22530,
+    "title": "Imaginarium 3:  The Best Canadian Speculative Writing",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "skhm_imagina3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26881,
+    "title": "Year's Best Weird Fiction: Volume Four",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "hmmk_ybwf04.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12149,
+    "title": "Unholy Night",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sgs_unholyni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9935,
+    "title": "Pride and Prejudice and Zombies",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jasgs_prideand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12148,
+    "title": "The Last American Vampire",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sgs_thelasta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12147,
+    "title": "Abraham Lincoln: Vampire Hunter",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sgs_abrahaml.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

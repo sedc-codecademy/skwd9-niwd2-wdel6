@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13665,
+    "title": "The Tranquility Wars",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "GL_tranquil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10416,
+    "title": "Bright Messengers",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gl_brightme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7081,
+    "title": "Cradle",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "accgl_cradle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1685,
+    "title": "Rama II",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "accgl_rama2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1686,
+    "title": "The Garden of Rama",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "accgl_thegarde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1687,
+    "title": "Rama Revealed",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "accgl_ramareve.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

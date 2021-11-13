@@ -1,0 +1,56 @@
+[
+  {
+    "id": 6652,
+    "title": "The Revolutions",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "fg_therevol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16316,
+    "title": "Lightbringers and Rainmakers",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "fg_lightbri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5712,
+    "title": "Thunderer",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "fg_thundere.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1713,
+    "title": "Gears of the City",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "fg_gearsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2639,
+    "title": "The Half-Made World",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "fg_thehalfm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6653,
+    "title": "The Rise of Ransom City",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "fg_theriseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

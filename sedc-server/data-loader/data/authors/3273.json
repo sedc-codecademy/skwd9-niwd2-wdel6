@@ -1,0 +1,380 @@
+[
+  {
+    "id": 17370,
+    "title": "Chicks Kick Butt",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rc_klh_chickski.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13606,
+    "title": "Ink and Bone:  The Great Library",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RC_inkbone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19389,
+    "title": "Paper and Fire",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RC_paperand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23601,
+    "title": "Ash and Quill",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rc_ashandqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28425,
+    "title": "Smoke and Iron",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rc_smokeand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35035,
+    "title": "Sword and Pen",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rc_swordand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27490,
+    "title": "Honor Among Thieves",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rcaa_honoramo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32310,
+    "title": "Honor Bound",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rcaa_honbound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36037,
+    "title": "Honor Lost",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "AA_honorlos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17674,
+    "title": "Midnight Bites",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rc_midnightbites.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15442,
+    "title": "Glass Houses",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rc_glasshou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15443,
+    "title": "The Dead Girls' Dance",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rc_thedeadg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15444,
+    "title": "Midnight Alley",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rc_midnightalley.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15445,
+    "title": "Feast of Fools",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rc_feastoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15446,
+    "title": "Lord of Misrule",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rc_lordofmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15447,
+    "title": "Carpe Corpus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rc_carpecor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15448,
+    "title": "Fade Out",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rc_fadeout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15449,
+    "title": "Kiss of Death",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rc_kissofde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15450,
+    "title": "Ghost Town",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rc_ghosttow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15451,
+    "title": "Bite Club",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rc_biteclub.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15452,
+    "title": "Last Breath",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rc_lastbrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15453,
+    "title": "Black Dawn",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rc_blackdaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15454,
+    "title": "Bitter Blood",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rc_bitterbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15455,
+    "title": "Fall of Night",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rc_fallofni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15456,
+    "title": "Daylighters",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rc_daylight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15457,
+    "title": "Undone",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rc_undone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15458,
+    "title": "Unknown",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rc_unknown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15459,
+    "title": "Unseen",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rc_unseen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15460,
+    "title": "Unbroken",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rc_unbroken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15461,
+    "title": "Working Stiff",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rc_workings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15462,
+    "title": "Two Weeks' Notice",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rc_twoweeks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15463,
+    "title": "Terminated",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rc_terminat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16035,
+    "title": "Sacrifice Moon",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "RC_sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12648,
+    "title": "Ill Wind",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "RC_illwind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12649,
+    "title": "Heat Stroke",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "RC_heatstro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12650,
+    "title": "Chill Factor",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "RC_chillfac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12651,
+    "title": "Windfall",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "RC_windfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12652,
+    "title": "Firestorm",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "RC_firestor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12653,
+    "title": "Thin Air",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "RC_thinair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12654,
+    "title": "Gale Force",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "RC_galeforc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12655,
+    "title": "Cape Storm",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RC_capestor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12656,
+    "title": "Total Eclipse",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RC_totalecl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

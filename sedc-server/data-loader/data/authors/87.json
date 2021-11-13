@@ -1,0 +1,483 @@
+[
+  {
+    "id": 24152,
+    "title": "Other Arms Reach Out to Me: Georgia Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mb_otherarm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17812,
+    "title": "Rattlesnakes and Men",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mb_rattlesn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18562,
+    "title": "The Door Gunner and Other Perilous Flights of Fancy:  A Michael Bishop Retrospective",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mb_thedoorg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27251,
+    "title": "Twenty Lights to 'The Land of Snow'",
+    "year": 2012,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17208,
+    "title": "The City Quiet as Death",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sumb_thecityq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18561,
+    "title": "Vinegar Peace, or, The Wrong-Way Used-Adult Orphanage",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24339,
+    "title": "Brighten to Incandescence: 17 Stories",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mb_brighten.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23618,
+    "title": "Blue Kansas Sky",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19417,
+    "title": "Blue Kansas Sky:  Four Short Novels of Memory, Magic, Surmise & Estrangement",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mb_bluekans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 498,
+    "title": "At the City Limits of Fate",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mb_atthecit.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20023,
+    "title": "I, Iscariot",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 90,
+    "title": "Brittle Innings",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mb_brittlei.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 19859,
+    "title": "Cri de Coeur",
+    "year": 1994,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25624,
+    "title": "Count Geiger's Blues",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mb_countgei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17920,
+    "title": "Life Regarded as a Jigsaw Puzzle of Highly Lustrous Cats",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16070,
+    "title": "Apartheid, Superstrings, and Mordecai Thubana",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mb_aparthei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17940,
+    "title": "The Ommatidium Miniatures",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 640,
+    "title": "Philip K. Dick Is Dead, Alas",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mb_philipkd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 757,
+    "title": "Unicorn Mountain",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mb_unicornm.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 27787,
+    "title": "For Thus Do I Remember Carthage",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18784,
+    "title": "Close Encounters with the Deity",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mb_closeenc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 644,
+    "title": "Ancient of Days",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mb_anciento.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18783,
+    "title": "A Gift from the GrayLanders",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17997,
+    "title": "Light Years and Dark:  Science Fiction and Fantasy Of and For Our Time",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mb_lightyea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18088,
+    "title": "One Winter in Eden",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mb_onewinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4367,
+    "title": "Who Made Stevie Crye?",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mb_whomades.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19410,
+    "title": "The Gospel According to Gamaliel Crucis (or, the Astrogator's Testimony)",
+    "year": 1983,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19411,
+    "title": "Her Habiline Husband",
+    "year": 1983,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23444,
+    "title": "The Monkey's Bride",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19418,
+    "title": "Blooded on Arachne",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mb_bloodedon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 220,
+    "title": "No Enemy But Time",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mb_noenemyb.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 18540,
+    "title": "The Quickening",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mb_thequick.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35913,
+    "title": "Under Heaven's Bridge",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "IW_underhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26566,
+    "title": "Eyes of Fire",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mb_eyesoffi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1065,
+    "title": "Transfigurations",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "mb_transfig.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35914,
+    "title": "Beneath the Shattered Moons",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "MB_beneath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26693,
+    "title": "Collaborating",
+    "year": 1978,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18089,
+    "title": "Vernalfest Morning",
+    "year": 1978,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23824,
+    "title": "Within the Walls of Tyre",
+    "year": 1978,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26350,
+    "title": "The House of Compassionate Sharers",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19545,
+    "title": "Stolen Faces",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mb_stolenfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18988,
+    "title": "Blooded on Arachne",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 261,
+    "title": "A Funeral for the Eyes of Fire",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "mb_afuneral.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21438,
+    "title": "Rogue Tomato",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21476,
+    "title": "Cathadonian Odyssey",
+    "year": 1974,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19416,
+    "title": "Death and Designation Among the Asadi",
+    "year": 1973,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19415,
+    "title": "The White Otters of Childhood",
+    "year": 1973,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28274,
+    "title": "Emphatically Not SF, Almost",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mb_acm15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7468,
+    "title": "Nebula Awards 23",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mb_nebula23.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7467,
+    "title": "Nebula Awards 24",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mb_nebula24.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7466,
+    "title": "Nebula Awards 25",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mb_nebula25.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11114,
+    "title": "Tor Double #16: The Color of Neanderthal Eyes / And Strange At",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "AS_tordbl16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19412,
+    "title": "Catacomb Years",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "mb_catacomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34214,
+    "title": "Old Folks at Home",
+    "year": 1978,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19413,
+    "title": "A Little Knowledge",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mb_alittlek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19414,
+    "title": "The Samurai and the Willows",
+    "year": 1976,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

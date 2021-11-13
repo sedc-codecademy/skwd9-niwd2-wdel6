@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3880,
+    "title": "The Breach",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pl_thebreac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3881,
+    "title": "Ghost Country",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pl_ghostcou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3882,
+    "title": "Deep Sky",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pl_deepsky.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

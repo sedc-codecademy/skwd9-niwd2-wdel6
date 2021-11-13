@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17244,
+    "title": "Heads Will Roll",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lm_headswil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17243,
+    "title": "Burnt Sugar",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lm_burntsug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31993,
+    "title": "Firebug",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "LM_Firebug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31994,
+    "title": "Pyromantic",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "LM_Pyromant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31991,
+    "title": "Hold Me Closer, Necromancer",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "LM_HoldMeCl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31992,
+    "title": "Necromancing the Stone",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "LM_Necroman.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

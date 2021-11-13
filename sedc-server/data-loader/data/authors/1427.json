@@ -1,0 +1,101 @@
+[
+  {
+    "id": 35143,
+    "title": "Bright Morning Star",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sm_brightmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22051,
+    "title": "At the Speed of Light",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sm_atthespe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9567,
+    "title": "Arcanum",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sm_arcanum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5527,
+    "title": "The Curve of The Earth",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sm_thecurve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21762,
+    "title": "Another War",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_anotherw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34264,
+    "title": "Macsen Against the Jugger",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sm_macsenag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19486,
+    "title": "Down Station",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sm_downstat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20682,
+    "title": "The White City",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sm_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2994,
+    "title": "Equations of Life",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sm_equation.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2995,
+    "title": "Theories of Flight",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sm_theories.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2996,
+    "title": "Degrees of Freedom",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sm_degreeso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

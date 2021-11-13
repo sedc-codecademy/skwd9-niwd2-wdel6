@@ -1,0 +1,56 @@
+[
+  {
+    "id": 4546,
+    "title": "Miserere: An Autumn Tale",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tf_miserfre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19547,
+    "title": "Los Nefilim",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tf_losnefil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17809,
+    "title": "In Midnight's Silence",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tf_inmidnig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17810,
+    "title": "Without Light or Guide",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tf_withoutl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17811,
+    "title": "The Second Death",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tf_thesecon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31583,
+    "title": "Where Oblivion Lives",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tf_whereobl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

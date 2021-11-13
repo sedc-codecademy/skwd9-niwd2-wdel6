@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9496,
+    "title": "The Night Life of the Gods",
+    "year": 1931,
+    "type": "novel",
+    "imageName": "ts_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9495,
+    "title": "Turnabout",
+    "year": 1931,
+    "type": "novel",
+    "imageName": "ts_turnabou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9494,
+    "title": "Topper",
+    "year": 1926,
+    "type": "novel",
+    "imageName": "ts_topper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18020,
+    "title": "Topper Takes a Trip",
+    "year": 1932,
+    "type": "novel",
+    "imageName": "TS_TopperTa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

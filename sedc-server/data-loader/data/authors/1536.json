@@ -1,0 +1,82 @@
+[
+  {
+    "id": 35433,
+    "title": "Little Green Men—Attack!",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "BTS_LittleGr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18577,
+    "title": "The Children's Crusade",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16021,
+    "title": "Shadowdance",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rwb_shadowda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32080,
+    "title": "Night Watch",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RWB_NightWat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32077,
+    "title": "Frost",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "RWB_Frost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32078,
+    "title": "Skull Gate",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "RWB_SkullGat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32079,
+    "title": "Bloodsongs",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "RWB_BloodSon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3409,
+    "title": "Swords Against the Shadowland",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rwb_swordsag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11243,
+    "title": "The Lake of Fire",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RB_lakefire.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

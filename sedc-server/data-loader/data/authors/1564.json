@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4625,
+    "title": "The Bridge",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jscs_thebridg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26073,
+    "title": "The Scream",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jsgs_thescrea.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3509,
+    "title": "Book of the Dead",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jscs_bookofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4624,
+    "title": "Still Dead:  Book of the Dead 2",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jscs_stilldea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

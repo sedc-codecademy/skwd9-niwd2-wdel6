@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11784,
+    "title": "The Last Wizard",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ts_thelastw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11785,
+    "title": "Blood",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ts_blood.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11786,
+    "title": "Passion",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ts_passion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11787,
+    "title": "Freedom",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ts_freedom.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

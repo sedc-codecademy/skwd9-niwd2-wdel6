@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15275,
+    "title": "Clash of Eagles",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "as_clashofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21842,
+    "title": "Eagle in Exile",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "AS_eagleexi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21843,
+    "title": "Eagle and Empire",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AS_eagleemp.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16748,
+    "title": "Flats",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rw_flats.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16747,
+    "title": "Quake",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rw_quake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16746,
+    "title": "Nog",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "rw_nog.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

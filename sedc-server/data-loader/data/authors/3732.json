@@ -1,0 +1,56 @@
+[
+  {
+    "id": 35047,
+    "title": "Singularity Station",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "BNB_Singular.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35048,
+    "title": "The Regiments of Night",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "BNB_Regiment.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35049,
+    "title": "The Probability Man",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "BNB_Probabil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35050,
+    "title": "Planet Probability",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "BNB_PlanetPr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15524,
+    "title": "Survival",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bb_survival.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15369,
+    "title": "The Space Guardians",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bb_spacegua.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

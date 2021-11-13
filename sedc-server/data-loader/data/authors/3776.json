@@ -1,0 +1,92 @@
+[
+  {
+    "id": 15749,
+    "title": "The Gilded Rune",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ls_thegilde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15622,
+    "title": "Venom's Taste",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ls_venomsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15623,
+    "title": "Viper's Kiss",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ls_viperski.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15624,
+    "title": "Vanity's Brood",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ls_vanitysb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15901,
+    "title": "Heirs of Prophecy",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ls_heirsofp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15625,
+    "title": "Sacrifice of the Widow",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ls_sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15626,
+    "title": "Storm of the Dead",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ls_stormoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15627,
+    "title": "Ascendancy of the Last",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ls_ascendan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15676,
+    "title": "Extinction",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ls_extincti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17422,
+    "title": "The Playback War",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ls_playback.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

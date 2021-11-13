@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2516,
+    "title": "Harmony",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pi_harmony.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10077,
+    "title": "Metal Gear Solid: Guns of the Patriot",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "PI_metalgea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10078,
+    "title": "Genocidal Organ",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "PI_genocida.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

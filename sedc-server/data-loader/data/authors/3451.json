@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13910,
+    "title": "Deadlands",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lh_deadlands.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18697,
+    "title": "Death of a Saint",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lh_deathofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18698,
+    "title": "The Army of the Lost",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lh_thearmyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18699,
+    "title": "Ash Remains",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lh_ashremai.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

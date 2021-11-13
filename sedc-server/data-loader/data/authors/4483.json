@@ -1,0 +1,56 @@
+[
+  {
+    "id": 19283,
+    "title": "Engines of Destiny",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gd_engineso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19316,
+    "title": "The Peacekeepers",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gdw_peacekee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19317,
+    "title": "Into the Nebula",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gdw_intothen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19313,
+    "title": "Chain of Attack",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "gdw_chainofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19314,
+    "title": "The Final Nexus",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gdw_finalnex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19315,
+    "title": "Renegade",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gdw_renegade.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

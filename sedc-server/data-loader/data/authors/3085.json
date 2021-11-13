@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11912,
+    "title": "Night's Cold Kiss",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "toh_nightsco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11913,
+    "title": "Death's Sweet Embrace",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "toh_deathswe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11914,
+    "title": "Sin's Dark Caress",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "toh_sinsdark.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4084,
+    "title": "Chime",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "fb_chime.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6195,
+    "title": "The Folk Keeper",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "fb_thefolkk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6191,
+    "title": "Well Wished",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "fb_wellwish.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

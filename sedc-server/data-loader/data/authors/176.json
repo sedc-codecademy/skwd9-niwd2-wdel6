@@ -1,0 +1,314 @@
+[
+  {
+    "id": 31401,
+    "title": "AI and the Trolley Problem",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pg_aiandthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16896,
+    "title": "The Christmas Show",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pc_thechris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20876,
+    "title": "The Girl-Thing Who Went Out For Sushi",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31829,
+    "title": "In Plain Sight",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26584,
+    "title": "Cody",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26336,
+    "title": "The Taste of Night",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27139,
+    "title": "Nothing Personal",
+    "year": 2007,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27498,
+    "title": "Truth and Bone",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30270,
+    "title": "Is There Life After Rehab?",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19408,
+    "title": "The Ultimate Cyberpunk",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pc_theultim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27505,
+    "title": "Death in the Promised Land",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pg_deathint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19951,
+    "title": "Paris in June",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13854,
+    "title": "Dirty Work",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pc_dirtywor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27641,
+    "title": "Love Toys of the Gods",
+    "year": 1993,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 609,
+    "title": "Fools",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pc_fools.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13855,
+    "title": "Home By The Sea",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pc_homebyth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27650,
+    "title": "Naming Names",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20994,
+    "title": "True Faces",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20459,
+    "title": "Dispatches from the Revolution",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 182,
+    "title": "Synners",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pc_synners.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 19321,
+    "title": "Fool to Believe",
+    "year": 1990,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9416,
+    "title": "Patterns",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "pc_patterns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17930,
+    "title": "The Power and the Passion",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26731,
+    "title": "It Was the Heat",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24026,
+    "title": "My Brother's Keeper",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pc_mybrothe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17974,
+    "title": "Angel",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 549,
+    "title": "Mindplayers",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pc_mindplay.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 17983,
+    "title": "Pretty Boy Crossover",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22428,
+    "title": "After the Days of Dead-Eye 'Dee",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27167,
+    "title": "Roadside Rescue",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27844,
+    "title": "Rock On",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6031,
+    "title": "Tea From An Empty Cup",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pc_teafroma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6032,
+    "title": "Dervish Is Digital",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pc_dervishi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31464,
+    "title": "Alita: Battle Angel - Iron City",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "PC_ironcity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31465,
+    "title": "Alita: Battle Angel",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "PC_alitaba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22558,
+    "title": "Nearly Departed",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13856,
+    "title": "Promised Land",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pc_promised.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

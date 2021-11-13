@@ -1,0 +1,74 @@
+[
+  {
+    "id": 20716,
+    "title": "The Waking Fire",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_thewakin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27350,
+    "title": "The Legion of Flame",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ar_thelegio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32716,
+    "title": "The Empire of Ashes",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ar_theempir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34176,
+    "title": "The Wolf's Call",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ar_thewolfs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14375,
+    "title": "Blood Song",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ar_bloodson.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14376,
+    "title": "Tower Lord",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ar_towerlor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14377,
+    "title": "Queen of Fire",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ar_queenoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35510,
+    "title": "A Pilgrimage of Swords",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ar_apilgrim.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

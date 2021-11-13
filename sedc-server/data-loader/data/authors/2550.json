@@ -1,0 +1,83 @@
+[
+  {
+    "id": 13026,
+    "title": "The Man from Far Cloud",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pow_themanfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13025,
+    "title": "The Gifts of the Gorboduc Vandal",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "pow_thegifts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9820,
+    "title": "The Breaking of Northwall",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pow_thebreak.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9822,
+    "title": "The Ends of the Circle",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pow.theendso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9824,
+    "title": "The Dome in the Forest",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pow_thedomeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9825,
+    "title": "The Fall of the Shell",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pow_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9826,
+    "title": "An Ambush of Shadows",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pow_theambus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9827,
+    "title": "The Song of the Axe",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pow_thesongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9828,
+    "title": "The Sword of Forbearance",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pow_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

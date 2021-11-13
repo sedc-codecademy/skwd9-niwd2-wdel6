@@ -1,0 +1,72 @@
+[
+  {
+    "id": 4618,
+    "title": "Prime Evil",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dw_primeevi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24229,
+    "title": "Millennium",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dew_milleniu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23563,
+    "title": "The Zombies of Madison County",
+    "year": 1997,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23981,
+    "title": "Loop",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23908,
+    "title": "Splatter: A Cautionary Tale",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dew_splatter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24228,
+    "title": "Faces of Fear: Encounters With the Creators of Modern Horror",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "dew_facesoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23472,
+    "title": "Night Visions 5",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dew_nightv05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14362,
+    "title": "Stephen King:  The Art of Darkness",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "DW_stephenk.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

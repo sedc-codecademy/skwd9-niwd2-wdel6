@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1831,
+    "title": "The Infernal",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "kw_theinfer.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 11502,
+    "title": "Angel of Ruin:  or Fallen Angel",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kw_angelofr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11330,
+    "title": "The Resurrectionists",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kw_theresur.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11328,
+    "title": "The Autumn Castle",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kw_theautum.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11329,
+    "title": "Giants of the Frost",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "kw_giantsof.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 19368,
+    "title": "Rosa and the Veil of Gold",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kw_rosaandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11503,
+    "title": "Daughters of the Storm",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kw_daughter.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22500,
+    "title": "Sisters of the Fire",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kw_sisterso.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

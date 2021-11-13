@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1663,
+    "title": "Yearwood",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ph_yearwood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1664,
+    "title": "Undersea",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ph_undersea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 938,
+    "title": "Winterking",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ph_winterki.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

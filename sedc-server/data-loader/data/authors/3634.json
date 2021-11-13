@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14938,
+    "title": "Dark Heart",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "td_darkhear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14939,
+    "title": "The Companions",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "td_thecompa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14883,
+    "title": "Maquesta Kar-Thon",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tdjr_maquesta.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

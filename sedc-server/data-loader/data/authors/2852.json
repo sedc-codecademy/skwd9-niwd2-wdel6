@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11214,
+    "title": "Blood+ 01:  First Kiss",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "RI_firstkis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11215,
+    "title": "Blood+ 02:  Chevalier",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "RI_chevalie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11216,
+    "title": "Blood+ 03:  Boy Meets Girl",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "RI_boymgirl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11217,
+    "title": "Blood+ 04:  Nankurunaisa",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "RI_nankurun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

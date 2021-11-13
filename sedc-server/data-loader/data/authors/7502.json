@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35490,
+    "title": "Prospero's Children",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "JS_Prospero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35491,
+    "title": "The Dragon-Charmer",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "JS_DragonCh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35492,
+    "title": "The Witch Queen",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JS_WitchQue.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 14965,
+    "title": "The Nightmare of Black Island",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mt_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14979,
+    "title": "Snowglobe 7",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mt_snowglob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15023,
+    "title": "The Crawling Terror",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mt_thecrawl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15063,
+    "title": "The Art of War",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mt_theartof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8919,
+    "title": "Illegal Alien",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mkrp_illegala.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8943,
+    "title": "Matrix",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mtrp_matrix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8951,
+    "title": "Storm Harvest",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rpmt_stormhar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9034,
+    "title": "Prime Time",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mt_primetim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9096,
+    "title": "Loving the Alien",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mtrp_lovingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9143,
+    "title": "Companion Piece",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mtrp_companio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

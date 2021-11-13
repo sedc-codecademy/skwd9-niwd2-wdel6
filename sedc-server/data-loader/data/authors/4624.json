@@ -1,0 +1,38 @@
+[
+  {
+    "id": 28323,
+    "title": "Into the Gray",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mk_intotheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20536,
+    "title": "Everything that Isn't Winter",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mk_everythi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25681,
+    "title": "The Lamb Will Slaughter the Lion",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "MK_TheLambW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25848,
+    "title": "The Barrow Will Send What it May",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mk_barrowwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

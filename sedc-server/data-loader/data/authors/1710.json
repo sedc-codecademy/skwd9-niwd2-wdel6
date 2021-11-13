@@ -1,0 +1,47 @@
+[
+  {
+    "id": 6981,
+    "title": "Butcher's Road",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lt_butchers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6982,
+    "title": "Like Light for Flies ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lt_likeligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4124,
+    "title": "The German",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lt_thegerma.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6980,
+    "title": "The Dust of Wonderland ",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lt_dustofwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6979,
+    "title": "Stained",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lt_stained.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

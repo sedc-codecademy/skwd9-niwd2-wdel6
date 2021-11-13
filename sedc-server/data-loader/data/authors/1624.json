@@ -1,0 +1,38 @@
+[
+  {
+    "id": 25333,
+    "title": "The Bone Chime Song and Other Stories",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ja_thebonec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3637,
+    "title": "Debris",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ja_debris.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4827,
+    "title": "Suited",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ja_suited.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25332,
+    "title": "Guardian",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ja_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

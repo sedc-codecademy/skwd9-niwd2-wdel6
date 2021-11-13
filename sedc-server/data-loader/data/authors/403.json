@@ -1,0 +1,303 @@
+[
+  {
+    "id": 18898,
+    "title": "A Window Into Time",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pfh_awindowi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17475,
+    "title": "Great North Road",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pfh_greatnor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19353,
+    "title": "Manhattan in Reverse",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pfh_manhatta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32326,
+    "title": "The Forever Kitten",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27201,
+    "title": "Footvote",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 405,
+    "title": "Fallen Dragon",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pfh_fallendr.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 16173,
+    "title": "Eat Reecebread",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18899,
+    "title": "The Secret Throne",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pfh_thesecret.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18900,
+    "title": "The Hunting of the Princes",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pfh_thehunti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23598,
+    "title": "A Voyage Through Air",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pfh_avoyaget.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9538,
+    "title": "The Abyss Beyond Dreams",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pfh_theabyss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19291,
+    "title": "Night Without Stars",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pfh_anightwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3427,
+    "title": "Pandora's Star",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pfh_pandoras.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3428,
+    "title": "Judas Unchained",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pfh_judasunc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27384,
+    "title": "The Suspect Genome",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1479,
+    "title": "Mindstar Rising",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pfh_mindstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1478,
+    "title": "A Quantum Murder",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pfh_aquantum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1086,
+    "title": "The Nano Flower",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pfh_thenanof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2758,
+    "title": "The Reality Dysfunction, Part 1: Emergence",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pfh_rdemerge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2759,
+    "title": "The Reality Dysfunction, Part 2: Expansion",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pfh_rdexpans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2760,
+    "title": "The Neutronium Alchemist, Part 1: Consolidation",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pfh_naconsol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2761,
+    "title": "The Neutronium Alchemist, Part 2: Conflict",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pfh_naconfli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2762,
+    "title": "The Naked God, Part 1: Flight",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pfh_ngflight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2763,
+    "title": "The Naked God, Part 2: Faith",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pfh_ngfaith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20532,
+    "title": "A Second Chance at Eden",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pfh_asecondc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27496,
+    "title": "Escape Route",
+    "year": 1997,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20533,
+    "title": "The Reality Dysfunction",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pfh_thereali.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20534,
+    "title": "The Neutronium Alchemist",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pfh_theneutr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20535,
+    "title": "The Naked God",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pfh_thenaked.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28317,
+    "title": "Salvation",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pfh_salvatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34674,
+    "title": "Salvation Lost",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pfh_salvlost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2751,
+    "title": "The Dreaming Void",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pfh_thedream.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2752,
+    "title": "The Temporal Void",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pfh_thetempo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2753,
+    "title": "The Evolutionary Void",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pfh_theevolu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

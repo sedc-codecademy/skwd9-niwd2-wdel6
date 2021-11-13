@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25465,
+    "title": "The Autobiography of Jean-Luc Picard",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "DG_jean-luc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28111,
+    "title": "The Autobiography of Mr. Spock",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "DG_autospock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20886,
+    "title": "The Autobiography of James T. Kirk",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "DG_autobiog.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16186,
+    "title": "The Labyrinth of Dreaming Books",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "WM_TheLabyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16152,
+    "title": "The Alchemaster's Apprentice",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "WM_TheAlche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16118,
+    "title": "The City of Dreaming Books",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "WM_TheCityO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16047,
+    "title": "The 13 1/2 Lives of Captain Bluebear",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "WM_The13Liv.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

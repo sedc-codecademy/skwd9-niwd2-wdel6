@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25466,
+    "title": "Sourdough",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rs_sourdoug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25467,
+    "title": "Ajax Penumbra 1969",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rs_ajaxpenu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8867,
+    "title": "Mr. Penumbra's 24-Hour Bookstore",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RS_MrPenumb.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

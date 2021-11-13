@@ -1,0 +1,74 @@
+[
+  {
+    "id": 21400,
+    "title": "The Science Fiction Yearbook",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jpjbjfc_sfyearbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35786,
+    "title": "The Ophidian Conspiracy",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "JFC_Ophidian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36377,
+    "title": "H. Beam Piper: A Biography",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jfc_hbeampip.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18041,
+    "title": "The Endless Frontier, Vol. II",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jpjfc_tefront2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18014,
+    "title": "Cities in Space",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jpjfc_citiesin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18050,
+    "title": "Life Among the Asteroids",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jpjfc_lifeamon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7503,
+    "title": "Nebula Award Stories Sixteen",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jp_nebula16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21141,
+    "title": "There Will Be War",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jpjfc_therewil.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 30281,
+    "title": "A Small Armageddon",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "mr_asmallar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30279,
+    "title": "Level 7",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "mr_level7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36384,
+    "title": "Dreams and Nightmares:  Science and Technology in Myth and Fiction",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mr_dreamsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

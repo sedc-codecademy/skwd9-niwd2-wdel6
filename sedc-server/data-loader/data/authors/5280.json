@@ -1,0 +1,72 @@
+[
+  {
+    "id": 24429,
+    "title": "DJSturbia",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "DJS_djsturbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24610,
+    "title": "Black Leather Required",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "djs_blacklet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23900,
+    "title": "The Shaft",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "djs_theshaft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23917,
+    "title": "Sedalia",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "djs_sedalia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23899,
+    "title": "The Kill Riff",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "djs_thekillr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23907,
+    "title": "Silver Scream",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "djs_silversc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23906,
+    "title": "Pamela's Get",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23888,
+    "title": "Red Light",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11541,
+    "title": "Journey to Mars",
+    "year": 1894,
+    "type": "novel",
+    "imageName": "gp_journeytomars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11542,
+    "title": "A Journey to Venus",
+    "year": 1895,
+    "type": "novel",
+    "imageName": "gp_ajourney.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

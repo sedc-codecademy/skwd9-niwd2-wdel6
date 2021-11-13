@@ -1,0 +1,128 @@
+[
+  {
+    "id": 30232,
+    "title": "Killing Commendatore",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "hm_killingc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23708,
+    "title": "Men Without Women",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "hm_menwitho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9175,
+    "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "hm_colorles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4896,
+    "title": "1Q84",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "hm_iq84.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9029,
+    "title": "Blind Willow, Sleeping Woman",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "hm_blindwil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10842,
+    "title": "The Strange Library",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "HM_TheStran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9026,
+    "title": "After Dark",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "hm_afterdar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 978,
+    "title": "Kafka on the Shore",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "hm_kafkaont.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9027,
+    "title": "Sputnik Sweetheart ",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "hm_sputniks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3180,
+    "title": "The Wind-Up Bird Chronicle",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "hm_thewindu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9028,
+    "title": "The Elephant Vanishes ",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "hm_elephant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9122,
+    "title": "Dance, Dance, Dance",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "HM_DanceDan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9025,
+    "title": "The Hard-Boiled Wonderland and the End of the World ",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "hm_hardboil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9121,
+    "title": "A Wild Sheep Chase",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "HM_AWildShe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

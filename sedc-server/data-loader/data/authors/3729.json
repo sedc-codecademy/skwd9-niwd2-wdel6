@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15363,
+    "title": "Eight Against Reality",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dc_eightaga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15357,
+    "title": "Panverse One",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dc_panvers1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15358,
+    "title": "Panverse Two",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dc_panvers2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15359,
+    "title": "Panverse Three",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dc_panvers3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 10483,
+    "title": "Map and Legends",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mc_mapsandl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36022,
+    "title": "Gentlemen of the Road:  A Tale of Adventure",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MC_Gentelme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1026,
+    "title": "The Yiddish Policemen's Union",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mc_theyiddi.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 17721,
+    "title": "McSweeney's Mammoth Treasury of Thrilling Tales",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mc_mcsweene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3655,
+    "title": "Summerland",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mc_summerla.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3107,
+    "title": "The Amazing Adventures of Kavalier & Clay",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mc_theamazi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

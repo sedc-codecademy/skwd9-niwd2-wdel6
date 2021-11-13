@@ -1,0 +1,289 @@
+[
+  {
+    "id": 4194,
+    "title": "Early Del Rey",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ldr_earlydel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4665,
+    "title": "Siege Perilous",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ldr_siegeper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3848,
+    "title": "Police Your Planet",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ldr_policeyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7934,
+    "title": "Pstalemate",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ldr_pstalema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10446,
+    "title": "Outpost of Jupiter",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ldr_outposto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8596,
+    "title": "The Eleventh Commandment",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ldr_theeleve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36572,
+    "title": "Day of the Giants",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "LR_dayofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4223,
+    "title": "Nerves",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ldr_nerves.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7177,
+    "title": "Preferred Risk",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "fpldr_preferre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6453,
+    "title": "…And Some Were Human",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "ldr_andsomew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31633,
+    "title": "Nerves",
+    "year": 1942,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21740,
+    "title": "The Sky is Falling / Badge of Infamy",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ad_theskyis_balanceo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11362,
+    "title": "The Band Played On and Other Stories",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "LR_bandplay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3849,
+    "title": "The Best of Lester del Rey",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ldr_bestofle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18070,
+    "title": "Best Science Fiction Stories of the Year",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ldr_bsfsoy01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18072,
+    "title": "Best Science Fiction Stories of the Year: Second Annual Collection",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ldr_bsfsoy02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18073,
+    "title": "Best Science Fiction Stories of the Year: Third Annual Collection",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ldr_bsfsoy03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18075,
+    "title": "Best Science Fiction Stories of the Year: Fourth Annual Collection",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ldr_bsfsoy04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18076,
+    "title": "Best Science Fiction Stories of the Year: Fifth Annual Collection",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ldr_bsfsoy05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3850,
+    "title": "War and Space",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ldr_warands.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3851,
+    "title": "Robots and Magic",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ldr_robotsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4666,
+    "title": "Marooned on Mars",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "ldr_marooned.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10373,
+    "title": "Rocket Jockey",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "psj_rocketjo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10377,
+    "title": "Attack from Atlantis",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "ldr_attackfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10378,
+    "title": "Battle on Mercury",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "evl_battleon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10381,
+    "title": "The Mysterious Planet",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "kw_themyste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10389,
+    "title": "Rockets to Nowhere",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "psj_rocketst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10391,
+    "title": "Step to the Stars",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ldr_steptoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10403,
+    "title": "The Year After Tomorrow",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ldrcmcc_theyeara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10407,
+    "title": "Mission to the Moon",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ldr_missiont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10408,
+    "title": "Rockets Through Space",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ldr_rocketst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10412,
+    "title": "Moon of Mutiny",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ldr_moonofmu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

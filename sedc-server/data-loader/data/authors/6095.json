@@ -1,0 +1,47 @@
+[
+  {
+    "id": 32455,
+    "title": "Spell Bound",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RE_SpellBou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32454,
+    "title": "The Princess of Flames",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "RE_Princess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32456,
+    "title": "To the Haunted Mountains",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "RE_TotheHau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32457,
+    "title": "In the Caves of Exile",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "RE_IntheCav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32458,
+    "title": "On the Seas of Destiny",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RE_OntheSea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

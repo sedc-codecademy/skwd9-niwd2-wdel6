@@ -1,0 +1,56 @@
+[
+  {
+    "id": 14970,
+    "title": "Wooden Heart",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "md_woodenhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12076,
+    "title": "The Menagerie",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "md_themenag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8895,
+    "title": "The Sleep of Reason",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "md_thesleep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8915,
+    "title": "The Devil Goblins of Neptune",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ktmd_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8924,
+    "title": "The Hollow Men",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ktmd_thehollo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9045,
+    "title": "Bunker Soldiers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "md_bunkerso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

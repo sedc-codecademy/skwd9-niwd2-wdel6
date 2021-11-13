@@ -1,0 +1,83 @@
+[
+  {
+    "id": 11471,
+    "title": "Amberlight",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sk_amberlig.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11472,
+    "title": "Riversend",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sk_riversen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11473,
+    "title": "Source",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sk_source.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11469,
+    "title": "Everran's Bane",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sk_everrans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11468,
+    "title": "The Moving Water",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sk_movingwa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11467,
+    "title": "The Red Country",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sk_redcount_.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11470,
+    "title": "The Seagull",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sk_seagull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34766,
+    "title": "Three Observations and a Dialogue:  Round and About SF",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sk_threeobs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34655,
+    "title": "Spring in Geneva",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sk_springin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

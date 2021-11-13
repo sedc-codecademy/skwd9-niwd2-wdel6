@@ -1,0 +1,81 @@
+[
+  {
+    "id": 34123,
+    "title": "Fox 8",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gs_fox8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22979,
+    "title": "Lincoln in the Bardo",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "GS_LincolnI.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8487,
+    "title": "Tenth of December:  Stories",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "GS_TenthOfD.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29013,
+    "title": "My Chivalric Fiasco",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8486,
+    "title": "In Persuasion Nation",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "GS_InPursua.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8485,
+    "title": "The Brief and Frightening Reign of Phil",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "GS_TheBrief.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24133,
+    "title": "CommComm",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8484,
+    "title": "Pastoralia",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "GS_Pastoral.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8483,
+    "title": "CivilWarLand in Bad Decline",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "GS_CivilWar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

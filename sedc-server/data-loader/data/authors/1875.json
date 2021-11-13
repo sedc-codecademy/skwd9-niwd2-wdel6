@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4969,
+    "title": "A Wrinkle in Time",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "mle_awrinkle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4970,
+    "title": "A Wind in the Door",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "mle_awindint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4971,
+    "title": "A Swiftly Tilting Planet",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "mle_aswiftly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4972,
+    "title": "Many Waters",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mle_manywate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5594,
+    "title": "An Acceptable Time",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mle_anaccept.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

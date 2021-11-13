@@ -1,0 +1,228 @@
+[
+  {
+    "id": 35830,
+    "title": "The City We Became",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "nkj_thecityw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30223,
+    "title": "How Long 'til Black Future Month?",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "nkj_howlongt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25472,
+    "title": "Henosis",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20261,
+    "title": "The City Born Great",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "nkj_cityborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27179,
+    "title": "Red Dirt Witch",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22081,
+    "title": "Walking Awake",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23043,
+    "title": "Valedictorian",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28373,
+    "title": "The Effluent Engine",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25833,
+    "title": "On the Banks of the River Lex",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24776,
+    "title": "Sinners, Saints, Dragons, and Haints, in the City Beneath the Still Waters",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16045,
+    "title": "Non-Zero Probabilities",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "nkj_ssnonzer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16850,
+    "title": "Playing Nice With God's Bowling Ball",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28563,
+    "title": "The Best American Science Fiction and Fantasy 2018",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jjankj_tbasff18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13976,
+    "title": "The Fifth Season",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "nkj_thefifth.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 18338,
+    "title": "The Obelisk Gate",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "NKJ_TheObeli.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 21477,
+    "title": "The Stone Sky",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nkj_stonesky.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 5065,
+    "title": "The Killing Moon",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nkj_thekilli.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 5066,
+    "title": "The Shadowed Sun",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nkj_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36073,
+    "title": "Emergency Skin",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "NJ_emergenc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16437,
+    "title": "Shades in Shadow:  An Inheritance Triptych",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "nkj_shadesin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15794,
+    "title": "The Inheritance Trilogy",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "nkj_theinher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2321,
+    "title": "The Hundred Thousand Kingdoms",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "nkj_thehundr.jpg",
+    "nominations": 6,
+    "wins": -1
+  },
+  {
+    "id": 2379,
+    "title": "The Broken Kingdoms",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "nkj_thebroke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3431,
+    "title": "The Kingdom of Gods",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "nkj_thekingd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11865,
+    "title": "The Awakened Kingdom",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "nkj_theawake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26520,
+    "title": "Initiation",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nkjmw_initiati.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

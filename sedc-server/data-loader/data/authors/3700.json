@@ -1,0 +1,74 @@
+[
+  {
+    "id": 26176,
+    "title": "Fulgrim",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jr_fulgrim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15188,
+    "title": "Knight of the Blazing Sun",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jr_knightof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15465,
+    "title": "Road of Skulls",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jr_roadofsk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15467,
+    "title": "The Serpent Queen",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jr_theserpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15245,
+    "title": "Neferata",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jr_neferata.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15246,
+    "title": "Master of Death",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jr_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15247,
+    "title": "The Return of Nagash",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jr_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15261,
+    "title": "The Lord of the End Times",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jr_thelordo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

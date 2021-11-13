@@ -1,0 +1,290 @@
+[
+  {
+    "id": 12991,
+    "title": "The Living Legend",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "galny_thelivin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12992,
+    "title": "War of the Gods",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "galny_warofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31962,
+    "title": "The Nine Lives of Catseye Gomez",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "SH_NineLive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32627,
+    "title": "Psychodrome",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "SH_Psychodr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32628,
+    "title": "The Shapechanger Scenario",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "SH_Shapecha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31872,
+    "title": "The Reluctant Sorcerer",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "SH_Reluctan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31873,
+    "title": "The Inadequate Adept",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "SH_Inadeque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31874,
+    "title": "The Ambivalent Magician",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "SH_Ambivale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14825,
+    "title": "The Romulan Prize",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sh_romulanp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14824,
+    "title": "Blaze of Glory",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sh_blazeofg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14823,
+    "title": "The Patrian Transgression",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sh_patriant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10142,
+    "title": "The Ivanhoe Gambit",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sh_theivanh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10143,
+    "title": "The Timekeeper Conspiracy",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sh_thetimek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10144,
+    "title": "The Pimpernel Plot",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sh_thepimpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10145,
+    "title": "The Zenda Vendetta",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sh_thezenda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10174,
+    "title": "The Nautilus Sanction",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sh_thenauti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10175,
+    "title": "The Khyber Connection",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sh_thekhybe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10176,
+    "title": "The Argonaut Affair",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sh_theargon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10177,
+    "title": "The Dracula Caper",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sh_thedracu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10178,
+    "title": "The Lilliput Legion",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sh_thelilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10179,
+    "title": "The Hellfire Rebellion",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sh_thehellf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10180,
+    "title": "The Cleopatra Crisis",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sh_thecleop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10181,
+    "title": "The Six-Gun Solution",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sh_sixgunso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10133,
+    "title": "The Wizard of 4th Street",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sh_4thstree.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10134,
+    "title": "The Wizard of Whitechapel",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sh_whitecha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10135,
+    "title": "The Wizard of Sunset Strip",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sh_sunsetst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10136,
+    "title": "The Wizard of Rue Morgue",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sh_ruemorgue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10137,
+    "title": "The Samurai Wizard",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sh_thesamur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10138,
+    "title": "The Wizard of Santa Fe",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sh_santafe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10139,
+    "title": "The Wizard of Lovecraft's Cafe",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sh_lovecrafts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10140,
+    "title": "The Wizard of Camelot",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sh_camelot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10141,
+    "title": "The Last Wizard",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sh_thelastw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

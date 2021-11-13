@@ -1,0 +1,128 @@
+[
+  {
+    "id": 35243,
+    "title": "Battlestation",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "DD_Battlest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35246,
+    "title": "Vanguard",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "DD_Vanguard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34359,
+    "title": "Honor of the Regiment",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "bf_honoroft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34360,
+    "title": "The Unconquerable",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "BF_Unconque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34363,
+    "title": "Last Stand",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "bf_laststand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34364,
+    "title": "Old Guard",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "bf_oldguard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34365,
+    "title": "Cold Steel",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bf_coldstee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2902,
+    "title": "The Fleet",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ddbf_thefleet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2903,
+    "title": "Counterattack",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ddbf_countera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2904,
+    "title": "Breakthrough",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ddbf_breakthr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2905,
+    "title": "Sworn Allies",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ddbf_swornall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2906,
+    "title": "Total War",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ddbf_totalwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2907,
+    "title": "Crisis",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ddbf_crisis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7342,
+    "title": "Nebula Awards Showcase 2010",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bf_nebula10.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 11369,
+    "title": "The Dark Griffin",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kjt_thedarkg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11370,
+    "title": "The Griffin's Flight",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kjt_thegriff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11371,
+    "title": "The Griffin's War",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kjt_griffwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11372,
+    "title": "The Shadow's Heir",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kjt_thesheir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11373,
+    "title": "The Shadowed Throne",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kjt_thesthro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11374,
+    "title": "The Shadow's Heart",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kjt_theshear.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

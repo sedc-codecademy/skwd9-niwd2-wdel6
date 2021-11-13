@@ -1,0 +1,74 @@
+[
+  {
+    "id": 25886,
+    "title": "Special Purposes:  First Strike Weapon",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "GS_specialp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21385,
+    "title": "The Age of Scorpio",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gs_theageof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12320,
+    "title": "A Quantum Mythology",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gs_aquantum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16917,
+    "title": "The Beauty of Destruction",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gs_thebeaut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26660,
+    "title": "The Bastard Legion",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gs_thebasta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34274,
+    "title": "Chivalry",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "gs_chivalry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2742,
+    "title": "Veteran",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gs_veteran.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3787,
+    "title": "War in Heaven",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gs_warinhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

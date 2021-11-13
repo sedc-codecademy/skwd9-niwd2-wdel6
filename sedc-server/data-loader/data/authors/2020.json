@@ -1,0 +1,54 @@
+[
+  {
+    "id": 9542,
+    "title": "Prophecies, Libels, and Dreams:  Stories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ysw_propheci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23654,
+    "title": "The Lineaments of Gratified Desire",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23012,
+    "title": "The Biography of a Bouncing Boy Terror!",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5713,
+    "title": "Flora Segunda",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ysw_floraseg.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 5714,
+    "title": "Flora's Dare",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ysw_florasda.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5715,
+    "title": "Flora's Fury",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ysw_florasfu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2826,
+    "title": "Blueheart",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "as_bluehear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2825,
+    "title": "Legacies",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "as_legacies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 592,
+    "title": "Cavalcade",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "as_cavalcad.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6738,
+    "title": "Darkborn",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "as_darkborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6739,
+    "title": "Lightborn",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "as_lightbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6740,
+    "title": "Shadowborn",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "as_shadowbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17414,
+    "title": "Throne Price",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lw_thronepr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

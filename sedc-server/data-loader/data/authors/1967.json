@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17320,
+    "title": "Day Boy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tj_dayboy.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5444,
+    "title": "Death Most Definite",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tj_deathmos.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5445,
+    "title": "Managing Death",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tj_managing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5446,
+    "title": "The Business of Death",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tj_thebusin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8589,
+    "title": "Roil",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tj_roil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8590,
+    "title": "Night's Engines",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tj_nightsen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

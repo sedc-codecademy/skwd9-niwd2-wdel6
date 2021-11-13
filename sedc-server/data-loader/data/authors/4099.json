@@ -1,0 +1,47 @@
+[
+  {
+    "id": 17092,
+    "title": "The Stranger",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ab_thestran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17091,
+    "title": "Legacy Lost",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ab_legacylo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17093,
+    "title": "Of Poseidon",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ab_ofposeid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17094,
+    "title": "Of Triton",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ab_oftrito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17095,
+    "title": "Of Neptune",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ab_ofneptun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

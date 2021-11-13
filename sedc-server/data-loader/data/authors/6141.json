@@ -1,0 +1,47 @@
+[
+  {
+    "id": 32806,
+    "title": "Tyrannosaurus Rex",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "JFR_Tyrannos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32801,
+    "title": "Silverglass",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JFR_Silvergl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32803,
+    "title": "Web of Wind",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "JFR_WebofWin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32804,
+    "title": "Witch of Rhostshyl",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JFR_WitchofR.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32805,
+    "title": "Mistress of Ambiguities",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "JFR_Mistress.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

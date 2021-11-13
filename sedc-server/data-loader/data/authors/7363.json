@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34850,
+    "title": "Witchy Eye",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "DJB_WitchEye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34851,
+    "title": "Witchy Winter",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "DJB_WitchWin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34852,
+    "title": "Witchy Kingdom",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "DJB_WitchKin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

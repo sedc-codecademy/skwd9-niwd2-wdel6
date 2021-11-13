@@ -1,0 +1,64 @@
+[
+  {
+    "id": 19420,
+    "title": "On the Street of the Serpents",
+    "year": 1974,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22988,
+    "title": "Who Killed Kennedy",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "db_whokille.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8892,
+    "title": "The Domino Effect",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "db_dominoef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9087,
+    "title": "Amorality Tale",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "db_amoralit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9101,
+    "title": "Empire of Death",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "db_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15088,
+    "title": "A Massacre in Marienburg",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "db_amassacr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15082,
+    "title": "A Murder in Marienburg",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "db_amurderi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

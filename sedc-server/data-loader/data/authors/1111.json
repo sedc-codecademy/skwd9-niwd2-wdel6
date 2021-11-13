@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1735,
+    "title": "Heroes of the Valley",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_heroesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3289,
+    "title": "The Amulet of Samarkand",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "js_theamule.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3290,
+    "title": "The Golem's Eye",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "js_thegolem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3291,
+    "title": "Ptolemy's Gate",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "js_ptolemys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3292,
+    "title": "The Ring of Solomon",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_theringo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14150,
+    "title": "The Screaming Staircase",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "js_thescrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14151,
+    "title": "The Whispering Skull",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jl_thewhisp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14152,
+    "title": "The Hollow Boy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "js_thehollo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30161,
+    "title": "The Creeping Shadow",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "js_thecreep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30163,
+    "title": "The Empty Grave",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "js_theempty.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

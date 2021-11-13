@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17528,
+    "title": "The Destructives",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mda_thedestr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13754,
+    "title": "If Then",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mda_ifthen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1030,
+    "title": "The Red Men",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mda_theredme.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

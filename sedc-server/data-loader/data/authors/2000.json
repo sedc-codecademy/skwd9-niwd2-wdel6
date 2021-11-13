@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6266,
+    "title": "Little Black Book of Stories ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "asb_littlebl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23564,
+    "title": "Cold",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5652,
+    "title": "Elementals:  Stories of Fire and Ice",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "asb_elementa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5651,
+    "title": "The Djinn in the Nightingale's Eye",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "asb_thedjinn.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6703,
+    "title": "The Matisse Stories",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "asb_thematis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6667,
+    "title": "Angels and Insects",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "asb_angelsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6265,
+    "title": "Possession",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "asb_possessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6267,
+    "title": "Sugar and Other Stories",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "asb_sugarand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6268,
+    "title": "Ragnarok :  The End of the Gods",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "asb_ragnarok.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

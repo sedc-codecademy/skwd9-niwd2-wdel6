@@ -1,0 +1,56 @@
+[
+  {
+    "id": 28148,
+    "title": "The Little Broomstick",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "MS_littlebr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3326,
+    "title": "The Crystal Cave",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ms_thecryst.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3351,
+    "title": "The Hollow Hills",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ms_thehollo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3352,
+    "title": "The Last Enchantment",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ms_thelaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3353,
+    "title": "The Wicked Day",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ms_thewicke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3354,
+    "title": "The Prince and the Pilgrim",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ms_theprinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

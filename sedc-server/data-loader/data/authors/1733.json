@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4175,
+    "title": "The Map of Time:  A Novel",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "fjp_themapof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10811,
+    "title": "The Map of the Sky:  A Novel",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "FP_mapsky.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10812,
+    "title": "The Map of Chaos:  A Novel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "FP_mapchoas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

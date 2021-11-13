@@ -1,0 +1,500 @@
+[
+  {
+    "id": 18378,
+    "title": "Over the River and Through the Woods (collection)",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cds_overther.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16951,
+    "title": "Highway of Eternity",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cds_highwayo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16947,
+    "title": "Special Deliverance",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cds_speciald.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4224,
+    "title": "Where the Evil Dwells",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cds_wherethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 363,
+    "title": "Project Pope",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cds_projectp.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18084,
+    "title": "Grotto of the Dancing Deer",
+    "year": 1980,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4438,
+    "title": "The Visitors",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "cds_thevisit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16945,
+    "title": "The Fellowship of the Talisman",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cds_thefello.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16948,
+    "title": "Mastodonia",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cds_mastodon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16949,
+    "title": "A Heritage of Stars",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "cds_aheritag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6196,
+    "title": "Shakespeare's Planet",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "cds_shakespe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16946,
+    "title": "Enchanted Pilgrimage",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "cds_enchante.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16952,
+    "title": "Our Children's Children",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "cds_ourchild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21488,
+    "title": "Construction Shack",
+    "year": 1973,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 346,
+    "title": "A Choice of Gods",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "cds_achoiceo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21489,
+    "title": "The Autumn Land",
+    "year": 1971,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17078,
+    "title": "Destiny Doll",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "cds_destinyd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16950,
+    "title": "Out of Their Minds",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "cds_outofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19655,
+    "title": "The Thing in the Stone",
+    "year": 1970,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9067,
+    "title": "Best Science Fiction Stories of Clifford D. Simak",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "cds_bestscie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12438,
+    "title": "Why Call Them Back From Heaven?",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "cds_whycallt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18379,
+    "title": "Over the River and Through the Woods",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12437,
+    "title": "The Night of the Puudly",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "cds_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2295,
+    "title": "Worlds Without End",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "cds_worldswi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10,
+    "title": "Way Station",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "cds_waystati.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12436,
+    "title": "All the Traps of Earth and Other Stories",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "cds_allthetr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17077,
+    "title": "They Walked Like Men",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "cds_theywalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 308,
+    "title": "Time Is the Simplest Thing",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "cs_timeisth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21213,
+    "title": "The Big Front Yard",
+    "year": 1958,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1969,
+    "title": "City",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "cds_citymw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8448,
+    "title": "Cosmic Engineers",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "cs_cosmicen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11156,
+    "title": "Time and Again",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "CS_timeagai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21344,
+    "title": "Cosmic Manhunt / Ring Around the Sun",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ad_cosmicma_ringarou.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21298,
+    "title": "Bring Back Yesterday / The Trouble with Tycho",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ad_bringbac_thetroub.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21646,
+    "title": "The Man Who Saw Tomorrow / So Bright the Vision",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_themanwh_sobright.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15344,
+    "title": "I Am Crying All Inside:  And Other Stories",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cds_iamallcr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15345,
+    "title": "The Big Front Yard:  And Other Stories",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cds_thebigfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15346,
+    "title": "The Ghost of a Model T:  And Other Stories",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cds_theghost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16942,
+    "title": "Grotto of the Dancing Deer:  And Other Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cds_grottoof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16943,
+    "title": "No Life of Their Own:  And Other Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cds_nolifeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16944,
+    "title": "New Folks' Home:  And Other Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cds_newfolks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18739,
+    "title": "A Death in the House:  And Other Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cds_adeathin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18740,
+    "title": "Good Night, Mr. James:  And Other Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cds_goodnigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18741,
+    "title": "Earth for Inspiration:  And Other Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cds_earthfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25019,
+    "title": "The Shipshape Miracle:  And Other Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cds_theships.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25020,
+    "title": "Dusty Zebra:  And Other Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cds_dustyzeb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25021,
+    "title": "The Thing in the Stone:  And Other Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cds_the-thing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12914,
+    "title": "Empire",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "CS_empire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1985,
+    "title": "Ring Around the Sun",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "cds_ringarou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 333,
+    "title": "The Goblin Reservation",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "cds_thegoblin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10722,
+    "title": "Cemetery World",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "CS_cemetery.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 828,
+    "title": "All Flesh Is Grass",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "cds_allflesh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10724,
+    "title": "The Werewolf Principle",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "CS_werewolf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22456,
+    "title": "Clifford D. Simak: A Primary and Secondary Bibliography",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mrb_clifford.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7543,
+    "title": "Nebula Award Stories Six",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "cds_nebula06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18442,
+    "title": "The Best of Clifford D. Simak",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "CDS_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

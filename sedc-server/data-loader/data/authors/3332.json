@@ -1,0 +1,92 @@
+[
+  {
+    "id": 25897,
+    "title": "Duncton Tales",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "wh_duntales.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25898,
+    "title": "Duncton Rising",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "wh_durising.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25899,
+    "title": "Duncton Stone",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "wh_dunstone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25894,
+    "title": "Duncton Wood",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "wh_duncwood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25895,
+    "title": "Duncton Quest",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "wh_dunquest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25896,
+    "title": "Duncton Found",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "wh_dunfound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13086,
+    "title": "The Willows in Winter",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "WH_willowsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13087,
+    "title": "Toad Triumphant",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WH_toadtriu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13088,
+    "title": "The Willows and Beyond",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "WH_willowbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13089,
+    "title": "The Willows at Christmas",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "Willowxc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

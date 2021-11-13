@@ -1,0 +1,124 @@
+[
+  {
+    "id": 34392,
+    "title": "A Sharp Breath of Birds",
+    "year": 2019,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28333,
+    "title": "The Last Banquet of Temporal Confections",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tc_thelastb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26596,
+    "title": "Pipecleaner Sculptures and Other Necessary Work",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24501,
+    "title": "On the Eyeball Floor and Other Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tc_ontheeye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16712,
+    "title": "That Seriously Obnoxious Time I Was Stuck at Witch Rimelda's One Hundredth Birthday Party",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tc_thatserio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22884,
+    "title": "See DANGEROUS EARTH-POSSIBLES!",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16897,
+    "title": "Old Dead Futures",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tc_olddeadf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22538,
+    "title": "Flash Bang Remember",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5078,
+    "title": "Ironskin",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tc_ironskin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5080,
+    "title": "Copperhead",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tc_copperhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9923,
+    "title": "Silverblind",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tc_silverbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13385,
+    "title": "Seriously Wicked",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tc_seriousl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20792,
+    "title": "Seriously Shifted",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tc_sshifted.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26039,
+    "title": "Seriously Hexed",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tc_serhexed.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

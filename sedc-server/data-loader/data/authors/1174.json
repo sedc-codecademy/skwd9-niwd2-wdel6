@@ -1,0 +1,83 @@
+[
+  {
+    "id": 26516,
+    "title": "The Ember Blade",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cw_theember.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6988,
+    "title": "The Fade",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cw_fade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6985,
+    "title": "The Weavers of Saramyr ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cw_weaverso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6986,
+    "title": "The Skein of Lament ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cw_skeinofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6987,
+    "title": "The Ascendancy Veil ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cw_ascendan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1865,
+    "title": "Retribution Falls",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cw_retribut.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2324,
+    "title": "Black Lung Captain",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cw_blacklun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5591,
+    "title": "The Iron Jackal",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cw_theironj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6984,
+    "title": "The Ace of Skulls ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cw_aceofsku.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

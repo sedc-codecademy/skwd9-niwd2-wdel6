@@ -1,0 +1,38 @@
+[
+  {
+    "id": 383,
+    "title": "The Changeling Plague",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sm_thechang.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7077,
+    "title": "End In Fire ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_endinfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7076,
+    "title": "Technogenesis ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sm_technoge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7075,
+    "title": "Murphy's Gambit ",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sm_murphysg.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

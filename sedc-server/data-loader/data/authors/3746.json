@@ -1,0 +1,20 @@
+[
+  {
+    "id": 15501,
+    "title": "The String Diaries",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "slj_thestrin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15502,
+    "title": "Written in the Blood",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sld_writteni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2651,
+    "title": "Tome of the Undergates",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ss_tomeofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2652,
+    "title": "Black Halo",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ss_blackhal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4509,
+    "title": "The Skybound Sea",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ss_theskybo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32406,
+    "title": "Seven Blades in Black",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ss_sevenbla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9545,
+    "title": "A City Stained Red",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ss_acitysta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18926,
+    "title": "The Mortal Tally",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ss_themorta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23827,
+    "title": "God's Last Breath",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ss_godslast.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

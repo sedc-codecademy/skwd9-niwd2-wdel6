@@ -1,0 +1,125 @@
+[
+  {
+    "id": 645,
+    "title": "Grainne",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "kr_grainne.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21122,
+    "title": "The Lordly Ones (collection)",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kr_thelordy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 439,
+    "title": "Kiteworld",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "kr_kiteworl.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21123,
+    "title": "The Lordly Ones",
+    "year": 1980,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1064,
+    "title": "Molly Zero",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "kr_mollyzer.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24266,
+    "title": "Ladies from Hell",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "kr_ladiesfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19633,
+    "title": "The Chalk Giants",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "kr_thechalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19634,
+    "title": "The God House",
+    "year": 1971,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35912,
+    "title": "The Inner Wheel",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "KR_theinner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1769,
+    "title": "Pavane",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "kr_pavane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33943,
+    "title": "The Furies",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "kr_furies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19551,
+    "title": "The Tiger Sweater",
+    "year": 1987,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19549,
+    "title": "Kaeti & Company",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kr_kaetiand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19550,
+    "title": "Kaeti on Tour",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "kr_kaetiont.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

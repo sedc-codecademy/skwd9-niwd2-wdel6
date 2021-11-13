@@ -1,0 +1,29 @@
+[
+  {
+    "id": 26088,
+    "title": "Night Magic",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tt_nightmag.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26029,
+    "title": "Harvest Home",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "tt_harvesth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26028,
+    "title": "The Other",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "tt_theother.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

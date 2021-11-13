@@ -1,0 +1,539 @@
+[
+  {
+    "id": 8362,
+    "title": "The Worlds of Jack Williamson:  A Centennial Tribute 1908-2008",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jw_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6254,
+    "title": "The Stonehenge Gate",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jw_stonehen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32599,
+    "title": "Afterlife",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 401,
+    "title": "Terraforming Earth",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jw_terrafor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19468,
+    "title": "The Ultimate Earth",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jw_theultim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 844,
+    "title": "The Silicon Dagger",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jw_thesilic.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8351,
+    "title": "The Black Sun",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jw_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34100,
+    "title": "The Firefly Tree",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8350,
+    "title": "Demon Moon",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jw_demonmoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8349,
+    "title": "Beachhead",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jw_beachhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6959,
+    "title": "The Singers of Time",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "fpjw_thesinge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6961,
+    "title": "Land's End",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "fpjw_landsend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8348,
+    "title": "Firechild",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jw_firechil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7268,
+    "title": "Wonder's Child:  My Life in Science Fiction",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jw_wondersc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8347,
+    "title": "Manseed",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jw_manseed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8358,
+    "title": "Brother to Demons, Brother to Gods",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jw_brothert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8314,
+    "title": "The Power of Blackness",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jw_thepower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8313,
+    "title": "The Moon Children",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jw_themoonc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8312,
+    "title": "Trapped in Space",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jw_trappedi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8311,
+    "title": "Bright New Universe",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jw_brightne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8310,
+    "title": "Golden Blood",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "jw_goldenbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8359,
+    "title": "The Trial of Terra",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jw_thetrial.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8286,
+    "title": "Star Bridge",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "jwjeg_starbrid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8285,
+    "title": "Dragon's Island",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "jw_dragonsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8284,
+    "title": "The Green Girl",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "jw_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1811,
+    "title": "Darker Than You Think",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "jw_darkerth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8287,
+    "title": "The Reign of Wizardry",
+    "year": 1940,
+    "type": "novel",
+    "imageName": "jw_thereign.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31679,
+    "title": "The Moon Era",
+    "year": 1932,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21124,
+    "title": "The Paradox Men / Dome Around America",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ad_theparad_domearou.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28264,
+    "title": "Into the Eighth Decade",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jw_acm05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18445,
+    "title": "The Best of Jack Williamson",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jw_bestofja.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3852,
+    "title": "The Metal Man and Others",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jw_themetal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3853,
+    "title": "Wolves of Darkness",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jw_wolvesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3854,
+    "title": "Wizard's Isle",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jw_wizardsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3855,
+    "title": "Spider Island",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jw_spideris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3856,
+    "title": "The Crucible of Power",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jw_thecruci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3857,
+    "title": "Gateway to Paradise",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jw_gatewayt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3858,
+    "title": "With Folded Hands… And Searching Mind",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jw_withfold.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3859,
+    "title": "At the Human Limit",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jw_atthehum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8356,
+    "title": "Lifeburst",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jw_lifeburs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8357,
+    "title": "Mazeway",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jw_mazeway.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2031,
+    "title": "The Humanoids",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "jw_thehuman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2344,
+    "title": "The Legion of Space",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "jw_thelegio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2345,
+    "title": "The Cometeers",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "jw_thecomet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2346,
+    "title": "One Against the Legion",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jw_oneagain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2347,
+    "title": "The Queen of the Legion",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jw_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2348,
+    "title": "The Legion of Time",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "jw_legionof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8711,
+    "title": "The Saga of Cuckoo",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fpjw_thesageo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7061,
+    "title": "Farthest Star",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "fpjw_farthest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7062,
+    "title": "Wall Around a Star",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fpjw_wallarou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8360,
+    "title": "Seetee Ship",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "jw_stship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8361,
+    "title": "Seetee Shock",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "jw_stshock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8714,
+    "title": "The Starchild Trilogy",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "fpjw_thestarc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7065,
+    "title": "The Reefs of Space",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "fpjw_thereefs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7066,
+    "title": "Starchild",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "fpjw_starchil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7067,
+    "title": "Rogue Star",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "fpjw_roguesta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8712,
+    "title": "The Undersea Trilogy",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fpjw_theunder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7004,
+    "title": "Undersea Quest",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "fpjw_undquest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7005,
+    "title": "Undersea Fleet",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "fpjw_undfleet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7006,
+    "title": "Undersea City",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "fpjw_undecity.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

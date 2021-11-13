@@ -1,0 +1,20 @@
+[
+  {
+    "id": 17110,
+    "title": "Dark City",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "FL_darkcity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17108,
+    "title": "Pitch Black",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "FL_pitchbla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 13487,
+    "title": "The Terminator",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "RF_terminat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13488,
+    "title": "Terminator 2:  Judgement Day",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "RF_termin2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

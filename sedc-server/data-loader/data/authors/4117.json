@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35876,
+    "title": "All the Colors of Time",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MKB_AllColor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34479,
+    "title": "The Spirit Gate",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "MKB_SpiritGa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17187,
+    "title": "Shadow Games",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MR_shadowga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17183,
+    "title": "The Last Jedi",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "MR_lastjedi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

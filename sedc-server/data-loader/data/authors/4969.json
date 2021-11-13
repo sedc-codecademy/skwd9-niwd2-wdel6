@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35396,
+    "title": "Blanca & Roja",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "AMM_BlancaRo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22368,
+    "title": "Wild Beauty",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AM_wildbeau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22366,
+    "title": "When the Moon Was Ours",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "AM_whenmoon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22367,
+    "title": "The Weight of Feathers:  A Novel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "AM_weightfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

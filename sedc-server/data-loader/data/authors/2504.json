@@ -1,0 +1,641 @@
+[
+  {
+    "id": 9590,
+    "title": "Forging the Darksword",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mwth_forgingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9591,
+    "title": "Doom of the Darksword",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mwth_doomofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9592,
+    "title": "Triumph of the Darksword",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mwth_triumpho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9593,
+    "title": "Legacy of the Darksword",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mwth_legacyof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9580,
+    "title": "Dragon Wing",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mwth_dragonwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9581,
+    "title": "Elven Star",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mwth_elvensta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9582,
+    "title": "Fire Sea",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mwth_firesea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9583,
+    "title": "Serpent Mage",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mwth_serpentm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9584,
+    "title": "The Hand of Chaos",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mwth_thehando.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9585,
+    "title": "Into the Labyrinth",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mwth_intothel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9586,
+    "title": "The Seventh Gate",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mwth_theseven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9874,
+    "title": "Shadow Raiders",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mwrk_shadowra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9875,
+    "title": "Storm Riders",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mwrk_strormrid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9876,
+    "title": "The Seventh Sigil",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mwrk_theseven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22518,
+    "title": "Spymaster",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mwrk_spymaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32184,
+    "title": "Privateer",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mwrk_privatee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34350,
+    "title": "Kingmaker",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mwrk_kingmake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14730,
+    "title": "The Best of Tales Volume 1",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mw_bestoftale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14729,
+    "title": "The Best of Tales Volume 2",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mw_bestof-talesvol2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14731,
+    "title": "The Players of Gilean",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mw_playersofg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14733,
+    "title": "Dragons in the Archives:  Celebrating 20 Years of Dragonlance",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mw_dragonsint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14682,
+    "title": "Dragons of Autumn Twilight",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mwth_dofautum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14683,
+    "title": "Dragons of Winter Night",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mwth_dofwinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14684,
+    "title": "Dragons of Spring Dawning",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mwth_dofsprin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14878,
+    "title": "The Doom Brigade",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dpmw_thedoomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14879,
+    "title": "Draconian Measures",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dpmw_draconia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14685,
+    "title": "Time of the Twins",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mwth_timeofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14686,
+    "title": "War of the Twins",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mwth_warofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14687,
+    "title": "Test of the Twins",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mwth_testofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14880,
+    "title": "The Soulforge",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mw_thesoulf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14881,
+    "title": "Brothers in Arms",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mwdp_brothers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14889,
+    "title": "The Second Generation",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mwth_thesecon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14890,
+    "title": "Dragons of Summer Flame",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mwth_dosummer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14843,
+    "title": "The Magic of Krynn",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mwth_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14844,
+    "title": "Kender, Gully Dwarves, and Gnomes",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mwth_kendergu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14845,
+    "title": "Love and War",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mwth_loveandw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14801,
+    "title": "The Reign of Istar",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rk_thereign.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14919,
+    "title": "Relics and Omens",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mwth_relicsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14920,
+    "title": "Heroes and Fools",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mwth_heroesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14921,
+    "title": "Rebels and Tyrants",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mwth_rebelsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14751,
+    "title": "Amber and Ashes",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mw_aandashe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14753,
+    "title": "Amber and Iron",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mw_aandiron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14754,
+    "title": "Amber and Blood",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mw_aandbloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14837,
+    "title": "The Dragons of Krynn",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mwth_tdokrynn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14838,
+    "title": "The Dragons at War",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mwth_tdratwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14839,
+    "title": "The Dragons of Chaos",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mwth_tdochaos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14840,
+    "title": "The Search for Power",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mw_thesearc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14841,
+    "title": "Dragons of Time",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mw_droftime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14746,
+    "title": "Dragons of the Dwarven Depths",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mwth_dotdwarv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14747,
+    "title": "Dragons of the Highlord Skies",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mwth_dothighl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14749,
+    "title": "Dragons of the Hourglass Mage",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mwth_dothourg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14689,
+    "title": "Dragons of a Fallen Sun",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mwth_dofafall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14691,
+    "title": "Dragons of a Lost Star",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mwth_dofalost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14692,
+    "title": "Dragons of a Vanished Moon",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mwth_dovanish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9594,
+    "title": "Bones of the Dragon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mwth_bonesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9595,
+    "title": "Secret of the Dragon",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mwth_secretof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9596,
+    "title": "Rage of the Dragon",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mwth_rageofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17545,
+    "title": "Doom of the Dragon",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mwth_doomotdr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9597,
+    "title": "Mistress of Dragons",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mw_mistress.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9598,
+    "title": "The Dragon's Son",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mw_dragonss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9599,
+    "title": "Master of Dragons",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mw_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9587,
+    "title": "The Will of the Wanderer",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mwth_willofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9588,
+    "title": "The Paladin of the Night",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mwth_thepalad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9589,
+    "title": "The Prophet of Akhran",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mwth_theproph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9600,
+    "title": "Well of Darkness",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mwth_wellofda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9601,
+    "title": "Guardians of the Lost",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mwth_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9602,
+    "title": "Journey into the Void",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mwth_journeyi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32185,
+    "title": "The Lost King",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mw_thelostk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32186,
+    "title": "King's Test",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mw_kingstes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32187,
+    "title": "King's Sacrifice",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mw_kingssac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32188,
+    "title": "Ghost Legion",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mw_ghostleg.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

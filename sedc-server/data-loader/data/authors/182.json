@@ -1,0 +1,218 @@
+[
+  {
+    "id": 11026,
+    "title": "Scarborough Fair and Other Stories",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "eas_scarboro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25451,
+    "title": "The Lady in the Loch",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "eas_theladyi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 188,
+    "title": "The Healer's War",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "eas_theheale.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25450,
+    "title": "The Harem of Aman Akbar",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "eas_theharem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7745,
+    "title": "Acorna's People",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ameas_acpeople.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7746,
+    "title": "Acorna's World",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ameas_acoworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7747,
+    "title": "Acorna's Search",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ameas_acsearch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7748,
+    "title": "Acorna's Rebels",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ameas_acrebels.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7749,
+    "title": "Acorna's Triumph",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ameas_atriumph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7750,
+    "title": "First Warning",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ameas_firstwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7751,
+    "title": "Second Wave",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ameas_secondwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7752,
+    "title": "Third Watch",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ameas_thirdwat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25942,
+    "title": "Nothing Sacred",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "eas_nothings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25943,
+    "title": "Last Refuge",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "eas_lastrefu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7365,
+    "title": "Powers That Be",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ameas_powersth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7366,
+    "title": "Power Lines",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ameas_powerlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7367,
+    "title": "Power Play",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ameas_powerpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7288,
+    "title": "Catalyst",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ameas_catalyst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7289,
+    "title": "Catacombs",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ameas_catacomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7368,
+    "title": "Changelings",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ameas_changeli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7369,
+    "title": "Maelstrom",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ameas_maelstro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7370,
+    "title": "Deluge",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ameas_deluge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25452,
+    "title": "The Drastic Dragon of Draco, Texas",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "eas_thedrast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25453,
+    "title": "The Goldcamp Vampire",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "eas_thegoldc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

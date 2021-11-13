@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36443,
+    "title": "The Thousand Deaths of Ardor Benn",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tw_thousand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36444,
+    "title": "The Shattered Realm of Ardor Benn",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "tw_shattere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36445,
+    "title": "The Last Lies of Ardor Benn",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "tw_lastlies.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

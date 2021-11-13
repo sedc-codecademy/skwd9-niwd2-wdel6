@@ -1,0 +1,146 @@
+[
+  {
+    "id": 35590,
+    "title": "Something Magic This Way Comes",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "MHG_Somethin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28463,
+    "title": "Uncharted",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kjasah_uncharte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11489,
+    "title": "Darkship Thieves",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sh_darkthie.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11490,
+    "title": "Darkship Renegades",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sh_darkrene.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11491,
+    "title": "A Few Good Men",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sh_afewgood.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20442,
+    "title": "Through Fire",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sah_throughf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22722,
+    "title": "Darkship Revenge",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sah_drevenge.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28046,
+    "title": "Heart of Light",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sah_heartofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28047,
+    "title": "Soul of Fire",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sah_souloffi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28048,
+    "title": "Heart and Soul",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sah_heartand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5661,
+    "title": "Ill Met by Moonlight",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sah_illmetby.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5662,
+    "title": "All Night Awake",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sah_allnight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5663,
+    "title": "Any Man So Daring",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sah_anymanso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9322,
+    "title": "Draw One in the Dark",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sah_drawonei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9323,
+    "title": "Gentleman Takes a Chance",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sah_genrlema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9324,
+    "title": "Noah's Boy",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sah_noahsboy.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

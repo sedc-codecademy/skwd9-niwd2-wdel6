@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15233,
+    "title": "Absolute Power",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rr_absolute.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15234,
+    "title": "Haunted Castles: The Complete Gothic Tales of Ray Russell",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rr_hauntedc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15232,
+    "title": "The Incubus",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "rr_incubus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15230,
+    "title": "The Case Against Satan",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "rr_caseagai.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

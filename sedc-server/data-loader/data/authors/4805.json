@@ -1,0 +1,65 @@
+[
+  {
+    "id": 32572,
+    "title": "Star Sister",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JC_StarSist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32573,
+    "title": "Space Trap",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "JC_SpaceTra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32574,
+    "title": "Unto the Last Generation",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "JC_UntotheL.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21628,
+    "title": "Crisis on Cheiron / The Winds of Gath",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_crisison_thewinds.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21629,
+    "title": "Derai / The Singing Stones",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_derai_thesingi.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22992,
+    "title": "The Web of Wizardry",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "JC_webwizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22993,
+    "title": "The Death God's Citadel",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "JC_deathgod.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14656,
+    "title": "Daphne du Maurier's Classics of the Macabre",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "DdM_DaphneDu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35528,
+    "title": "Don't Look Now",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ddm_dontlook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35530,
+    "title": "The Birds",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "DdM_TheBirds.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9192,
+    "title": "Shadows Over Baker Street",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mrjp_shadowso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11185,
+    "title": "The Children of Cthulhu:  Chilling New Tales Inspired by H.P. Lovecraft",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JP_childcth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9199,
+    "title": "The Century's Best Horror Fiction 1901-1950",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JP_TheCent1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9200,
+    "title": "The Century's Best Horror Fiction 1951-2000",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JP_TheCent2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13733,
+    "title": "Dust",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "CP_dust.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13734,
+    "title": "The Killing Star",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "CP_killings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13735,
+    "title": "Flying to Valhalla",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "CP_flyingto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20002,
+    "title": "Dyson Sphere",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cpgz_dysonsph.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

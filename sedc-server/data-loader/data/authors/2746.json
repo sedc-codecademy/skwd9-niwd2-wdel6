@@ -1,0 +1,65 @@
+[
+  {
+    "id": 24489,
+    "title": "The Fifth Doll",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cnh_thefifth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31760,
+    "title": "Smoke and Summons",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cnh_smokeand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34072,
+    "title": "Myths and Mortals",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cnh_mythsand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34838,
+    "title": "Seige and Sacrifice",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "CH_seigeand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10727,
+    "title": "The Paper Magician",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cnh_thepaper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10728,
+    "title": "The Glass Magician",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cnh_theglass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16465,
+    "title": "The Master Magician",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cnh_masterma.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

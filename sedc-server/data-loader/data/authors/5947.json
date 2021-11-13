@@ -1,0 +1,29 @@
+[
+  {
+    "id": 30165,
+    "title": "The Seeing Stone",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kch_theseein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30167,
+    "title": "At the Crossing Places",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kch_atthecro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30169,
+    "title": "King of the Middle March",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kch_kingofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

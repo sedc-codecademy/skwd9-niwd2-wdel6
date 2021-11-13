@@ -1,0 +1,208 @@
+[
+  {
+    "id": 5944,
+    "title": "What Dreams May Come",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "rm_whatdrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4631,
+    "title": "Hell House",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "rm_hellhous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5262,
+    "title": "A Stir of Echoes",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "rm_astirofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1753,
+    "title": "I Am Legend",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "rm_iamlegen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27146,
+    "title": "The Best of Richard Matheson",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "RM_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13824,
+    "title": "Other Kingdoms",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rm_otherkin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31570,
+    "title": "Button, Button:  Uncanny Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "RM_buttonbu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22278,
+    "title": "Off Beat: Uncollected Stories",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "RM_offbeat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7419,
+    "title": "Nightmare at 20,000 Feet:  Horror Stories By Richard Matheson",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rm_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36028,
+    "title": "Robert Bloch: Appreciations of the Master",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM&RM&RB.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24660,
+    "title": "Richard Matheson: Collected Stories",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rm_collecte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 974,
+    "title": "Bid Time Return",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "rm_bidtimer.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36021,
+    "title": "Button, Button",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35801,
+    "title": "Mute",
+    "year": 1962,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35955,
+    "title": "Nightmare at 20,000 Feet",
+    "year": 1962,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35939,
+    "title": "Steel",
+    "year": 1956,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35815,
+    "title": "Death Ship",
+    "year": 1953,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35647,
+    "title": "Disappearing Act",
+    "year": 1953,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35901,
+    "title": "Little Girl Lost",
+    "year": 1953,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35992,
+    "title": "Sorry, Right Number",
+    "year": 1953,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31566,
+    "title": "Born of Man and Woman",
+    "year": 1950,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35648,
+    "title": "Third from the Sun",
+    "year": 1950,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1777,
+    "title": "The Shrinking Man",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "rm_theshrin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35538,
+    "title": "The Twilight Zone: The Original Stories",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "MHGRMCGW_TheTwili.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

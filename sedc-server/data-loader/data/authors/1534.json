@@ -1,0 +1,101 @@
+[
+  {
+    "id": 3398,
+    "title": "Prey",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mc_prey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3399,
+    "title": "Timeline",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mc_timeline.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3430,
+    "title": "Sphere",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mc_sphere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11682,
+    "title": "State of Fear",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mc_stateoff.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35169,
+    "title": "Congo",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "MC_Congo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35170,
+    "title": "Eaters of the Dead",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "MC_EatersOf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31466,
+    "title": "The Terminal Man",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "MC_terminal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3395,
+    "title": "The Andromeda Strain",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "mc_theandro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13755,
+    "title": "Westworld",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "MC_westworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3396,
+    "title": "Jurassic Park",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mc_jurassic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3397,
+    "title": "The Lost World",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mc_thelostw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

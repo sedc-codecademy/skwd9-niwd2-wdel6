@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36156,
+    "title": "Things in Jars",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JK_thingsin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36158,
+    "title": "The Hoarder",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "JK_hoarder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36157,
+    "title": "Himself",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JK_himself.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

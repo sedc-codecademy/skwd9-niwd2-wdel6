@@ -1,0 +1,65 @@
+[
+  {
+    "id": 15177,
+    "title": "Brimstone Angels",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eme_brimston.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15178,
+    "title": "Lesser Evils",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eme_lesserev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15179,
+    "title": "Fire in the Blood",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eme_fireinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15180,
+    "title": "Ashes of the Tyrant",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "eme_ashesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20795,
+    "title": "The Devil You Know",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "eme_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15152,
+    "title": "The Adversary",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "eme_theadver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15765,
+    "title": "The God Catcher",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "eme_thegodca.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

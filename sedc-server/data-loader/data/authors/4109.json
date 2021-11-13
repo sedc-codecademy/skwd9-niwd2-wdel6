@@ -1,0 +1,20 @@
+[
+  {
+    "id": 17159,
+    "title": "Secrets of the Jedi",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JW_secretsj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17151,
+    "title": "Legacy of the Jedi",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "JW_legacyje.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

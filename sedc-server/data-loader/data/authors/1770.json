@@ -1,0 +1,20 @@
+[
+  {
+    "id": 4370,
+    "title": "Hawksmoor",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pa_hawksmoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35239,
+    "title": "The Casebook of Victor Frankenstein",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "PA_Casebook.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

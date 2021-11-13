@@ -1,0 +1,35 @@
+[
+  {
+    "id": 29000,
+    "title": "Irregular Verbs and Other Stories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mj_irregula.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28999,
+    "title": "Holdfast",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30286,
+    "title": "Public Safety",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31737,
+    "title": "Irregular Verbs",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

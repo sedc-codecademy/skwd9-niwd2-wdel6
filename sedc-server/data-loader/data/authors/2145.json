@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24184,
+    "title": "Canary Fever: Reviews",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jc_canaryfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15948,
+    "title": "Scores",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "JC_Scores.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7878,
+    "title": "Appleseed ",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jc_applesee.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13969,
+    "title": "Look at the Evidence:  Essays and Reviews",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "JC_lookatth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

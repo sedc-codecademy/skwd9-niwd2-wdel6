@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15741,
+    "title": "The Fall of Highwatch",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ms_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15742,
+    "title": "Hand of the Hunter",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_handofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15743,
+    "title": "Cry of the Ghost Wolf",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ms_cryofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4572,
+    "title": "Knock Knock",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "spm_knockkno.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36171,
+    "title": "The Worst Is Yet to Come",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "spm_theworst.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27412,
+    "title": "I Wish I Was Like You",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "spw_iwishiwa.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

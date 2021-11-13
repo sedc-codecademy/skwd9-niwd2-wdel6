@@ -1,0 +1,29 @@
+[
+  {
+    "id": 33940,
+    "title": "Hullmetal Girls",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "es_hullmeta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17706,
+    "title": "The Abyss Surrounds Us",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ES_adysssur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24566,
+    "title": "The Edge of the Abyss",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "es_theedgeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

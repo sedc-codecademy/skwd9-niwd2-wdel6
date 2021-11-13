@@ -1,0 +1,20 @@
+[
+  {
+    "id": 34459,
+    "title": "The Castle of Wolfenbach",
+    "year": 1793,
+    "type": "novel",
+    "imageName": "ep_castleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34460,
+    "title": "The Mysterious Warning",
+    "year": 1796,
+    "type": "novel",
+    "imageName": "ep_mysterio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 7659,
+    "title": "The Demonologist",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ap_thedemon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7686,
+    "title": "The Guardians",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ap_theguard.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

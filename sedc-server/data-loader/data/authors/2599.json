@@ -1,0 +1,119 @@
+[
+  {
+    "id": 27189,
+    "title": "The World's Desire",
+    "year": 1890,
+    "type": "novel",
+    "imageName": "hrhal_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10117,
+    "title": "The Blue Fairy Book",
+    "year": 1889,
+    "type": "novel",
+    "imageName": "al_thebluef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10121,
+    "title": "The Red Fairy Book",
+    "year": 1890,
+    "type": "novel",
+    "imageName": "al_theredfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10123,
+    "title": "The Green Fairy Book",
+    "year": 1892,
+    "type": "novel",
+    "imageName": "al_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10124,
+    "title": "The Yellow Fairy Book",
+    "year": 1894,
+    "type": "novel",
+    "imageName": "al_theyello.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10125,
+    "title": "The Pink Fairy Book",
+    "year": 1897,
+    "type": "novel",
+    "imageName": "al_thepinkf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10126,
+    "title": "The Grey Fairy Book",
+    "year": 1900,
+    "type": "novel",
+    "imageName": "al_thegreyf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10127,
+    "title": "The Violet Fairy Book",
+    "year": 1901,
+    "type": "novel",
+    "imageName": "al_theviole.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10128,
+    "title": "The Crimson Fairy Book",
+    "year": 1903,
+    "type": "novel",
+    "imageName": "al_thecrims.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10129,
+    "title": "The Brown Fairy Book",
+    "year": 1904,
+    "type": "novel",
+    "imageName": "al_thebrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10130,
+    "title": "The Orange Fairy Book",
+    "year": 1906,
+    "type": "novel",
+    "imageName": "al_theorang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10131,
+    "title": "The Olive Fairy Book",
+    "year": 1907,
+    "type": "novel",
+    "imageName": "al_theolive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10132,
+    "title": "The Lilac Fairy Book",
+    "year": 1910,
+    "type": "novel",
+    "imageName": "al_thelilac.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

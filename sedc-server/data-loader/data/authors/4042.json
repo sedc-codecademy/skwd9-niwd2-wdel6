@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16792,
+    "title": "Fancies and Goodnights",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "jc_fanciesand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35701,
+    "title": "The Chaser",
+    "year": 1940,
+    "type": "novel",
+    "imageName": "JC_TheChase.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35700,
+    "title": "His Monkey Wife, or Married to a Chimp",
+    "year": 1930,
+    "type": "novel",
+    "imageName": "JC_HisMonke.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

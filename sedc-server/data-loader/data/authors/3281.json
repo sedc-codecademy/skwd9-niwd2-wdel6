@@ -1,0 +1,103 @@
+[
+  {
+    "id": 23098,
+    "title": "Time Bomb Time",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22601,
+    "title": "The Infill Trait",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22508,
+    "title": "The Cross-Time Accountants Fail To Kill Hitler Because Chuck Berry Does The Twist",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19179,
+    "title": "The Political Prisoner",
+    "year": 2008,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30210,
+    "title": "An Eye for an Eye",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12726,
+    "title": "The Prodigal Troll",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ccf_theprodi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12727,
+    "title": "Wild Things",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ccf_wildthin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32394,
+    "title": "Pervert",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19466,
+    "title": "The Political Officer",
+    "year": 2002,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12723,
+    "title": "The Patriot Witch",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ccf_thepatri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12724,
+    "title": "A Spell for the Revolution",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ccf_aspellfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12725,
+    "title": "The Demon Redcoat",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ccf_thedemon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

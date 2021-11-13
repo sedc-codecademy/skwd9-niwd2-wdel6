@@ -1,0 +1,289 @@
+[
+  {
+    "id": 36504,
+    "title": "Eden",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "tl_eden.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26979,
+    "title": "Blood of the Four",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cgtl_bloodoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25722,
+    "title": "Indigo:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CG_indigo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25824,
+    "title": "Kong: Skull Island",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "TL_kongskul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11602,
+    "title": "The Silence",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tl_thesilen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11604,
+    "title": "Coldbrook",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tl_coldbroo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11603,
+    "title": "The Heretic Land",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tl_theheret.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2424,
+    "title": "Echo City",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tl_echocity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21760,
+    "title": "The Thief of Broken Toys",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tl_thethief.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1193,
+    "title": "Dusk",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tl_dusk.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4615,
+    "title": "Berserk",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tl_berserk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23641,
+    "title": "Exorcising Angels",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4614,
+    "title": "The Nature of Balance",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tl_thenatur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1172,
+    "title": "Hush",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tlgw_hush.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1158,
+    "title": "Mesmer",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tl_mesmer.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24423,
+    "title": "Alien: Out of the Shadows",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "TL_alienout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20640,
+    "title": "Pieces of Hate",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tl_piecesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20641,
+    "title": "A Whisper of Southern Lights",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tl_whispero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34181,
+    "title": "Generations",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "TL_firefly3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16417,
+    "title": "Unnatural Selection",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tl_unnatura.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16419,
+    "title": "The Fire Wolves",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tl_firewolv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14423,
+    "title": "Mind the Gap",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cgtl_mindtheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1917,
+    "title": "The Map of Moments",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cgtl_themapof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14424,
+    "title": "The Chamber of Ten",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cgtl_thechamb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14425,
+    "title": "The Shadow Men",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cgtl_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22928,
+    "title": "Relics",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tl_relics.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27258,
+    "title": "The Folded Land",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tl_thefolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35119,
+    "title": "The Edge",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tl_theedge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14491,
+    "title": "Into the Void",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tl_intothev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4511,
+    "title": "London Eye",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tl_londoney.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4913,
+    "title": "Reaper's Legacy",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tl_reapersl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6155,
+    "title": "Contagion",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tl_contagio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

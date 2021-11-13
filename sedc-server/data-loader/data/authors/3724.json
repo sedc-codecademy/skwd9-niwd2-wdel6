@@ -1,0 +1,74 @@
+[
+  {
+    "id": 15302,
+    "title": "Astronauts & Androids",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ghs_acastron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15303,
+    "title": "Black Holes & Bug-Eyed-Monsters",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ghs_acblackh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15304,
+    "title": "Comets & Computers",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ghs_accomets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15305,
+    "title": "Dark Stars & Dragons",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ghs_acdarkst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15306,
+    "title": "Extraterrestrials & Eclipses",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ghs_acextrat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15307,
+    "title": "Cat Tales: Fantastic Feline Fiction",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ghs_cattales.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15308,
+    "title": "Cat Tales 2: Fantastic Feline Fiction",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ghs_cattale2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35235,
+    "title": "Tales from the Spaceport Bar",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "GHS&DS_TalesFro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

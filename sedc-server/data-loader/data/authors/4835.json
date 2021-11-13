@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9803,
+    "title": "The Empty People",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "bnm_theempty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10066,
+    "title": "Final War and Other Fantasies / Treasure of Tau Ceti",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_finalwar_treasure.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9804,
+    "title": "The Gates of Time / Dwellers of the Deep",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_thegates_dwellers.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10198,
+    "title": "In the Pocket and Other S-F Stories / Gather in the Hall of the Planets",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ad_inthepoc_gatherin.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

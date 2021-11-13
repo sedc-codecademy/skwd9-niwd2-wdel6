@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35479,
+    "title": "The Good Humor Man, or, Calorie 3501",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "AF_GoodHumo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35477,
+    "title": "Fat White Vampire Blues",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "AF_FatWhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35478,
+    "title": "Bride of the Fat White Vampire",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "AF_BrideFat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 13954,
+    "title": "A Key, an Egg, an Unfortunate Remark",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "HC_akeyaneg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14440,
+    "title": "The Wooden Man",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "HC_woodenma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14437,
+    "title": "Child of Fire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "HC_childoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14438,
+    "title": "Game of Cages",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "HC_gamecage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14439,
+    "title": "Circle of Enemies",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "HC_circleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

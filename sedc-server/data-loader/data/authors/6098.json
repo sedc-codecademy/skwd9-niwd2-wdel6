@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32501,
+    "title": "Heralds of the Storm",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "AB_Heraldso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32502,
+    "title": "Lay Down With Lions",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "AB_LayDownW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32503,
+    "title": "Land of the Dead",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "AB_Landofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

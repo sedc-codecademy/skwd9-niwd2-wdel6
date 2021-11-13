@@ -1,0 +1,29 @@
+[
+  {
+    "id": 22160,
+    "title": "The Palace Job",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "PW_palacejo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22161,
+    "title": "The Prophecy Con",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "PW_prophecy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22162,
+    "title": "The Paladin Caper",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "PW_paladinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

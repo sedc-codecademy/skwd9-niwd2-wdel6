@@ -1,0 +1,29 @@
+[
+  {
+    "id": 28025,
+    "title": "Defender",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gxt_defender.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28026,
+    "title": "Hunted",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gxt_hunted.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35374,
+    "title": "Survivors",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GXT_Survivor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

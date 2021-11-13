@@ -1,0 +1,91 @@
+[
+  {
+    "id": 32336,
+    "title": "Dark Universe",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "WFN_DarkUniv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32337,
+    "title": "Helltracks",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "WFN_Helltrack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23804,
+    "title": "Urban Horrors",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "wfnmhg_urbanhor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23834,
+    "title": "Saturday's Shadow",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32334,
+    "title": "Alien Horizons",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "WFN_AlienHor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32338,
+    "title": "Impact-20",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "WFN_Impact20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9506,
+    "title": "Logan's Run",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "wfngcj_logansru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11595,
+    "title": "Logan's World",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "WN_loganwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11596,
+    "title": "Logan's Search",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "WN_logansea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32335,
+    "title": "Space for Hire ",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "WFN_SpaceFor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

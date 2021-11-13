@@ -1,0 +1,83 @@
+[
+  {
+    "id": 7375,
+    "title": "The Face in the Abyss",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "am_thefacei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18514,
+    "title": "The Fox Woman and Other Stories",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "am_thefoxwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17849,
+    "title": "The Black Wheel",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "amhb_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10617,
+    "title": "Dwellers in the Mirage",
+    "year": 1932,
+    "type": "novel",
+    "imageName": "am_dwellers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17484,
+    "title": "Seven Footprints to Satan",
+    "year": 1928,
+    "type": "novel",
+    "imageName": "AM_sevensat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6527,
+    "title": "The Ship of Ishtar",
+    "year": 1926,
+    "type": "novel",
+    "imageName": "am_theshipo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35963,
+    "title": "Burn, Witch, Burn!",
+    "year": 1932,
+    "type": "novel",
+    "imageName": "AM_BurnWit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3626,
+    "title": "The Moon Pool",
+    "year": 1919,
+    "type": "novel",
+    "imageName": "am_themoonp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10720,
+    "title": "The Metal Monster",
+    "year": 1920,
+    "type": "novel",
+    "imageName": "AM_metalmon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

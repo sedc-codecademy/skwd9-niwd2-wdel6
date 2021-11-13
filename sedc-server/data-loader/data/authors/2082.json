@@ -1,0 +1,29 @@
+[
+  {
+    "id": 6152,
+    "title": "The Crossing",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mh_thecross.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6153,
+    "title": "Into the Wilderness",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mh_intothew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6154,
+    "title": "Resurrection",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mh_resurrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8883,
+    "title": "The City of the Dead",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lr_thecityo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8897,
+    "title": "Camera Obscura",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lr_cameraob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9104,
+    "title": "The Algebra of Ice",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lr_thealgeb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 20417,
+    "title": "Rogue",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "AM_rogue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20422,
+    "title": "The Sundered:  2298",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "MM_sundred.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20401,
+    "title": "Seize the Fire",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "MM_seizethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20491,
+    "title": "Cathedral",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "AM_cathedra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20518,
+    "title": "Trill and Bajor",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "AM_trillbaj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20451,
+    "title": "Last Full Measure",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "AM_lastfull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20449,
+    "title": "The Good That Men Do",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "AM_goodmend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20450,
+    "title": "Kobayashi Maru",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "MM_kobayash.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20426,
+    "title": "Beneath the Raptor's Wing",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "MM_beneatht.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20427,
+    "title": "To Brave the Storm",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MM_tobravet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21031,
+    "title": "Aftermath",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KD_aftermat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19079,
+    "title": "Taking Wing",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mam_am_takingwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19080,
+    "title": "The Red King",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "am_mam_redking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19086,
+    "title": "Fallen Gods",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mam_fallengo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20504,
+    "title": "Excelsior: Forged in Fire",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "AM_excelsio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20502,
+    "title": "Star Trek Online: The Needs of the Many",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "MM_needmany.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

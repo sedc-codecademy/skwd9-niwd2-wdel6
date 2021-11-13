@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11771,
+    "title": "Maza of the Moon",
+    "year": 1929,
+    "type": "novel",
+    "imageName": "OK_mazamoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13886,
+    "title": "The Swordsman of Mars",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "oak_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13887,
+    "title": "The Outlaws of Mars",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "oak_theoutla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

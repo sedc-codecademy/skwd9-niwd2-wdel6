@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13495,
+    "title": "Black Swan Rising",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lc_blackswa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4395,
+    "title": "The Watchtower",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lc_thewatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13496,
+    "title": "The Shape Stealer",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lc_theshape.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 31924,
+    "title": "The Hidden Tribe",
+    "year": 1938,
+    "type": "novel",
+    "imageName": "SFW_HiddenTr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31923,
+    "title": "The Screaming Lake",
+    "year": 1937,
+    "type": "novel",
+    "imageName": "SFW_Screamin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2067,
+    "title": "The World Below",
+    "year": 1930,
+    "type": "novel",
+    "imageName": "sfw_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2263,
+    "title": "Deluge:  A Romance",
+    "year": 1927,
+    "type": "novel",
+    "imageName": "sfw_deluge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13001,
+    "title": "Dawn",
+    "year": 1929,
+    "type": "novel",
+    "imageName": "EW_dawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11729,
+    "title": "The Island of Captain Sparrow:  A Lost Race Fantasy",
+    "year": 1928,
+    "type": "novel",
+    "imageName": "SW_csparrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

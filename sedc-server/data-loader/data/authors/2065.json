@@ -1,0 +1,29 @@
+[
+  {
+    "id": 6087,
+    "title": "Fortune's Pawn",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rb_fortunes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6088,
+    "title": "Honor's Knight",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rb_honorskn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6089,
+    "title": "Heaven's Queen",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rb_heavensq.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

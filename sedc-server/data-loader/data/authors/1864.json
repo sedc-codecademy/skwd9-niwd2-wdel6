@@ -1,0 +1,86 @@
+[
+  {
+    "id": 27501,
+    "title": "Death on Mars",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8982,
+    "title": "Company Town",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ma_companyt.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 28749,
+    "title": "Panic City",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26526,
+    "title": "A Stopped Clock",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26995,
+    "title": "Social Services",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35580,
+    "title": "Domestic Violence",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31853,
+    "title": "The Education of Junior Number 12",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4859,
+    "title": "vN:  The First Machine Dynasty",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ma_vn.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5599,
+    "title": "iD:  The Second Machine Dynasty",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ma_id.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22719,
+    "title": "reV:  The Third Machine Dynasty",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "ma_revtheth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

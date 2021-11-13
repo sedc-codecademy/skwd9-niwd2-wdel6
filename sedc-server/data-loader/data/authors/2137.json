@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22142,
+    "title": "Shadowbahn",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "se_shadowba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7848,
+    "title": "Our Ecstatic Days",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "se_ourecsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7849,
+    "title": "The Sea Came In at Midnight ",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "se_seacamei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7850,
+    "title": "Tours of the Black Clock ",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "se_toursoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

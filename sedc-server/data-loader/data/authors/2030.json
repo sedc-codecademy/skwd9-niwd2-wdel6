@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5761,
+    "title": "The Hollower",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "msg_thehollo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5762,
+    "title": "Found You",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "msg_foundyou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5763,
+    "title": "The Triumvirate",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "msg_thetrium.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

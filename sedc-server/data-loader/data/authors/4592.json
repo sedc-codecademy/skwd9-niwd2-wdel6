@@ -1,0 +1,20 @@
+[
+  {
+    "id": 20256,
+    "title": "The Book of the Dun Cow",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "WW_DunCow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20257,
+    "title": "The Book of Sorrows",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "WW_Sorrows.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

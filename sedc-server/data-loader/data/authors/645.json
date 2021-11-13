@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13447,
+    "title": "Into the Deep",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "kg_intothed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 647,
+    "title": "Replay",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "kg_replay.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 13446,
+    "title": "Elise",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "kg_elise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13445,
+    "title": "Breakthrough",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "kg_breakthr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

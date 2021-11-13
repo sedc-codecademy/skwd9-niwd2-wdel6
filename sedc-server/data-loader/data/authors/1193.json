@@ -1,0 +1,139 @@
+[
+  {
+    "id": 34574,
+    "title": "Beneath the World, A Sea",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cb_beneatht.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27364,
+    "title": "America City",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cb_americac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16824,
+    "title": "The Peacock Cloak",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "CB_peacockc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27029,
+    "title": "The Peacock Cloak",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1895,
+    "title": "Marcher",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cb_marcher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16822,
+    "title": "The Turing Test",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "CB_turningt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27074,
+    "title": "Piccadilly Circus",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2726,
+    "title": "The Holy Machine",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cb_theholym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27363,
+    "title": "To Become a Warrior ",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24521,
+    "title": "Marcher",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32723,
+    "title": "The Marriage of Sky & Sea",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32809,
+    "title": "Valour",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5026,
+    "title": "Dark Eden",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cb_darkeden.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 11972,
+    "title": "Mother of Eden",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cb_motherof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20283,
+    "title": "Daughter of Eden",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cb_daughterofeden.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27686,
+    "title": "La Macchina",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

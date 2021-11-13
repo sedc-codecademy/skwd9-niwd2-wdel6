@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34306,
+    "title": "Star Prey",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "eme_starprey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34305,
+    "title": "Evil Eye",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "eme_evileye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34304,
+    "title": "Totem",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "eme_totem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34303,
+    "title": "Obelisk",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "eme_obelisk.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 15872,
+    "title": "Red Queen",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "va_redqueen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15873,
+    "title": "Glass Sword",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "va_glassswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

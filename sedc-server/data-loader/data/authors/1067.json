@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1868,
+    "title": "Bad Things",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mm_badthing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1202,
+    "title": "The Intruders",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mm_theintru.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25698,
+    "title": "We Are Here",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mm_weareher.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

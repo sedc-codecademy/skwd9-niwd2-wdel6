@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9264,
+    "title": "The Maze Runner",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jd_themazer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9265,
+    "title": "The Scorch Trials",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jd_thescorc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9266,
+    "title": "The Death Cure",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jd_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31455,
+    "title": "The Kill Order",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jd_thekillorder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31456,
+    "title": "The Fever Code",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jd_thefever.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

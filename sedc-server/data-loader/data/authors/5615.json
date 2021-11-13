@@ -1,0 +1,29 @@
+[
+  {
+    "id": 26672,
+    "title": "Places in the Darkness",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cb_placesin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26674,
+    "title": "Bedlam",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cb_bedlam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26673,
+    "title": "Pandaemonium",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cb_pandaemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

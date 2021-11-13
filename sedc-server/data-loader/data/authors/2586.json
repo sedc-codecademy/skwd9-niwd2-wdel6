@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32832,
+    "title": "The Years of the Wolf",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cc_theyears.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10018,
+    "title": "The Shadow Master",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gc_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13110,
+    "title": "The Floating City",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cc_thefloat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

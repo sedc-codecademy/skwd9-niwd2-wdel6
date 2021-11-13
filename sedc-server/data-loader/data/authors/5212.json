@@ -1,0 +1,56 @@
+[
+  {
+    "id": 23349,
+    "title": "Misfit",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "js_misfit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23345,
+    "title": "Hope and Red",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "js_hopeandr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23346,
+    "title": "Bane and Shadow",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "js_baneands.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24441,
+    "title": "Blood and Tempest",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "js_bloodandtempest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23347,
+    "title": "Man Made Boy",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "js_manmadeb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23348,
+    "title": "This Broken Wondrous World",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "js_thisbrok.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

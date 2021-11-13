@@ -1,0 +1,20 @@
+[
+  {
+    "id": 36403,
+    "title": "Echo Cycle",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "pe_echocycl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36402,
+    "title": "Ruin's Wake",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pe_ruinswak.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

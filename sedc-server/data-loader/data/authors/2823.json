@@ -1,0 +1,65 @@
+[
+  {
+    "id": 11283,
+    "title": "The Genome",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sl_thegenom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11108,
+    "title": "Night Watch",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sl_nightwat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11109,
+    "title": "Day Watch",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sl_daywatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11110,
+    "title": "Twilight Watch",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sl_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11111,
+    "title": "The Last Watch",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sl_thelastw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11112,
+    "title": "New Watch",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sl_newwatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19523,
+    "title": "The Sixth Watch",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sl_thesixth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

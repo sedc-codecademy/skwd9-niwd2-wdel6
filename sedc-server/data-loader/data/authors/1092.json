@@ -1,0 +1,62 @@
+[
+  {
+    "id": 9757,
+    "title": "Singularity's Ring",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pm_singular.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4468,
+    "title": "Ten Sigmas & Other Unlikelihoods",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pm_tensigma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19451,
+    "title": "The Walls of the Universe",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26658,
+    "title": "Ten Sigmas",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27322,
+    "title": "Singletons in Love",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1706,
+    "title": "The Walls of the Universe",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pm_thewalls.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3901,
+    "title": "Broken Universe",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pm_brokenun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 7197,
+    "title": "Fantastic Tales: Visionary and Everyday",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "IC_Fantasti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7195,
+    "title": "If on a Winter's Night a Traveler",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "IC_IfOnAWin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7196,
+    "title": "The Castle of Crossed Destinies",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "IC_TheCastl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 264,
+    "title": "Invisible Cities",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ic_invisibl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34806,
+    "title": "Difficult Loves",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "IC_difficul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34807,
+    "title": "Italian Folktales:  Selected and Retold by Italo Calvino",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "IC_italianf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7192,
+    "title": "The Nonexistent Knight and The Cloven Viscount",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "IC_TheNonexi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3103,
+    "title": "The Baron in the Trees",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ic_thebaron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7193,
+    "title": "Cosmicomics",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "IC_Cosmicom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7194,
+    "title": "t zero",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "IC_Tzero.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

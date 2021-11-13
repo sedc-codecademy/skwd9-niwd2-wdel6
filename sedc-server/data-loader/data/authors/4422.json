@@ -1,0 +1,74 @@
+[
+  {
+    "id": 20676,
+    "title": "Congress of Secrets",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sb_congress.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18958,
+    "title": "Masks and Shadows",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sb_masksand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28105,
+    "title": "The Dragon with a Chocolate Heart",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sb_thedrago.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35324,
+    "title": "The Girl with the Dragon Heart",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "SB_GirlDrag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35325,
+    "title": "The Princess Who Flew with Dragons",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SB_Princess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31613,
+    "title": "Spellswept",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "SB_spellswe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31612,
+    "title": "Snowspelled",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SB_snowspel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35326,
+    "title": "Thornbound",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SB_Thornbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

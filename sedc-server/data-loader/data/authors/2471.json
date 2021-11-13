@@ -1,0 +1,299 @@
+[
+  {
+    "id": 12845,
+    "title": "Migration",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jph_migratio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12844,
+    "title": "Moon Flower",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jph_moonflow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12843,
+    "title": "Echoes of an Alien Sky",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jph_echoesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12850,
+    "title": "Catastrophes, Chaos & Convolutions",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jph_catastro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12841,
+    "title": "Martian Knightlife",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jph_martiank.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12840,
+    "title": "The Legend That Was Earth",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jph_thelegen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12849,
+    "title": "Rockets, Redheads & Revolution",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jph_rocketsr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12839,
+    "title": "Star Child",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jph_starchil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12838,
+    "title": "Bug Park",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jph_bugpark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11551,
+    "title": "Paths to Otherwhere",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jph_pathstoo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12837,
+    "title": "Realtime Interrupt",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jph_realtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12851,
+    "title": "Out of Time",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jph_outoftim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11550,
+    "title": "The Multiplex Man",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jph_multiple.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11549,
+    "title": "The Infinity Gambit",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jph_infinity.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11548,
+    "title": "The Mirror Maze",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jph_mirrorma.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12848,
+    "title": "Minds, Machines and Evolution",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jph_mindsmac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12836,
+    "title": "Endgame Enigma",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jph_endgamee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12835,
+    "title": "The Proteus Operation",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jph_theprote.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11547,
+    "title": "Voyage from Yesteryear",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jph_voyagefr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12830,
+    "title": "Thrice Upon a Time",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jph_thriceup.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12829,
+    "title": "The Two Faces of Tomorrow",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jph_thetwofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11546,
+    "title": "The Genesis Machine",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jph_genesism.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25152,
+    "title": "Code of the Lifemaker",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jph_codeofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25153,
+    "title": "The Immortality Option",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jph_theimmort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11552,
+    "title": "Cradle of Saturn",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jph_cradleof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11553,
+    "title": "The Anguished Dawn",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jph_theangui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12815,
+    "title": "Outward Bound",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jph_outwardb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9389,
+    "title": "The Minervan Experiment",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jph_theminer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9390,
+    "title": "Inherit the Stars",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jph_inheritt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9391,
+    "title": "The Gentle Giants of Ganymede",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jph_thegentl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9392,
+    "title": "Giants' Star",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jph_giantsst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9393,
+    "title": "Entoverse",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jph_entovers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9394,
+    "title": "Mission to Minerva",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jph_missiont.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13491,
+    "title": "Tunnel Out of Death",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jn_tunnelou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13494,
+    "title": "The Houses of Time",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jn_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4415,
+    "title": "Distance Haze",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jn_distance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 482,
+    "title": "Tower of Dreams",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jn_towerofd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13493,
+    "title": "The Higher Space",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jn_highersp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13492,
+    "title": "Quasar",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jn_quasar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 21009,
+    "title": "Some Assembly Required",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "KD_someasse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21031,
+    "title": "Aftermath",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KD_aftermat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21054,
+    "title": "Creative Couplings",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DM_creative.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16679,
+    "title": "Hunt and Run",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "AR_huntrun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15731,
+    "title": "Day of the Daemon",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ar_dayofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15733,
+    "title": "Night of the Daemon",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ar_nightoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15734,
+    "title": "Hour of the Daemon",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ar_hourofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

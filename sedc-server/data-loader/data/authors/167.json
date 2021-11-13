@@ -1,0 +1,348 @@
+[
+  {
+    "id": 13500,
+    "title": "Entertainment",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ab_entertai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 174,
+    "title": "Hard Landing",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ab_hardland.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13499,
+    "title": "Blood and Burning",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ab_bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20827,
+    "title": "The Silent Eyes of Time",
+    "year": 1975,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10320,
+    "title": "The Iron Thorn",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ab_theiront.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13498,
+    "title": "Budrys' Inferno",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ab_budrysin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13466,
+    "title": "Some Will Not Die",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ab_somewill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 305,
+    "title": "Rogue Moon",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ab_roguemoo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31665,
+    "title": "Rogue Moon",
+    "year": 1960,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13497,
+    "title": "The Unexpected Dimension",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ab_theunexp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13476,
+    "title": "The Falling Torch",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ab_thefalli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21604,
+    "title": "The Edge of the Sea",
+    "year": 1958,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10510,
+    "title": "Man of Earth",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ab_manofear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 298,
+    "title": "Who?",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ab_who.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25618,
+    "title": "The End of Summer",
+    "year": 1954,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13655,
+    "title": "Benchmarks: Galaxy Bookshelf",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ab_benchmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13743,
+    "title": "Benchmarks Continued:  F&SF",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ab_bmcontin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13744,
+    "title": "Benchmarks Revisited:  F&SF ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ab_bmrevisi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13745,
+    "title": "Benchmarks Concluded:  F&SF",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ab_bmconclu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 802,
+    "title": "Michaelmas",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ajb_michaelm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18167,
+    "title": "A Scraping at the Bones",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24844,
+    "title": "L. Ron Hubbard Presents Writers of the Future",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ab_wotfut01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24845,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume II",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ab_wotfut02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24846,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume III",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ab_wotfut03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24847,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume IV",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ab_wotfut04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24848,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume V",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ab_wotfut05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24849,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume VI",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ab_wotfut06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24850,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume VII",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ab_wotfut07.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24851,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume VIII",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "abdw_wotfut08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24858,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XV",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ab_wotfut15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24859,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XVI",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ab_wotfut16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24860,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XVII",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ab_wotfut17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24861,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XVIII",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ab_wotfut18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24862,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XIX",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ab_wotfut19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24863,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XX",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ab_wotfut20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24864,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XXI",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ab_wotfut21.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24868,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XXII",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ab_wotfut22.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24869,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XXIII",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ab_wotfut23.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24870,
+    "title": "L. Ron Hubbard Presents Writers of the Future, Volume XXIV",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ab_wotfut24.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

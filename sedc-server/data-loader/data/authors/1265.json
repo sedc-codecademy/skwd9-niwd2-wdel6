@@ -1,0 +1,47 @@
+[
+  {
+    "id": 27347,
+    "title": "The Wind",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jc_thewind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2154,
+    "title": "Wyrmhole",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jc_wyrmhole.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2155,
+    "title": "Metal Sky",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jc_metalsky.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2156,
+    "title": "The Star Tablet",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jc_startabl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2157,
+    "title": "Wall of Mirrors",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jc_wallofmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

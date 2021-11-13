@@ -1,0 +1,20 @@
+[
+  {
+    "id": 8080,
+    "title": "The Secret Service",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "WW_TheSecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34653,
+    "title": "Knots",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ww_knots.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

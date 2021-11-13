@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2850,
+    "title": "The Archivist",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ga_thearchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1089,
+    "title": "The Memory Palace",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ga_thememor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2851,
+    "title": "Lilith's Castle",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ga_lilithsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

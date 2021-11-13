@@ -1,0 +1,29 @@
+[
+  {
+    "id": 23056,
+    "title": "Roboteer",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "al_roboteer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23057,
+    "title": "Nemesis",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "al_nemesis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23058,
+    "title": "Exodus",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "al_exodus.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

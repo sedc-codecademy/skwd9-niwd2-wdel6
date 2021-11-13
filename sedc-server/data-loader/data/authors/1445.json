@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3104,
+    "title": "Alice's Adventures in Wonderland",
+    "year": 1865,
+    "type": "novel",
+    "imageName": "lc_alicesad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3105,
+    "title": "Through the Looking-Glass, and What Alice Found There",
+    "year": 1871,
+    "type": "novel",
+    "imageName": "lc_throught.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

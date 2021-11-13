@@ -1,0 +1,335 @@
+[
+  {
+    "id": 22250,
+    "title": "Snapshot",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bs_snapshot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16407,
+    "title": "Perfect State",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bs_perfects.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16080,
+    "title": "Firstborn",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bs_firstbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6915,
+    "title": "Alcatraz Versus The Evil Librarians",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bs_alvsevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6916,
+    "title": "Alcatraz Versus the Scrivener's Bones",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bs_alvsscri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6917,
+    "title": "Alcatraz Versus the Knights of Crystallia",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bs_alvsknig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6918,
+    "title": "Alcatraz Versus the Shattered Lens",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bs_alvsshat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19292,
+    "title": "Alcatraz vs. the Evil Librarians: The Dark Talent",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_thedarkt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20010,
+    "title": "Arcanum Unbounded:  The Cosmere Collection",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_arcanumu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6342,
+    "title": "Warbreaker",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bs_warbreak.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6901,
+    "title": "The Emperor's Soul",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bs_emperors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6468,
+    "title": "Elantris",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bs_elantris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25427,
+    "title": "Mistborn: Secret History",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_secrethi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2539,
+    "title": "Mistborn:  The Final Empire",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bs_mistborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2540,
+    "title": "The Well of Ascension",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bs_wellascension.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2541,
+    "title": "The Hero of Ages",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bs_heroages.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4144,
+    "title": "The Alloy of Law",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bs_thealloy.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11666,
+    "title": "Shadows of Self",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bs_shadowso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15692,
+    "title": "The Bands of Mourning",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_thebands.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25047,
+    "title": "Edgedancer: From the Stormlight Archive",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_edgedanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2482,
+    "title": "The Way of Kings",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bs_thewayof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6167,
+    "title": "Words of Radiance",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bs_wordsofr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25048,
+    "title": "Oathbringer",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bs_oathbrin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16892,
+    "title": "Shadows for Silence in the Forests of Hell",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bs_shadowsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6902,
+    "title": "Legion ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bs_legion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9623,
+    "title": "Legion:  Skin Deep",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bs_skindeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28295,
+    "title": "Legion: Lies of the Beholder",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "bs_liesofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17172,
+    "title": "Mitosis",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bs_mitosis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6169,
+    "title": "Steelheart",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bs_steelhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10702,
+    "title": "Firefight",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bs_firefigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15693,
+    "title": "Calamity",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_calamity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6170,
+    "title": "The Rithmatist",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bs_therithm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28796,
+    "title": "Skyward",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "bs_skyward.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35653,
+    "title": "Starsight",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "BS_starsigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1691,
+    "title": "The Gathering Storm",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rjbs_thegathe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2322,
+    "title": "Towers of Midnight",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rjbs_towersof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4424,
+    "title": "A Memory of Light",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rjbs_amemoryo.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

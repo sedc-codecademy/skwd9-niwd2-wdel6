@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11147,
+    "title": "One-Eye",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "sg_oneeye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11148,
+    "title": "Two-Eyes",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "sg_twoeyes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11149,
+    "title": "Three-Eyes",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "sg_threeeye.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

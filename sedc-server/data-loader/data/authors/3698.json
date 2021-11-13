@@ -1,0 +1,56 @@
+[
+  {
+    "id": 15162,
+    "title": "Planets of Peril",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mb_planetso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15163,
+    "title": "Mind-Breaks of Space",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mb_mindbrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15164,
+    "title": "The Space-Jackers",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mb_thespace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15165,
+    "title": "The Psychomorph",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mb_thepsych.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15166,
+    "title": "The Time Fighters",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mb_thetimef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15167,
+    "title": "The Edge of the Infinite",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mb_theedgeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 27128,
+    "title": "Ciaphas Cain: Defender of the Imperium",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sm_defender.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27127,
+    "title": "Ciaphas Cain: Hero of the Imperium",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sm_heroofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27118,
+    "title": "For the Emperor",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sm_fortheem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27119,
+    "title": "Caves of Ice",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sm_cavesofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27120,
+    "title": "The Traitor's Hand",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_thetrait.jg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27121,
+    "title": "Death or Glory",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sm_deathorg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27122,
+    "title": "Duty Calls",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sm_dutycall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27123,
+    "title": "Cain's Last Stand",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sm_cainslas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27124,
+    "title": "The Emperor's Finest",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sm_theemper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27125,
+    "title": "The Last Ditch",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sm_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27126,
+    "title": "The Greater Good",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sm_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15723,
+    "title": "Death's Messenger",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_deathsme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15725,
+    "title": "Death's City",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_deathsci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15726,
+    "title": "Death's Legacy",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sm_deathsle.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 17838,
+    "title": "The 5th Wave",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ry_the5thw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17839,
+    "title": "The Infinite Sea",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ry_theinfin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17840,
+    "title": "The Last Star",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ry_thelasts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9272,
+    "title": "The Monstrumologist",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ry_themonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9273,
+    "title": "The Curse of the Wendigo",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ry_curseoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9274,
+    "title": "The Isle of Blood",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ry_theisleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9275,
+    "title": "The Final Descent",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ry_thefinal.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 20796,
+    "title": "Heartless",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mm_heartles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22913,
+    "title": "Stars Above",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mm_starsabo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17270,
+    "title": "Fairest:  Levana's Story",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "MM_fairest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7863,
+    "title": "Cinder",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mm_cinder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7864,
+    "title": "Scarlet",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mm_scarlet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7866,
+    "title": "Cress",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mm_cress.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16568,
+    "title": "Winter",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mm_winter.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

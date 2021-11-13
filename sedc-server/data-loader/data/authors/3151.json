@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12157,
+    "title": "The Golden Strangers (The Invaders)",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ht_goldenst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12158,
+    "title": "The Dark Island (The Savage Warriors)",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "ht_thedarki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12159,
+    "title": "Red Queen, White Queen (The Pagan Queen)",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ht_redqueen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12156,
+    "title": "The Great Captains",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ht_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

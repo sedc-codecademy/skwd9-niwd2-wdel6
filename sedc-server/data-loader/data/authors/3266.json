@@ -1,0 +1,56 @@
+[
+  {
+    "id": 12577,
+    "title": "The Night Fantastic",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "paka_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12576,
+    "title": "The Unicorn Trade",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "paka_theunico.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12572,
+    "title": "Roma Mater",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "paka_romamate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12573,
+    "title": "Gallicenae",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "paka_gallicen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12574,
+    "title": "Dahut",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "paka_dahut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12575,
+    "title": "The Dog and the Wolf",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "paka_thedogsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

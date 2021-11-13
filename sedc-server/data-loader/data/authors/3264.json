@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12491,
+    "title": "The Wanderer",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cwkr_thewande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12485,
+    "title": "Wind From a Foreign Sky",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kr_windfrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12486,
+    "title": "A Tremor in the Bitter Earth",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kr_atremori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12487,
+    "title": "Prince of Fire and Ashes",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kr_princeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

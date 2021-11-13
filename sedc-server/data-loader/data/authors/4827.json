@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21685,
+    "title": "No Hero",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jw_nohero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21686,
+    "title": "Yesterday's Hero",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jw_yesterda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21687,
+    "title": "Anti-Hero",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jw_antihero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21688,
+    "title": "Broken Hero",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jw_brokenhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

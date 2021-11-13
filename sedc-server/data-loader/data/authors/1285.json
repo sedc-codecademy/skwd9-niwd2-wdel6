@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18295,
+    "title": "Big Book of Science Fiction",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "GC_BigBookO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18296,
+    "title": "A Treasury of Science Fiction",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "GC_ATreasur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2283,
+    "title": "The Best of Science Fiction",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "gc_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

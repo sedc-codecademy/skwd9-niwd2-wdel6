@@ -1,0 +1,38 @@
+[
+  {
+    "id": 8185,
+    "title": "Engraved on the Eye:  Short Fantasy & Science Fiction ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sa_engraved.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4525,
+    "title": "Throne of the Crescent Moon",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sa_throneof.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 17622,
+    "title": "Hooves and the Hovel of Abdel Jameela",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sa_hoovesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25674,
+    "title": "Canto Bight:  Journey to Star Wars: The Last Jedi",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SA_cantobig.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

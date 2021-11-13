@@ -1,0 +1,83 @@
+[
+  {
+    "id": 14614,
+    "title": "Scream Queen",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "evb_screamqu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14615,
+    "title": "Martyrs",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "evb_martyrs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14616,
+    "title": "Teeth",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "evb_teeth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14617,
+    "title": "Death Drives a Semi",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "evb_deathdri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14887,
+    "title": "Lord Soth",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "evb_lordsoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14610,
+    "title": "Wolf Pack",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "evb_wolfpack.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14611,
+    "title": "Lone Wolf",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "evb_lonewolf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14612,
+    "title": "Cry Wolf",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "evb_crywolf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14613,
+    "title": "Wolf Man",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "evb_wolfman.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 36345,
+    "title": "A Riddle in Bronze",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sh_ariddlei.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11825,
+    "title": "Hal Spacejock",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sh_halspace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11826,
+    "title": "Second Course",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sh_secondc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11827,
+    "title": "Just Desserts",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sh_justdess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11828,
+    "title": "No Free Lunch ",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sh_nofreelu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11829,
+    "title": "Baker's Dozen",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sh_bakersdo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11830,
+    "title": "Safe Art",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sh_safeart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11831,
+    "title": "Big Bang",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sh_bigbang.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

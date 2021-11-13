@@ -1,0 +1,83 @@
+[
+  {
+    "id": 8271,
+    "title": "Regina's Song",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dele_reginass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8270,
+    "title": "The Redemption of Althalus",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dele_theredem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8263,
+    "title": "The Rivan Codex",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dele_therivan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1159,
+    "title": "Polgara the Sorceress",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dle_polgarat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8262,
+    "title": "Belgarath the Sorcerer",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dele_belgarat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8275,
+    "title": "The Elder Gods",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dele_theelder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8276,
+    "title": "The Treasured One",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dele_thetreas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8277,
+    "title": "Crystal Gorge",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dele_crystalg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8278,
+    "title": "The Younger Gods",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dele_theyoung.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

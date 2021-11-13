@@ -1,0 +1,65 @@
+[
+  {
+    "id": 24822,
+    "title": "Aurian",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mf_aurian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24823,
+    "title": "Harp of Winds",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mf_harpofwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24824,
+    "title": "The Sword of Flame",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mf_swordoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24825,
+    "title": "Dhiammara",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mf_dhiammar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35500,
+    "title": "The Heart of Myrial",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "MF_HeartMyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35501,
+    "title": "Spirit of the Stone",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "MF_SpiritSt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35502,
+    "title": "Echo of Eternity",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "MF_EchoEter.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

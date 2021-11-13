@@ -1,0 +1,409 @@
+[
+  {
+    "id": 32632,
+    "title": "The Diamond Drill",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12828,
+    "title": "The Lady Vanishes and Other Oddities of Nature",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cs_theladyv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35480,
+    "title": "Space Suits:   Being the Selected Legal Papers of Waldo Burmeister ...",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "CS_SpaceSui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35481,
+    "title": "The Compleat McAndrew",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "CS_TheCompleat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27433,
+    "title": "Phallicide",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12821,
+    "title": "Tomorrow and Tomorrow",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cs_tomorrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27541,
+    "title": "The Lady Vanishes",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12827,
+    "title": "Georgia on My Mind and Other Places",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_georgiao.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27772,
+    "title": "How to Save the World",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_howtosav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13144,
+    "title": "Future Quartet: Earth in the Year 2042: A Four-Part Invention",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bbfpjpcs_furureq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12820,
+    "title": "The Judas Cross",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "csdb_thejudas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12826,
+    "title": "Dancing With Myself",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cs_dancingw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18689,
+    "title": "Georgia on My Mind",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12819,
+    "title": "Godspeed",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cs_godspeed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 424,
+    "title": "Brother to Dragons",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "cs_brothert.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20998,
+    "title": "A Braver Thing",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21368,
+    "title": "Godspeed",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27437,
+    "title": "Out of Copyright",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12818,
+    "title": "Trader's World",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cs_tradersw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12817,
+    "title": "Between the Strokes of Night",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cs_betweent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16411,
+    "title": "The McAndrew Chronicles",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cs_themcand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24275,
+    "title": "Erasmus Magister",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cs_erasmusm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12816,
+    "title": "My Brother's Keeper",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cs_mybrothe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12809,
+    "title": "The Selkie",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "csdb_theselki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12824,
+    "title": "Hidden Variables",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cs_hiddenva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24265,
+    "title": "Vectors",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "cs_vectors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12803,
+    "title": "The Web Between the Worlds",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "cs_thewebbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12799,
+    "title": "Aftermath",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cs_aftermat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12800,
+    "title": "Starfire",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cs_starfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12822,
+    "title": "The Nimrod Hunt (The Mind Pool)",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cs_thenimro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12823,
+    "title": "The Spheres of Heaven",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cs_thespher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10449,
+    "title": "Cold as Ice",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "cs_coldasic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10450,
+    "title": "The Ganymede Club",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_theganym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10451,
+    "title": "Dark as Day",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cs_darkasda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12804,
+    "title": "Summertide",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cs_summerti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12805,
+    "title": "Divergence",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cs_divergen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12806,
+    "title": "Transcendence",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "cs_transcen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12807,
+    "title": "Convergence",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cs_converge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12808,
+    "title": "Resurgence",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cs_resurgen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12810,
+    "title": "Higher Education",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "csjp_highered.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12811,
+    "title": "The Billion Dollar Boy",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cs_thebilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12812,
+    "title": "Putting Up Roots",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cs_puttingu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12813,
+    "title": "The Cyborg from Earth",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cs_thecybor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12363,
+    "title": "Sight of Proteus",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cs_sightofp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12801,
+    "title": "Proteus Unbound",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cs_punbound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12802,
+    "title": "Proteus in the Underworld",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_pintheun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

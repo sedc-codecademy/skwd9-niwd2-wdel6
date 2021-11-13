@@ -1,0 +1,28 @@
+[
+  {
+    "id": 22758,
+    "title": "The Battle of York",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5654,
+    "title": "The High House",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "js_thehighh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6913,
+    "title": "The False House",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "JS_TheFalse.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

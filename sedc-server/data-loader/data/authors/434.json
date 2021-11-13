@@ -1,0 +1,81 @@
+[
+  {
+    "id": 3608,
+    "title": "The Highest Frontier",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "js_thehighe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4828,
+    "title": "The Wall Around Eden",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "js_thewalla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32742,
+    "title": "Tuberculosis Bacteria Join UN",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32743,
+    "title": "Still Forms on Foxfield",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "js_stillfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34196,
+    "title": "Microbe",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 437,
+    "title": "A Door into Ocean",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "js_adoorint.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3609,
+    "title": "Daughter of Elysium",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "js_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3610,
+    "title": "The Children Star",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "js_thechild.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3611,
+    "title": "Brain Plague",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "js_brainpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

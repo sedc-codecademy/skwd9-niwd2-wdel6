@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20845,
+    "title": "Arcade",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "DG_arcade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20844,
+    "title": "Day of Honor: Honor Bound",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "DG_dayorhon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20903,
+    "title": "The Chance Factor",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "DG_chancefa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

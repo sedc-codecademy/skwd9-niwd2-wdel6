@@ -1,0 +1,55 @@
+[
+  {
+    "id": 22242,
+    "title": "The Cell & Other Transmorphic Tales",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "DC_celother.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22241,
+    "title": "Fengriffen & Other Gothic Tales",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "DC_fengriff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23622,
+    "title": "Pelican Cay & Other Disquieting Tales",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dc_pelicanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23623,
+    "title": "Pelican Cay",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34079,
+    "title": "The Third Grave",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "dc_thirdgra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36467,
+    "title": "Wolf Tracks",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "DC_wolftrac.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

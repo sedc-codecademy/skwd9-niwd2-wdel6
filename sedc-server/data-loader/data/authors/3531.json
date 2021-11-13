@@ -1,0 +1,65 @@
+[
+  {
+    "id": 14268,
+    "title": "Bard",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "kt_bard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14269,
+    "title": "Bard II",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "kt_bardII.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14270,
+    "title": "Bard III: The Wild Sea",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kt_thewilds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14271,
+    "title": "Bard IV: Ravens' Gathering",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "kt_ravensga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14272,
+    "title": "Bard V: Felimid's Homecoming",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kt_felimids.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14291,
+    "title": "The Tower of Death",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ajokt_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14290,
+    "title": "When Death Birds Fly",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ajokt_whendeat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

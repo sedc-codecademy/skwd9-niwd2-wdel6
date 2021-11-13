@@ -1,0 +1,1289 @@
+[
+  {
+    "id": 10150,
+    "title": "Dragon's Teeth",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ml_dragonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9681,
+    "title": "Dead Reckoning",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mlre_deadreck.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10122,
+    "title": "Trio of Sorcery",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ml_trioofso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9682,
+    "title": "Gwenhwyfar: The White Spirit",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ml_gwenhwyf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10151,
+    "title": "Werehunter",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ml_werehunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10152,
+    "title": "Fiddler Fair",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ml_fiddlerf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9378,
+    "title": "Tiger Burning Bright",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mzbanml_tigerbur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32411,
+    "title": "A Cast of Corbies",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ML_CastofCo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20435,
+    "title": "Sacred Ground",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ml_sacredgr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9379,
+    "title": "If I Pay Thee Not in Gold",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "paml_ifipayth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10038,
+    "title": "The Lark & the Wren",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ml_thelarka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10039,
+    "title": "The Robin and the Kestrel",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ml_therobin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10040,
+    "title": "The Eagle and the Nightingales",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ml_theeagle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10041,
+    "title": "Four and Twenty Blackbirds",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ml_fourandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10153,
+    "title": "Knight of Ghosts and Shadows",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mleg_knightofg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10154,
+    "title": "Summoned to Tourney",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mleg_summoned.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10156,
+    "title": "Beyond World's End",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mlre_beyondwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10157,
+    "title": "Spirits White as Lightning",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mlre_spiritsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10158,
+    "title": "Mad Maudlin",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mlre_madmaudl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10159,
+    "title": "Music to My Sorrow",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mlre_musictom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1513,
+    "title": "Rediscovery",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mzbml_rediscov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10118,
+    "title": "Burning Water",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ml_burningw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10119,
+    "title": "Children of the Night",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ml_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10120,
+    "title": "Jinx High",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ml_jinxhigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4891,
+    "title": "Joust",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ml_joust.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4892,
+    "title": "Alta",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ml_alta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4893,
+    "title": "Sanctuary",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ml_sanctuar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4894,
+    "title": "Aerie",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ml_aerie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9668,
+    "title": "Crown of Vengeance",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mljm_crownofv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25564,
+    "title": "Blade of Empire",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ML_bladeofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4883,
+    "title": "Elemental Magic: All-New Tales of the Elemental Masters",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ml_elementa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4875,
+    "title": "The Fire Rose",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ml_thefirer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4876,
+    "title": "The Serpent's Shadow",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ml_theserpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4877,
+    "title": "The Gates of Sleep",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ml_thegates.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4878,
+    "title": "Phoenix and Ashes",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ml_phoenixa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4879,
+    "title": "The Wizard of London",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ml_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4880,
+    "title": "Reserved for the Cat",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ml_reserved.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4881,
+    "title": "Unnatural Issue",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ml_unnatura.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4882,
+    "title": "Home from the Sea",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ml_homefrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4884,
+    "title": "Steadfast",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ml_steadfas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7393,
+    "title": "Blood Red",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ml_bloodred.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12224,
+    "title": "From a High Tower",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ml_fromahig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18868,
+    "title": "A Study in Sable",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ml_astudyin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23149,
+    "title": "A Scandal in Battersea",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ml_ascandal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28517,
+    "title": "The Bartered Brides",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ml_thebarte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35671,
+    "title": "The Case of the Spellbound Child",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ML_casespel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9665,
+    "title": "The Phoenix Unchained",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mljm_punchain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9666,
+    "title": "The Phoenix Endangered",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mljm_pendange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9667,
+    "title": "The Phoenix Transformed",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mljm_ptransfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9882,
+    "title": "Firebird",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ml_firebird.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5801,
+    "title": "The Black Swan",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ml_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4885,
+    "title": "The Fairy Godmother",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ml_thefairy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4886,
+    "title": "One Good Knight",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ml_onegoodk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4887,
+    "title": "Fortune's Fool",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ml_fortunes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4888,
+    "title": "The Snow Queen",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ml_thesnowq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4889,
+    "title": "The Sleeping Beauty",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ml_thesleep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4890,
+    "title": "Beauty and the Werewolf",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ml_beautyan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9375,
+    "title": "The Elvenbane",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "anml_elvenban.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9376,
+    "title": "Elvenblood",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "anml_elvenblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9377,
+    "title": "Elvenborn",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "anml_elvenbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9877,
+    "title": "The Shadow of the Lion",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mlefdf_theshadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9878,
+    "title": "This Rough Magic",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mlefdf_thisroug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9880,
+    "title": "Much Fall of Blood",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mlefdf_muchfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9881,
+    "title": "Burdens of the Dead",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mlefdf_burdenof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13767,
+    "title": "Hunter",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ml_hunter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19944,
+    "title": "Elite",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ml_elite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24401,
+    "title": "Apex",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ml_apex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20438,
+    "title": "The Wizard of Karres",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mlefdf_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18797,
+    "title": "Nebula Awards Showcase 2016",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ml_nebu2015.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9662,
+    "title": "The Outstretched Shadow",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mljm_theoutst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9663,
+    "title": "To Light a Candle",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mljm_tolight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9664,
+    "title": "When Darkness Falls",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mljm_whendark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9669,
+    "title": "The House of the Four Winds",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mljm_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34842,
+    "title": "Invasion",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ML_invasion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34843,
+    "title": "World Divided",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ML_worlddiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34844,
+    "title": "Revolution",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ML_revoluti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34845,
+    "title": "Collision",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ML_collisio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34846,
+    "title": "Avalanche",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ML_avalanch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10106,
+    "title": "Born To Run",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mlld_borntoru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10107,
+    "title": "Wheels of Fire",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mlms_wheelsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10108,
+    "title": "When the Bough Breaks",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mlhl_whentheb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10109,
+    "title": "Chrome Circle",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mlld_chromeci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17959,
+    "title": "Silence",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mlcm_silence.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35872,
+    "title": "Breaking Silence",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "mlcm_breaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10113,
+    "title": "This Scepter'd Isle",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mlrg_thisscep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10114,
+    "title": "Ill Met by Moonlight",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mlrg_illmetby.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10115,
+    "title": "By Slanderous Tongues",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mlrg_byslande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10116,
+    "title": "And Less Than Kind",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mlrg_andlesst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7009,
+    "title": "Legacies",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mlre_legacies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7010,
+    "title": "Conspiracies",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mlre_conspira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7011,
+    "title": "Sacrifices",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mlre_sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7012,
+    "title": "Victories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mlre_victories.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7755,
+    "title": "The Ship Who Searched",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "amml_shipsear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11570,
+    "title": "Reboots",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ml_cm_reboots.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34849,
+    "title": "Reap the Whirlwind",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cjcml_reapthew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25572,
+    "title": "Sword of Ice and Other Tales of Valdemar",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ml_valan1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25573,
+    "title": "Sun In Glory and Other Tales of Valdemar",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ml_valan2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25574,
+    "title": "Crossroads and Other Tales of Valdemar",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ml_valan3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25575,
+    "title": "Moving Targets and Other Tales of Valdemar",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ml_valan4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25576,
+    "title": "Changing the World: All-New Tales of Valdemar",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ml_valan5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25577,
+    "title": "Finding the Way and Other Tales of Valdemar",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ml_valan6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25578,
+    "title": "Under the Vale and Other Tales of Valdemar",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ml_valan7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25579,
+    "title": "No True Way: All-New Tales of Valdemar",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ml_valan8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25580,
+    "title": "Crucible: All-New Tales of Valdemar",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ml_valan9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25581,
+    "title": "Tempest: All-New Tales of Valdemar",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ml_valan10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26563,
+    "title": "Pathways",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ml_pathways.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31548,
+    "title": "Choices: All-New Tales of Valdemar",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ml_choices.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35672,
+    "title": "Seasons: All-New Tales of Valdemar",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ML_seasons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9733,
+    "title": "Owlflight",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mlld_owlfligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9734,
+    "title": "Owlsight",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mlld_owlsight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9735,
+    "title": "Owlknight",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mlld_owlknigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28408,
+    "title": "The Hills Have Spies",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ml_hillshav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34073,
+    "title": "Eye Spy",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ml_eyespy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36689,
+    "title": "Spy, Spy Again",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "ml_spyspyag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9673,
+    "title": "Arrows of the Queen",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ml_aotqueen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9674,
+    "title": "Arrow's Flight",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ml_arflight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9675,
+    "title": "Arrow's Fall",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ml_arrofall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9680,
+    "title": "By the Sword",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ml_bytheswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9677,
+    "title": "Magic's Pawn",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ml_magipawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9678,
+    "title": "Magic's Promise",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ml_mpromise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9679,
+    "title": "Magic's Price",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ml_magprice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9710,
+    "title": "Storm Warning",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ml_swarning.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9711,
+    "title": "Storm Rising",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ml_strising.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9712,
+    "title": "Storm Breaking",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ml_breaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9730,
+    "title": "The Black Gryphon",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mlld_blackgry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9731,
+    "title": "The White Gryphon",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mlld_whitegry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9732,
+    "title": "The Silver Gryphon",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mlld_silvergr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9700,
+    "title": "Winds of Fate",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ml_wioffate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9701,
+    "title": "Winds of Change",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ml_wochange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9702,
+    "title": "Winds of Fury",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ml_wioffury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20437,
+    "title": "Take a Thief",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ml_takeathi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9747,
+    "title": "Foundation",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ml_foundati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9748,
+    "title": "Intrigues",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ml_intrigue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9749,
+    "title": "Changes",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ml_changes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9750,
+    "title": "Redoubt",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ml_redoubt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9751,
+    "title": "Bastion",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ml_bastion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9563,
+    "title": "Closer to Home",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ml_closerto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19528,
+    "title": "Closer to the Heart",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ml_ctothear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20209,
+    "title": "Closer to the Chest",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ml_cttchest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20436,
+    "title": "Brightly Burning",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ml_brightly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5798,
+    "title": "The Oathbound",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ml_theoathb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5799,
+    "title": "Oathbreakers",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ml_oathbrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5800,
+    "title": "Oathblood",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ml_oathbloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

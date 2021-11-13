@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17190,
+    "title": "The Life and Legend of Obi-Wan Kenobi",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "RW_lifelege.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17184,
+    "title": "The Wrath of Darth Maul",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RW_warthdar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14496,
+    "title": "The Rise and Fall of Darth Vader",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rw_therisea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

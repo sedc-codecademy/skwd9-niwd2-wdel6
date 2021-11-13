@@ -1,0 +1,74 @@
+[
+  {
+    "id": 23855,
+    "title": "Death",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sds_death.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23862,
+    "title": "Whispers: An Anthology of Fantasy and Horror",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "sds_whisper1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23863,
+    "title": "Whispers II",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "sds_whisper2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23864,
+    "title": "Whispers III",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "sds_whisper3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23865,
+    "title": "Whispers IV",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sds_whisper4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23866,
+    "title": "Whispers V",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sds_whisper5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23867,
+    "title": "Whispers VI",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sds_whisper6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23765,
+    "title": "The World Fantasy Awards, Volume Two",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "sdsfl_twfavol2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24797,
+    "title": "A Study in Brimstone",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gsd_astudyin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24798,
+    "title": "The Hell-Hound of the Baskervilles",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gsd_thehellh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35435,
+    "title": "My Grave Ritual",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "GSD_MyGraveR.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35436,
+    "title": "The Sign of Nine",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GSD_SignNine.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 24936,
+    "title": "Akira, Vol 1",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ko_akira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24940,
+    "title": "Akira, Vol 2",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ko_akira2_.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24941,
+    "title": "Akira, Vol 3",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ko_akira3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24942,
+    "title": "Akira, Vol 4",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ko_akira4_.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24943,
+    "title": "Akira, Vol 5",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ko_akira5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24944,
+    "title": "Akira, Vol 6",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ko_akira6.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

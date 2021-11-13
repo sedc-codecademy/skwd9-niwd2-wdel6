@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5544,
+    "title": "Irenicon",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ah_irenicon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5545,
+    "title": "The Warring States",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ah_thewarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13262,
+    "title": "Spira Mirabilis",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ah_spiramir.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 23706,
+    "title": "The Argus Deceit",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cg_theargus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26145,
+    "title": "The Phoenix Descent",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cg_thephoen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26146,
+    "title": "The Gemini Effect",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cg_thegemin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

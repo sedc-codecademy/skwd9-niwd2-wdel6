@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16585,
+    "title": "Destiny's Blood",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mb_destbloo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16586,
+    "title": "Destiny's Fall",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mb_destfall.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16587,
+    "title": "Destiny's War",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mb_destwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

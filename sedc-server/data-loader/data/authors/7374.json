@@ -1,0 +1,47 @@
+[
+  {
+    "id": 34908,
+    "title": "Word-Bringer",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "EL_WordBrin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34907,
+    "title": "Salvage and Destroy",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "EL_Salvagea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34909,
+    "title": "The Douglas Convolution",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "EL_DouglasC.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34910,
+    "title": "The Bright Companion",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "EL_BrightCo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34911,
+    "title": "Prelude to Chaos",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "EL_Preludet.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

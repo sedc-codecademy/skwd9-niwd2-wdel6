@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11212,
+    "title": "A Corner of White",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_acornero.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11213,
+    "title": "The Cracks in the Kingdom",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jm_thecrack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20291,
+    "title": "A Tangle of Gold",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jm_atangleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

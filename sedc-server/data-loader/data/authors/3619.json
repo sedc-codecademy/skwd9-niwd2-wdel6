@@ -1,0 +1,263 @@
+[
+  {
+    "id": 14783,
+    "title": "The Last Thane",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dn_thelastt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14784,
+    "title": "The Puppet King",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dn_thepuppe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14771,
+    "title": "The Secret of Pax Tharkas",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dn_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14772,
+    "title": "The Heir of Kayolin",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dn_theheiro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14773,
+    "title": "The Fate of Thorbardin",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dn_thefateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14785,
+    "title": "The Messenger",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dn_themesse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14786,
+    "title": "The Golden Orb",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dn_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14787,
+    "title": "Winterheim",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dn_winterhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14755,
+    "title": "Fistandantilus Reborn",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dn_fistanda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14798,
+    "title": "Flint the King",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mk_flintthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14788,
+    "title": "Lord of the Rose",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dn_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14789,
+    "title": "The Crown and the Sword",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dn_thecrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14790,
+    "title": "The Measure and the Truth",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dn_themeasu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14794,
+    "title": "Wizards' Conclave",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dn_wizardsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14795,
+    "title": "The Kinslayer Wars",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "dn_thekinsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14796,
+    "title": "The Kagonesti",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dn_thekagon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14797,
+    "title": "The Dragons",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dn_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14767,
+    "title": "Emperor of Alsalon",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dn_emperoro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15171,
+    "title": "Darkwalker on Moonshae",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dn_darkwalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15172,
+    "title": "Black Wizards",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dn_blackwiz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15173,
+    "title": "Darkwell",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "dn_darkwell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15192,
+    "title": "Prophet of Moonshae",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "dn_prophetof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15193,
+    "title": "The Coral Kingdom",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "dn_thecoral.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15194,
+    "title": "The Druid Queen",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dn_thedruid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15249,
+    "title": "Ironhelm",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dn_ironhelm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15250,
+    "title": "Viperhand",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dn_viperhan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15251,
+    "title": "Feathered Dragon",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "dn_featere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18799,
+    "title": "Task Force Mars",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dn_taskfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18800,
+    "title": "Operation Orion",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dn_operati.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

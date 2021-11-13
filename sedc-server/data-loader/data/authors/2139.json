@@ -1,0 +1,38 @@
+[
+  {
+    "id": 7870,
+    "title": "Machine",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jp_machine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17620,
+    "title": "Ghosts of New York",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jp_ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7871,
+    "title": "Unwelcome Bodies",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jp_unwelcom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17623,
+    "title": "Captive Girl",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jp_captiveg.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

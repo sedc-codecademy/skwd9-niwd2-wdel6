@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16153,
+    "title": "A Short History of Fantasy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "FM&EJ_AShortHi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24193,
+    "title": "Terry Pratchett: Guilty of Literature",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ambejfm_terrypra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24188,
+    "title": "The Cambridge Companion to Fantasy Literature",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ejfm_comfantl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24189,
+    "title": "The Cambridge Companion to Science Fiction",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ejfm_comscifi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10666,
+    "title": "Lois McMaster Bujold",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "EF_loismc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

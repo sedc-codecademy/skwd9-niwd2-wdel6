@@ -1,0 +1,113 @@
+[
+  {
+    "id": 32482,
+    "title": "The Dollmaker",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "na_thedollm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35036,
+    "title": "The Silver Wind",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "na_silverwin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32786,
+    "title": "The Gift of Angels: An introduction",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23605,
+    "title": "The Rift",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "na_therift.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 19443,
+    "title": "The Art of Space Travel",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "na_theartof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28747,
+    "title": "Ten Days",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16920,
+    "title": "The Harlequin",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "NA_harlequi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11120,
+    "title": "The Race",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "na_therace.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 29044,
+    "title": "Sunshine",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29005,
+    "title": "The Silver Wind",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27027,
+    "title": "Flying in the Face of God",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22712,
+    "title": "Angelus",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27444,
+    "title": "Microcosmos",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "na_microcos.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

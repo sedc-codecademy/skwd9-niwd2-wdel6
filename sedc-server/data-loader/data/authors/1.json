@@ -1,0 +1,168 @@
+[
+  {
+    "id": 3864,
+    "title": "Redemolished",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ab_redemoli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3863,
+    "title": "Psychoshop",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "abrz_psychosh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2240,
+    "title": "Virtual Unrealities:  The Short Fiction of Alfred Bester",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ab_virtualu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3861,
+    "title": "The Deceivers",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ab_thedecei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3862,
+    "title": "Golem 100",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ab_golem100.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 255,
+    "title": "The Computer Connection",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ab_thecompu.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 21485,
+    "title": "The Four-Hour Fugue",
+    "year": 1974,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26682,
+    "title": "Something Up There Likes Me",
+    "year": 1973,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19015,
+    "title": "The Animal Fair",
+    "year": 1972,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10076,
+    "title": "An Alfred Bester Omnibus",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ab_analfred.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3865,
+    "title": "The Dark Side of the Earth",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ab_thedarks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21598,
+    "title": "The Pi Man",
+    "year": 1959,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21599,
+    "title": "The Men Who Murdered Mohammed",
+    "year": 1958,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3866,
+    "title": "Starburst",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ab_starburs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1,
+    "title": "The Demolished Man",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "ab_thedemol.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3867,
+    "title": "Starlight",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ab_starligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4108,
+    "title": "The Light Fantastic",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ab_thelight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4107,
+    "title": "Star Light, Star Bright",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ab_starlight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1264,
+    "title": "The Stars My Destination",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ab_thestars.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

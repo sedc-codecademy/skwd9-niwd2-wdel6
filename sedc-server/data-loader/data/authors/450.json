@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4350,
+    "title": "The Green Man",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ka_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15911,
+    "title": "New Maps of Hell",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "KA_NewMapsO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 452,
+    "title": "The Alteration",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ka_thealter.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8411,
+    "title": "Spectrum 1",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "karc_spec1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8419,
+    "title": "Spectrum 2",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "karc_spec2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8420,
+    "title": "Spectrum 3",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "karc_spec3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8425,
+    "title": "Spectrum 4",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "karc_spec4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8426,
+    "title": "Spectrum 5",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "karc_spec5.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

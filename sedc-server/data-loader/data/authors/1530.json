@@ -1,0 +1,164 @@
+[
+  {
+    "id": 5738,
+    "title": "Pegasus",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rmk_pegasus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5737,
+    "title": "Chalice",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rmk_chalice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5736,
+    "title": "Dragonhaven",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rmk_dragonha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3328,
+    "title": "Sunshine",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rmk_sunshine.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5735,
+    "title": "The Stone Fey",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rmk_thestone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5279,
+    "title": "Deerskin",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rmc_deerskin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25037,
+    "title": "Shadows",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rm_shadows.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24478,
+    "title": "A Knot in the Grain and Other Stories",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rm_aknotint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17996,
+    "title": "Imaginary Lands",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rm_imaginar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5277,
+    "title": "The Door in the Hedge",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rmc_thedoori.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5276,
+    "title": "The Blue Sword",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rmc_theblues.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5278,
+    "title": "The Hero and the Crown",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rmc_theheroa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5323,
+    "title": "Beauty: A Retelling of the Story of Beauty and the Beast",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "rmk_beauty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5324,
+    "title": "Rose Daughter",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rmk_rosedaug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5734,
+    "title": "Spindle's End",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rmk_spindles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5325,
+    "title": "The Outlaws of Sherwood",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rmk_theoutla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35559,
+    "title": "Water: Tales of Elemental Spirits",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RM_WaterTal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35560,
+    "title": "Fire: Tales of Elemental Spirits",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RM_FireTale.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 24208,
+    "title": "Bearings: Reviews 1997-2001",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gkw_bearings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24207,
+    "title": "Soundings: Reviews 1992-1996",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gkw_sounding.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4691,
+    "title": "American Science Fiction: Nine Classic Novels of the 1950s",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gkw_asfset.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4692,
+    "title": "American Science Fiction: Four Classic Novels 1953-1956",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gkw_asfvol2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4693,
+    "title": "American Science Fiction: Five Classic Novels 1956-58",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gkw_asfvol1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36233,
+    "title": "American Science Fiction: Eight Classic Novels of the 1960s",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GKW_ASF1960s.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36223,
+    "title": "American Science Fiction: Four Classic Novels 1960-1966",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GKW_ASF1960-66.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36232,
+    "title": "American Science Fiction: Four Classic Novels 1968-1969",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GKW_ASF1968-69.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14161,
+    "title": "David Lindsay",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "GW_davidlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

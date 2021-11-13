@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15381,
+    "title": "FLCL Volume 1",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "YE_flcl1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15382,
+    "title": "FLCL Volume 2",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "YE_flcl2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15383,
+    "title": "FLCL Volume 3",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "YE_flcl3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

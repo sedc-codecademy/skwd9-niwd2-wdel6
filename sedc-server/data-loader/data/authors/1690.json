@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4088,
+    "title": "The Shattering",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kh_theshatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11189,
+    "title": "When We Wake",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kh_whenwewa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11190,
+    "title": "While We Run",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kh_whilewer.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

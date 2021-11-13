@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12704,
+    "title": "The Armor of Light",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mslab_thearmor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12201,
+    "title": "Point of Hopes",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mslab_pointofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12202,
+    "title": "Point of Dreams",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mslab_pointofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

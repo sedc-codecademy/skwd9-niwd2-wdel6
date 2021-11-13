@@ -1,0 +1,244 @@
+[
+  {
+    "id": 31838,
+    "title": "Kinsmen Universe",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ia_kinsmanu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18801,
+    "title": "On the Edge",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ia_ontheed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18802,
+    "title": "Bayou Moon",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ia_bayoumo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18803,
+    "title": "Fate's Edge",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ia_fatesedg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18804,
+    "title": "Steel's Edge",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ia_steelse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36295,
+    "title": "Pay Me",
+    "year": 2020,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36294,
+    "title": "A Misunderstanding",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "IA_amisunde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36292,
+    "title": "Diamond Fire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "IA_diamondf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36285,
+    "title": "Burn for Me",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "IA_burnform.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36286,
+    "title": "White Hot",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "IA_whitehot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36290,
+    "title": "Wildfire",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "IA_wildfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36291,
+    "title": "Sapphire Flames",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "IA_sapphire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36293,
+    "title": "Emerald Blaze",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "IA_emeraldb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23902,
+    "title": "The Innkeeper Chronicles: Volume One",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ia_theinnke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36283,
+    "title": "Sweep of the Blade",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "IA_sweepoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36284,
+    "title": "Sweep with Me",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "IA_sweepwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35804,
+    "title": "Small Magics",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "IA_SmallMag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13594,
+    "title": "Magic Bites",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ia_magbites.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13595,
+    "title": "Magic Burns",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ia_magburns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13596,
+    "title": "Magic Strikes",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ia_mstrikes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13597,
+    "title": "Magic Bleeds",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ia_mableeds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13598,
+    "title": "Magic Slays",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ia_magslays.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13599,
+    "title": "Magic Rises",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ia_magrises.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13600,
+    "title": "Magic Breaks",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ia_mabreaks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13601,
+    "title": "Magic Shifts",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ia_mashifts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19298,
+    "title": "Magic Binds",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ia_magbinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28442,
+    "title": "Magic Triumphs",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ia_mtriumph.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

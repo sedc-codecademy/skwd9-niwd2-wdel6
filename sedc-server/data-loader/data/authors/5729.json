@@ -1,0 +1,65 @@
+[
+  {
+    "id": 27619,
+    "title": "House of the Lost",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sr_houseoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27620,
+    "title": "Property of a Lady",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sr_property.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27621,
+    "title": "The Sin Eater",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sr_thesinea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27622,
+    "title": "The Silence",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sr_thesilen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27623,
+    "title": "The Whispering",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sr_thewhisp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27624,
+    "title": "Deadlight Hall",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sr_deadligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27625,
+    "title": "The Bell Tower",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sr_thebellto.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

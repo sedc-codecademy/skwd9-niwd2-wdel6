@@ -1,0 +1,119 @@
+[
+  {
+    "id": 32578,
+    "title": "Stardoc",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "SV_stardoc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32579,
+    "title": "Beyond Varallan",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "SV_beyondva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32580,
+    "title": "Endurance",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SV_enduranc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32581,
+    "title": "Shockball",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SV_shockbal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32582,
+    "title": "Eternity Row",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "SV_eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32583,
+    "title": "Rebel Ice",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "SV_rebelice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32584,
+    "title": "Plague of Memory",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "SV_plagueof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32585,
+    "title": "Omega Games",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SV_omegagam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32586,
+    "title": "Crystal Healer",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "SV_crystalh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32587,
+    "title": "Dream Called Time",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "SV_dreamcal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32590,
+    "title": "Blade Dancer",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "SV_bladedan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32588,
+    "title": "Bio Rescue",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "SV_biorescu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32589,
+    "title": "Afterburn",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SV_afterbur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 986,
+    "title": "Oh Pure and Radiant Heart",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lm_ohpurean.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30226,
+    "title": "Mermaids in Paradise",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lm_mermaids.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30225,
+    "title": "Pills and Starships",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lm_pillsand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30219,
+    "title": "The Fires Beneath the Sea",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lm_thefires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30220,
+    "title": "The Shimmers in the Night",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lm_theshimm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30221,
+    "title": "The Bodies of the Ancients",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lm_thebodie.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

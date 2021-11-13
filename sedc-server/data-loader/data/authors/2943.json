@@ -1,0 +1,38 @@
+[
+  {
+    "id": 28862,
+    "title": "Triquetra",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "km_triquetr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11532,
+    "title": "Perfections",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "km_perfecti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11531,
+    "title": "Madigan Mine",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "km_madiganm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15657,
+    "title": "Caution: Contains Small Parts",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "km_cautionc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

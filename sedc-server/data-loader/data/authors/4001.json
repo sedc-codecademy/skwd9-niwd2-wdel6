@@ -1,0 +1,92 @@
+[
+  {
+    "id": 17411,
+    "title": "The Courtesan Prince",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lw_courtesa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17412,
+    "title": "Righteous Anger",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lw_righteou.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17413,
+    "title": "Pretenders",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lw_pretende.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17414,
+    "title": "Throne Price",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lw_thronepr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17415,
+    "title": "Far Arena",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lw_fararena.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17416,
+    "title": "Avim's Oath",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lw_avimsoat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17417,
+    "title": "Healer's Sword",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lw_healerss.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17418,
+    "title": "Gathering Storm",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lw_gatherin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17419,
+    "title": "Holy War",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lw_holywar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17420,
+    "title": "Unholy Science",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lw_unholysc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

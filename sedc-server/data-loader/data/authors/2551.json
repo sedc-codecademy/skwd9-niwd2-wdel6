@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9823,
+    "title": "The Armageddon Blues",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dkm_thearmag.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32171,
+    "title": "Emerald Eyes",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "DKM_EmeraldE.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32172,
+    "title": "The Long Run",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "DKM_LongRun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32173,
+    "title": "The Last Dancer",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "DKM_LastDanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 13746,
+    "title": "The Taken",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "vp_thetaken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13747,
+    "title": "The Lost",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "vp_thelost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13748,
+    "title": "The Given",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "vp_thegiven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13680,
+    "title": "The Scent of Shadows",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "vp_thescent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13694,
+    "title": "The Taste of Night",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "vp_thetaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13695,
+    "title": "The Touch of Twilight",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "vp_thetouch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13696,
+    "title": "City of Souls",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "vp_cityofso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13697,
+    "title": "Cheat the Grave",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "vp_cheatthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13698,
+    "title": "The Neon Graveyard",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "vp_theneong.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

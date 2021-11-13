@@ -1,0 +1,65 @@
+[
+  {
+    "id": 7635,
+    "title": "Burning Your Boats:  Collected Stories",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "AC_BurningY.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1074,
+    "title": "Nights at the Circus",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ac_nightsat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17865,
+    "title": "The Bloody Chamber",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ac_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3106,
+    "title": "The Passion of New Eve",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ac_thepassi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4355,
+    "title": "The Infernal Desire Machines of Doctor Hoffman",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ac_theinfer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2000,
+    "title": "Heroes and Villains",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ac_heroesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26751,
+    "title": "The Magic Toyshop",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ac_themagictoyshop.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 19825,
+    "title": "Replica",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lo_replica.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14932,
+    "title": "Rooms",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lo_rooms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8068,
+    "title": "Delirium",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lo_delirium.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8067,
+    "title": "Pandemonium",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lo_pandemon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8065,
+    "title": "Requiem",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lo_requiem.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

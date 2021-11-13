@@ -1,0 +1,83 @@
+[
+  {
+    "id": 3799,
+    "title": "Disciple of the Dog",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rsb_disciple.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3798,
+    "title": "Neuropath",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rsb_neuropat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3796,
+    "title": "The Judging Eye",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rsb_thejudgi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3797,
+    "title": "The White Luck Warrior",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rsb_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19286,
+    "title": "The Great Ordeal",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rsb_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23592,
+    "title": "The Unholy Consult",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rsb_theunhol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3793,
+    "title": "The Darkness That Comes Before",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rsb_thedarkn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3794,
+    "title": "The Warrior Prophet",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rsb_thewarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3795,
+    "title": "The Thousandfold Thought",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rsb_thethous.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

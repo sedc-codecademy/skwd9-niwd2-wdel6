@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24398,
+    "title": "The Court of Broken Knives",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ass_thecourt.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 28349,
+    "title": "The Tower of Living and Dying",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ass_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34619,
+    "title": "The House of Sacrifice",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ass_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

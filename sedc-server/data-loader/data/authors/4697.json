@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20900,
+    "title": "Breakaway",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "BW_breakawa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20901,
+    "title": "Deceptions",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "BW_deceptio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20902,
+    "title": "Lifeline",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "BW_lifeline.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

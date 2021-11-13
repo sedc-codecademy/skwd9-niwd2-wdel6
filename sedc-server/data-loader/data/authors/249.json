@@ -1,0 +1,808 @@
+[
+  {
+    "id": 23163,
+    "title": "Redder Than Blood",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tl_redderth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25655,
+    "title": "Tanith By Choice:  The Best of Tanith Lee",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tl_tanithby.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24187,
+    "title": "Dancing Through the Fire: A Collection of Stories in Five Moves",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tl_dancingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12601,
+    "title": "Space Is Just a Starry Night",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tl_spaceisj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22321,
+    "title": "Black Fire",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12216,
+    "title": "Disturbed by Her Song",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tl_disturbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20112,
+    "title": "Clockatrice",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23652,
+    "title": "UOUS",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12387,
+    "title": "Mortal Suns",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tl_mortalsu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23617,
+    "title": "Scarlet and Gold",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27435,
+    "title": "The Sky-Green Blues",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27471,
+    "title": "Jedella Ghost",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12386,
+    "title": "The Gods Are Thirsty",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tl_thegodsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12385,
+    "title": "When the Lights Go Out",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tl_whenthel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12384,
+    "title": "Reigning Cats and Dogs",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tl_reigning.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12383,
+    "title": "Vivia",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tl_vivia.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12377,
+    "title": "Eva Fairdeath",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tl_evafaird.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12378,
+    "title": "Elephantasm",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tl_elephant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24225,
+    "title": "Nightshades: Thirteen Journeys into Shadow",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tl_nightsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12376,
+    "title": "Heart-Beast",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tl_heartbea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12375,
+    "title": "The Blood of Roses",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tl_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22085,
+    "title": "Forests of the Night",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tl_forestso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12374,
+    "title": "A Heroine of the World",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tl_aheroine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24224,
+    "title": "Women as Demons",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tl_womenasd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22086,
+    "title": "Crying in the Rain",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13880,
+    "title": "Dreams of Dark and Light: The Great Short Fiction of Tanith Lee",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tl_dreamsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23920,
+    "title": "Into Gold",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tl_intogold.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12369,
+    "title": "Days of Grass",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tl_daysofgr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12562,
+    "title": "The Gorgon and Other Beastly Tales",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tl_thegorgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26844,
+    "title": "Foreign Skins",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12584,
+    "title": "Tamastara or The Indian Nights",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "tl_tamastar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23856,
+    "title": "Elle Est Trois, (La Mort)",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23450,
+    "title": "Nunc Dimittis",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12583,
+    "title": "Red as Blood, or Tales from the Sisters Grimmer",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tl_redasblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12338,
+    "title": "Sung in Shadow",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tl_sunginsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12582,
+    "title": "Cyrion",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "tl_cyrion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23851,
+    "title": "The Gorgon",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12337,
+    "title": "Lycanthia, or The Children of Wolves",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tl_lycanthi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12336,
+    "title": "Day by Night",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tl_daybynig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12334,
+    "title": "Electric Forest",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tl_electric.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18086,
+    "title": "Red as Blood",
+    "year": 1979,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12309,
+    "title": "Shon the Taken",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tl_shonthet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26667,
+    "title": "The Thaw",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12307,
+    "title": "East of Midnight",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "tl_eastofmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12308,
+    "title": "Volkhavaar",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "tl_volkhava.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12231,
+    "title": "The Dragon Hoard",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "tl_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 254,
+    "title": "The Birthgrave",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "tl_thebirth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1397,
+    "title": "Vazkor, Son of Vazkor",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tl_vazkorso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1124,
+    "title": "Quest for the White Witch",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tl_questfor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3502,
+    "title": "Dark Dance",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tl_darkdanc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7036,
+    "title": "Personal Darkness",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tl_personaldarkness.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7037,
+    "title": "Darkness,I",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tl_darknessi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7043,
+    "title": "The Castle of Dark",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tl_castleofdark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7044,
+    "title": "Prince on a White Horse",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "tl_princeon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7100,
+    "title": "Law of the Wolf Tower",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tl_lawofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7101,
+    "title": "Wolf Star Rise",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tl_wolfstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7159,
+    "title": "Queen of the Wolves",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tl_queenofw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7160,
+    "title": "Wolf Wing",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tl_wolfwing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8870,
+    "title": "Biting the Sun",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "TL_BitingThe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8868,
+    "title": "Don't Bite the Sun",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "TL_DontBite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8869,
+    "title": "Drinking Sapphire Wine",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "TL_Drinking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20111,
+    "title": "Cold Grey Stones",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tl_coldgrey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12170,
+    "title": "Cast a Bright Shadow",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tl_castabri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12171,
+    "title": "Here in Cold Hell",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tl_hereinco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12172,
+    "title": "No Flame But Mine",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tl_noflameb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12335,
+    "title": "Sabella or The Blood Stone",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tl_sabellao.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1129,
+    "title": "Kill the Dead",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tl_killthed.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12558,
+    "title": "The Book of the Damned",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tl_tbotdamn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12559,
+    "title": "The Book of the Beast",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tl_tbotbeas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12560,
+    "title": "The Book of the Dead",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tl_tbotdead.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12561,
+    "title": "The Book of the Mad",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tl_tboftmad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12365,
+    "title": "Faces Under Water",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tl_facesund.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12366,
+    "title": "Saint Fire",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tl_saintfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12367,
+    "title": "A Bed of Earth",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tl_abedofea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12368,
+    "title": "Venus Preserved",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tl_venuspre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4547,
+    "title": "Tempting the Gods",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tl_tempting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12173,
+    "title": "Hunting the Shadows",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tl_huntingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2840,
+    "title": "The Silver Metal Lover",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tl_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5699,
+    "title": "Metallic Love",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tl_matallic.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 961,
+    "title": "Night's Master",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tl_nightsma.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1125,
+    "title": "Death's Master",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tl_deathsma.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1536,
+    "title": "Delusion's Master",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tl_delusion.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1537,
+    "title": "Delirium's Mistress",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tl_delirium.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1538,
+    "title": "Night's Sorceries",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tl_nightsso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5868,
+    "title": "White as Snow",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tl_whiteass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12185,
+    "title": "Black Unicorn",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tl_blackuni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12186,
+    "title": "Gold Unicorn",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tl_goldunic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12187,
+    "title": "Red Unicorn",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tl_redunico.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11941,
+    "title": "The Storm Lord",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "tl_stormlor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12164,
+    "title": "Anackire",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tl_anackire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12165,
+    "title": "The White Serpent",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tl_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

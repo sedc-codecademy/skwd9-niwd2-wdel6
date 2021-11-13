@@ -1,0 +1,96 @@
+[
+  {
+    "id": 23896,
+    "title": "Webs",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sb_webs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23669,
+    "title": "Nesting Instinct",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27812,
+    "title": "Sea Change",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23668,
+    "title": "The Lurking Duck",
+    "year": 1983,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23878,
+    "title": "Still Life with Scorpion",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23895,
+    "title": "Dhampire",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sb_dhampire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23925,
+    "title": "Varicose Worms",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23894,
+    "title": "Nightchild",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "sb_nightchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23893,
+    "title": "Symbiote's Crown",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "sb_symbiont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23898,
+    "title": "Firedance",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sb_firedanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23897,
+    "title": "Drink the Fire From the Flame",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sb_drinkthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

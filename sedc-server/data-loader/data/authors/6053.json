@@ -1,0 +1,37 @@
+[
+  {
+    "id": 32026,
+    "title": "Another Life",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32024,
+    "title": "Foragers",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "co_foragers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32025,
+    "title": "Testing",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "co_testing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32023,
+    "title": "Sheltered Lives",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "co_sheltered.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

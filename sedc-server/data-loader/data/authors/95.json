@@ -1,0 +1,329 @@
+[
+  {
+    "id": 5343,
+    "title": "Slow Apocalypse",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_slowapoc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10893,
+    "title": "Good-Bye, Robinson Crusoe and Other Stories",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jv_goodbeyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7808,
+    "title": "Mammoth",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jv_mammoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18113,
+    "title": "The John Varley Reader",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jv_thejohnv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32493,
+    "title": "In Fading Suns and Dying Moons",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22399,
+    "title": "Just Another Perfect Day",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6248,
+    "title": "Blue Champagne (collection)",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jv_bluecham.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16073,
+    "title": "Press Enter []",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jv_pressent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 367,
+    "title": "Millennium",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jv_millenni.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 18039,
+    "title": "The Pusher",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6246,
+    "title": "The Barbie Murders (collection)",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jv_thebarbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2108,
+    "title": "The Persistence of Vision (collection)",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jv_thepersi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19625,
+    "title": "The Persistence of Vision",
+    "year": 1978,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18110,
+    "title": "Air Raid",
+    "year": 1977,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20825,
+    "title": "In the Hall of the Martian Kings",
+    "year": 1977,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27323,
+    "title": "The Bellman",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20816,
+    "title": "Blue Champagne",
+    "year": 1981,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21081,
+    "title": "The Barbie Murders",
+    "year": 1978,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18830,
+    "title": "Beatnik Bayou",
+    "year": 1980,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18937,
+    "title": "Options",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21175,
+    "title": "Gotta Sing, Gotta Dance",
+    "year": 1976,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21176,
+    "title": "The Phantom of Kansas",
+    "year": 1976,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18949,
+    "title": "In the Bowl",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18997,
+    "title": "Retrograde Summer",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 801,
+    "title": "The Ophiuchi Hotline",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jv_theophiu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 99,
+    "title": "Steel Beach",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jv_steelbea.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 705,
+    "title": "The Golden Globe",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jv_thegolde.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 28941,
+    "title": "Irontown Blues",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jv_irontown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 239,
+    "title": "Titan",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jv_titan.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 362,
+    "title": "Wizard",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jv_wizard.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 774,
+    "title": "Demon",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jv_demon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 388,
+    "title": "Red Thunder",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jv_redthund.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4496,
+    "title": "Red Lightning",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jv_redlight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4497,
+    "title": "Rolling Thunder",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jv_rollingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9336,
+    "title": "Dark Lightning",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jv_darkligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11086,
+    "title": "Tor Double #4: Tango Charley and Foxtrot Remeo / The Star Pit",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JV_tordble4a.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11052,
+    "title": "Tor Double #26: Press Enter / Hawksbill Station",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JV_tordob26.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11014,
+    "title": "Tor Double #29: Nanowire Time / The Persistence of Vision",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "IW_tordou29.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

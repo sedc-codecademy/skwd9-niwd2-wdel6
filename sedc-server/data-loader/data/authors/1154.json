@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2292,
+    "title": "The Horns of Ruin",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ta_thehorns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1836,
+    "title": "Heart of Veridon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ta_heartofv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4544,
+    "title": "Dead of Veridon",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ta_deadofve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35703,
+    "title": "The Pagan Night",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "TA_PaganNig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35704,
+    "title": "The Iron Hound",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "TA_IronHoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35705,
+    "title": "The Winter Vow",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "TA_WinterVo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

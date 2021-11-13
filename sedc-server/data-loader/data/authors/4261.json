@@ -1,0 +1,27 @@
+[
+  {
+    "id": 27010,
+    "title": "Murder on the Aldrin Express",
+    "year": 2013,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34043,
+    "title": "Today I Am Carey",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mls_todayiam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17664,
+    "title": "Today I Am Paul",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

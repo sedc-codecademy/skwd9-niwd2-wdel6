@@ -1,0 +1,454 @@
+[
+  {
+    "id": 36351,
+    "title": "War of the Maps",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "pma_warofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24814,
+    "title": "Austral",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pm_austral.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26654,
+    "title": "Elves of Antarctica",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26246,
+    "title": "The Fixer",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19430,
+    "title": "Something Happened Here, But We're Not Quite Sure What It Was",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pjm_somethin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27879,
+    "title": "Planet of Fear",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28729,
+    "title": "Wild Honey",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23260,
+    "title": "Transitional Forms",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24217,
+    "title": "A Very British History",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pjm_averybri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31817,
+    "title": "Antarctica Starts Here",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2291,
+    "title": "Cowboy Angels",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pjma_cowboyan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28560,
+    "title": "The Thought War",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15200,
+    "title": "Little Machines",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pjm_littlema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 863,
+    "title": "Mind's Eye",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pma_mindseye.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32305,
+    "title": "Rats of the System",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 657,
+    "title": "White Devils",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pjma_whitedev.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 587,
+    "title": "The Secret of Life",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pma_thesecre.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 26899,
+    "title": "The Two Dicks",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25658,
+    "title": "Whole Wide World",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pjm_wholewid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27421,
+    "title": "How We Lost the Moon, a True Story by Frank W. Allen",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24037,
+    "title": "Naming the Dead",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 490,
+    "title": "The Invisible Country",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pjma_theinvis.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 420,
+    "title": "Fairyland",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "PJM_Fairylan.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 612,
+    "title": "Pasquale's Angel",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pjma_pasquale.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 10417,
+    "title": "Red Dust",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pma_reddust.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22435,
+    "title": "Gene Wars",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26862,
+    "title": "The Temporary King",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26245,
+    "title": "Recording Angel",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13941,
+    "title": "Child of the River",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "PM_childoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13942,
+    "title": "Ancients of Days",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "PM_ancients.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13943,
+    "title": "Shrine of Stars",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "PM_shrineof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 538,
+    "title": "Four Hundred Billion Stars",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pjma_fourhund.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17748,
+    "title": "Of the Fall",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "pjm_ofthefal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 623,
+    "title": "Eternal Light",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pjma_eternall.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 27254,
+    "title": "The Man",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19801,
+    "title": "The Choice",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26244,
+    "title": "Crimes and Glory",
+    "year": 2009,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26915,
+    "title": "City of the Dead",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10959,
+    "title": "Something Coming Through",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pm_somethin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17936,
+    "title": "Into Everywhere",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pm_intoever.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26797,
+    "title": "Macy Minnot's Last Christmas on Dione, Ring Racing, Fiddler's Green, the Potter's Garden",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26914,
+    "title": "Incomers",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26243,
+    "title": "Dead Men Walking",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27361,
+    "title": "The Passenger",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19431,
+    "title": "Making History",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pjm_makinghi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20087,
+    "title": "Reef",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27480,
+    "title": "Sea Change, with Monsters",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27168,
+    "title": "Second Skin",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1225,
+    "title": "The Quiet War",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pjma_thequiet.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1705,
+    "title": "Gardens of the Sun",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pjma_gardenso.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5301,
+    "title": "In the Mouth of the Whale",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pma_inthemou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5300,
+    "title": "Evening's Empires",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pma_evenings.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 9141,
+    "title": "The Eye of the Tyger",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pm_theeyeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

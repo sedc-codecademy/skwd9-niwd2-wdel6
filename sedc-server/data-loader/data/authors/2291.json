@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8753,
+    "title": "The King in Yellow",
+    "year": 1895,
+    "type": "novel",
+    "imageName": "rwc_thekingi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13320,
+    "title": "The Yellow Sign and Other Stories:  The Complete Weird Tales of Robert W. Chambers",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "RC_yellowsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11525,
+    "title": "In Search of the Unknown",
+    "year": 1904,
+    "type": "novel",
+    "imageName": "RC_insearch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

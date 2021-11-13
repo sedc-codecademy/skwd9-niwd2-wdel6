@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12019,
+    "title": "A Tale of the Wind ",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kns_taleofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12018,
+    "title": "Elegy for a Soprano",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "kns_elegyfor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12017,
+    "title": "The Watcher",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "kns_watcher.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

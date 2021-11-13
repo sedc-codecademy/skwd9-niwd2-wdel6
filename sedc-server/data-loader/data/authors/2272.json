@@ -1,0 +1,74 @@
+[
+  {
+    "id": 30213,
+    "title": "Bound in Time",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "dfj_boundint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30191,
+    "title": "Earth Has Been Found",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "dfj_earhthas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30211,
+    "title": "The Floating Zombie",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "dfj_thefloat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30207,
+    "title": "Denver Is Missing",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "dfj_denveris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8543,
+    "title": "Implosion",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "dfj_implosio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8540,
+    "title": "Colossus",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "dfj_colossus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8541,
+    "title": "The Fall of Colossus",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "dfj_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8542,
+    "title": "Colossus and the Crab",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "dfj_candthec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

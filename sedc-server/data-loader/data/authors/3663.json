@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15033,
+    "title": "The Shadow Within",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jc_shadowwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15046,
+    "title": "Casting Shadows",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jc_castings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15048,
+    "title": "Summoning Light",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jc_summonin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15049,
+    "title": "Invoking Darkness",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jc_invoking.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

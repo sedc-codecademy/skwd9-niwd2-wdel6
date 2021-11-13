@@ -1,0 +1,83 @@
+[
+  {
+    "id": 35017,
+    "title": "The Pursuit of William Abbey",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cn_pursuito.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27901,
+    "title": "84K",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cn_84k.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22380,
+    "title": "The End of the Day",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cn_endofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17474,
+    "title": "The Sudden Appearance of Hope",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cn_suddenap.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11050,
+    "title": "Touch",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cn_touch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7361,
+    "title": "The First Fifteen Lives of Harry August ",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cn_firstfif.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 16366,
+    "title": "The Serpent",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cn_serpent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16367,
+    "title": "The Thief",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cn_thief.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16368,
+    "title": "The Master",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cn_master.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

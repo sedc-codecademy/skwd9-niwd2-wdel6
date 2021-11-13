@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5726,
+    "title": "Crandolin",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "at_crandoli.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24185,
+    "title": "The Finest Ass in the Universe",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "at_thefines.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16853,
+    "title": "The Walking-Stick Forest",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "at_thewalki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34446,
+    "title": "Spotted Lily",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "at_spottedl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

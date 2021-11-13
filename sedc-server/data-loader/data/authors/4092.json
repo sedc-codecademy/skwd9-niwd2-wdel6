@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17053,
+    "title": "Visions From Nowhere",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "WA_visionsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17055,
+    "title": "Escape from Terror Lagoon",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "WA_escapefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17054,
+    "title": "Man, the Hunted Animal",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "WA_manthehu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

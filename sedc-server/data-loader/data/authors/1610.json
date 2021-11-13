@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3600,
+    "title": "Cursed",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jcs_cursed.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28041,
+    "title": "The Atrocities",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jcs_theatroc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31394,
+    "title": "Bedfellow",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jcs_bedfello.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

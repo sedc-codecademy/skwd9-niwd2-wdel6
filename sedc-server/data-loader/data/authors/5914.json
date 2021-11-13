@@ -1,0 +1,29 @@
+[
+  {
+    "id": 28971,
+    "title": "The Iron Ship",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kmmk_theirons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28972,
+    "title": "The City of Ice",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kmmk_thecityo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28973,
+    "title": "The Brass God",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kmmk_thebrass.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

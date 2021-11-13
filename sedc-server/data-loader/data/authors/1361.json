@@ -1,0 +1,748 @@
+[
+  {
+    "id": 20282,
+    "title": "Haze and The Hammer of Darkness",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lem_hazeandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14171,
+    "title": "Solar Express",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lem_solarexp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6312,
+    "title": "The One-Eyed Man:  A Fugue, With Winds and Accompaniment",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lemj_theoneey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6311,
+    "title": "Empress of Eternity",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lemj_empresso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6309,
+    "title": "Haze",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lemj_haze.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6313,
+    "title": "Viewpoints Critical",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lemj_viewpoin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6308,
+    "title": "The Elysium Commission",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lemj_theelysi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6307,
+    "title": "The Eternity Artifact",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lemj_theetern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6306,
+    "title": "The Octagonal Raven",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lemj_theoctag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6305,
+    "title": "Gravity Dreams",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lemj_gravityd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6304,
+    "title": "Adiamante ",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lemj_adiamant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7873,
+    "title": "The Green Progression",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lembsl_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6314,
+    "title": "The Hammer of Darkness",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lemj_thehamme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6300,
+    "title": "Archform: Beauty",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lemj_archform.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6301,
+    "title": "Flash",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lemj_flash.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2715,
+    "title": "Legacies",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lemj_legacies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2716,
+    "title": "Darknesses",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lemj_darkness.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2717,
+    "title": "Scepters",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lemj_scepters.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2718,
+    "title": "Alector's Choice",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lemj_alectors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2719,
+    "title": "Cadmian's Choice",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lemj_cadmians.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2720,
+    "title": "Soarer's Choice",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lemj_soarersc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2721,
+    "title": "The Lord-Protector's Daughter",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lemj_thelordp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2722,
+    "title": "Lady-Protector",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lemj_ladyprot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7206,
+    "title": "Ecolitan Prime",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lem_ecoprime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7205,
+    "title": "Empire & Ecolitan",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lem_empirean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7201,
+    "title": "The Ecolitan Operation",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lem_eoperati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7202,
+    "title": "The Ecologic Secession",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lem_esecessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7203,
+    "title": "The Ecologic Envoy",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lem_eenvoy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7204,
+    "title": "The Ecolitan Enigma",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "lem_eenigma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6880,
+    "title": "The Forever Hero",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lem_theforev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6877,
+    "title": "Dawn for a Distant Earth",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lem_dawnfora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6878,
+    "title": "The Silent Warrior",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lem_thesilentw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6879,
+    "title": "In Endless Twilight",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "lem_inendles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6858,
+    "title": "Ghosts of Columbia",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lem_ghostsofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6855,
+    "title": "Of Tangible Ghosts",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lem_oftangib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6856,
+    "title": "The Ghost of the Revelator",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lem_theghost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6857,
+    "title": "Ghost of the White Nights",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lem_ghostoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2764,
+    "title": "Imager",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lemj_imager.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2765,
+    "title": "Imager's Challenge",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lemj_imagersc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2766,
+    "title": "Imager's Intrigue",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lemj_imagersi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4396,
+    "title": "Scholar",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lemj_scholar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6295,
+    "title": "Princeps ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lemj_princeps.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6296,
+    "title": "Imager's Battalion",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lemj_imgbatta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6297,
+    "title": "Antiagon Fire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lemj_antiagon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6298,
+    "title": "Rex Regis",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lemj_rexregis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10779,
+    "title": "Madness in Solidar",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lem_madnessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19478,
+    "title": "Treachery's Tools",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lem_treacher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22574,
+    "title": "Assassin's Price",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lem_assassin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31733,
+    "title": "Endgames",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lem_endgames.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16656,
+    "title": "New World Blues",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lem_newworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6302,
+    "title": "The Parafaith War",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lemj_theparaf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6303,
+    "title": "The Ethos Effect",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lemj_theethos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20579,
+    "title": "Recluce Tales: Stories from the World of Recluce",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lem_reclucet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20578,
+    "title": "The Forest Girl",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2699,
+    "title": "The Magic of Recluce",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lemj_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2700,
+    "title": "The Towers of Sunset",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lemj_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2701,
+    "title": "The Magic Engineer",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lemj_magiceng.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2702,
+    "title": "The Order War",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lemj_theorder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2703,
+    "title": "The Death of Chaos",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lemj_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2704,
+    "title": "Fall of Angels",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lemj_fallofan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2705,
+    "title": "The Chaos Balance",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "lemj_thechaos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2706,
+    "title": "The White Order",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lemj_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2707,
+    "title": "Colors of Chaos",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lemj_colorsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2708,
+    "title": "Magi'i of Cyador",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lemj_magiiofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2709,
+    "title": "Scion of Cyador",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lemj_scionofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2710,
+    "title": "Wellspring of Chaos",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lemj_wellspri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2711,
+    "title": "Ordermaster",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lemj_ordermas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2712,
+    "title": "Natural Ordermage",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lemj_naturalo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2713,
+    "title": "Mage-Guard of Hamor",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lemj_mageguar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2714,
+    "title": "Arms-Commander",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lemj_armscomm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6299,
+    "title": "Cyador's Heirs",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lemj_cyadorsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9614,
+    "title": "Heritage of Cyador",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lem_heritage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24721,
+    "title": "The Mongrel Mage",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lem_themongr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28345,
+    "title": "Outcasts of Order",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "lem_outcasts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34322,
+    "title": "The Mage-Fire War",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lem_magefire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2767,
+    "title": "The Soprano Sorceress",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "lemj_thesopra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2768,
+    "title": "The Spellsong War",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lemj_thespell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2769,
+    "title": "Darksong Rising",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lemj_darksong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2770,
+    "title": "The Shadow Sorceress",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lemj_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2771,
+    "title": "Shadowsinger",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lemj_shadowsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6933,
+    "title": "Timegods' World",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lem_timegods.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6931,
+    "title": "The Fires of Paratime",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lem_thefires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6932,
+    "title": "Timediver's Dawn",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lem_timedive.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

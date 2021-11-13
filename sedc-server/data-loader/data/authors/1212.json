@@ -1,0 +1,452 @@
+[
+  {
+    "id": 26979,
+    "title": "Blood of the Four",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cgtl_bloodoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30265,
+    "title": "Hark! The Herald Angels Scream",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cg_harktheh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23390,
+    "title": "Dark Cities",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cg_darkciti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25722,
+    "title": "Indigo:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CG_indigo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28919,
+    "title": "Seize the Night: New Tales of Vampiric Terror",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cg_seizethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12970,
+    "title": "Tin Men",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cg_tinmen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9566,
+    "title": "Dark Duets: All-New Tales of Horror and Dark Fantasy",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cg_darkduet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9565,
+    "title": "Snowblind",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cg_snowblin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28893,
+    "title": "Tell My Sorrows to the Stones",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cg_tellmyso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28923,
+    "title": "21st Century Dead: A Zombie Anthology",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cg_21stcent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28921,
+    "title": "Joe Golem and the Drowning City",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mmcg_joegolem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4146,
+    "title": "The Monster's Corner:  Stories Through Inhuman Eyes",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cg_themonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28913,
+    "title": "The Secret Backs of Things",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cg_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28891,
+    "title": "The Hiss of Escaping Air",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cg_thehisso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28907,
+    "title": "Poison Ink",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cg_poisonin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4559,
+    "title": "Baltimore:  or, The Steadfast Tin Soldier and the Vampire",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mmcg_baltimor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28905,
+    "title": "The Seven Whistlers",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "abcg_theseven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28911,
+    "title": "The Shell Collector",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cg_theshell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28903,
+    "title": "Wildwood Road",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cg_wildwood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25555,
+    "title": "The Boys Are Back in Town",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "CG_boysback.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28901,
+    "title": "The Ferryman",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cg_theferry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28899,
+    "title": "Force Majeure",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cgtes_forcemaj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28897,
+    "title": "Straight On 'til Morning",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cg_straight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28895,
+    "title": "Strangewood",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cg_strangew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24425,
+    "title": "Alien: River of Pain",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "CG_alienriv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13070,
+    "title": "Armageddon",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rhcg_armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13073,
+    "title": "Warhawk",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rhcg_warhawk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22450,
+    "title": "Ararat",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cg_ararat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34495,
+    "title": "The Pandora Room",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cg_thepando.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16404,
+    "title": "The Lost Army",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "CG_TheLostA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16399,
+    "title": "The Bones of Giants",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "CG_TheBones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16401,
+    "title": "The Dragon Pool",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "CG_TheDrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16413,
+    "title": "Hellboy: Odd Jobs",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cg_oddjobs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16414,
+    "title": "Hellboy: Odder Jobs",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cg_odderjob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16415,
+    "title": "Hellboy: Oddest Jobs",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cg_oddestjo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14423,
+    "title": "Mind the Gap",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cgtl_mindtheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1917,
+    "title": "The Map of Moments",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cgtl_themapof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14424,
+    "title": "The Chamber of Ten",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cgtl_thechamb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14425,
+    "title": "The Shadow Men",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cgtl_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30263,
+    "title": "The Predator",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cgmm_thepreda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14430,
+    "title": "Of Saints and Shadows",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "CG_ofsaints.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14431,
+    "title": "Angel Souls and Devil Hearts",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "CG_angelsou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14432,
+    "title": "Of Masques and Martyrs",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "CG_ofmasque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14433,
+    "title": "The Gathering Dark",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "CG_thegathe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14434,
+    "title": "Waking Nightmares",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "CG_wakingni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14435,
+    "title": "The Graves of Saints",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "CG_thegrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14436,
+    "title": "King of Hell",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "CG_kingofhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14426,
+    "title": "The Myth Hunters",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cg_themythh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14427,
+    "title": "The Borderkind",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cg_theborde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14428,
+    "title": "The Lost Ones",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cg_thelosto.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

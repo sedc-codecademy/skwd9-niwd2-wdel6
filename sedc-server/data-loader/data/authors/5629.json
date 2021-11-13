@@ -1,0 +1,43 @@
+[
+  {
+    "id": 32425,
+    "title": "The Lesson",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ct_thelesso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28976,
+    "title": "Jump",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28832,
+    "title": "Loneliness Is in Your Blood",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31688,
+    "title": "Other Worlds and This One",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26787,
+    "title": "A Third of the Stars of Heaven",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

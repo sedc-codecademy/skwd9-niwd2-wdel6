@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10238,
+    "title": "Villa Incognito",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tr_villainc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10236,
+    "title": "Fierce Invalids Home from Hot Climates",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tr_fiercein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10237,
+    "title": "Half Asleep in Frog Pajamas",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tr_halfasle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10235,
+    "title": "Skinny Legs and All",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tr_skinnyle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10234,
+    "title": "Jitterbug Perfume",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "tr_jitterbu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10232,
+    "title": "Still Life With Woodpecker",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tr_stilllif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10231,
+    "title": "Even Cowgirls Get the Blues",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "tr_evencowg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10230,
+    "title": "Another Roadside Attraction",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "tr_anotherr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

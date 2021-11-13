@@ -1,0 +1,47 @@
+[
+  {
+    "id": 25611,
+    "title": "Tiger by the Tail and Other Science Fiction Stories",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "aen_tigerbyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25610,
+    "title": "Brightside Crossing",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "aen_brightsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21257,
+    "title": "The Last Planet / A Man Obsessed",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ad_thelastp_amanobse.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21087,
+    "title": "Echo in the Skull / Rocket to Limbo",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_echointh_rocketto.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8538,
+    "title": "Trouble on Titan",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "aen_troubleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

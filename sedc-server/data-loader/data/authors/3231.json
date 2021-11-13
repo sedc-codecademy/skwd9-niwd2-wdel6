@@ -1,0 +1,65 @@
+[
+  {
+    "id": 34141,
+    "title": "This is Midnight:  Stories",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "bt_thisismi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33965,
+    "title": "Evil Intent",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bt_evilinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33966,
+    "title": "Charmed Life",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bt_charmedl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22228,
+    "title": "The Moorstone Sickness",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "BT_moorston.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12418,
+    "title": "Sweetheart, Sweetheart",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bt_sweethar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22227,
+    "title": "The Godsend",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "BT_godsend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34084,
+    "title": "The Reaping",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bt_reaping.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

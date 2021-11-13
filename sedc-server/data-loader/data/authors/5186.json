@@ -1,0 +1,46 @@
+[
+  {
+    "id": 23202,
+    "title": "When Stars Are Scattered",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "se_whenstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23326,
+    "title": "The Child Support of Cromdor the Condemned",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25843,
+    "title": "A Red Peace",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "se_redpeace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25844,
+    "title": "Shadow Sun Seven",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "se_shadowsu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25845,
+    "title": "Memory's Blade",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "se_memorysb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

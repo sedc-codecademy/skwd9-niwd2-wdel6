@@ -1,0 +1,108 @@
+[
+  {
+    "id": 25383,
+    "title": "Machine Learning:  New and Collected Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "hh_machinel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23245,
+    "title": "Beacon 23",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16403,
+    "title": "Beacon 23:  The Novel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "HH_beacon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12729,
+    "title": "Sand",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "HH_sandomni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22623,
+    "title": "Deep Blood Kettle",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25736,
+    "title": "The Walk Up Nameless Ridge",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "hh_thewalku.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7689,
+    "title": "The End Is Nigh",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jjahh_theendis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10037,
+    "title": "The End Is Now",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jjahh_endisnow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12126,
+    "title": "The End Has Come",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jjahh_endhasco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6049,
+    "title": "Wool",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "hh_wool.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6050,
+    "title": "Shift",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "hh_shift.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6051,
+    "title": "Dust",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "hh_dust.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

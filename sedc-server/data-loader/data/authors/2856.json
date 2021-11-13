@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11224,
+    "title": "Above World",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jr_abovewor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11225,
+    "title": "Mirage",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jr_mirage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11226,
+    "title": "Horizon",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jr_horizon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

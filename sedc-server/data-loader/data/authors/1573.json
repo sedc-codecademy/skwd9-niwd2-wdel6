@@ -1,0 +1,164 @@
+[
+  {
+    "id": 14538,
+    "title": "Amara",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "RL_amara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3568,
+    "title": "The Traveling Vampire Show",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rl_travelin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25507,
+    "title": "After Midnight",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rl_aftermid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25514,
+    "title": "In the Dark",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rl_inthedar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25512,
+    "title": "A Good, Secret Place",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rl_agoodsec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25511,
+    "title": "Savage",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rl_savage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25509,
+    "title": "The Stake",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rl_thestake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3526,
+    "title": "Funland",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rl_funland.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3520,
+    "title": "Flesh",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "rl_flesh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25510,
+    "title": "Allhallows Eve",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "rl_allhallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25513,
+    "title": "Beware",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rl_beware.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17747,
+    "title": "Night Show",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rl_nightsho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25508,
+    "title": "Out Are the Lights",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rl_outareth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25506,
+    "title": "The Woods Are Dark",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rl_thewoods.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12414,
+    "title": "Friday Night in Beast House",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "rl_fridayni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12411,
+    "title": "The Cellar",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rl_thecella.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12412,
+    "title": "The Beast House",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "rl_thebeast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12413,
+    "title": "The Midnight Tour",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rl_themidni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34299,
+    "title": "Tower of Evil",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jk_towerofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34302,
+    "title": "Earthblood",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jk_earthblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34300,
+    "title": "Poison Pen",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jk_poisonpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34301,
+    "title": "Strands",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jk_strands.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 22132,
+    "title": "Night Things",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "MT_nightthi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22133,
+    "title": "The Bog",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "MT_thebog.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22131,
+    "title": "The Delicate Dependency:  A Novel of the Vampire Life",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "MT_delicate.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

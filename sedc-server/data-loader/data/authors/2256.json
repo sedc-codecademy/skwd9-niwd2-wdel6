@@ -1,0 +1,73 @@
+[
+  {
+    "id": 29060,
+    "title": "Grave Goods",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14197,
+    "title": "Experimental Film",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gf_experime.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8344,
+    "title": "We Will All Go Down Together ",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gf_wewillal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8346,
+    "title": "The Worm in Every Heart",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gf_thewormi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8345,
+    "title": "Kissing Carrion",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gf_kissingc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8341,
+    "title": "A Book of Tongues",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gf_abookoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8342,
+    "title": "A Rope of Thorns",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gf_aropeoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8343,
+    "title": "A Tree of Bones",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gf_atreeofb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

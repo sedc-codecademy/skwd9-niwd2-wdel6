@@ -1,0 +1,138 @@
+[
+  {
+    "id": 28375,
+    "title": "What Is Eve?",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30176,
+    "title": "Soulmates.com",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17589,
+    "title": "Burning Midnight",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "wm_burningm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19750,
+    "title": "Faller",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "wm_faller.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23254,
+    "title": "The Savannah Liars Tour",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7111,
+    "title": "Defenders",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "wm_defender.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22711,
+    "title": "Dry Bite",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20095,
+    "title": "Over There",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34245,
+    "title": "Hitchers",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "WM_Hitchers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5503,
+    "title": "The Perimeter",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "wmi_theperim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22400,
+    "title": "Defenders",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4102,
+    "title": "Soft Apocalypse",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "wmi_softapoc.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 28894,
+    "title": "The Fantasy Jumper",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30212,
+    "title": "Perfect Violet",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5504,
+    "title": "Love Minus Eighty",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "wmi_loveminu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17671,
+    "title": "Bridesicle",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "wm_bridesic.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

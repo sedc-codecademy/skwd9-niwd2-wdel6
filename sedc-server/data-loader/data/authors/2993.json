@@ -1,0 +1,92 @@
+[
+  {
+    "id": 11722,
+    "title": "Matilda",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rd_matilda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11721,
+    "title": "The Witches",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "rd_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11720,
+    "title": "The BFG",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rd_thebfg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11727,
+    "title": "George's Marvelous Medicine",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rd_georgesm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11728,
+    "title": "The Twits",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rd_thetwits.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17112,
+    "title": "Switch Bitch",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "RD_SwitchBi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11724,
+    "title": "Fantastic Mr. Fox",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "rd_fantasti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11723,
+    "title": "James and the Giant Peach",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "rd_jamesand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11725,
+    "title": "Charlie and the Chocolate Factory",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "rd_chocolat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11726,
+    "title": "Charlie and the Great Glass Elevator",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rd_greatgla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

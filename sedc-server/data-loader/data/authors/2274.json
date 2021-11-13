@@ -1,0 +1,38 @@
+[
+  {
+    "id": 25771,
+    "title": "The Doomsday Gene",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jb_thedooms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21472,
+    "title": "The Organ Bank Farm",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "JB_TheOrgan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8557,
+    "title": "The Pollinators of Eden",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_thepolli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8556,
+    "title": "The Last Starship from Earth",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_thelasts.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

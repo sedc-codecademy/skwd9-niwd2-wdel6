@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19880,
+    "title": "The Killing Jar",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jb_thekilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17285,
+    "title": "Prophet",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jb_prophet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19879,
+    "title": "Struck",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jb_struck.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

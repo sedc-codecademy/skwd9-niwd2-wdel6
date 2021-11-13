@@ -1,0 +1,249 @@
+[
+  {
+    "id": 35189,
+    "title": "Angel Mage",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GN_AngelMag.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23185,
+    "title": "Frogkisser!",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gn_frogkiss.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25381,
+    "title": "Have Sword, Will Travel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gnsw_haveswor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13053,
+    "title": "To Hold the Bridge",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gn_toholdth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27137,
+    "title": "Shay Corsham Worsted",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16912,
+    "title": "Fire Above, Fire Below",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gn_fireabov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11452,
+    "title": "Newt's Emerald",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gn_newtseme.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10642,
+    "title": "A Confusion of Princes",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "GN_confusio.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28916,
+    "title": "Infestation",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26918,
+    "title": "Old Friends",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2112,
+    "title": "Across the Wall:  A Tale of the Abhorsen and Other Stories",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gn_acrossth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3295,
+    "title": "Shade's Children",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gn_shadesch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13054,
+    "title": "The Ragwitch",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gn_theragwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2598,
+    "title": "Mister Monday",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gn_mistermo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2599,
+    "title": "Grim Tuesday",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gn_grimtues.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2600,
+    "title": "Drowned Wednesday",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gn_drownedw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2601,
+    "title": "Sir Thursday",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gn_sirthurs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2602,
+    "title": "Lady Friday",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gn_ladyfrid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2603,
+    "title": "Superior Saturday",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gn_superior.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2604,
+    "title": "Lord Sunday",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gn_lordsund.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1827,
+    "title": "Sabriel",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gn_sabriel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2110,
+    "title": "Lirael",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gn_lirael.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2111,
+    "title": "Abhorsen",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gn_abhorsen.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4255,
+    "title": "The Creature in the Case",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gn_thecreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20015,
+    "title": "Goldenhand",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gn_goldenha.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9562,
+    "title": "Clariel",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gn_clariel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28558,
+    "title": "Beyond the Sea Gate of the Scholar-Pirates of Sarsköe",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26304,
+    "title": "Sir Hereward and Mister Fitz Go to War Again",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 23059,
+    "title": "Nexus Uprising",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jmhkca_meandrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24414,
+    "title": "Necrotech",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kca_necrotec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24837,
+    "title": "Nanoshock",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kca_nanoshoc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

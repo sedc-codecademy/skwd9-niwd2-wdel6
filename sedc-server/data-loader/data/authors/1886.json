@@ -1,0 +1,74 @@
+[
+  {
+    "id": 27314,
+    "title": "The Boggart",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sc_thebogga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27315,
+    "title": "The Boggart and the Monster",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sc_thebogmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27316,
+    "title": "The Boggart Fights Back",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sc_thebogfig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5068,
+    "title": "Over Sea, Under Stone",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "sc_overseau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5069,
+    "title": "The Dark is Rising",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "sc_thedarki.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5070,
+    "title": "Greenwitch",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "sc_greenwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5071,
+    "title": "The Grey King",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "sc_thegreyk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5072,
+    "title": "Silver on the Tree",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "sc_silveron.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

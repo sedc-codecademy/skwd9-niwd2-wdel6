@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2443,
+    "title": "Night of Knives",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ice_nightofk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2444,
+    "title": "Return of the Crimson Guard",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "icw_returnof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2445,
+    "title": "Stonewielder",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ice_stonewie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3788,
+    "title": "Orb, Sceptre, Throne",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ice_orbscept.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4531,
+    "title": "Blood and Bone",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ice_bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7729,
+    "title": "Assail",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ice_assail.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16443,
+    "title": "Dancer's Lament",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ice_dancersl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25370,
+    "title": "Deadhouse Landing",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ice_deadhous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31724,
+    "title": "Kellanved's Reach",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ice_kellanve.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

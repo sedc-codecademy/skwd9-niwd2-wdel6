@@ -1,0 +1,56 @@
+[
+  {
+    "id": 28129,
+    "title": "Blood Ravens",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "csg_bloodrav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28126,
+    "title": "Dawn of War",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "csg_dawnofwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28127,
+    "title": "Ascension",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "csg_ascensio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28128,
+    "title": "Tempest",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "csg_tempest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26487,
+    "title": "Warrior Brood",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "csg_warriorb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26488,
+    "title": "Warrior Coven",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "csg_warriorc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

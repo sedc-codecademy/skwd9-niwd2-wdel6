@@ -1,0 +1,271 @@
+[
+  {
+    "id": 2032,
+    "title": "A Princess of Mars",
+    "year": 1917,
+    "type": "novel",
+    "imageName": "erb_aprinces.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2033,
+    "title": "The Gods of Mars",
+    "year": 1918,
+    "type": "novel",
+    "imageName": "erb_thegodso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2034,
+    "title": "The Warlord of Mars",
+    "year": 1919,
+    "type": "novel",
+    "imageName": "erb_thewarlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2035,
+    "title": "Thuvia, Maid of Mars",
+    "year": 1920,
+    "type": "novel",
+    "imageName": "erb_thuviama.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2036,
+    "title": "The Chessmen of Mars",
+    "year": 1922,
+    "type": "novel",
+    "imageName": "erb_thechess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2037,
+    "title": "The Master Mind of Mars",
+    "year": 1928,
+    "type": "novel",
+    "imageName": "erb_themaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2038,
+    "title": "A Fighting Man of Mars",
+    "year": 1931,
+    "type": "novel",
+    "imageName": "erb_afightin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2039,
+    "title": "Swords of Mars",
+    "year": 1936,
+    "type": "novel",
+    "imageName": "erb_swordsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2040,
+    "title": "Synthetic Men of Mars",
+    "year": 1940,
+    "type": "novel",
+    "imageName": "erb_syntheti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2041,
+    "title": "Llana of Gathol",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "erb_llanaofg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2042,
+    "title": "John Carter of Mars",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "erb_johncart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10513,
+    "title": "The Land That Time Forgot:  Commemorative Edition",
+    "year": 1924,
+    "type": "novel",
+    "imageName": "EB_landthat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10491,
+    "title": "Beyond Thirty (The Lost Continent)",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "EB_beyond30.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10492,
+    "title": "The Moon Maid:  Complete and Restored",
+    "year": 1926,
+    "type": "novel",
+    "imageName": "EB_moonmaid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10490,
+    "title": "The Eternal Savage: Nu of the Neocene",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "EB_eternals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4173,
+    "title": "John Carter of Mars: Volume One",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "erb_jcom1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21524,
+    "title": "Savage Pellucidar",
+    "year": 1963,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10514,
+    "title": "At the Earth's Core",
+    "year": 1922,
+    "type": "novel",
+    "imageName": "EB_atearths.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10515,
+    "title": "Pellucidar",
+    "year": 1923,
+    "type": "novel",
+    "imageName": "EB_pellucid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10516,
+    "title": "Tanar of Pellucidar",
+    "year": 1930,
+    "type": "novel",
+    "imageName": "EB_tanarofp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10519,
+    "title": "Tarzan at the Earth's Core",
+    "year": 1930,
+    "type": "novel",
+    "imageName": "EB_tarzanat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10520,
+    "title": "Back to the Stone Age",
+    "year": 1937,
+    "type": "novel",
+    "imageName": "EB_backtoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10521,
+    "title": "Land of Terror",
+    "year": 1944,
+    "type": "novel",
+    "imageName": "EB_landofte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10522,
+    "title": "Savage Pellucidar (collection)",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "EB_savagepe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3616,
+    "title": "Tarzan of the Apes",
+    "year": 1914,
+    "type": "novel",
+    "imageName": "erb_tarzanof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9250,
+    "title": "Pirates of Venus",
+    "year": 1934,
+    "type": "novel",
+    "imageName": "erb_pirateso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9251,
+    "title": "Lost on Venus",
+    "year": 1935,
+    "type": "novel",
+    "imageName": "erb_lostonve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9252,
+    "title": "Carson of Venus",
+    "year": 1939,
+    "type": "novel",
+    "imageName": "erb_carsonof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9253,
+    "title": "Escape on Venus",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "erb_escapeon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9254,
+    "title": "The Wizard of Venus",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "erb_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

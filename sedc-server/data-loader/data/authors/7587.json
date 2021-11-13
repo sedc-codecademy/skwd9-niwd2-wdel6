@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35891,
+    "title": "The Beasts of Clawstone Castle ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "EI_beastsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36052,
+    "title": "The Great Ghost Rescue",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "EI_TheGreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35892,
+    "title": "The Secret of Platform 13",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "EI_secretpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35893,
+    "title": "Beyond Platform 13",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "EI_beyondpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

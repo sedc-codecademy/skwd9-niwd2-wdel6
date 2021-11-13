@@ -1,0 +1,38 @@
+[
+  {
+    "id": 28018,
+    "title": "Torchship Trilogy",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kkg_ttrilogy.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28015,
+    "title": "Torchship",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kkg_torchshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28016,
+    "title": "Torchship Pilot",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kkg_tpilot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28017,
+    "title": "Torchship Captain",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kkg_tcaptain.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

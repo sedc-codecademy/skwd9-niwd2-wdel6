@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32255,
+    "title": "The Diamond in the Window",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "JL_TheDiamo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32256,
+    "title": "The Swing in the Summerhouse",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "JL_TheSwing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32257,
+    "title": "The Astonishing Stereoscope",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "JL_TheAston.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

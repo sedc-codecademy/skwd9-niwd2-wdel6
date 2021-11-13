@@ -1,0 +1,92 @@
+[
+  {
+    "id": 24446,
+    "title": "Sweet Dreams",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ts_sweetdre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15920,
+    "title": "Occupy Me",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tc_occupyme.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 12639,
+    "title": "Shadowboxer",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ts_shadowbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2500,
+    "title": "Lightborn",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ts_lightbor.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 12638,
+    "title": "Sound Mind",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ts_soundmin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12637,
+    "title": "Double Vision",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ts_doublevi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 581,
+    "title": "Maul",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ts_maul.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 591,
+    "title": "Dreaming in Smoke",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ts_dreaming.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9801,
+    "title": "Someone to Watch Over Me",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ts_someonet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9787,
+    "title": "Lethe",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tc_lethe.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

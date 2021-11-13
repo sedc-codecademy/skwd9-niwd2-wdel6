@@ -1,0 +1,605 @@
+[
+  {
+    "id": 15201,
+    "title": "Echoes of the Fourth Magic",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ras_echoesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15202,
+    "title": "The Witch's Daughter",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ras_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15203,
+    "title": "Bastion of Darkness",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ras_bastiono.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15388,
+    "title": "The Sword of Bedwyr",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ras_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15389,
+    "title": "Luthien's Gamble",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ras_luthiens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15390,
+    "title": "The Dragon King",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ras_dragonki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15181,
+    "title": "The Highwayman",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ras_thehighw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15182,
+    "title": "The Ancient",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ras_theancie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15183,
+    "title": "The Dame",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ras_thedame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15184,
+    "title": "The Bear",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ras_thebear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2467,
+    "title": "Mortalis",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ras_mortalis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2468,
+    "title": "Ascendance",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ras_ascendan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2469,
+    "title": "Transcendence",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ras_transcen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2470,
+    "title": "Immortalis",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ras_immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26515,
+    "title": "Child of a Mad God",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ras_childofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31713,
+    "title": "Reckoning of Fallen Gods",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ras_reckonin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2464,
+    "title": "The Demon Awakens",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ras_awakens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2465,
+    "title": "The Demon Spirit",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ras_spirit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2466,
+    "title": "The Demon Apostle",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ras_apostle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15146,
+    "title": "Night of the Hunter",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ras_nightoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15147,
+    "title": "Rise of the King",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ras_riseofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15148,
+    "title": "Vengeance of the Iron Dwarf",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ras_vengeanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28535,
+    "title": "Timeless",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ras_timeless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35022,
+    "title": "Boundless",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "RAS_Boundles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15145,
+    "title": "Archmage",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ras_archmage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18920,
+    "title": "Maestro",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ras_maestro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20543,
+    "title": "Hero",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ras_hero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3772,
+    "title": "The Legacy",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ras_thelegac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3773,
+    "title": "Starless Night",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ras_starless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3774,
+    "title": "Siege of Darkness",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ras_siegeofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3775,
+    "title": "Passage to Dawn",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ras_passaget.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4517,
+    "title": "Gauntlgrym",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ras_gauntlgr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4518,
+    "title": "Neverwinter",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ras_neverwin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15123,
+    "title": "Charon's Claw",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ras_charonsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15124,
+    "title": "The Last Threshold",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ras_thelastt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3776,
+    "title": "The Silent Blade",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ras_thesilen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3777,
+    "title": "The Spine of the World",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ras_thespine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3778,
+    "title": "Sea of Swords",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ras_seaofswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15168,
+    "title": "The Stowaway",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rasgs_thestowa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15169,
+    "title": "The Shadowmask",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rasgs_shadowma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15170,
+    "title": "The Sentinels",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rasgs_thesenti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15140,
+    "title": "Canticle",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ras_canticle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15141,
+    "title": "In Sylvan Shadows",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ras_insylvan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15142,
+    "title": "Night Masks",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ras_nightmas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15143,
+    "title": "The Fallen Fortress",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ras_thefalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15144,
+    "title": "The Chaos Curse",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ras_thechaos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3322,
+    "title": "Homeland",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ras_homeland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3767,
+    "title": "Exile",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ras_exile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3768,
+    "title": "Sojourn",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ras_sojourn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4520,
+    "title": "The Thousand Orcs",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ras_thethous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4519,
+    "title": "The Lone Drow",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ras_theloned.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4521,
+    "title": "The Two Swords",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ras_thetwosw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3769,
+    "title": "The Crystal Shard",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ras_thecryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3770,
+    "title": "Streams of Silver",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ras_streamso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3771,
+    "title": "The Halfling's Gem",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ras_thehalfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15125,
+    "title": "Servant of the Shard",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ras_servanto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15126,
+    "title": "Promise of the Witch King",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ras_promiseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15127,
+    "title": "Road of the Patriarch",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ras_roadofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15149,
+    "title": "The Companions",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ras_thecompa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2471,
+    "title": "The Orc King",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ras_theorcki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2472,
+    "title": "The Pirate King",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ras_thepirat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1929,
+    "title": "The Ghost King",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ras_theghost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15255,
+    "title": "The Woods Out Back",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ras_thewoods.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15256,
+    "title": "The Dragon's Dagger",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ras_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15257,
+    "title": "Dragonslayer's Return",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ras-dsreturn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10619,
+    "title": "Star Wars, Episode 2: Attack of the Clones",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ras_attackof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15942,
+    "title": "Vector Prime",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ras_vectorpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

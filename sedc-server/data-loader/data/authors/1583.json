@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3543,
+    "title": "Widow",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "bsm_widow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35071,
+    "title": "Armageddon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "DD_Armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

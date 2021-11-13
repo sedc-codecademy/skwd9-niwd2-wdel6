@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3441,
+    "title": "The Mall",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "slg_themall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25535,
+    "title": "The Apartment",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "SL_apartmen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 30320,
+    "title": "The Rest of Us Just Live Here",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pn_theresto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12721,
+    "title": "The Crane Wife",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pn_thecrane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9961,
+    "title": "More Than This",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pn_morethan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4090,
+    "title": "A Monster Calls",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pn_amonster.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2436,
+    "title": "The Knife of Never Letting Go",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pn_theknife.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1734,
+    "title": "The Ask and the Answer",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pn_theaskan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2437,
+    "title": "Monsters of Men",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pn_monsters.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

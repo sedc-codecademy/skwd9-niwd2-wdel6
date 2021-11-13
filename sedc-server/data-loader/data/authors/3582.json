@@ -1,0 +1,65 @@
+[
+  {
+    "id": 14571,
+    "title": "Dorothy Must Die!",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dp_dorothy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14572,
+    "title": "The Wicked Will Rise",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dp_thewicked.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22923,
+    "title": "Yellow Brick War",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dp_yellowbr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22924,
+    "title": "The End of Oz",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dp_endofoz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22925,
+    "title": "Dorothy Must Die Stories 1",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dp_dorodie1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22926,
+    "title": "Dorothy Must Die Stories 2",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dp_dorodie2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22927,
+    "title": "Dorothy Must Die Stories 3",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dp_dorodie3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

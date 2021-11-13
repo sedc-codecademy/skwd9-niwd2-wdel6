@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35288,
+    "title": "Ladylord",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sm_ladylord.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13233,
+    "title": "To the King a Daughter",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ansm_tothekin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13234,
+    "title": "Knight or Knave",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ansm_knightor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13235,
+    "title": "A Crown Disowned",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ansm_acrowndi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13236,
+    "title": "Dragon Blade",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ansm_dragonbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13237,
+    "title": "The Knight of the Red Beard",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ansm_thekight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13272,
+    "title": "On Wings of Magic",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "anpmsm_onwingso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

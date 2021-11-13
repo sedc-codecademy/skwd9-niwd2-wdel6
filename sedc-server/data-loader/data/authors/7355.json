@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34789,
+    "title": "King's Property",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MH_kingspro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34790,
+    "title": "Clan Daughter",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MH_clandaug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34791,
+    "title": "Royal Destiny",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MH_royaldes.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

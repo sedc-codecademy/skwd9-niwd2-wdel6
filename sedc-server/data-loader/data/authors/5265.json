@@ -1,0 +1,407 @@
+[
+  {
+    "id": 28766,
+    "title": "Outpassage",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jmcm_outpassa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28762,
+    "title": "Warlord!",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jm_warlord.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28768,
+    "title": "Medusa",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jmcm_medusa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28764,
+    "title": "Active Measures",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jmdd_activeme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24843,
+    "title": "Afterwar",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jm_afterwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28770,
+    "title": "The 40-Minute War",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jmcm_the40min.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28772,
+    "title": "ARC Riders",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jmdd_arcrider.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28774,
+    "title": "The Fourth Rome",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jmdd_thefourt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34680,
+    "title": "Heroes in Hell",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JM_heroesh1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34681,
+    "title": "The Gates of Hell",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JM_gatesof2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34682,
+    "title": "Rebels in Hell",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JM_rebelsh3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34683,
+    "title": "Kings in Hell",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "JM_kingshe4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34684,
+    "title": "Crusaders in Hell",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "JM_crusade5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34686,
+    "title": "Angels in Hell",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "JM_angelsh7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34687,
+    "title": "Masters in Hell",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "JM_masters8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34688,
+    "title": "The Little Helliad",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "JM_helliad9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34689,
+    "title": "War in Hell",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "JM_warinh10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34690,
+    "title": "Prophets in Hell",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JM_prophe11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34691,
+    "title": "Explorers in Hell",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JM_explor12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34706,
+    "title": "Lawyers in Hell",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JM_lawyer13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34707,
+    "title": "Rogues in Hell",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JM_rogues14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34709,
+    "title": "Dreamers in Hell",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JM_dreame16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34710,
+    "title": "Poets in Hell",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JM_poetsh17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34711,
+    "title": "Doctors in Hell",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JM_doctor18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34712,
+    "title": "Pirates in Hell",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "JM_pirate20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34716,
+    "title": "Lovers in Hell",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "JM_lovers22.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25077,
+    "title": "Dream Dancer",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jm_dreamdan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25078,
+    "title": "Cruiser Dreams",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jm_cruiserd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25079,
+    "title": "Earth Dreams",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jm_earthdre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28760,
+    "title": "Kill Ratio",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jmdd_killrati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28758,
+    "title": "Target",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jmdd_target.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23786,
+    "title": "High Couch of Silistra",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jem_highcouc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23787,
+    "title": "The Golden Sword",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jem_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23788,
+    "title": "Wind from the Abyss",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jem_windfrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23789,
+    "title": "The Carnelian Throne",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jem_thecarne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23715,
+    "title": "Beyond Sanctuary",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jm_beyondsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23716,
+    "title": "Beyond the Veil",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jm_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23717,
+    "title": "Beyond Wizardwall",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jm_beyondwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24537,
+    "title": "Tempus",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jm_tempus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24538,
+    "title": "City at the Edge of Time",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jmcm_cityatth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24539,
+    "title": "Tempus Unbound",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jmcm_tempusun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24540,
+    "title": "Storm Seed",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jmcm_stormsee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28776,
+    "title": "Threshold",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jmcm_threshol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28778,
+    "title": "Trust Territory",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jmcm_trustter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28780,
+    "title": "The Stalk",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jmcm_thestalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

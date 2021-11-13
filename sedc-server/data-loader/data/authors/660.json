@@ -1,0 +1,28 @@
+[
+  {
+    "id": 3213,
+    "title": "The Ladies of Grace Adieu:  And Other Stories",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sc_theladie.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 662,
+    "title": "Jonathan Strange & Mr. Norrell",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sc_jonathan.jpg",
+    "nominations": 7,
+    "wins": -1
+  },
+  {
+    "id": 23621,
+    "title": "Mr. Simonelli or the Fairy Widower",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

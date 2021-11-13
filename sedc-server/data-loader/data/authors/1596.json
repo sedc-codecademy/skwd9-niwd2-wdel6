@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3576,
+    "title": "The Hour Before Dark",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dc_thehourb.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12200,
+    "title": "Mordred, Bastard Son",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dc_mordredb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32683,
+    "title": "You Come When I Call You",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "DC_YouComeW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32686,
+    "title": "The Nightmare Chronicles",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DC_Nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32682,
+    "title": "The Halloween Man",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "DC_Hallowee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32685,
+    "title": "Dark of the Eye",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "DC_Darkofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32681,
+    "title": "Neverland",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "DC_Neverlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32684,
+    "title": "Breeder",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "DC_Breeder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32680,
+    "title": "Goat Dance",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "DC_GoatDanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35241,
+    "title": "Bad Karma",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "DC_BadKarma.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

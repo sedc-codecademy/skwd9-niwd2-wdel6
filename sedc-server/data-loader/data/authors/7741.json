@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36485,
+    "title": "Airs Beneath the Moon",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tb_airsbene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36486,
+    "title": "Airs and Graces",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tb_airsandg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36487,
+    "title": "Airs of Night and Sea",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tb_airsofni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

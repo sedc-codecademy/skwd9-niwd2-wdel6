@@ -1,0 +1,64 @@
+[
+  {
+    "id": 35100,
+    "title": "Growing Things and Other Stories",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "PT_GrowingT.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27407,
+    "title": "The Cabin at the End of the World",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pt_thecabin.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 18910,
+    "title": "Disappearance at Devil's Rock",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pt_devilsro.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 13656,
+    "title": "A Head Full of Ghosts",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pt_aheadfull.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 17195,
+    "title": "Creatures:  Thirty Years of Monsters",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jlpt_creature.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25144,
+    "title": "There's No Light Between Floors",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36074,
+    "title": "The Last Conversation",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "PT_thelastc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

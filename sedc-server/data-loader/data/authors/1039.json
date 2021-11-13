@@ -1,0 +1,20 @@
+[
+  {
+    "id": 32143,
+    "title": "The Rig",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rl_therig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1110,
+    "title": "Icarus",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rl_icarus.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

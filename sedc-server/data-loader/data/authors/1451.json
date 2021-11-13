@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9019,
+    "title": "The Book of Strange New Things",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mf_bookofst.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3114,
+    "title": "Under the Skin",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mf_underthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9017,
+    "title": "The Fire Gospel",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mf_firegosp.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

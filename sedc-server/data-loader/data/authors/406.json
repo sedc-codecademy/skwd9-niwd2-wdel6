@@ -1,0 +1,65 @@
+[
+  {
+    "id": 36552,
+    "title": "Omega Sol",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SM_OmegaSol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36551,
+    "title": "Phytosphere",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "SM_Phytosph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13659,
+    "title": "Tides",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_tides.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36553,
+    "title": "Omnifix",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "SM_Omnifix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36554,
+    "title": "Orbis",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "SM_Orbis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 408,
+    "title": "The Meek",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "smk_themeek.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36555,
+    "title": "Outpost",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "SM_Outpost.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

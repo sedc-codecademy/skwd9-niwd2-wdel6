@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12388,
+    "title": "The Queen of the Tearling",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ej_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12389,
+    "title": "The Invasion of the Tearling",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ej_theinvas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20281,
+    "title": "The Fate of the Tearling",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ej_thefateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

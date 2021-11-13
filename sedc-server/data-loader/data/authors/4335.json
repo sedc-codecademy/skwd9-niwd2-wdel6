@@ -1,0 +1,65 @@
+[
+  {
+    "id": 31589,
+    "title": "Of Gods and Men",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "SA_ofgodsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18384,
+    "title": "Battlemage",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sa_battlema.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18385,
+    "title": "Bloodmage",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sa_bloodmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19479,
+    "title": "Chaosmage",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sa_chaosmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25701,
+    "title": "Mageborn",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SA_mageborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28497,
+    "title": "Magefall",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sa_magefall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34112,
+    "title": "Magebane",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sa_magebane.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

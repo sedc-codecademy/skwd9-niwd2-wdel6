@@ -1,0 +1,283 @@
+[
+  {
+    "id": 35851,
+    "title": "Prosper's Demon",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "kjp_prospers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36272,
+    "title": "My Beautiful Life",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "KJP_MyBeauti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34097,
+    "title": "Sixteen Ways to Defend a Walled City",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kjp_sixteenw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29083,
+    "title": "The Father of Lies",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kjp_thefathe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23287,
+    "title": "Mightier than the Sword",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kjp_mightier.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17137,
+    "title": "Downfall of the Gods",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kjp_downfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13999,
+    "title": "The Last Witness",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kjp_thelastw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13184,
+    "title": "Savages",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kjp_savages.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8743,
+    "title": "Academic Exercises",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kjp_academic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30108,
+    "title": "Heaven Thunders the Truth",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22175,
+    "title": "I Met a Man Who Wasn't There",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29082,
+    "title": "The Dragonslayer of Merebarton",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21752,
+    "title": "The Sun And I",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21753,
+    "title": "Let Maps to Others",
+    "year": 2012,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5494,
+    "title": "Sharps",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kjp_sharps.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2580,
+    "title": "The Hammer",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kjp_thehamme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21754,
+    "title": "A Small Price to Pay for Birdsong",
+    "year": 2011,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26430,
+    "title": "Amor Vincit Omnia",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2579,
+    "title": "The Folding Knife",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kjp_thefoldi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2582,
+    "title": "Purple and Black",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kjp_purplean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2583,
+    "title": "The Company",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kjp_thecompa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2584,
+    "title": "Devices and Desires",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kjp_devicesa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2585,
+    "title": "Evil for Evil",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kjp_evilfore.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2586,
+    "title": "The Escapement",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kjp_theescap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5495,
+    "title": "Colours in the Steel",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kjp_coloursi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5497,
+    "title": "The Belly of the Bow",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "kjp_thebelly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5498,
+    "title": "The Proof House",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kjp_theproof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2581,
+    "title": "Blue and Gold",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kjp_blueandg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17161,
+    "title": "The Devil You Know",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kjp_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5500,
+    "title": "Shadow",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kjp_shadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5499,
+    "title": "Pattern",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kjp_pattern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5496,
+    "title": "Memory",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kjp_memory.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

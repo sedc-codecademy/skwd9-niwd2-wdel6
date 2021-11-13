@@ -1,0 +1,38 @@
+[
+  {
+    "id": 17288,
+    "title": "Too Fond",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lrh_toofond.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10935,
+    "title": "The Eterna Files",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lrh_theetern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26017,
+    "title": "Eterna and Omega",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lrh_etaomega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26018,
+    "title": "The Eterna Solution",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lrh_tesoluti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

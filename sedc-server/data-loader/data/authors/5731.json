@@ -1,0 +1,47 @@
+[
+  {
+    "id": 27631,
+    "title": "The Prodigy",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "nh_theprodi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27630,
+    "title": "A Room for the Dead",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "nh_aroomfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27629,
+    "title": "Ghosts",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "nh_ghosts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27632,
+    "title": "Cemetery of Angels",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "nh_cemetery.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27633,
+    "title": "The Lost Boy",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "nh_thelostb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

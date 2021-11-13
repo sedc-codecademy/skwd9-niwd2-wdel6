@@ -1,0 +1,64 @@
+[
+  {
+    "id": 28926,
+    "title": "Silent as Dust",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15352,
+    "title": "Bitterwood",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jm_bitterwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15353,
+    "title": "Dragonforge",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jm_draforge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15354,
+    "title": "Dragonseed",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jm_dragseed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4957,
+    "title": "Greatshadow",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_greatsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4958,
+    "title": "Hush",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_hush.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4959,
+    "title": "Witchbreaker",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_witchbre.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

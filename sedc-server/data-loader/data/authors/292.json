@@ -1,0 +1,473 @@
+[
+  {
+    "id": 3729,
+    "title": "Store of the Worlds:  The Stories of Robert Sheckley",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rsjlaa_storeoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8190,
+    "title": "The Masque of Mañana",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rs_themasqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8665,
+    "title": "Uncanny Tales",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rs_uncannyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8666,
+    "title": "Dimensions of Sheckley",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rs_dimensio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32611,
+    "title": "Shoes",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32736,
+    "title": "The New Horla",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8651,
+    "title": "Godshome",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rs_godshome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34206,
+    "title": "The Day the Aliens Came",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23991,
+    "title": "Xolotl",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rs_xolotl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8667,
+    "title": "Minotaur Maze",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rs_minotaur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8664,
+    "title": "Is That What People Do?",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rs_isthatwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8650,
+    "title": "Dramocles:  An Intergalactic Soap Opera",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "rs_dramocle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24840,
+    "title": "After the Fall",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rs_afterthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8649,
+    "title": "Crompton Divided",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "rs_crompton.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8663,
+    "title": "The Robot Who Looked Like Me",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "rs_therobotw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23782,
+    "title": "What Is Life?",
+    "year": 1976,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8648,
+    "title": "Options",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "rs_options.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8662,
+    "title": "Can You Feel Anything When I Do This?",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "rs_canyoufe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8506,
+    "title": "Dimension of Miracles",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rs_dimofmir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8661,
+    "title": "The People Trap",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rs_thepeopl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8505,
+    "title": "Mindswap",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "rs_mindswap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19115,
+    "title": "Shall We Have a Little Talk?",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2013,
+    "title": "Journey Beyond Tomorrow",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "rs_journeyb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8660,
+    "title": "Shards of Space",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "rs_shardsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8658,
+    "title": "Notions: Unlimited",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "rs_notionsu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8504,
+    "title": "The Status Civilization",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "rs_thestatu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8659,
+    "title": "Store of Infinity",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "rs_storeofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 296,
+    "title": "Immortality, Inc.",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "rs_immortal.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8503,
+    "title": "Pilgrimage to Earth",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "rs_pilgrima.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8502,
+    "title": "Citizen in Space",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "rs_citizeni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25590,
+    "title": "Spy Story",
+    "year": 1955,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2279,
+    "title": "Untouched by Human Hands",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "rs_untouche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22092,
+    "title": "The People Trap plus Mindswap",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rs_ad65874.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22091,
+    "title": "The Status Civilization and Notions: Unlimited",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "rs_ad78537.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34902,
+    "title": "Aliens: Alien Harvest",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RS_alienhar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11363,
+    "title": "The Perfect Woman and Other Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RS_perfect.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15053,
+    "title": "A Call to Arms",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rs_calltoar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3220,
+    "title": "Bill, the Galactic Hero on the Planet of the Bottled Brains",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "hhrs_bill2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24661,
+    "title": "The Collected Short Fiction of Robert Sheckley: Book One",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rs_tcshvol1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24662,
+    "title": "The Collected Short Fiction of Robert Sheckley: Book Two",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rs_tcshvol2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24663,
+    "title": "The Collected Short Fiction of Robert Sheckley: Book Three",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rs_tcshvol3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24664,
+    "title": "The Collected Short Fiction of Robert Sheckley: Book Four",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rs_tcshvol4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24665,
+    "title": "The Collected Short Fiction of Robert Sheckley: Book Five",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rs_tcshvol5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8652,
+    "title": "The Alternative Detective",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rs_thealtern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8653,
+    "title": "Draconian New York",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rs_draconia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8654,
+    "title": "Soma Blues",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rs_somablue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8655,
+    "title": "Bring Me the Head of Prince Charming",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rzrs_bringmet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8656,
+    "title": "If at Faust You Don't Succeed",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rzrs_ifatfaus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8657,
+    "title": "A Farce to Be Reckoned With",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rzrs_afarceto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19827,
+    "title": "The Laertian Gamble",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rs_thelaert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8643,
+    "title": "The 10th Victim",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "rs_10thvict.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8644,
+    "title": "Victim Prime",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "rs_victimpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8646,
+    "title": "Hunter/Victim",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rs_huntervi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

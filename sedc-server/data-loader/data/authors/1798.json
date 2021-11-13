@@ -1,0 +1,47 @@
+[
+  {
+    "id": 22179,
+    "title": "Department Zero",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pc_departme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25879,
+    "title": "Poison City:  Delphic Division 1",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "PC_poisonci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25880,
+    "title": "Clockwork City:  Delphic Division 2",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "PC_clockwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4508,
+    "title": "The Lazarus Machine",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pc_thelazar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9187,
+    "title": "The Osiris Curse",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pc_theosir.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

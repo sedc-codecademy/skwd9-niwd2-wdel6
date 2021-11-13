@@ -1,0 +1,38 @@
+[
+  {
+    "id": 27242,
+    "title": "Paris Adrift",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ejs_parisadr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30111,
+    "title": "Osiris",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ejs_osiris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30112,
+    "title": "Cataveiro",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ejs_cataveir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30113,
+    "title": "Tamaruq",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ejs_tamaruq.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": 9659,
+    "title": "The Free",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "br_thefree.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3009,
+    "title": "The Edinburgh Dead",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "br_theedinb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22563,
+    "title": "Beyond the Reach of His Gods",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3002,
+    "title": "Winterbirth",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "br_winterbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3003,
+    "title": "Bloodheir",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "br_bloodhei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3004,
+    "title": "Fall of Thanes",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "br_fallofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

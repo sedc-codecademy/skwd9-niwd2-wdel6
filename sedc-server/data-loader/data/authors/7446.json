@@ -1,0 +1,155 @@
+[
+  {
+    "id": 35231,
+    "title": "The Art of Nausicaä of the Valley of the Wind",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "hm_nausicaa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36264,
+    "title": "The Art of Castle in the Sky",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "HM_artofcas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35232,
+    "title": "The Art of Princess Mononoke",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "hm_princess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36265,
+    "title": "The Art of Ponyo",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "HM_artofpon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35882,
+    "title": "The Art of Kiki's Delivery Service",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "HM_artofkik.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35234,
+    "title": "The Art of Howl's Moving Castle",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "hm_howlsmov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36263,
+    "title": "The Art of My Neighbor Totoro",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "HM_artoftot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36266,
+    "title": "The Art of Porco Rosso",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "HM_artofpor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35233,
+    "title": "The Art of Spirited Away",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "hm_spirited.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11900,
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "TK_totoro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36248,
+    "title": "Nausicaä of the Valley of the Wind 1",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "HM_nausica1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36249,
+    "title": "Nausicaä of the Valley of the Wind 2",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "HM_nausica2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36250,
+    "title": "Nausicaä of the Valley of the Wind 3",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "HM_nausica3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36251,
+    "title": "Nausicaä of the Valley of the Wind 4",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "HM_nausica4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36252,
+    "title": "Nausicaä of the Valley of the Wind 5",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "HM_nausica5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36253,
+    "title": "Nausicaä of the Valley of the Wind 6",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "HM_nausica6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36254,
+    "title": "Nausicaä of the Valley of the Wind 7",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "HM_nausica7.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

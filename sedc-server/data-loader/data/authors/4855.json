@@ -1,0 +1,37 @@
+[
+  {
+    "id": 34375,
+    "title": "The Gurkha and the Lord of Tuesday",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "szh_thegurkh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28715,
+    "title": "Bring Your Own Spoon",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21891,
+    "title": "Djinn City",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SH_djinncit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21890,
+    "title": "Escape from Baghdad!",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "SH_escapefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

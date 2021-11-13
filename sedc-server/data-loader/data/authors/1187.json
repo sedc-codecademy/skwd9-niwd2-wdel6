@@ -1,0 +1,155 @@
+[
+  {
+    "id": 5485,
+    "title": "Black Ships",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jg_blackshi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5486,
+    "title": "Stealing Fire",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jg_stealing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1887,
+    "title": "Hand of Isis",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jg_handofis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12705,
+    "title": "Lost Things",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "msjg_lostthin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12706,
+    "title": "Steel Blues",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "msjg_steelblu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12707,
+    "title": "Silver Bullet",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "msjg_silverbu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12708,
+    "title": "Wind Raker",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "msjg_windrake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17705,
+    "title": "Oath Bound",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "MS_oathboun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16539,
+    "title": "Death Game",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "JG_deathgam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16532,
+    "title": "Homecoming",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "MS_homecomi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16533,
+    "title": "The Lost",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JG_thelost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16535,
+    "title": "The Furies",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JG_tfuries.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16536,
+    "title": "Secrets",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JG_secrets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16537,
+    "title": "Inheritors",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JG_inherito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16538,
+    "title": "Unascended",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JG_unascend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20465,
+    "title": "Third Path",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JG_thirdpat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16540,
+    "title": "Moebius Squared",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JG_moebiuss.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

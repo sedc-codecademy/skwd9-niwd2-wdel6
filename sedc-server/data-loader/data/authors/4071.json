@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16980,
+    "title": "The Hunt for Pierre Jnr",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "DH_pierrejn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16981,
+    "title": "Manifestations",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "DH_manifest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17011,
+    "title": "Convergence",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "DH_converge.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 3814,
+    "title": "Windmaster's Bane",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "td_windmast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3815,
+    "title": "Fireshaper's Doom",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "td_fireshap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3816,
+    "title": "Darkthunder's Way",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "td_darkthun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3817,
+    "title": "Sunshaker's War",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "td_sunshake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3818,
+    "title": "Stoneskin's Revenge",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "td_stoneski.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3819,
+    "title": "Ghostcountry's Wrath",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "td_ghostcou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3820,
+    "title": "Dreamseeker's Road",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "td_dreamsee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3821,
+    "title": "Landslayer's Law",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "td_landslay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3822,
+    "title": "Warstalker's Track",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "td_warstalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3823,
+    "title": "Soulsmith",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "td_soulsmit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3824,
+    "title": "Dreambuilder",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "td_dreambui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3825,
+    "title": "Wordwright",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "td_wordwrig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31887,
+    "title": "Bloodwinter",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "TD_BloodWin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31888,
+    "title": "Springwar",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "TD_SpringWa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31889,
+    "title": "Summerblood",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "TD_SummerBl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31890,
+    "title": "Warautumn",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "TD_Warautum.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

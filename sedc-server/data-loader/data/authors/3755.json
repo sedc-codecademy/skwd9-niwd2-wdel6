@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15535,
+    "title": "The City of Ember",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jd_thecityo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15536,
+    "title": "The People of Sparks",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jd_thepeopl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15537,
+    "title": "The Prophet of Yonwood",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jd_theproph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15538,
+    "title": "The Diamond of Darkhold",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jd_thediamo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

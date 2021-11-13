@@ -1,0 +1,299 @@
+[
+  {
+    "id": 10799,
+    "title": "The Collected Stories of Frank Herbert",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "fh_thecolle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17075,
+    "title": "High-Opp",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JH_highopp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6224,
+    "title": "Man of Two Worlds",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "fh_manoftwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6574,
+    "title": "Eye",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "fh_eye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6223,
+    "title": "The White Plague",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "fh_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6222,
+    "title": "Direct Descent",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "fh_directde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17076,
+    "title": "The Book of Frank Herbert",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "FH_bookoffh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3022,
+    "title": "Hellstrom's Hive",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "fh_hellstro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6225,
+    "title": "The God Makers",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "fh_thegodma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6930,
+    "title": "Soul Catcher",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "fh_soulcatc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11507,
+    "title": "The Worlds of Frank Herbert",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "fh_theworlds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6217,
+    "title": "The Heaven Makers",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "fh_theheave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6216,
+    "title": "The Santaroga Barrier",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "fh_thesanta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6220,
+    "title": "The Eyes of Heisenberg",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "fh_theeyeso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6218,
+    "title": "The Green Brain",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "fh_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2266,
+    "title": "Under Pressure",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "fh_underpre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7287,
+    "title": "Five Fates",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "klpa_fivefate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3423,
+    "title": "Whipping Star",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "fh_whipping.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3424,
+    "title": "The Dosadi Experiment",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "fh_thedosad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 316,
+    "title": "Dune: Dune World & The Prophet of Dune",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "fh_analogdune.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13,
+    "title": "Dune",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "fh_dune.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1344,
+    "title": "Dune Messiah",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "fh_dunemess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 351,
+    "title": "Children of Dune",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "fh_children.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1345,
+    "title": "God Emperor of Dune",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "fh_godemper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1346,
+    "title": "Heretics of Dune",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "fh_heretics.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1347,
+    "title": "Chapterhouse: Dune",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "fh_chapterh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2692,
+    "title": "The Road to Dune",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "fhbhkja_theroadt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7504,
+    "title": "Nebula Winners Fifteen",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "fh_nebula15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17074,
+    "title": "The Pandora Sequence",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "FH_pandoras.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3419,
+    "title": "Destination: Void",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "fh_destinat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3420,
+    "title": "The Jesus Incident",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fhbr_thejesus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3421,
+    "title": "The Lazarus Effect",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fhbr_thelazar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3422,
+    "title": "The Ascension Factor",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "fhbr_theascen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

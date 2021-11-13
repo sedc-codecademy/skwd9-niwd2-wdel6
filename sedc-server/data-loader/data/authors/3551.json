@@ -1,0 +1,38 @@
+[
+  {
+    "id": 14394,
+    "title": "Futuristic Violence and Fancy Suits",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dw_futurist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15510,
+    "title": "John Dies at the End",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dw_johndies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15511,
+    "title": "This Book Is Full of Spiders: Seriously, Dude, Don't Touch It",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dw_thisbook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25742,
+    "title": "What the Hell Did I Just Read",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dw_whattheh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

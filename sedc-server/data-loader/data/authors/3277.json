@@ -1,0 +1,56 @@
+[
+  {
+    "id": 12686,
+    "title": "Welcome to Lovecraft",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey01.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12687,
+    "title": "Head Games",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12688,
+    "title": "Crown of Shadows",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12689,
+    "title": "Keys to the Kingdom",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12690,
+    "title": "Clockworks",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jhgr_lockekey05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12691,
+    "title": "Alpha & Omega",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jhgr_lockekey06.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

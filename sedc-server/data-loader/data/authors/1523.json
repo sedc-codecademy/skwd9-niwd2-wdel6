@@ -1,0 +1,64 @@
+[
+  {
+    "id": 19823,
+    "title": "Jerusalem",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "am_jerusale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17477,
+    "title": "Lost Girls",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "am_lostgirl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3439,
+    "title": "From Hell",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "amec_fromhell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3440,
+    "title": "Voice of the Fire",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "am_voiceoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3438,
+    "title": "V For Vendetta",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "amdl_vforvend.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3315,
+    "title": "Watchmen",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "amdg_watchmen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23493,
+    "title": "A Hypothetical Lizard",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

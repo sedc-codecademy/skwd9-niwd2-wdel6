@@ -1,0 +1,56 @@
+[
+  {
+    "id": 11504,
+    "title": "Singing the Dogstar Blues",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ag_singingt.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4111,
+    "title": "Eon (The Two Pearls of Wisdom)",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ag_eon.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4086,
+    "title": "Eona",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ag_eona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17319,
+    "title": "Lady Helen and the Dark Days Club",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ag_ladyhele.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25331,
+    "title": "Lady Helen and the Dark Days Pact",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ag_dadapact.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30285,
+    "title": "The Dark Days Deceit",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ag_dddeceit.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

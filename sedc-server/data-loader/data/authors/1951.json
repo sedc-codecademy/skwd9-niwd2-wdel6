@@ -1,0 +1,119 @@
+[
+  {
+    "id": 12544,
+    "title": "Mare Ultima",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "aci_mareulti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18546,
+    "title": "The Summon Stone",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ii_thesummo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23161,
+    "title": "The Fatal Gate",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ii_thefatal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11401,
+    "title": "The Last Albatross",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ii_thelasta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11402,
+    "title": "Terminator Gene",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ii_terminat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11403,
+    "title": "The Life Lottery",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ii_thelifel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5367,
+    "title": "Vengeance",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ii_vengeanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5368,
+    "title": "Rebellion",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ii_rebellio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11404,
+    "title": "Justice",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ii_justice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5366,
+    "title": "A Shadow on the Glass",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ii_ashadowo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5363,
+    "title": "The Tower on the Rift",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ii_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5365,
+    "title": "Dark is the Moon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ii_darkisth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5364,
+    "title": "The Way Between the Worlds",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ii_thewaybe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

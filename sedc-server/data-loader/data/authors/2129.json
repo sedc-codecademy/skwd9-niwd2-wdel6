@@ -1,0 +1,56 @@
+[
+  {
+    "id": 32531,
+    "title": "Orange World and Other Stories",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "KR_orangewo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28795,
+    "title": "The Bad Graft",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kr_thebadg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8143,
+    "title": "Sleep Donation",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kr_sleepdo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7826,
+    "title": "Vampires in the Lemon Grove",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kr_vampires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7825,
+    "title": "Swamplandia! ",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kr_swamplan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7824,
+    "title": "St. Lucy's Home for Girls Raised by Wolves ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kr_stlucysh.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

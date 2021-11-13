@@ -1,0 +1,92 @@
+[
+  {
+    "id": 20196,
+    "title": "Door into Chaos",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "RG_doorinto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20200,
+    "title": "What Lay Beyond",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "PD_whatlayb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14714,
+    "title": "Wrath of the Prophets",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pd_mjf_rg_wrathoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21010,
+    "title": "No Surrender",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "RG_nosurren.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21031,
+    "title": "Aftermath",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KD_aftermat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14709,
+    "title": "Doomsday World",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "pd_mjf_rg_cc_doomsday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14715,
+    "title": "The Romulan Stratagem",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rg_romulans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18772,
+    "title": "A Time to Love",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rg_timetolo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18773,
+    "title": "A Time to Hate",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rg_timetoha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14708,
+    "title": "The Disinherited",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pdmjfrg_thedisin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

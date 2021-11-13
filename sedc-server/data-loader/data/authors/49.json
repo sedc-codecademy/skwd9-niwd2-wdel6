@@ -1,0 +1,101 @@
+[
+  {
+    "id": 19576,
+    "title": "The Tales of Beedle the Bard",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jkr_talesofb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21033,
+    "title": "Fantastic Beasts and Where to Find Them:  The Original Screenplay",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JR_fantasti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31445,
+    "title": "Fantastic Beasts: The Crimes of Grindelwald: The Original Screenplay",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "JR_crimesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1322,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jkr_sorcerer.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1323,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jkr_chambero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 73,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jkr_thepriso.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 48,
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jkr_gobletof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1324,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jkr_orderoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1325,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jkr_halfbloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1326,
+    "title": "Harry Potter and the Deathly Hallows",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jkr_deathlyh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19575,
+    "title": "Harry Potter and the Cursed Child:  Parts One & Two",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jkrjtjt_hpcursed.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

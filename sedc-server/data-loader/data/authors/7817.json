@@ -1,0 +1,83 @@
+[
+  {
+    "id": 36652,
+    "title": "Water Rites",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "GNS_WaterRit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36653,
+    "title": "Witch Spell",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "GNS_WitchSpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36654,
+    "title": "The Unseen",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "GNS_Unseen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36650,
+    "title": "The Neophyte",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "GNS_Neophyte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36648,
+    "title": "The Wood",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "GNS_TheWood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36656,
+    "title": "Doomflight",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "GNS_Doomflig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36655,
+    "title": "Wolfcurse",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "GNS_Wolfcurs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36651,
+    "title": "Satan's Snowdrop",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "GNS_SatansSn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36649,
+    "title": "The Slime Beast",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "GNS_SlimeBea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

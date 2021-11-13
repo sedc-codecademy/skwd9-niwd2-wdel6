@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24725,
+    "title": "The Year's Best Horror Stories: Series IV",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "gwp_tybhs04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24726,
+    "title": "The Year's Best Horror Stories: Series V",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gwp_tybhs05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24727,
+    "title": "The Year's Best Horror Stories: Series VI",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gwp_tybhs06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24728,
+    "title": "The Year's Best Horror Stories: Series VII",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gwp_tybhs07.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

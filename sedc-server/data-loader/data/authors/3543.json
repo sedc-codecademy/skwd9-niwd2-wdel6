@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14372,
+    "title": "Black Blade Blues",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jap_blackbla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14373,
+    "title": "Honeyed Words",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jap_honeyedw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14374,
+    "title": "Forged in Fire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jap_forgedin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

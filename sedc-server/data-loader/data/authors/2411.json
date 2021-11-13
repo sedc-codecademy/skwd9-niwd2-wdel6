@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12073,
+    "title": "The Ghosts of N-Space",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "bl_theghost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9099,
+    "title": "Deadly Reunion",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tdbl_deadlyre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9107,
+    "title": "Island of Death",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bl_islandof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

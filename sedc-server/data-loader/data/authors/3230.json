@@ -1,0 +1,74 @@
+[
+  {
+    "id": 33884,
+    "title": "Phantom Nights",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JF_PhantomN.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33980,
+    "title": "Wildwood",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jf_wildwood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33981,
+    "title": "Son of the Endless Night",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jf_sonofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33978,
+    "title": "The Uninvited",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jf_uninvite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33885,
+    "title": "Catacombs",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "JF_Catacomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12417,
+    "title": "All Heads Turn When the Hunt Goes By",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jf_allheads.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35788,
+    "title": "When Michael Calls",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "JF_WhenMich.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35789,
+    "title": "The Fury",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "JF_TheFury.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

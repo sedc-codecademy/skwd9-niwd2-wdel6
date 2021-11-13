@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5644,
+    "title": "Juniper, Gentian, and Rosemary",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pd_juniperg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5640,
+    "title": "The Dubious Hills",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pd_thedubio.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5641,
+    "title": "The Secret Country",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pd_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5642,
+    "title": "The Hidden Land",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "pd_thehidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5643,
+    "title": "The Whim of the Dragon",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "pd_thewhimo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5684,
+    "title": "Tam Lin",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pd_tanlin.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "id": 7265,
+    "title": "Extreme Metaphors:  Interviews with J.G. Ballard",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jgb_extreme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7553,
+    "title": "Kingdom Come",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "JGB_KingdomC.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3094,
+    "title": "Millennium People",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jgb_millenni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9431,
+    "title": "The Complete Short Stories of J. G. Ballard",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jgb_thecompl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4414,
+    "title": "Super-Cannes",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jgb_super-ca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24609,
+    "title": "War Fever",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jgb_warfever.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24517,
+    "title": "Memories of the Space Age",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jbg_memories.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4372,
+    "title": "The Day of Creation",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jgb_thedayof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1072,
+    "title": "Empire of the Sun",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jgb_empireof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18821,
+    "title": "Myths of the Near Future",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24648,
+    "title": "Myths of the Near Future",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jgb_mythsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 446,
+    "title": "The Unlimited Dream Company",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jgb_theunlim.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7554,
+    "title": "The Best Short Stories of J. G. Ballard",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "JGB_TheBestS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35751,
+    "title": "Low-Flying Aircraft and Other Stories",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "JGB_LowFlyin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2005,
+    "title": "High-Rise",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jgb_highrise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7552,
+    "title": "Concrete Island",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "JGB_Concrete.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2002,
+    "title": "Crash",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jgb_crash.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2277,
+    "title": "Chronopolis and Other Stories",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "jgb_chronopo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6174,
+    "title": "The Atrocity Exhibition (Love and Napalm: Export USA)",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jgb_theatroc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9319,
+    "title": "The Overloaded Man",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jgb_overload.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18403,
+    "title": "The Drowned Giant",
+    "year": 1964,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9320,
+    "title": "The Terminal Beach",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "jgb_terminal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9321,
+    "title": "The Four-Dimensional Nightmare / The Voices of Time",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "jgb_fourdime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8491,
+    "title": "Passport to Eternity",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "jgb_passport.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9239,
+    "title": "The Wind From Nowhere",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "jgb_thewindf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1760,
+    "title": "The Drowned World",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jgb_thedrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7555,
+    "title": "The Burning World (The Drought)",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "JGB_TheBurni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1995,
+    "title": "The Crystal World",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jgb_thecryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7556,
+    "title": "Vermilion Sands",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "JGB_Vermilio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1068,
+    "title": "Hello America",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jgb_helloame.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": 2832,
+    "title": "Falcon",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "eb_falcon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5628,
+    "title": "War for the Oaks",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "eb_warforth.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1044,
+    "title": "Territory",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eb_territor.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 22977,
+    "title": "De La Tierra",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5931,
+    "title": "Freedom & Necessity",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sbeb_freedoma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 729,
+    "title": "Finder",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "eb_finder.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19324,
+    "title": "Silver or Gold",
+    "year": 1992,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 101,
+    "title": "Bone Dance",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "eb_bonedanc.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 10309,
+    "title": "Liavek",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ebws_liavek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10310,
+    "title": "Liavek: The Players of Luck",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ebws_theplaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10311,
+    "title": "Liavek: Wizard's Row",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ebws_wizards.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10312,
+    "title": "Liavek: Spells of Binding",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ebws_spellsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10313,
+    "title": "Liavek: Festival Week",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ebws_festival.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

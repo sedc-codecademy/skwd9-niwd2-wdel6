@@ -1,0 +1,56 @@
+[
+  {
+    "id": 10816,
+    "title": "Space Captain Smith",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "TF_spacecap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10818,
+    "title": "God Emperor of Didcot",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "TF_goddidco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10819,
+    "title": "Wrath of the Lemming Men",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "TF_wrathlem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10820,
+    "title": "A Game of Battleships",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "TF_gamebatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10821,
+    "title": "End of Empires",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "TF_endempir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26368,
+    "title": "Straken",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tf_straken.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

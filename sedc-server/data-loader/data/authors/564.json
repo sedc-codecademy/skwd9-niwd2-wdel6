@@ -1,0 +1,128 @@
+[
+  {
+    "id": 7601,
+    "title": "The Sinners of Erspia",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "BJB_TheSinne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25530,
+    "title": "The Forest of Peldain",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bjb_thefores.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 565,
+    "title": "The Zen Gun",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "bjb_thezengu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25529,
+    "title": "The Pillars of Eternity",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "bjb_thepilla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25528,
+    "title": "Star Winds",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bjb_starwind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25527,
+    "title": "The Grand Wheel",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bjb_thegrand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16409,
+    "title": "The Garments of Caean",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bjb_thegarme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9439,
+    "title": "The Fall of Chronopolis",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bjb_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16410,
+    "title": "Collision Course",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bjb_collisio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25526,
+    "title": "Empire of Two Worlds",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "bjb_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21777,
+    "title": "Highwood / Annihilation Factor",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ad_highwood_annihila.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21776,
+    "title": "The Star Virus / Mask of Chaos",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_thestarv_maskofch.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25519,
+    "title": "The Soul of the Robot",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "BB_soulofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25520,
+    "title": "The Rod of Light",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "BB_rodlight.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

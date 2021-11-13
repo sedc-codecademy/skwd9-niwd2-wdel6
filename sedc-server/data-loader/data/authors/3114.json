@@ -1,0 +1,146 @@
+[
+  {
+    "id": 11995,
+    "title": "CLD: Collective Landing Detachment",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "vm_cld.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32706,
+    "title": "Runespear",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "VM_Runespea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13294,
+    "title": "Close Quarters",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "vm_closequa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13415,
+    "title": "Hearts of Chaos",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "vm_heartsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13418,
+    "title": "Black Dragon",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "vm_blackdra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12062,
+    "title": "The Dinosaur Lords",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "vm_thedinos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19236,
+    "title": "The Dinosaur Knights",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "vm_dknights.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23971,
+    "title": "The Dinosaur Princess",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "vm_tdprince.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15685,
+    "title": "War in Tethyr",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "vm_warintet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14822,
+    "title": "From the Depths",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "vm_fromthed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11993,
+    "title": "The Cybernetic Samurai",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "vm_cybersam.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11994,
+    "title": "The Cybernetic Shogun",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "vm_cybersho.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27582,
+    "title": "Evernight",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "vm_evernight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3071,
+    "title": "Turn of the Cards",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "grrm_wc12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3074,
+    "title": "Black Trump",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "grrm_wc15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3079,
+    "title": "Suicide Kings",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "grrm_suicidek.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16597,
+    "title": "The Chosen",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "EC_thechose.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16598,
+    "title": "Exogenesis",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "EC_exogenes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16599,
+    "title": "Blood Ties",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "EC_bloodtie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16600,
+    "title": "City of the Gods",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SW_citygods.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16601,
+    "title": "Roswell",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "SW_roswell.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

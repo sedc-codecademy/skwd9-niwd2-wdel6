@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3278,
+    "title": "Fallen Angels: Deceit and betrayal",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ml_fallenan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14948,
+    "title": "The Daemon's Curse",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "daml_daemonsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14949,
+    "title": "Bloodstorm",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "daml_bloodsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14950,
+    "title": "Reaper of Souls",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "daml_reaperof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14951,
+    "title": "Warpsword",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "daml_warpswor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14952,
+    "title": "Lord of Ruin",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "daml_lordofru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15212,
+    "title": "The Rise of Nagash",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ml_riseofna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15209,
+    "title": "Nagash the Sorcerer",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ml_nagashtheso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15210,
+    "title": "Nagash the Unbroken",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ml_nagashtheun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15211,
+    "title": "Nagash Immortal",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ml_nagashim.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 23092,
+    "title": "Quiet Town",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23252,
+    "title": "The Dark Age",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jg_thedarka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23091,
+    "title": "Eleanor",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jg_eleanor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

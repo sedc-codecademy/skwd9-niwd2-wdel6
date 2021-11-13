@@ -1,0 +1,28 @@
+[
+  {
+    "id": 27532,
+    "title": "Madness is Better than Defeat",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nb_madnessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27881,
+    "title": "It Takes More Muscles to Frown",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8259,
+    "title": "The Teleportation Accident",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "NB_TheTelep.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

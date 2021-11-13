@@ -1,0 +1,83 @@
+[
+  {
+    "id": 26616,
+    "title": "All for Naught",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jes_allforna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26615,
+    "title": "Reckoning Infinity",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jes_reckonin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26614,
+    "title": "Reunion on Neverend",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jes_reuniono.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26613,
+    "title": "Manhattan Transfer",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jes_manhatta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 186,
+    "title": "Redshift Rendezvous",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jes_redshiftr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26612,
+    "title": "Deep Quarry",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jes_deepquar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26611,
+    "title": "Death Tolls",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jes_deathtol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26610,
+    "title": "Memory Blank",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jes_memorybl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26609,
+    "title": "Scapescope",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jes_scapesco.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

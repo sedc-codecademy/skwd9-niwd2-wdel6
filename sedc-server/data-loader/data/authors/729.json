@@ -1,0 +1,244 @@
+[
+  {
+    "id": 7298,
+    "title": "The Very Best of Tad Williams",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tw_theveryb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7299,
+    "title": "Diary of a Dragon",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tw_diaryofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7300,
+    "title": "A Stark and Wormy Knight",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tw_astarkan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27026,
+    "title": "And Ministers of Grace",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7301,
+    "title": "Rite:  Short Work",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tw_rite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6537,
+    "title": "The War of the Flowers",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tw_warofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7302,
+    "title": "Caliban's Hour",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tw_calibans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7303,
+    "title": "Child of an Ancient City",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "twnkh_childofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5783,
+    "title": "Tailchaser's Song",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tw_tailchas.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7296,
+    "title": "The Dirty Streets of Heaven",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tw_thedirty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7297,
+    "title": "Happy Hour In Hell",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tw_happyhou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9293,
+    "title": "Sleeping Late On Judgement Day",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tw_sleeping.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20761,
+    "title": "The Heart of What Was Lost",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tw_theheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23288,
+    "title": "The Witchwood Crown",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tw_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34095,
+    "title": "Empire of Grass",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tw_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1414,
+    "title": "The Dragonbone Chair",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tw_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1415,
+    "title": "The Stone of Farewell",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tw_thestone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 732,
+    "title": "To Green Angel Tower, Part 1: Seige",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tw_togreena.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1416,
+    "title": "To Green Angel Tower, Part 2: Storm",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tw_gatstorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5779,
+    "title": "City of Golden Shadow",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tw_cityofgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5780,
+    "title": "River of Blue Fire",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tw_riverofb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5781,
+    "title": "Mountain of Black Glass",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tw_mountain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5782,
+    "title": "Sea of Silver Light",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tw_seaofsil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2313,
+    "title": "Shadowmarch",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tw_shadowma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2314,
+    "title": "Shadowplay",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tw_shadowpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2315,
+    "title": "Shadowrise",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tw_shadowri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2316,
+    "title": "Shadowheart",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tw_shadowhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

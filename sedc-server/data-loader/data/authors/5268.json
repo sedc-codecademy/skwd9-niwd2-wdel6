@@ -1,0 +1,29 @@
+[
+  {
+    "id": 23737,
+    "title": "Truthwitch",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sd_truthwit.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23738,
+    "title": "Windwitch",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sd_windwitc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35120,
+    "title": "Bloodwitch",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sd_bloodwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

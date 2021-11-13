@@ -1,0 +1,46 @@
+[
+  {
+    "id": 3442,
+    "title": "Angelmaker",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nh_angelmak.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1214,
+    "title": "The Gone-Away World",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "nh_thegonea.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 26147,
+    "title": "Gnomon",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nh_gnomon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27883,
+    "title": "Billy Tumult",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9355,
+    "title": "Tigerman",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "NH_Tigerman.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

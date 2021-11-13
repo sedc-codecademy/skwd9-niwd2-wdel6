@@ -1,0 +1,56 @@
+[
+  {
+    "id": 12120,
+    "title": "Children of the Rainbow:  aka Sailing Time's Ocean",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tmg_children.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14619,
+    "title": "Barking Dogs",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "tmg_barkingd(2).jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14620,
+    "title": "Blue Limbo",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tmg_bluelimb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 901,
+    "title": "Shadow of Ashland",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tmg_shadowof.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 885,
+    "title": "A Witness to Life",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tmg_awitness.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14618,
+    "title": "St. Patrick's Bed",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tmg_stpatric.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

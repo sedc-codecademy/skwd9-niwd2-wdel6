@@ -1,0 +1,83 @@
+[
+  {
+    "id": 10828,
+    "title": "In Dark Service",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sh_indarkse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12139,
+    "title": "Foul Tide's Turning",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sh_foultide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26035,
+    "title": "The Stealer's War",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sh_thesteal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10822,
+    "title": "The Court of the Air",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sh_thecourt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10823,
+    "title": "The Kingdom Beyond the Waves",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sh_thekingd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10824,
+    "title": "The Rise of the Iron Moon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sh_theriseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10825,
+    "title": "Secrets of the Fire Sea",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sh_secretso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10826,
+    "title": "Jack Cloudie",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sh_jackclou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10827,
+    "title": "From the Deep of the Dark",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sh_fromthed.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

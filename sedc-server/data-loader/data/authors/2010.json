@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5675,
+    "title": "Heartwood",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bc_heartwoo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5676,
+    "title": "Bloodstone",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bc_bloodsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5677,
+    "title": "Foxfire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bc_foxfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

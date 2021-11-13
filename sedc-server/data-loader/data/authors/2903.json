@@ -1,0 +1,110 @@
+[
+  {
+    "id": 11536,
+    "title": "The Unknown Soldier",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sw_sd_unknowns.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11375,
+    "title": "The Prodigal Sun",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "swsd_theprodi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11376,
+    "title": "The Dying Light",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "swsd_thedying.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11377,
+    "title": "The Dark Imbalance",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "swsd_thedarki.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11382,
+    "title": "Ascent",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "swsd_geascent.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11381,
+    "title": "Descent",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "swsd_gdescent.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11378,
+    "title": "Echoes of Earth",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "swsd_echoesof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11379,
+    "title": "Orphans of Earth",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "swsd_orphanso.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11380,
+    "title": "Heirs of Earth",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "swsd_heirsofe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15986,
+    "title": "Remnant",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sdsw_remnant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15987,
+    "title": "Refugee",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "swsd_refugee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15988,
+    "title": "Reunion",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "swsd_reunion.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

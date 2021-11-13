@@ -1,0 +1,393 @@
+[
+  {
+    "id": 17844,
+    "title": "I Know What You're Thinking",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13904,
+    "title": "And the Angels Sing (collection)",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "kw_andthean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19378,
+    "title": "Naming the Flowers",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "kw_namingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27719,
+    "title": "And the Angels Sing",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8702,
+    "title": "Cambio Bay",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kw_cambioba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13905,
+    "title": "Children of the Wind",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kw_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8701,
+    "title": "Crazy Time",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "kw_crazytim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17976,
+    "title": "Forever Yours, Anna",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18539,
+    "title": "The Girl Who Fell into the Sky",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kw_thegirlw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8700,
+    "title": "Huysman's Pets",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kw_huysmans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8699,
+    "title": "Welcome, Chaos",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "kw_welcomec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8698,
+    "title": "Oh, Susannah!",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "kw_ohsusann.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19381,
+    "title": "Listen, Listen",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "kw_listenli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8697,
+    "title": "A Sense of Shadow",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "kw_asenseof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19382,
+    "title": "The Winter Beach",
+    "year": 1981,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 236,
+    "title": "Juniper Time",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "kw_junipert.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6177,
+    "title": "Somerset Dreams and Other Fictions",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "kw_somerset.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8696,
+    "title": "Fault Lines",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "kw_faultlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8438,
+    "title": "The Clewiston Test",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "kw_theclewi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24,
+    "title": "Where Late the Sweet Birds Sang",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "kw_wherelat.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 8439,
+    "title": "The Infinity Box (collection)",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "kw_theinfin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21180,
+    "title": "A Brother to Dragons, a Companion of Owls",
+    "year": 1974,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8695,
+    "title": "City of Cain",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "kw_cityofca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19060,
+    "title": "The Funeral",
+    "year": 1972,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8710,
+    "title": "Abyss",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "kw_abyss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19384,
+    "title": "The Infinity Box",
+    "year": 1971,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 288,
+    "title": "Margaret and I",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "kw_margaret.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19383,
+    "title": "The Plastic Abyss",
+    "year": 1971,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19385,
+    "title": "April Fool's Day Forever",
+    "year": 1970,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18230,
+    "title": "A Cold Dark Night with Snow",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19061,
+    "title": "The Encounter",
+    "year": 1970,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8694,
+    "title": "Let the Fire Fall",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "kw_letthefi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8709,
+    "title": "The Downstairs Room and Other Speculative Fiction",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "kw_thedowns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18313,
+    "title": "The Planners",
+    "year": 1968,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18314,
+    "title": "Baby, You Were Great!",
+    "year": 1967,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8693,
+    "title": "The Killer Thing",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "kw_thekille.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 829,
+    "title": "The Clone",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "tltkw_theclone.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8708,
+    "title": "The Mile-Long Spaceship",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "kw_themilel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28275,
+    "title": "State of Grace",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kw_acm16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19379,
+    "title": "A Flush of Shadows",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "kw_aflushof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19380,
+    "title": "The Gorgon Field",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "kw_thegorgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20747,
+    "title": "With Thimbles, With Forks and Hope",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "kw_withthim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7540,
+    "title": "Nebula Award Stories Nine",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "kw_nebula09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34149,
+    "title": "Forget Luck",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11118,
+    "title": "Tor Double #12: He Who Shapes / The Infinity Box",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RZ_tordbl12.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

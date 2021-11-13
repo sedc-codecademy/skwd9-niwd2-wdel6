@@ -1,0 +1,101 @@
+[
+  {
+    "id": 24464,
+    "title": "Deepwater Dreams",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "svs_deepwate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24463,
+    "title": "Feather Stroke",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "svs_feathers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24462,
+    "title": "Drowntide",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "svs_drowntid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24461,
+    "title": "Sunwaifs",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "svs_sunwaifs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24460,
+    "title": "Cloudcry",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "svs_cloudcry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24459,
+    "title": "Starmother",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "svs_starmoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24458,
+    "title": "Assignment Nor' Dyren",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "svs_assignme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24457,
+    "title": "Saltflower",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "svs_saltflow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2839,
+    "title": "Darkchild",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sjvs_darkchil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3304,
+    "title": "Bluesong",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sjvs_bluesong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3305,
+    "title": "Starsilk",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sjvs_starsilk.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 27601,
+    "title": "Gap Year In Ghost Town",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mp_gapyeari.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36342,
+    "title": "Graveyard Shift in Ghost Town",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mp_graveyard.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11739,
+    "title": "Blaze of Glory",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mp_blazeofg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11740,
+    "title": "Heart of Gold",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mp_heartofg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11741,
+    "title": "Word of Honour",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mp_wordofho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11742,
+    "title": "Time of Trial",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mp_timeoftr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11743,
+    "title": "Moment of Truth",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mp_momentof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11744,
+    "title": "Hour of Need",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mp_hourofne.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

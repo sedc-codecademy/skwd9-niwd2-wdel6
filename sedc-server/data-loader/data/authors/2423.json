@@ -1,0 +1,146 @@
+[
+  {
+    "id": 36036,
+    "title": "Mirage",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "LC_Mirage.L.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36035,
+    "title": "The Book of Paradox",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "LC_BookPara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36058,
+    "title": "Blood Summer",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "LC_BloodSum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36059,
+    "title": "In Memory of Sarah Bailey",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "LC_MemorySa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9133,
+    "title": "Nemesis ",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lc_nemesis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9134,
+    "title": "Inferno",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lc_inferno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9135,
+    "title": "Infanta",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lc_infanta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9136,
+    "title": "Nocturne ",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lc_nocture.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9137,
+    "title": "Troika",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lc_troika.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9138,
+    "title": "Avatar ",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lc_avatar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9139,
+    "title": "Revenant ",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "lc_revenant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9140,
+    "title": "Aisling",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lc_aisling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9128,
+    "title": "Rip Tide",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lc_riptide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21916,
+    "title": "The Initiate",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "coo_theinit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21917,
+    "title": "The Outcast",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "coo_theoutc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21918,
+    "title": "The Master",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "coo_themast.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

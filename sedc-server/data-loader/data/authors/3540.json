@@ -1,0 +1,37 @@
+[
+  {
+    "id": 14350,
+    "title": "Crooked",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ag_crooked.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17012,
+    "title": "Professor Incognito Apologizes: An Itemized List",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14349,
+    "title": "You",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ag_you.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14348,
+    "title": "Soon I Will Be Invincible",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ag_sooniwil.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

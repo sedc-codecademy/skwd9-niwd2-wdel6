@@ -1,0 +1,160 @@
+[
+  {
+    "id": 8478,
+    "title": "Entities:  The Selected Novels of Eric Frank Russell",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "efr_entities.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8058,
+    "title": "Major Ingredients:  The Selected Short Stories of Eric Frank Russell",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "efr_majoring.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11011,
+    "title": "Design for Great-Day",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "adf_designfo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10455,
+    "title": "Somewhere a Voice",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ER_somewher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25616,
+    "title": "Far Stars",
+    "year": 1961,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4492,
+    "title": "Wasp",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "efr_wasp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25615,
+    "title": "Legwork",
+    "year": 1956,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21613,
+    "title": "Allamagoosa",
+    "year": 1955,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8489,
+    "title": "Men, Martians and Machines",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "efr_menmarti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14667,
+    "title": "Three to Conquer",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "EFR_threetoc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31662,
+    "title": "... And Then There Were None",
+    "year": 1951,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21358,
+    "title": "Sentinels from Space / The Ultimate Invader and Other Science-Fiction",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ad_sentinel_theultim.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21361,
+    "title": "Three to Conquer / Doomsday Eve",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ad_threetoc_doomsday.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21580,
+    "title": "The Space Willies / Six Worlds Yonder",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_thespace_sixworld.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18441,
+    "title": "The Best of Eric Frank Russell",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "EFR_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12925,
+    "title": "Sinister Barrier",
+    "year": 1939,
+    "type": "novel",
+    "imageName": "ER_sinister.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10723,
+    "title": "The Great Explosion",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ER_greatexp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8477,
+    "title": "Sentinels from Space",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "efr_sentinel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

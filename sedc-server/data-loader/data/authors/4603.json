@@ -1,0 +1,47 @@
+[
+  {
+    "id": 20365,
+    "title": "Girl on a Wire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gb_gonawire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20366,
+    "title": "Girl in the Shadows",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gb_gitshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20363,
+    "title": "Fallout",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gb_fallout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20364,
+    "title": "Double Down",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gb_doubledo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23606,
+    "title": "Triple Threat",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gb_tripleth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

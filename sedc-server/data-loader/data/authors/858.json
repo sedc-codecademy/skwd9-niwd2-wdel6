@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11025,
+    "title": "The Buried Giant",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ki_theburie.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 856,
+    "title": "Never Let Me Go",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ki_neverlet.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3122,
+    "title": "The Unconsoled",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ki_theuncon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

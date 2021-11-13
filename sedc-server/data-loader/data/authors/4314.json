@@ -1,0 +1,28 @@
+[
+  {
+    "id": 28814,
+    "title": "Interesting Facts",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17987,
+    "title": "Emporium",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "aj_emporium.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28080,
+    "title": "Parasites Like Us",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "aj_parasite.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

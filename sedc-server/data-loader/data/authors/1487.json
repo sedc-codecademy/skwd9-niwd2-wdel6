@@ -1,0 +1,29 @@
+[
+  {
+    "id": 27061,
+    "title": "Death with Interruptions",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "js_deathwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34618,
+    "title": "All the Names",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "JS_AllTheNa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3195,
+    "title": "Blindness",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "js_blindnes.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

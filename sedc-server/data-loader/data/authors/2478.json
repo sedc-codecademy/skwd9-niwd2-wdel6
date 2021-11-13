@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10258,
+    "title": "The Battle Royale Slam Book",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "NM_battslam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9456,
+    "title": "The Future Is Japanese",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nmmw_thefutur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9455,
+    "title": "Phantasm Japan:  Fantasies Light and Dark, From and About Japan",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "nmmw_phantasm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13777,
+    "title": "Hanzai Japan:  Fantastical, Futuristic Stories of Crime",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "NM_hanzaija.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

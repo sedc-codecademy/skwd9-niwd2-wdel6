@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11884,
+    "title": "The Broken Ones",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "smi_thebroke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11883,
+    "title": "The Dead Path (The Darkening)",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "smi_thedeadp.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

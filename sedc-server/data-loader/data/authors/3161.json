@@ -1,0 +1,47 @@
+[
+  {
+    "id": 34928,
+    "title": "Dolly: A Ghost Story",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "SH_Dolly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27627,
+    "title": "The Small Hand: A Ghost Story",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sh_thesmall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12221,
+    "title": "The Man in the Picture:  A Ghost Story",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SH_manpictu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27626,
+    "title": "The Mist in the Mirror",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sh_themisti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12220,
+    "title": "The Woman In Black:  A Ghost Story",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "SH_womenbl1.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

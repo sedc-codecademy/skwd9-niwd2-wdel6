@@ -1,0 +1,288 @@
+[
+  {
+    "id": 34144,
+    "title": "The Best of R. A. Lafferty",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ral_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 521,
+    "title": "Iron Tears",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ral_irontear.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24635,
+    "title": "Lafferty in Orbit",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ral_linorbit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20120,
+    "title": "Episodes of the Argo",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27816,
+    "title": "Magazine Section",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24636,
+    "title": "Ringing Changes",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ral_ringingc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27828,
+    "title": "Company in the Wings",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 568,
+    "title": "Aurelia",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ral_aurelia.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27188,
+    "title": "Golden Gate",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7262,
+    "title": "Space Chantey",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ral_spacecha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7260,
+    "title": "Apocalypses",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ral_apocalyp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26385,
+    "title": "Parthen",
+    "year": 1973,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21497,
+    "title": "Eurema's Dam",
+    "year": 1972,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18250,
+    "title": "Strange Doings",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "RAL_StrangeD.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7913,
+    "title": "Arrive at Easterwine: The Autobiography of a Ktistec Machine",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ral_arriveat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21496,
+    "title": "Sky",
+    "year": 1971,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19065,
+    "title": "Continued on Next Rock",
+    "year": 1970,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18270,
+    "title": "Entire and Perfect Chrysolite",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 290,
+    "title": "Fourth Mansions",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ral_fourthma.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7259,
+    "title": "Nine Hundred Grandmothers",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ral_nine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 335,
+    "title": "Past Master",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ral_pastmast.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7261,
+    "title": "The Reefs of Earth",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ral_thereefs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18373,
+    "title": "In Our Block",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18374,
+    "title": "Slow Tuesday Night",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21643,
+    "title": "Space Chantey / Pity About Earth",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_spacecha_pityabou.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6232,
+    "title": "The Man Who Made Models:  The Collected Short Fiction Volume One",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ral_manwhoma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10954,
+    "title": "The Man with the Aura: The Collected Short Fiction, Volume Two",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ral_themanwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17105,
+    "title": "The Man Underneath:  The Collected Short Fiction, Volume Three",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ral_themanun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22455,
+    "title": "The Man with the Speckled Eyes:  The Collected Short Fiction, Volume Four",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ral_themanw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34476,
+    "title": "The Man Who Walked Through Cracks:  The Collected Short Fiction, Volume Five",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ral_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25861,
+    "title": "The Flame is Green",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ral_theflame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25862,
+    "title": "Half a Sky",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ral_halfasky.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 285,
+    "title": "The Devil Is Dead",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ral_thedevil.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

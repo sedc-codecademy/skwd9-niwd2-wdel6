@@ -1,0 +1,36 @@
+[
+  {
+    "id": 28682,
+    "title": "Enchanted Night",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sm_enchante.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18495,
+    "title": "The Knife Thrower and Other Stories",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "SM_TheKnife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23968,
+    "title": "The Sisterhood of Night",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23921,
+    "title": "Eisenheim the Illusionist",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

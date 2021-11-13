@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34777,
+    "title": "The Watcher",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "RL_thewatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34758,
+    "title": "The Planet Dweller",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "JP_planetdw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34759,
+    "title": "Moving Moosevan",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JP_movingmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34760,
+    "title": "Duckbill Soup",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JP_duckbill.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 28164,
+    "title": "Snow City",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gak_snowcity.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28260,
+    "title": "The Borders of Life",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gak_theborde.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

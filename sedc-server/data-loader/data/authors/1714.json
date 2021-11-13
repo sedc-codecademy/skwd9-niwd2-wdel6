@@ -1,0 +1,29 @@
+[
+  {
+    "id": 7581,
+    "title": "The Void",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bjt_thevoid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17452,
+    "title": "He Who Walks in Shadow",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "BJT_HeWhoWal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4128,
+    "title": "That Which Should Not Be",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bjt_thatwhic.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

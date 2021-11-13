@@ -1,0 +1,91 @@
+[
+  {
+    "id": 35743,
+    "title": "Blue Apes",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "PG_BlueApes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19602,
+    "title": "Son of the Morning and Other Stories",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pg_sonofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19603,
+    "title": "Son of the Morning",
+    "year": 1972,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2846,
+    "title": "Sunburst",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "pg_sunburst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6414,
+    "title": "Flesh and Gold",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pg_fleshand.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6415,
+    "title": "Violent Stars",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pg_violents.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6416,
+    "title": "Mindworlds",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pg_mindworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14592,
+    "title": "A Judgment of Dragons",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pg_judgment.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14593,
+    "title": "Emperor, Swords, Pentacles",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pg_emperors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14594,
+    "title": "The Kingdom of the Cats",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pg_kingdomo.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

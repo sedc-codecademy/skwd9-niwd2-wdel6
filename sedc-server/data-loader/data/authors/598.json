@@ -1,0 +1,92 @@
+[
+  {
+    "id": 12890,
+    "title": "Falling Out of Cars",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jn_fallingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12889,
+    "title": "Needle in the Groove",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jn_needlein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12891,
+    "title": "Pixel Juice",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jn_pixeljui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7357,
+    "title": "Automated Alice",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jn_automate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24380,
+    "title": "A Man of Shadows",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jn_amanofsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27246,
+    "title": "The Body Library",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jn_thebodyl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36239,
+    "title": "Creeping Jenny",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "JN_creeping.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 613,
+    "title": "Vurt",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jn_vurt.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7356,
+    "title": "Pollen",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jn_pollen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 599,
+    "title": "Nymphomation",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jn_nymphoma.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

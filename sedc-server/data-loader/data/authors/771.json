@@ -1,0 +1,236 @@
+[
+  {
+    "id": 20741,
+    "title": "Violin",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ar_violin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20742,
+    "title": "Servant of the Bones",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ar_servanto.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6735,
+    "title": "The Witching Hour",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ar_witching.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6736,
+    "title": "Lasher",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ar_lasher.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6737,
+    "title": "Taltos",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ar_taltos.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20743,
+    "title": "Pandora",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ar_pandora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20744,
+    "title": "Vittorio, the Vampire",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ar_vittorio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14296,
+    "title": "The Mummy, or Ramses the Damned",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ar_themummy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26016,
+    "title": "Ramses the Damned:  The Passion of Cleopatra",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "arcr_thepassi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20739,
+    "title": "Angel Time",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ar_angeltim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20740,
+    "title": "Of Love and Evil",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ar_oflovean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1122,
+    "title": "Interview with the Vampire",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ar_intervie.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 772,
+    "title": "The Vampire Lestat",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ar_thevampi.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1610,
+    "title": "The Queen of the Damned",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ar_thequeen.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1611,
+    "title": "The Tale of the Body Thief",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ar_thetaleo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1612,
+    "title": "Memnoch the Devil",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ar_memnocht.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1613,
+    "title": "The Vampire Armand",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ar_armand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1614,
+    "title": "Merrick",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ar_merrick.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1615,
+    "title": "Blood and Gold",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ar_bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1616,
+    "title": "Blackwood Farm",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ar_blackwoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1617,
+    "title": "Blood Canticle",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ar_bloodcan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9535,
+    "title": "Prince Lestat",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ar_prince.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20718,
+    "title": "Prince Lestat and the Realms of Atlantis",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_princele.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28529,
+    "title": "Blood Communion:  A Tale of Prince Lestat",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ar_bloodcom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20737,
+    "title": "The Wolf Gift",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ar_thewolfg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20738,
+    "title": "The Wolves of Midwinter",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ar_thewolve.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

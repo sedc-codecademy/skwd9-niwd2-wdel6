@@ -1,0 +1,65 @@
+[
+  {
+    "id": 24358,
+    "title": "Science Fiction Quotations: From the Inner Mind to the Outer Limits",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gw_sciencef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36376,
+    "title": "Hugo Gernsback and the Century of Science Fiction",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gw_hugogern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36399,
+    "title": "Science Fiction and the Two Cultures:  Essays on Bridging the Gap Between the Sciences and the Humanities",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gwgs_sfandthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36602,
+    "title": "Science Fiction and the Prediction of the Future:  Essays on Foresight and Fallacy",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gwwkyakc_sfandthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13970,
+    "title": "The Mechanics of Wonder:  The Creation of the Idea in Science Fiction",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "GW_mechanic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10662,
+    "title": "William Gibson",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "GW_williamg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28438,
+    "title": "Arthur C. Clarke",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gw_arthurcc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

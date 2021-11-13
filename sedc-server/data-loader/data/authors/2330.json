@@ -1,0 +1,20 @@
+[
+  {
+    "id": 8817,
+    "title": "Longest Day",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mc_longestd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8830,
+    "title": "The Taint",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mc_thetaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

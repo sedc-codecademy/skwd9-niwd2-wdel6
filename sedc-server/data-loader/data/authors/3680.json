@@ -1,0 +1,56 @@
+[
+  {
+    "id": 15135,
+    "title": "Broken Honour",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "re_brokenho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15080,
+    "title": "The Corrupted",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "re_thecorru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15597,
+    "title": "The Burning Shore",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "re_theburni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15598,
+    "title": "Wild Kingdoms",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "re_wildking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15599,
+    "title": "Savage City",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "re_savageci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15570,
+    "title": "Ancient Blood",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "re_ancientb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

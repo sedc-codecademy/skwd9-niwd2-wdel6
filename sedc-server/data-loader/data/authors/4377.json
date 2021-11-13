@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18525,
+    "title": "Silver",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rh_silver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18526,
+    "title": "Tarnished",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rh_tarnishe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18527,
+    "title": "Reflected",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rh_reflecte.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

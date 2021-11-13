@@ -1,0 +1,73 @@
+[
+  {
+    "id": 3533,
+    "title": "Deathgrip",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bh_deathgri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18862,
+    "title": "Weight of the Dead",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bh_weightof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23560,
+    "title": "The Dripping of Sundered Wineskins",
+    "year": 1997,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36086,
+    "title": "The Darker Saints",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "BH_DarkerSa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36085,
+    "title": "Nightlife",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "BH_NightLif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36084,
+    "title": "Oasis",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "BH_Oasis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36083,
+    "title": "Dark Advent",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "BH_DarkAdve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16416,
+    "title": "On Earth As It Is In Hell",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "bh_oneartha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

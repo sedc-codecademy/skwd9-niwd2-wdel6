@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36340,
+    "title": "The Wailing Woman",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ml_thewaili.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32829,
+    "title": "The Witch Who Courted Death",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ml_thewitch.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27604,
+    "title": "Who's Afraid?",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ml_whosafra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27605,
+    "title": "Who's Afraid Too?",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ml_whotoo.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

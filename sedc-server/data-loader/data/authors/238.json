@@ -1,0 +1,541 @@
+[
+  {
+    "id": 24839,
+    "title": "A Treasury of Modern Fantasy",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tcmhg_atreasur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 244,
+    "title": "Cirque: A Novel of the Far Future",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "tc_cirque.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18310,
+    "title": "The Light at the End of the Universe",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "tc_thelight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34431,
+    "title": "This Side of Infinity",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "tc_thisside.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18388,
+    "title": "On Our Way to the Future",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "TC_OnOurWay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34429,
+    "title": "The Others",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "tc_theother.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18309,
+    "title": "The Dance of the Changer and the Three",
+    "year": 1968,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34423,
+    "title": "Science Fiction for People Who Hate Science Fiction",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "tc_sciencefi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21240,
+    "title": "The Star Wasps / Warlord of Kor",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ad_thestarw_warlordo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19921,
+    "title": "The Best Science Fiction Novellas of the Year #1",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tc_tbsfnov1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19922,
+    "title": "The Best Science Fiction Novellas of the Year #2",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tc_tbsfnov2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18233,
+    "title": "The Best Science Fiction of the Year #1",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "tc_bsfoty01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18234,
+    "title": "The Best Science Fiction of the Year #2",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "tc_bsfoty02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18235,
+    "title": "The Best Science Fiction of the Year #3",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "tc_bsfoty03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18252,
+    "title": "The Best Science Fiction of the Year #4",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "tc_bsfoty04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18253,
+    "title": "The Best Science Fiction of the Year #5",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "tc_bsfoty05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18254,
+    "title": "The Best Science Fiction of the Year #6",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "tc_bsfoty06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18255,
+    "title": "The Best Science Fiction of the Year #7",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tc_bsfoty07.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18256,
+    "title": "The Best Science Fiction of the Year #8",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tc_bsfoty08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18257,
+    "title": "The Best Science Fiction of the Year #9",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tc_bsfoty09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18258,
+    "title": "The Best Science Fiction of the Year #10",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tc_bsfoty10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18259,
+    "title": "The Best Science Fiction of the Year #11",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "tc_bsfoty11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18260,
+    "title": "The Best Science Fiction of the Year #12",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tc_bsfoty12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18261,
+    "title": "The Best Science Fiction of the Year #13",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "tc_bsfoty13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18262,
+    "title": "Best SF of the Year #14",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tc_bsfoty14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18263,
+    "title": "Best SF of the Year #15",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tc_bsfoty15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18264,
+    "title": "Best SF of the Year #16",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tc_bsfoty16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19916,
+    "title": "The Year's Finest Fantasy",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tc_fantasy1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19917,
+    "title": "The Year's Finest Fantasy - Volume 2",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tc_fantasy2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19918,
+    "title": "Fantasy Annual III",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tc_fantasy3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19919,
+    "title": "Fantasy Annual IV",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tc_fantasy4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19920,
+    "title": "Fantasy Annual V",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "tc_fantasy5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18333,
+    "title": "New Worlds of Fantasy",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "TC_NewWorld1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18334,
+    "title": "New Worlds of Fantasy #2",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "TC_NewWorld2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18335,
+    "title": "New Worlds of Fantasy #3",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "TC_NewWorld3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18324,
+    "title": "The Science Fiction Hall of Fame, Volume IV",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "TC_SFHOF4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18123,
+    "title": "Universe 1",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "tc_univer01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18124,
+    "title": "Universe 2",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "tc_univer02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18125,
+    "title": "Universe 3",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "tc_univer03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18126,
+    "title": "Universe 4",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "tc_univer04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18127,
+    "title": "Universe 5",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "tc_univer05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18128,
+    "title": "Universe 6",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "tc_univer06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18129,
+    "title": "Universe 7",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "tc_univer07.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18130,
+    "title": "Universe 8",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tc_univer08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18131,
+    "title": "Universe 9",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "tc_univer09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18132,
+    "title": "Universe 10",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tc_univer10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17697,
+    "title": "Universe 11",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tc_univer11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18023,
+    "title": "Universe 12",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "tc_univer12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18133,
+    "title": "Universe 13",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tc_univer13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18134,
+    "title": "Universe 14",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "tc_univer14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18135,
+    "title": "Universe 15",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "tc_univer15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18136,
+    "title": "Universe 16",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tc_univer16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18137,
+    "title": "Universe 17",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tc_univer17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8602,
+    "title": "World's Best Science Fiction:  1965",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1965.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8603,
+    "title": "World's Best Science Fiction:  1966",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1966.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8604,
+    "title": "World's Best Science Fiction:  1967",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1967.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8605,
+    "title": "World's Best Science Fiction:  1968",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1968.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8599,
+    "title": "World's Best Science Fiction:  1969",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1969.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8606,
+    "title": "World's Best Science Fiction:  1970",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1970.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8607,
+    "title": "World's Best Science Fiction:  1971",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1971.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

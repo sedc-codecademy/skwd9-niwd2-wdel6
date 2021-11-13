@@ -1,0 +1,45 @@
+[
+  {
+    "id": 27012,
+    "title": "Contingency Plans for the Apocalypse",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28335,
+    "title": "Loss of Signal",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sbd_lossofsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21957,
+    "title": "Microbiota and the Masses: A Love Story",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sbd_microbio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23310,
+    "title": "Binaries",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18267,
+    "title": "Runtime",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sbd_runtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

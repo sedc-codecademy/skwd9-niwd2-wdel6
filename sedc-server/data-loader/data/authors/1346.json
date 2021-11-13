@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2649,
+    "title": "Spellwright",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bc_spellwri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2650,
+    "title": "Spellbound",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bc_spellbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18871,
+    "title": "Spellbreaker",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bc_spellbre.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

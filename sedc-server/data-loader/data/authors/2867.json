@@ -1,0 +1,65 @@
+[
+  {
+    "id": 13360,
+    "title": "Armageddon Summer ",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jybc_armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14315,
+    "title": "The Monster's Ring",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "bc_themonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14316,
+    "title": "Jeremy Thatcher, Dragon Hatcher",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bc_jeremyth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14318,
+    "title": "Jennifer Murdley's Toad",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bc_jennifer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14319,
+    "title": "The Skull of Truth",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "bc_theskull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14320,
+    "title": "Juliet Dove, Queen of Love",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "bc_julietdo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11246,
+    "title": "The Dark Abyss",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "BC_darkabys.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 24920,
+    "title": "The Dark Side",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "aon_thedaks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11902,
+    "title": "The Lamplighter",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ao_lampligh.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

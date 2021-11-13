@@ -1,0 +1,396 @@
+[
+  {
+    "id": 6122,
+    "title": "A Necessary End",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "spfpw_anecessa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11555,
+    "title": "Sims",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "fpw_sims.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11554,
+    "title": "Masque",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "fpw_mjc_masque.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11556,
+    "title": "The Select:  or The Foundation",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "fpw_select.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24007,
+    "title": "Buckets",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "fpw_buckets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3519,
+    "title": "Black Wind",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "fpw_blackwin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4619,
+    "title": "The Keep",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "fpw_thekeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4620,
+    "title": "The Tomb:  or Rakoshi",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "fpw_thetomb.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12050,
+    "title": "The Touch",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "fpw_thetouch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12051,
+    "title": "Reborn",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "fpw_reborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12052,
+    "title": "Reprisal",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "fpw_reprisal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4621,
+    "title": "Nightworld",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "fpw_nightwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28272,
+    "title": "Ad Statum Perspicuum",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "fpw_acm13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36509,
+    "title": "Binary Star No. 2",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gefpw_binary2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23500,
+    "title": "The Barrens",
+    "year": 1990,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12053,
+    "title": "Cold City",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "fpw_coldcity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12054,
+    "title": "Dark City",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "fpw_darkcity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12055,
+    "title": "Fear City",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "fpw_fearcity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18908,
+    "title": "Panacea",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "fpw_panacea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27019,
+    "title": "The God Gene",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "fpw_thegodge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19557,
+    "title": "Dydeetown Girl",
+    "year": 1986,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11557,
+    "title": "Healer",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "fpw_healer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11558,
+    "title": "Wheels Within Wheels",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "fpw_wheelswi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11559,
+    "title": "An Enemy of the State",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "fpw_enemyoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11560,
+    "title": "Dydeetown World",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "fpw_dydeeto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11561,
+    "title": "The Tery",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "fpw_tery.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12940,
+    "title": "Definitely Not Kansas",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tfmfpw_definite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12039,
+    "title": "Legacies",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "fpw_legacies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12040,
+    "title": "Conspiracies",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "fpw_conspira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12041,
+    "title": "All the Rage",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "fpw_allthera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12036,
+    "title": "Hosts",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "fpw_hosts.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12037,
+    "title": "The Haunted Air",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "fpw_thehaunt.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12042,
+    "title": "Gateways",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "fpw_gateways.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12043,
+    "title": "Crisscross",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "fpw_crisscro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12044,
+    "title": "Infernal",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "fpw_infernal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12038,
+    "title": "Harbingers",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "fpw_harbinge.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12045,
+    "title": "Bloodline",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "fpw_bloodlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12046,
+    "title": "By the Sword",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "fpw_bytheswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12047,
+    "title": "Ground Zero",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "fpw_groundzer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12048,
+    "title": "Fatal Error",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "fpw_fatalerr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12049,
+    "title": "The Dark at the End",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "fpw_thedarka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12056,
+    "title": "Jack: Secret Histories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "fpw_secrethi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12057,
+    "title": "Jack: Secret Circles",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "fpw_scircles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12058,
+    "title": "Jack: Secret Vengeance",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "fpw_svengean.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

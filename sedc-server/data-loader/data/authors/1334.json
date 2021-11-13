@@ -1,0 +1,119 @@
+[
+  {
+    "id": 10557,
+    "title": "Larklight",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pr_larkligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10558,
+    "title": "Starcross",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pr_starcros.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10559,
+    "title": "Mothstorm",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pr_mothstor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2605,
+    "title": "Fever Crumb",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pr_fevercru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4515,
+    "title": "A Web of Air",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pr_awebofai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4092,
+    "title": "Scrivener's Moon",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pr_scrivene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10560,
+    "title": "Mortal Engines",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pr_mortalen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10561,
+    "title": "Predator's Gold",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pr_predator.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10562,
+    "title": "Infernal Devices",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pr_infernal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10563,
+    "title": "A Darkling Plain",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pr_adarklin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21889,
+    "title": "Railhead",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ree_railhea.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24499,
+    "title": "Black Light Express",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pr_blacklig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31441,
+    "title": "Zero Station",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pr_stationz.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

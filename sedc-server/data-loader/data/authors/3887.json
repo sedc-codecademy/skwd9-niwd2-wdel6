@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16105,
+    "title": "Y:  The Last Man, Book 1",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bkv_ythelast1.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16106,
+    "title": "Y:  The Last Man, Book 2",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bkv_ythelast2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16107,
+    "title": "Y:  The Last Man, Book 3",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bkv_ythelast3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16108,
+    "title": "Y:  The Last Man, Book 4",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bkv_ythelast4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16109,
+    "title": "Y:  The Last Man, Book 5",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "bkv_ythelast5.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

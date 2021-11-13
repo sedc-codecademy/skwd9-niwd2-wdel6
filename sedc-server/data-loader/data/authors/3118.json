@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11999,
+    "title": "Distant Drums",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "dc_distantd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12000,
+    "title": "Rise Defiant",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "dc_risedefi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

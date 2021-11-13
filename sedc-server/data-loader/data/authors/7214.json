@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34295,
+    "title": "The Passenger",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "FRT_PassangeL.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34298,
+    "title": "The Voices",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "FRT_Voices.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34290,
+    "title": "The Sleep Room",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "frt_sleeproo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34294,
+    "title": "The Forbidden",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "frt_forbidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

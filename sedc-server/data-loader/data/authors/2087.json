@@ -1,0 +1,244 @@
+[
+  {
+    "id": 32258,
+    "title": "Asphodel",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "JL_Asphodel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28420,
+    "title": "A Green Moon Problem",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7151,
+    "title": "Child of a Rainless Year",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jl_childofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7150,
+    "title": "The Buried Pyramid",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jl_theburie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7157,
+    "title": "Lord Demon",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rzjl_lorddemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7156,
+    "title": "Donnerjack",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rzjl_donnerja.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7171,
+    "title": "When the Gods are Silent",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jl_whentheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7172,
+    "title": "Smoke and Mirrors",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jl_smokeand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7174,
+    "title": "Marks of Our Brothers",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jl_marksofo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7173,
+    "title": "The Pipes of Orpheus",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jl_thepipes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7140,
+    "title": "Brother to Dragons, Companion to Owls",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jl_brothert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7152,
+    "title": "Artemis Awakening",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jl_artemisa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12065,
+    "title": "Artemis Invaded",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jl_ainvaded.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7175,
+    "title": "Changer",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jl_charger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7176,
+    "title": "Legends Walking",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jl_legendsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7147,
+    "title": "Thirteen Orphans",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jl_thirteen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7148,
+    "title": "Nine Gates",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jl_ninegate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7149,
+    "title": "Five Odd Honors",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jl_fiveoddh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7141,
+    "title": "Through Wolf's Eyes",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jl_throughw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7142,
+    "title": "Wolf's Head, Wolf's Heart",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jl_wolfshea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7143,
+    "title": "The Dragon of Despair",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jl_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7144,
+    "title": "Wolf Captured",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jl_wolfcapt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7145,
+    "title": "Wolf Hunting",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jl_wolfhunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7146,
+    "title": "Wolf's Blood",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jl_wolfsblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14123,
+    "title": "Man-Kzin Wars XIII",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ln_mankzin13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7154,
+    "title": "Fire Season",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dwjl_fireseas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7155,
+    "title": "Treecat Wars",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dwjl_treecatw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,423 @@
+[
+  {
+    "id": 14062,
+    "title": "Work Done for Hire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jh_workdone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7669,
+    "title": "The Best of Joe Haldeman",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jh_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26233,
+    "title": "Sleeping Dogs",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1029,
+    "title": "The Accidental Time Machine",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jh_theaccid.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 14068,
+    "title": "Future Weapons of War",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jhmhg_futurewe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32176,
+    "title": "Expedition, with Recipes",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14063,
+    "title": "A Separate War and Other Stories",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jh_aseparat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26232,
+    "title": "Angel of Light",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30231,
+    "title": "Heartwired",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3916,
+    "title": "Old Twentieth",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jh_oldtwent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14067,
+    "title": "War Stories",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jh_wasstori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 839,
+    "title": "Camouflage",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jh_camoufla.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 13662,
+    "title": "Guardian",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JH_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21311,
+    "title": "Four Short Novels",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 696,
+    "title": "The Coming",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jh_thecomin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14064,
+    "title": "None So Blind (collection)",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jh_nonesobl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26735,
+    "title": "For White Hill",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17656,
+    "title": "None So Blind",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jh_nonesoblind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27637,
+    "title": "Feedback",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14065,
+    "title": "Vietnam and Other Alien Worlds",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jh_vietnama.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17652,
+    "title": "Graves",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jh_graves.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19745,
+    "title": "The Hemingway Hoax",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jh_hhoaxnva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14061,
+    "title": "The Hemingway Hoax",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jh_thehemin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13661,
+    "title": "Buying Time",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JH_buyingti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11154,
+    "title": "Tool of the Trade",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jh_toolofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14066,
+    "title": "Dealing in Futures",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jh_dealingi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17994,
+    "title": "More Than the Sum of His Parts",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jh_morethan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26231,
+    "title": "Manifest Destiny",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11153,
+    "title": "There is No Darkness",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jh_thereisn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11152,
+    "title": "Infinite Dreams",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jh_infinite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4667,
+    "title": "All My Sins Remembered",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jh_allmysin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14069,
+    "title": "Study War No More",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jh_studywar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 352,
+    "title": "Mindbridge",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jh_mindbrid.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18141,
+    "title": "Tricentennial",
+    "year": 1976,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20833,
+    "title": "Hero",
+    "year": 1972,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11619,
+    "title": "Planet of Judgment",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jh_planetof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4251,
+    "title": "World Without End",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jh_worldwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24749,
+    "title": "Forever Bound",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23,
+    "title": "The Forever War",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jh_theforev.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 45,
+    "title": "Forever Peace",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jh_foreverp.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 3386,
+    "title": "Forever Free",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jh_foreverf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1233,
+    "title": "Marsbound",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jh_marsboun.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2610,
+    "title": "Starbound",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jh_starboun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3784,
+    "title": "Earthbound",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jh_earthbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7497,
+    "title": "Nebula Award Stories Seventeen",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jh_nebula17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11155,
+    "title": "Worlds",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jh_worlds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11684,
+    "title": "Worlds Apart",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jh_worldsap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11685,
+    "title": "Worlds Enough and Time",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jh_worldsen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

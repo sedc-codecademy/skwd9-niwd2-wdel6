@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4434,
+    "title": "Germline",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tcmc_germline.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4435,
+    "title": "Exogene",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tcmc_exogene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4436,
+    "title": "Chimera",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tcmc_chimera.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

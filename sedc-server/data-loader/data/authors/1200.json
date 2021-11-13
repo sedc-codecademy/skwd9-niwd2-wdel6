@@ -1,0 +1,308 @@
+[
+  {
+    "id": 7823,
+    "title": "Strange Candy",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lkh_strangec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7472,
+    "title": "Nightseer",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lkh_nightsee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7473,
+    "title": "Guilty Pleasures",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "lkh_guiltypl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7474,
+    "title": "The Laughing Corpse",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lkh_thelaugh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7475,
+    "title": "Circus of the Damned",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lkh_circusof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7476,
+    "title": "The Lunatic Cafe",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lkh_thelunat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7477,
+    "title": "Bloody Bones",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lkh_bloodybo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7478,
+    "title": "The Killing Dance",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "lkh_thekilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7479,
+    "title": "Burnt Offerings",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lkh_burntoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7480,
+    "title": "Blue Moon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lkh_bluemoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7481,
+    "title": "Obsidian Butterfly",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lkh_obsidian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7482,
+    "title": "Narcissus in Chains",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lkh_narcissu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7483,
+    "title": "Cerulean Sins",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lkh_cerulean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7484,
+    "title": "Incubus Dreams",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lkh_incubusd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7814,
+    "title": "Micah",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lkh_micah.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7815,
+    "title": "Danse Macabre",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lkh_dansemac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7816,
+    "title": "The Harlequin",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lkh_theharle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7817,
+    "title": "Blood Noir",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lkh_bloodnoi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1904,
+    "title": "Skin Trade",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lkh_skintrad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7818,
+    "title": "Flirt",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lkh_flirt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7819,
+    "title": "Bullet",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lkh_bullet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7820,
+    "title": "Hit List",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lkh_hitlist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7821,
+    "title": "Kiss the Dead",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lkh_kissthed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7822,
+    "title": "Affliction",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lkh_afflicti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6001,
+    "title": "A Kiss of Shadows",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lkh_akissofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6002,
+    "title": "A Caress of Twilight",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lkh_acaresso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6003,
+    "title": "Seduced by Moonlight",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lkh_seducedb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7421,
+    "title": "A Stroke of Midnight",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "lkh_astrokeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6004,
+    "title": "Mistral's Kiss",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lkh_mistrals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7422,
+    "title": "A Lick of Frost",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lkh_alickoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7423,
+    "title": "Swallowing Darkness",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lkh_swallowi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7424,
+    "title": "Divine Misdemeanors",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lkh_divinemi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7425,
+    "title": "A Shiver of Light",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lkh_ashivero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19863,
+    "title": "Nightshade",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lkh_nightsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 32421,
+    "title": "A Brightness Long Ago",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ggk_abrightn.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 16375,
+    "title": "Children of Earth and Sky",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ggk_children.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1045,
+    "title": "Ysabel",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ggk_ysabel.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 3013,
+    "title": "The Last Light of the Sun",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ggk_thelastl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 725,
+    "title": "The Lions of Al-Rassan",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ggk_thelions.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 738,
+    "title": "A Song for Arbonne",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ggk_asongfor.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 746,
+    "title": "Tigana",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ggk_tigana.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 3026,
+    "title": "The Summer Tree",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ggk_thesumme.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3027,
+    "title": "The Wandering Fire",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ggk_thewande.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3028,
+    "title": "The Darkest Road",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ggk_thedarke.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 888,
+    "title": "Sailing to Sarantium",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ggk_sailingt.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 880,
+    "title": "Lord of Emperors",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ggk_lordofem.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2577,
+    "title": "Under Heaven",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ggk_underhea.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 4532,
+    "title": "River of Stars",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ggk_riverofs.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

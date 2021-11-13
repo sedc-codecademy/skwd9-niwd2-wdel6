@@ -1,0 +1,55 @@
+[
+  {
+    "id": 25329,
+    "title": "The Lamentation of Their Women",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kaw_thelamen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19753,
+    "title": "A Taste of Honey",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kaw_atasteof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27197,
+    "title": "Kaiju maximus®: 'So Various, So Beautiful, So New'",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13845,
+    "title": "The Sorcerer of the Wildeeps",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kaw_thesorce.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8145,
+    "title": "The Devil in America",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kaw_thedevi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16926,
+    "title": "Super Bass",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kaw_superbas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

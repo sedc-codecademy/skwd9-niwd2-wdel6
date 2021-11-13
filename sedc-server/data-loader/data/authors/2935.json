@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11510,
+    "title": "The Incandescent Ones",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "fh_theincan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11509,
+    "title": "Rockets in Ursa Major",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "fh_rocketsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22237,
+    "title": "Fifth Planet",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "FH_fifthpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

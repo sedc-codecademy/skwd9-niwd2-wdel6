@@ -1,0 +1,64 @@
+[
+  {
+    "id": 31663,
+    "title": "The Word of Flesh and Soul",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "re_thewordo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18860,
+    "title": "Those Who Watch",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16752,
+    "title": "The Deepest Rift",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "re_thedeepe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16751,
+    "title": "Seven Commentaries on an Imperfect Land",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "re_sevencom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16750,
+    "title": "The Litany of Earth",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "re_thelitan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20649,
+    "title": "Winter Tide",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "re_winterti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25850,
+    "title": "Deep Roots",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "re_deeproot.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

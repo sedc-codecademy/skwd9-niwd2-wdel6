@@ -1,0 +1,56 @@
+[
+  {
+    "id": 9874,
+    "title": "Shadow Raiders",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mwrk_shadowra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9875,
+    "title": "Storm Riders",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mwrk_strormrid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9876,
+    "title": "The Seventh Sigil",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mwrk_theseven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22518,
+    "title": "Spymaster",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mwrk_spymaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32184,
+    "title": "Privateer",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mwrk_privatee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34350,
+    "title": "Kingmaker",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mwrk_kingmake.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

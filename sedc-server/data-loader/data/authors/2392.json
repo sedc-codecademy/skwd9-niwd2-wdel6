@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9024,
+    "title": "The Mercy of Thin Air ",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rd_mercyoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9022,
+    "title": "The Mapmaker's War ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rd_mapmaker.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9023,
+    "title": "The Chronicle of Secret Riven ",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rd_chronicl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24411,
+    "title": "The Plague Diaries",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rd_theplagu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 16301,
+    "title": "J. R. R. Tolkien",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "TS_Tolkien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16338,
+    "title": "The Oxford Book of Fantasy Stories",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "TS_oxfordfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16341,
+    "title": "Fiction 2000:  Cyberpunk and the Future of Narrative",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "TS_fiction2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16337,
+    "title": "The Oxford Book of Science Fiction Stories",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "TS_oxfordsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16340,
+    "title": "Fictional Space:  Essays on Contemporary Science Fiction",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "TS_fictiona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16336,
+    "title": "Hard Reading:  Learning from Science Fiction",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "TS_hardread.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16339,
+    "title": "The Road to Middle-Earth:  Revised and Expanded Edition",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "TS_roadmid2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 6082,
+    "title": "The Cusanus Game",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "wj_thecusan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13021,
+    "title": "Midas",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "wj_midas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13020,
+    "title": "The Last Day of Creation",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "wj_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

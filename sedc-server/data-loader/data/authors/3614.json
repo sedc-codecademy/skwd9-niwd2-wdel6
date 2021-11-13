@@ -1,0 +1,92 @@
+[
+  {
+    "id": 14861,
+    "title": "Tears of the Night Sky",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "nvb_tearsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14803,
+    "title": "Dalamar the Dark",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "nvb_dalamart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14804,
+    "title": "The Inheritance",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "nvb_theinher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14737,
+    "title": "Stormblade",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "nb_stormblade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14805,
+    "title": "The Lioness",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "nvb_thelione.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14806,
+    "title": "Prisoner of Haven",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "nvb_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31930,
+    "title": "The Jewels of Elvish",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "NVB_Jewelsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31931,
+    "title": "A Child of Elvish",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "NVB_ChildofE.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31932,
+    "title": "Shadow of the Seventh Moon",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "NVB_Shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31933,
+    "title": "The Panther's Hoard",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "NVB_Panthers.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

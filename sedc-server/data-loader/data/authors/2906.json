@@ -1,0 +1,92 @@
+[
+  {
+    "id": 11408,
+    "title": "Bitter Greens",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kf_bittergr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11415,
+    "title": "The Tower of Ravens",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "kf_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11416,
+    "title": "The Shining City",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kf_theshini.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11417,
+    "title": "The Heart of Stars",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kf_theheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11409,
+    "title": "Dragonclaw",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "kf_dragoncl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11410,
+    "title": "The Pool of Two Moons",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kf_thepoolo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11411,
+    "title": "The Cursed Towers",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "kf_thecurse.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11412,
+    "title": "The Forbidden Land",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kf_theforbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11413,
+    "title": "The Skull of the World",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kf_theskull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11414,
+    "title": "The Fathomless Caves",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kf_thefatho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

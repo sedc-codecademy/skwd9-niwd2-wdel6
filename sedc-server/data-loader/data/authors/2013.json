@@ -1,0 +1,113 @@
+[
+  {
+    "id": 30110,
+    "title": "The Manor of Lost Time",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22260,
+    "title": "Cherry Blossoms on the River of Souls",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5683,
+    "title": "The Heavenly Fox",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rp_theheave.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16297,
+    "title": "Four Horsemen, at Their Leisure",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rp_fourhors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24287,
+    "title": "On the Banks of the River of Heaven",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rp_ontheban.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23244,
+    "title": "The Queen's Reason",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22647,
+    "title": "The Man Who Carved Skulls",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31782,
+    "title": "Empty Places",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31738,
+    "title": "Moon Viewing at Shijo Bridge",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8370,
+    "title": "Yamada Monogatari:  Demon Hunter",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rp_yamadam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14165,
+    "title": "Yamada Monogatari: To Break the Demon Gate",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rp_tobreakt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14166,
+    "title": "Yamada Monogatari: The War God's Son",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rp_thewargo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19527,
+    "title": "Yamada Monogatari:  The Emperor in Shadow",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rp_theemper.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

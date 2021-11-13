@@ -1,0 +1,29 @@
+[
+  {
+    "id": 33950,
+    "title": "The Labyrinth of Flame",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cs_thelabyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4151,
+    "title": "The Whitefire Crossing",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cs_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5617,
+    "title": "The Tainted City",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cs_thetaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

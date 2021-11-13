@@ -1,0 +1,124 @@
+[
+  {
+    "id": 13056,
+    "title": "Ghost Summer: Stories",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "td_ghostsum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19932,
+    "title": "Herd Immunity",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13058,
+    "title": "Domino Falls",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sbtd_dominofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13057,
+    "title": "Devil's Wake",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sbtd_devilswa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17130,
+    "title": "The Lake",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6344,
+    "title": "Joplin's Ghost",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ts_joplinsg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6337,
+    "title": "The Good House",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "td_thegoodh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22886,
+    "title": "Like Daughter",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22308,
+    "title": "Patient Zero",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3494,
+    "title": "The Between",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "td_thebetwe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3549,
+    "title": "My Soul to Keep",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "td_mysoulto.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6345,
+    "title": "The Living Blood",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ts_thelivin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6346,
+    "title": "Blood Colony",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "td_bloodcol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6347,
+    "title": "My Soul to Take",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "td_soultota.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

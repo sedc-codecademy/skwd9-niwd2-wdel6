@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1510,
+    "title": "Thendara House",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mzb_thendara.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32470,
+    "title": "Dushau",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "JL_Dushau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32471,
+    "title": "Farfetch",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "JL_Farfetch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32472,
+    "title": "Outreach",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JL_Outreach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32466,
+    "title": "Molt Brother",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "JL_MoltBrot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32467,
+    "title": "City of a Million Legends",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "JL_CityofaM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25791,
+    "title": "First Channel",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jljl_firstcha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25792,
+    "title": "Channel's Destiny",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jljl_channels.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25794,
+    "title": "House of Zeor",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jl_houseofz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25804,
+    "title": "Zelerod's Doom",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jljl_zelerods.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25805,
+    "title": "Unto Zeor, Forever",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jl_untozeor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25806,
+    "title": "Mahogany Trinrose",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jl_mahogany.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25807,
+    "title": "RenSime",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jl_rensime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32468,
+    "title": "Those of My Blood",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "JL_ThoseofM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32469,
+    "title": "Dreamspy",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JL_Dreamspy.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

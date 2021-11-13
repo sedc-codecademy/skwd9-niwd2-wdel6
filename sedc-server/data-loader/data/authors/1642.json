@@ -1,0 +1,83 @@
+[
+  {
+    "id": 15606,
+    "title": "The Thirteen Hallows",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mscf_thethirt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6713,
+    "title": "Silverhand",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mlms_silverha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6714,
+    "title": "Silverlight",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mlms_silverli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3735,
+    "title": "The Alchemyst",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ms_thealche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3736,
+    "title": "The Magician",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ms_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3737,
+    "title": "The Sorceress",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ms_thesorce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3738,
+    "title": "The Necromancer",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_thenecro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3739,
+    "title": "The Warlock",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ms_thewarlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3740,
+    "title": "The Enchantress",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ms_theencha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13736,
+    "title": "Death's Head",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DG_deathhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13737,
+    "title": "Maximum Offense",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "DG_maximum2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13738,
+    "title": "Day of the Damned",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "DG_daydamn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

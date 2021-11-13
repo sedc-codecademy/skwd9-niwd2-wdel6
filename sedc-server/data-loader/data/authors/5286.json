@@ -1,0 +1,496 @@
+[
+  {
+    "id": 24607,
+    "title": "Drought",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gm_drought.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24605,
+    "title": "Community",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gm_communit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24606,
+    "title": "Forest Ghost",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gm_forestgh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24604,
+    "title": "Fire Spirit",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gm_firespir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24603,
+    "title": "Death Mask",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gm_deathmas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24601,
+    "title": "The 5th Witch",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gm_the5thwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24602,
+    "title": "Ghost Music",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gm_ghostmus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24600,
+    "title": "Descendant",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gm_descenda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24599,
+    "title": "Innocent Blood",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gm_innocent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24598,
+    "title": "Unspeakable",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gm_unspeaka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24571,
+    "title": "The Devil in Gray ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gm_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24597,
+    "title": "The Hidden World",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gm_thehidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24596,
+    "title": "The Doorkeepers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gm_thedoork.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24595,
+    "title": "House of Bones",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gm_houseofb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24594,
+    "title": "The Chosen Child",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gm_thechose.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24570,
+    "title": "The House that Jack Built",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gm_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23996,
+    "title": "Underbed",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24593,
+    "title": "Spirit",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gm_spirit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24592,
+    "title": "Flesh and Blood",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gm_fleshand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24591,
+    "title": "The Sleepless",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gm_thesleep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24572,
+    "title": "Prey",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gm_prey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24567,
+    "title": "Black Angel",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gm_blackang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24590,
+    "title": "The Hymn",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gm_thehymn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24589,
+    "title": "Walkers",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gm_walkers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24587,
+    "title": "Mirror",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gm_mirror.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24588,
+    "title": "Ritual",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gm_ritual.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24586,
+    "title": "Death Trance",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "gm_deathtra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24585,
+    "title": "Family Portrait",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gm_familypo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24568,
+    "title": "The Pariah",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "gm_theparia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24569,
+    "title": "Tengu",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "gm_tengu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24579,
+    "title": "The Wells of Hell",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gm_thewells.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24582,
+    "title": "Charnel House",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gm_charnelh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24584,
+    "title": "The Devils of D-Day",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gm_tdofdday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24581,
+    "title": "The Sphinx",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "gm_thesphin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24580,
+    "title": "The Djinn",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gm_thedjinn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24583,
+    "title": "Plague",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "gm_plague.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35173,
+    "title": "Rook",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "GM_Rook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35174,
+    "title": "Tooth and Claw",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "GM_ToothCla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35175,
+    "title": "The Terror",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "GM_Terror.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35176,
+    "title": "Snowman",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "GM_Snowman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35177,
+    "title": "Swimmer",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "GM_Swimmer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35178,
+    "title": "Darkroom",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "GM_Darkroom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35179,
+    "title": "Demon's Door",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "GM_DemonsDo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35180,
+    "title": "Garden of Evil",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "GM_GardenEv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24573,
+    "title": "The Manitou",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "gm_themanit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24574,
+    "title": "Revenge of the Manitou",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gm_revengeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24575,
+    "title": "Burial",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gm_burial.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24576,
+    "title": "Manitou Blood",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gm_manitoub.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24577,
+    "title": "Blind Panic",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gm_blindpan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24578,
+    "title": "Plague of the Manitou",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gm_plagueof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24613,
+    "title": "Night Warriors",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "gm_nightwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24614,
+    "title": "Death Dream",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gm_deathdre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24615,
+    "title": "Night Plague",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gm_nightpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24616,
+    "title": "Night Wars",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gm_nighwars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24617,
+    "title": "The Ninth Nightmare",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gm_theninth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

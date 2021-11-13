@@ -1,0 +1,83 @@
+[
+  {
+    "id": 34174,
+    "title": "She Walks in Darkness",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ew_shewalks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23393,
+    "title": "Above Ker-Is and Other Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ew_aboveker.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5289,
+    "title": "The Sword is Forged",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ew_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5288,
+    "title": "Witch House",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "ew_witchhou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1812,
+    "title": "The Mabinogion",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ew_themabin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5119,
+    "title": "Prince of Annwn",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ew_princeof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5122,
+    "title": "The Children of Llyr",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ew_thechild.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5120,
+    "title": "The Song of Rhiannon",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ew_thesongo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5121,
+    "title": "The Island of the Mighty (The Virgin and the Swine)",
+    "year": 1936,
+    "type": "novel",
+    "imageName": "ew_theislan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

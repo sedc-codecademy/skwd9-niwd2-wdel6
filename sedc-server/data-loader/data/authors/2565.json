@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9935,
+    "title": "Pride and Prejudice and Zombies",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jasgs_prideand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11849,
+    "title": "Sense and Sensibility and Sea Monsters",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jabhw_senseand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12420,
+    "title": "Northanger Abbey",
+    "year": 1817,
+    "type": "novel",
+    "imageName": "JA_northang.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

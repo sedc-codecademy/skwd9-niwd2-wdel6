@@ -1,0 +1,128 @@
+[
+  {
+    "id": 5259,
+    "title": "Battlefield Earth",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lrh_battlefi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2282,
+    "title": "Final Blackout",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "lrh_finalbla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10676,
+    "title": "Fear",
+    "year": 1940,
+    "type": "novel",
+    "imageName": "lrh_fear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3374,
+    "title": "The Invaders Plan",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lrh_theinvad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 374,
+    "title": "Black Genesis",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lrh_blackgen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3375,
+    "title": "The Enemy Within",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lrh_theenemy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3376,
+    "title": "An Alien Affair",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lrh_analiena.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3377,
+    "title": "Fortune of Fear",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lrh_fortuneo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3378,
+    "title": "Death Quest",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lrh_deathque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3379,
+    "title": "Voyage of Vengeance",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lrh_voyageof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3380,
+    "title": "Disaster",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lrh_disaster.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3381,
+    "title": "Villainy Victorious",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lrh_villainy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3382,
+    "title": "The Doomed Planet",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lrh_thedoome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10675,
+    "title": "Slaves of Sleep",
+    "year": 1939,
+    "type": "novel",
+    "imageName": "lrh_slavesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

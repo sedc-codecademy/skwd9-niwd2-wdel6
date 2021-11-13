@@ -1,0 +1,28 @@
+[
+  {
+    "id": 25774,
+    "title": "The Man Responsible",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "sr_themanre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25790,
+    "title": "Stargate",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "sr_stargate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26684,
+    "title": "Helbent 4",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": 33910,
+    "title": "The Grand Dark",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rk_thegrand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34271,
+    "title": "Ambitious Boys Like You",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13194,
+    "title": "Dead Set",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rk_deadset.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9821,
+    "title": "Metrophage",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rk_metropha.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17966,
+    "title": "The Everything Box",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rk_theevery.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22576,
+    "title": "The Wrong Dead Guy",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rc_thewrong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3371,
+    "title": "Sandman Slim",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rk_sandmans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3372,
+    "title": "Kill the Dead",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rk_killthed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3373,
+    "title": "Aloha from Hell",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rk_alohafro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9549,
+    "title": "Devil Said Bang",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rk_devilsai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9550,
+    "title": "Kill City Blues",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rk_killcity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9551,
+    "title": "The Getaway God",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rk_thegetaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13193,
+    "title": "Killing Pretty",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rk_killingp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18882,
+    "title": "The Perdition Score",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rk_theperdi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23173,
+    "title": "The Kill Society",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rk_thekills.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28465,
+    "title": "Hollywood Dead",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rk_hollywoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

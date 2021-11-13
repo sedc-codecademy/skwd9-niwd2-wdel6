@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16512,
+    "title": "Strange Flesh",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "MF_andstran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28133,
+    "title": "Enforcer",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mf_enforcer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28130,
+    "title": "Crossfire",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mf_crossfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28131,
+    "title": "Legacy",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mf_legacyx.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28132,
+    "title": "Blind",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mf_blind.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

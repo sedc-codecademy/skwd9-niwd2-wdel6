@@ -1,0 +1,443 @@
+[
+  {
+    "id": 2998,
+    "title": "Embedded",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "da_embedded.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1931,
+    "title": "Triumff - Her Majesty's Hero",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "da_triumffh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26287,
+    "title": "I Am Slaughter",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "da_iamslaug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14984,
+    "title": "The Story of Martha",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "da_thestory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15037,
+    "title": "The Silent Stars Go By",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "da_thesilen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26398,
+    "title": "Eisenhorn",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "da_eisenhorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26395,
+    "title": "Xenos",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "da_xenos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26396,
+    "title": "Malleus",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "da_malleus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26397,
+    "title": "Hereticus",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "da_hereticus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30302,
+    "title": "The Magos",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "da_themagos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26925,
+    "title": "The Founding",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "da_thefound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26922,
+    "title": "First and Only",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "da_firstand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26923,
+    "title": "Ghostmaker",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "da_ghostmak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26924,
+    "title": "Necropolis",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "da_necropol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26930,
+    "title": "The Saint",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "da_thesaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26926,
+    "title": "Honour Guard",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "da_honourgu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26927,
+    "title": "The Guns of Tanith",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "da_thegunso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26928,
+    "title": "Straight Silver",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "da_straight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26929,
+    "title": "Sabbat Martyr",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "da_sabbatma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26935,
+    "title": "The Lost",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "da_thelost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26931,
+    "title": "Traitor General",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "da_traitorg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26932,
+    "title": "His Last Command",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "da_hislastc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26933,
+    "title": "The Armour of Contempt",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "da_thearmou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26934,
+    "title": "Only in Death",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "da_onlyinde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26936,
+    "title": "Blood Pact",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "da_bloodpac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26937,
+    "title": "Salvation's Reach",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "da_salvatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26938,
+    "title": "The Warmaster",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "da_thewarma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26939,
+    "title": "Sabbat Crusade",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "da_sabbatcr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3268,
+    "title": "Horus Rising: The seeds of heresy are sown",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "da_horusris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3274,
+    "title": "Legion: Secrets and lies",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "da_legion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3282,
+    "title": "Prospero Burns: The wolves unleashed",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "da_prospero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3286,
+    "title": "Know No Fear: The Battle of Calth",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "da_knownofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6071,
+    "title": "The Unremembered Empire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "da_theunrem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19885,
+    "title": "Fiefdom",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "danv_fiefdom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26325,
+    "title": "Ravenor: The Omnibus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "da_ravomnibus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26322,
+    "title": "Ravenor",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "da_ravenor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26323,
+    "title": "Ravenor Returned",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "da_ravretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26324,
+    "title": "Ravenor Rogue",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "da_ravrogue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15712,
+    "title": "Border Princes",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "da_bordeerpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15077,
+    "title": "Fell Cargo",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "da_fellcarg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15011,
+    "title": "Riders of the Dead",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "da_ridersof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15008,
+    "title": "Hammers of Ulric",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "da_hammerso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15499,
+    "title": "Gilead's Blood",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "da_gileadsb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15500,
+    "title": "Gilead's Curse",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "da_gileadsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14948,
+    "title": "The Daemon's Curse",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "daml_daemonsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14949,
+    "title": "Bloodstorm",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "daml_bloodsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14950,
+    "title": "Reaper of Souls",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "daml_reaperof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14951,
+    "title": "Warpsword",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "daml_warpswor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14952,
+    "title": "Lord of Ruin",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "daml_lordofru.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

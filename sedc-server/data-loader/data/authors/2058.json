@@ -1,0 +1,56 @@
+[
+  {
+    "id": 19636,
+    "title": "When the King Comes Home",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cs_whenthek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25967,
+    "title": "A College of Magics",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cs_acollege.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25968,
+    "title": "A Scholar of Magics",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cs_ascholar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6036,
+    "title": "Sorcery and Cecelia or The Enchanted Chocolate Pot",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pcwcs_sorcerya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6037,
+    "title": "The Grand Tour",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pcwcs_thegrand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6038,
+    "title": "The Mislaid Magician or Ten Years After",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pcwcs_themisla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3556,
+    "title": "Inferno",
+    "year": 1308,
+    "type": "novel",
+    "imageName": "da_inferno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3557,
+    "title": "Purgatorio",
+    "year": 1308,
+    "type": "novel",
+    "imageName": "da_purgator.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3558,
+    "title": "Paradiso",
+    "year": 1308,
+    "type": "novel",
+    "imageName": "da_paradise.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

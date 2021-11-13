@@ -1,0 +1,128 @@
+[
+  {
+    "id": 34993,
+    "title": "The Ghost in the Mirror",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "JB_ghostint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34998,
+    "title": "The Vengeance of the Witch-Finder",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "JB_vengeanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34999,
+    "title": "The Doom of the Haunted Opera",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "JB_doomhaun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35000,
+    "title": "The Specter From the Magician's Museum",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "BS_specterf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35001,
+    "title": "The Beast Under the Wizard's Bridge",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "BS_beastund.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35004,
+    "title": "The Tower At the End of the World",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "bs_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35005,
+    "title": "The Whistle, the Grave, and the Ghost",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "bs_thewhist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35006,
+    "title": "The House Where Nobody Lived",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "bs_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35007,
+    "title": "The Sign of the Sinister Sorcerer",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "bs_thesigno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20847,
+    "title": "The Star Ghost",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "BS_starghos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20848,
+    "title": "Stowaways",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "BS_stowaway.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20867,
+    "title": "Crisis on Vulcan",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "BS_crisison.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20868,
+    "title": "Starfall",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "BS_starfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20869,
+    "title": "Nova Command",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "BS_novacomm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

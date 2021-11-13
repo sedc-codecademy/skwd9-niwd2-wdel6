@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20675,
+    "title": "The Flame Alphabet",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "BM_TheFlame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20674,
+    "title": "Notable American Women",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "BM_NotableA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20673,
+    "title": "The Age of Wire and String",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "BM_TheAgeOf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

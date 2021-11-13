@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1888,
+    "title": "Heart's Blood",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jm_heartsbl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9676,
+    "title": "Dreamer's Pool",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jm_dreamers.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14219,
+    "title": "Tower of Thorns",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jm_toweroft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20011,
+    "title": "Den of Wolves",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jm_denofwol.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6885,
+    "title": "The Dark Mirror",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jm_thedarkm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6886,
+    "title": "Blade of Fortriu",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jm_bladeoff.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6887,
+    "title": "The Well of Shades",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jm_thewello.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6881,
+    "title": "Wolfskin",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jm_wolfskin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6882,
+    "title": "Foxmask",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jm_foxmask.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6021,
+    "title": "Daughter of the Forest",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jm_daughter.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6022,
+    "title": "Son of the Shadows",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jm_sonofthe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6023,
+    "title": "Child of the Prophecy",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jm_childoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6024,
+    "title": "Heir to Sevenwaters",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jm_heirtose.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6025,
+    "title": "Seer of Sevenwaters",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jm_seerofse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6026,
+    "title": "Flame of Sevenwaters",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_flameofs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6027,
+    "title": "Shadowfell",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_shadowfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6028,
+    "title": "Raven Flight",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jm_ravenfli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34946,
+    "title": "The Harp of Kings",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JM_HarpKing.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6883,
+    "title": "Wildwood Dancing",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jm_wildwood.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6884,
+    "title": "Cybele's Secret",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jm_cybeless.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

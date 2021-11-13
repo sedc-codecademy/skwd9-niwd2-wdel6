@@ -1,0 +1,145 @@
+[
+  {
+    "id": 12408,
+    "title": "The Dark Tower and Other Stories",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "CL_darktowe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3208,
+    "title": "Till We Have Faces",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "csl_tillweha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3209,
+    "title": "The Great Divorce",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "csl_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3163,
+    "title": "The Chronicles of Narnia",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "csl_narniacomplete.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3164,
+    "title": "The Lion, the Witch and the Wardrobe",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "csl_theliont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3165,
+    "title": "Prince Caspian: The Return to Narnia",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "csl_princeca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3166,
+    "title": "The Voyage of the Dawn Treader",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "csl_thevoyag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3167,
+    "title": "The Silver Chair",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "csl_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3168,
+    "title": "The Horse and His Boy",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "csl_thehorse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3169,
+    "title": "The Magician's Nephew",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "csl_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3170,
+    "title": "The Last Battle",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "csl_thelastb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2025,
+    "title": "Out of the Silent Planet",
+    "year": 1938,
+    "type": "novel",
+    "imageName": "csl_outofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2026,
+    "title": "Perelandra",
+    "year": 1943,
+    "type": "novel",
+    "imageName": "csl_pereland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2027,
+    "title": "That Hideous Strength",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "csl_thathide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7707,
+    "title": "The Screwtape Letters",
+    "year": 1942,
+    "type": "novel",
+    "imageName": "CSL_TheScrew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34523,
+    "title": "Screwtape Proposes a Toast",
+    "year": 1959,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

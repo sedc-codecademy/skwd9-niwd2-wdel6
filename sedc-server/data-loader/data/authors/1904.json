@@ -1,0 +1,70 @@
+[
+  {
+    "id": 34179,
+    "title": "Unforeseen: Stories",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mg_unforsee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19449,
+    "title": "The Grinnell Method",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17632,
+    "title": "Lambing Season",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5141,
+    "title": "Wild Life",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mg_wildlife.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5140,
+    "title": "The Dazzle of Day",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mg_thedazzl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27727,
+    "title": "Personal Silence",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5139,
+    "title": "Outside the Gates",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mg_outsidet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27830,
+    "title": "Interlocking Pieces",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

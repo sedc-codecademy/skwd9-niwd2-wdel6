@@ -1,0 +1,74 @@
+[
+  {
+    "id": 25656,
+    "title": "Waiting",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "fmr_waiting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9449,
+    "title": "The Dark Beyond the Stars",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "fmr_thedarkb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28883,
+    "title": "Blow-Out!",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tnsfmr_blowout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24505,
+    "title": "A Life in the Day of… and Other Short Stories",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "fmr_alifeint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28881,
+    "title": "The Gold Crew",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tnsfmr_thegoldc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28879,
+    "title": "The Nightmare Factor",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tnsfmr_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28877,
+    "title": "The Prometheus Crisis",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "tnsfmr_theprome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8469,
+    "title": "The Power",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "fmr_thepower.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

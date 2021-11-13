@@ -1,0 +1,83 @@
+[
+  {
+    "id": 17603,
+    "title": "Dragon Bound",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "TH_dragonbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17604,
+    "title": "Storm's Heart",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "TH_stormshe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17605,
+    "title": "Serpent's Kiss",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "TH_serpents.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17606,
+    "title": "Oracle's Moon",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "TH_oraclesm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17607,
+    "title": "Lord's Fall",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "TH_lordfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17608,
+    "title": "Kinked",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "TH_kinked.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17609,
+    "title": "Night's Honor",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "TH_nightsho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17610,
+    "title": "Midnight's Kiss",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "TH_midnight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17611,
+    "title": "Shadow's End",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "TH_shadowse.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

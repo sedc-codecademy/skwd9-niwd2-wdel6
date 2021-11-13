@@ -1,0 +1,20 @@
+[
+  {
+    "id": 7786,
+    "title": "Mercury Station",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mvs_mercury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7785,
+    "title": "Venusia",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mvs_venusia.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

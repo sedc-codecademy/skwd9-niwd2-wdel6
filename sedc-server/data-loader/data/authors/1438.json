@@ -1,0 +1,74 @@
+[
+  {
+    "id": 20766,
+    "title": "Under a Watchful Eye",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "an_underawa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18956,
+    "title": "Lost Girl",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "an_lostgirl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5934,
+    "title": "House of Small Shadows",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "an_houseofs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13531,
+    "title": "No One Gets Out Alive",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "an_nooneget.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5610,
+    "title": "Last Days",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "an_lastdays.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4250,
+    "title": "The Ritual",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "an_theritua.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3088,
+    "title": "Apartment 16",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "an_apartmen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5933,
+    "title": "Banquet for the Damned",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "an_banquetf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

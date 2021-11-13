@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2723,
+    "title": "Black Hand Gang",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pk_blackhan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2724,
+    "title": "The Ironclad Prophesy",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pk_theironc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3905,
+    "title": "The Alleyman",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pk_thealley.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

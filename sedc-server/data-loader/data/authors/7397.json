@@ -1,0 +1,47 @@
+[
+  {
+    "id": 35054,
+    "title": "The Mouse That Roared",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "LW_mouse1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35056,
+    "title": "The Mouse on the Moon",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "LW_mouse2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35072,
+    "title": "The Mouse on Wall Street",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "LW_mouse3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35073,
+    "title": "The Mouse That Saved The West",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "LW_mouse4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35074,
+    "title": "Beware of the Mouse",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "LW_mouse5.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

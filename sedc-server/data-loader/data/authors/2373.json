@@ -1,0 +1,47 @@
+[
+  {
+    "id": 8919,
+    "title": "Illegal Alien",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mkrp_illegala.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8943,
+    "title": "Matrix",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mtrp_matrix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8951,
+    "title": "Storm Harvest",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rpmt_stormhar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9096,
+    "title": "Loving the Alien",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mtrp_lovingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9143,
+    "title": "Companion Piece",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mtrp_companio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

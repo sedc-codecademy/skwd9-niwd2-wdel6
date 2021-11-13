@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5349,
+    "title": "The Last Wish",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "as_thelastw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17329,
+    "title": "The Sword of Destiny",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "AS_sworddes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5347,
+    "title": "Blood of Elves",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "as_bloodofe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5348,
+    "title": "The Time of Contempt",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "as_thetimeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9552,
+    "title": "Baptism of Fire",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "as_baptismo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18547,
+    "title": "The Tower of Swallows",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "as_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21972,
+    "title": "Lady of the Lake",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "as_theladyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28819,
+    "title": "Season of Storms",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "as_seasonofstorms.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

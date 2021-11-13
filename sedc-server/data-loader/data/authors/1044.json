@@ -1,0 +1,106 @@
+[
+  {
+    "id": 19563,
+    "title": "Night Lives:  Nine Stories of the Dark Fantastic",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pe_nightliv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21039,
+    "title": "Nightlife",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25772,
+    "title": "In the Hands of Glory",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pe_inthehan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19564,
+    "title": "In the Western Tradition",
+    "year": 1981,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25773,
+    "title": "Shadow of Earth",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "pe_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18166,
+    "title": "Attachment",
+    "year": 1974,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33964,
+    "title": "The Book of Elementals",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pe_bookofel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1126,
+    "title": "Sorcerer's Son",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "pe_sorcerer.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 33963,
+    "title": "The Crystal Palace",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pe_crystalp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18624,
+    "title": "The Island in the Lake",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9488,
+    "title": "Born to Exile",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "pe_borntoex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9489,
+    "title": "In the Red Lord's Reach",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "pe_inthered.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

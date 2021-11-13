@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5554,
+    "title": "Your Brother's Blood",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dt_yourbrot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18289,
+    "title": "Your Servants and Your People",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "DT_YourServ.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18290,
+    "title": "Your Resting Place",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "DT_YourRest.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

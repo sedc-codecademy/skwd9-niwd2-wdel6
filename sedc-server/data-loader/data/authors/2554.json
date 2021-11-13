@@ -1,0 +1,119 @@
+[
+  {
+    "id": 13003,
+    "title": "The Fata Morgana",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lf_thefatam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13002,
+    "title": "Copernick's Rebellion",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lf_copernic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9837,
+    "title": "The Cross-Time Engineer",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lf_crosstime.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9838,
+    "title": "The High-Tech Knight",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lf_thehight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9839,
+    "title": "The Radiant Warrior",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lf_radiantw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9840,
+    "title": "The Flying Warlord",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lf_flyingwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9841,
+    "title": "Lord Conrad's Lady",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lf_lordconr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9842,
+    "title": "Conrad's Quest for Rubber",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lf_questfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13004,
+    "title": "Conrad's Time Machine",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lf_conradst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13005,
+    "title": "A Boy and His Tank",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lf_aboyandh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13006,
+    "title": "The War Against Earth",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lfdg_thewarag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13007,
+    "title": "Kren of the Mitchegai",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lfdg_krenofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13008,
+    "title": "The Two-Space War",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dglf_thetwosp.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

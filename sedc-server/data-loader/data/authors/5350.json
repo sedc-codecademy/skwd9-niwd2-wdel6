@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24720,
+    "title": "Edges",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "uklgvk_edges.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24656,
+    "title": "Interfaces",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "uklgvk_interfac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24655,
+    "title": "Millennial Women",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "vk_millenni.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

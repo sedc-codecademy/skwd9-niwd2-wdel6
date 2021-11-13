@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9940,
+    "title": "Arrowhead ",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pk_arrowhead.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1910,
+    "title": "Broken Arrow",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pk_brokenar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9943,
+    "title": "Arrowland",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pk_arrowlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

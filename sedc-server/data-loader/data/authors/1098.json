@@ -1,0 +1,47 @@
+[
+  {
+    "id": 13768,
+    "title": "Dragon Heart",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ch_dragonhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2641,
+    "title": "Kings of the North",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ch_kingsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1715,
+    "title": "The High City",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ch_thehighc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14085,
+    "title": "The Angel and the Sword",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ch_theangel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2857,
+    "title": "Floating Worlds",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ch_floating.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

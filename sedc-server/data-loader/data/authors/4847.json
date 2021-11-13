@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21856,
+    "title": "Savage Empire: Prophecies",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "JL_propheci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21851,
+    "title": "Flight to the Savage Empire",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JL_flightto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21853,
+    "title": "Wulfston's Odyssey",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "JL_wulfstons.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

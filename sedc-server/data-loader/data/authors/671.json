@@ -1,0 +1,596 @@
+[
+  {
+    "id": 35881,
+    "title": "Pratchett's Women:  Unauthorised Essays on Female Characters of the Discworld",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "TR_pratchet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9556,
+    "title": "Dragons at Crumbling Castle and Other Stories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tp_dragonsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14087,
+    "title": "A Slip of the Keyboard: Collected Non-Fiction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tp_aslipoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7904,
+    "title": "A Blink of the Screen: Collected Short Fiction",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tp_ablinkof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5338,
+    "title": "Dodger",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tp_dodger.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3639,
+    "title": "Nation",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tp_nation.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7903,
+    "title": "Once More with Footnotes",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tp_oncemore.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 745,
+    "title": "Good Omens",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tpng_goodomen.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7902,
+    "title": "Strata",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tp_strata.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7901,
+    "title": "The Dark Side of the Sun",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "tp_thedarks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13386,
+    "title": "The Carpet People",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "tp_thecarpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7896,
+    "title": "The Bromeliad",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tp_thebrome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7893,
+    "title": "Truckers",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tp_truckers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7894,
+    "title": "Diggers",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tp_diggers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7895,
+    "title": "Wings",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tp_wings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1445,
+    "title": "The Color of Magic",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "tp_thecolor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1446,
+    "title": "The Light Fantastic",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "tp_thelight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1447,
+    "title": "Equal Rites",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tp_equalrit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1448,
+    "title": "Mort",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tp_mort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1449,
+    "title": "Sourcery",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tp_sourcery.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1450,
+    "title": "Wyrd Sisters",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tp_wyrdsist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1077,
+    "title": "Pyramids",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tp_pyramids.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1451,
+    "title": "Guards! Guards!",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "tp_guardsgu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1452,
+    "title": "Eric",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tp_eric.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1453,
+    "title": "Moving Pictures",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tp_movingpi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1454,
+    "title": "Reaper Man",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tp_reaperma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1455,
+    "title": "Witches Abroad",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "tp_witchesa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1456,
+    "title": "Small Gods",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tp_smallgod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1457,
+    "title": "Lords and Ladies",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tp_lordsand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1458,
+    "title": "Men at Arms",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tp_menatarm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1459,
+    "title": "Soul Music",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tp_soulmusi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1460,
+    "title": "Interesting Times",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tp_interest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1461,
+    "title": "Maskerade",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "tp_maskerad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1462,
+    "title": "Feet of Clay",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tp_feetofcl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1152,
+    "title": "Hogfather",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tp_hogfathe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1463,
+    "title": "Jingo",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tp_jingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1464,
+    "title": "The Last Continent",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tp_thelastc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1465,
+    "title": "Carpe Jugulum",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tp_carpejug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 700,
+    "title": "The Fifth Elephant",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tp_thefifth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1466,
+    "title": "The Truth",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tp_thetruth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 692,
+    "title": "Thief of Time",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tp_thiefoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1467,
+    "title": "The Last Hero",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tp_thelasthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1468,
+    "title": "The Amazing Maurice and his Educated Rodents",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tp_theamazi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 684,
+    "title": "Night Watch",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tp_nightwat.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1469,
+    "title": "The Wee Free Men",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tp_theweefr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 678,
+    "title": "Monstrous Regiment",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tp_monstrou.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1470,
+    "title": "A Hat Full of Sky",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tp_ahatfull.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 675,
+    "title": "Going Postal",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tp_goingpos.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 851,
+    "title": "Thud!",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tp_thud.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1471,
+    "title": "Wintersmith",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tp_wintersm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1042,
+    "title": "Making Money",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tp_makingmo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1472,
+    "title": "Unseen Academicals",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tp_unseenac.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2376,
+    "title": "I Shall Wear Midnight",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tp_ishallwea.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3634,
+    "title": "Snuff",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tp_snuff.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5740,
+    "title": "Raising Steam",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tp_raisings.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13465,
+    "title": "The Shepherd's Crown",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tp_thesheph.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17830,
+    "title": "Miss Felicity Beedle's The World of Poo",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "TP_MissFeli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7900,
+    "title": "The Johnny Maxwell Trilogy",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "tp_thejohnn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7897,
+    "title": "Only You Can Save Mankind",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "tp_onlyyouc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7898,
+    "title": "Johnny and the Dead",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "tp_janddead.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7899,
+    "title": "Johnny and the Bomb",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "tp_jandbomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6659,
+    "title": "The Long Earth",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tpsb_thelonge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5601,
+    "title": "The Long War",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tpsb_thelongw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7390,
+    "title": "The Long Mars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tpsb_thelongm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11669,
+    "title": "The Long Utopia",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tp_sb_longutop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18870,
+    "title": "The Long Cosmos",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tpsb_longcosm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

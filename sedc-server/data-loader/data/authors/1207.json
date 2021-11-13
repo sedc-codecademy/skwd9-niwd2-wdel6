@@ -1,0 +1,47 @@
+[
+  {
+    "id": 13749,
+    "title": "The Sweet Scent of Blood",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sm_thesweet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1912,
+    "title": "The Cold Kiss of Death",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sm_thecoldk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13750,
+    "title": "The Bitter Seed of Magic",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sm_thebitte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13751,
+    "title": "The Shifting Price of Prey",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sm_theshift.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13752,
+    "title": "The Hidden Rune of Iron",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sm_thehidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

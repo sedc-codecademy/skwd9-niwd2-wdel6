@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4345,
+    "title": "The Girl, the Gold Watch & Everything",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jdmd_thegirlt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34525,
+    "title": "Other Times, Other Worlds",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "JDM_OtherTim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32055,
+    "title": "Ballroom of the Skies",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "JDM_Ballroom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32053,
+    "title": "Wine of the Dreamers",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "JDM_WineDrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

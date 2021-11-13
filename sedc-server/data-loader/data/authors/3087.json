@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11919,
+    "title": "The First Bird",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gb_firstbir.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11920,
+    "title": "Book of the Dead",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gb_bookofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

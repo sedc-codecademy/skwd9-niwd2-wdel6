@@ -1,0 +1,155 @@
+[
+  {
+    "id": 24148,
+    "title": "The Mammoth Book of Kaiju",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sw_tmbkaiju.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20263,
+    "title": "The Mammoth Book of Dieselpunk",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sw_dieselpu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12753,
+    "title": "Robots: The Recent A. I.",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rhsw_robotsth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12752,
+    "title": "War & Space: Recent Combat",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rhsw_warandsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16225,
+    "title": "People of the Book:  A Decade of Jewish Science Fiction & Fantasy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rssw_peopleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23421,
+    "title": "Horror: The Best of the Year: 2006 Edition",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jbsw_htboty06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11526,
+    "title": "The Mammoth Book of Steampunk",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sw_mbos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11527,
+    "title": "The Mammoth Book of Steampunk Adventures",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sw_mbosa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9511,
+    "title": "Realms:  The First Year of Clarkesworld Magazine",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "nmsw_realmcw1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9512,
+    "title": "Realms 2:  The Second Year of Clarkesworld Magazine",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "nmswrealmcw2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9513,
+    "title": "Clarkesworld:  Year Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ncsw_realmcw3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9514,
+    "title": "Clarkesworld:  Year Four",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ncsw_reamscw4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9515,
+    "title": "Clarkesworld:  Year Five",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ncsw_realmcw5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9516,
+    "title": "Clarkesworld:  Year Six",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ncsw_realmcw6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12754,
+    "title": "Clarkesworld: Year Seven",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ncsw_clwyear7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17355,
+    "title": "Clarkesworld: Year Eight",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ncsw_cwyeight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28792,
+    "title": "Clarkesworld Year Nine: Volume One",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ncsw_cwy9vol1.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 15079,
+    "title": "Mark of Chaos",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ar_markofch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26442,
+    "title": "Word Bearers: The Omnibus",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ar_wordbear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26439,
+    "title": "Dark Apostle",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ar_darkapos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26441,
+    "title": "Dark Creed",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ar_darkcree.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26440,
+    "title": "Dark Disciple",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ar_darkdisc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

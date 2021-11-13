@@ -1,0 +1,56 @@
+[
+  {
+    "id": 34132,
+    "title": "Saturn Over the Water",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "jp_saturnov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34134,
+    "title": "The Thirty-First of June",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "jp_thirtyfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34133,
+    "title": "The Magicians",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "jp_magician.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28565,
+    "title": "The Other Place and Other Stories of the Same Sort",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "JP_otherpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34131,
+    "title": "The Doomsday Men",
+    "year": 1938,
+    "type": "novel",
+    "imageName": "jp_doomsday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15121,
+    "title": "Benighted",
+    "year": 1927,
+    "type": "novel",
+    "imageName": "jbp_benighted.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

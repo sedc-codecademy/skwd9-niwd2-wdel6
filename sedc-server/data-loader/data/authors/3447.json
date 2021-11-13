@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13899,
+    "title": "Reefsong",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cs_reefsong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13913,
+    "title": "Demon Drums",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "cs_demondru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13914,
+    "title": "Storm Caller",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cs_stormcal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13915,
+    "title": "Sorcerous Sea",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cs_sorcerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 19695,
+    "title": "May Be Some Time",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25049,
+    "title": "How Like a God",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "bc_howlikeg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25050,
+    "title": "Doors of Death and Life",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "bwc_doorsofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4045,
+    "title": "The Hammer and the Cross",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "hh_thehamme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22293,
+    "title": "One King's Way",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "hhjh_onekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22294,
+    "title": "King and Emperor",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "hhjh_kingande.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36617,
+    "title": "The Last Girl",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JH_LastGirl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36618,
+    "title": "The Final Trade",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JH_FinalTra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36619,
+    "title": "The First City",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "JH_FirstCit.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

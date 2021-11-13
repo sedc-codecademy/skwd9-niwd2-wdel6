@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25708,
+    "title": "The Glass Sentence ",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "SG_glasssen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25709,
+    "title": "The Golden Specific",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "SG_goldensp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25710,
+    "title": "The Crimson Skew",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "SG_crimsons.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

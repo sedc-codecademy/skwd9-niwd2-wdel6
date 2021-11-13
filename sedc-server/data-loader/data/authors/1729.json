@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4166,
+    "title": "Songs of the Earth",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ec_songsoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6135,
+    "title": "Trinity Rising",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ec_trinityr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6136,
+    "title": "The Raven's Shadow",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ec_theraven.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

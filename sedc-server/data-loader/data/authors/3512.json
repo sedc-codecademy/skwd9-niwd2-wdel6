@@ -1,0 +1,47 @@
+[
+  {
+    "id": 24203,
+    "title": "Run Program",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sm_runprogr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14178,
+    "title": "Master of Formalities",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "SM_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14175,
+    "title": "Off to Be the Wizard",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sm_offtobet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14176,
+    "title": "Spell or High Water",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sm_spellorh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14177,
+    "title": "An Unwelcome Quest",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sm_anunwelc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

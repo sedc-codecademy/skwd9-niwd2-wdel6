@@ -1,0 +1,56 @@
+[
+  {
+    "id": 12228,
+    "title": "Invasive Procedures",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "oscaj_invasive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5328,
+    "title": "Earth Unaware",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "oscaj_earthuna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5329,
+    "title": "Earth Afire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "oscaj_earthafi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7389,
+    "title": "Earth Awakens",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "oscaj_earthawa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19522,
+    "title": "The Swarm",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "oscaj_theswarm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33886,
+    "title": "The Hive",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "oscaj_thehive.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

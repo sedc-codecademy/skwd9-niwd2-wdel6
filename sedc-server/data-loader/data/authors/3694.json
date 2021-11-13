@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18355,
+    "title": "Red Planet:  A Novel",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "PT_redplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15138,
+    "title": "Space: Above and Beyond",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pt_spaceabo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15139,
+    "title": "Demolition Winter",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pt_demoliti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

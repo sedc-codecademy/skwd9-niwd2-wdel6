@@ -1,0 +1,37 @@
+[
+  {
+    "id": 22678,
+    "title": "Golden Apple",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22297,
+    "title": "Romanitas",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_romanita.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22298,
+    "title": "Rome Burning",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sm_romeburn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22299,
+    "title": "Savage City",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sm_savageci.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

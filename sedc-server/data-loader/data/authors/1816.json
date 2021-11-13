@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4566,
+    "title": "The Owl Killers",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "km_theowlki.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6955,
+    "title": "The Falcons of Fire and Ice",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "km_thefalco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6954,
+    "title": "The Gallow's Curse",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "km_thegallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6953,
+    "title": "Company of Liars",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "km_companyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

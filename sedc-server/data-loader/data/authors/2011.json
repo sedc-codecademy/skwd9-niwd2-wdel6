@@ -1,0 +1,164 @@
+[
+  {
+    "id": 5701,
+    "title": "A Cup of Normal",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dm_acupofno.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5678,
+    "title": "Dead Iron",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dm_deadiron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5679,
+    "title": "Tin Swift",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dm_tinswift.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5680,
+    "title": "Cold Copper",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dm_coldcopp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14091,
+    "title": "Magic to the Bone",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dm_mtothebo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14092,
+    "title": "Magic In the Blood",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dm_mitblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14093,
+    "title": "Magic in the Shadows",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dm_mitshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14094,
+    "title": "Magic on the Storm",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dm_motstorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14095,
+    "title": "Magic at the Gate",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dm_mattgate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14096,
+    "title": "Magic on the Hunt",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dm_onthehun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14097,
+    "title": "Magic on the Line",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dm_montline.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14098,
+    "title": "Magic Without Mercy",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dm_mwithout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14099,
+    "title": "Magic for a Price",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dm_mfaprice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14100,
+    "title": "Hell Bent",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dm_hellbent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14101,
+    "title": "Stone Cold",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dm_stonecol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14102,
+    "title": "House Immortal",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dm_houseimm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14103,
+    "title": "Infinity Bell",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dm_infinity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14104,
+    "title": "Crucible Zero",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dm_crucible.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

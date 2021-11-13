@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21689,
+    "title": "Notes from the Internet Apocalypse",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "wg_notesfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21690,
+    "title": "Agents of the Internet Apocalypse",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "wg_agentsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21691,
+    "title": "Reports on the Internet Apocalypse",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "wg_reportso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

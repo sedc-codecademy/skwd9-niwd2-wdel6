@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5256,
+    "title": "Red Dragon",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "th_reddrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 925,
+    "title": "The Silence of the Lambs",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "th_thesilen.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 3554,
+    "title": "Hannibal",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "th_hannibal.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5764,
+    "title": "Hannibal Rising",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "th_rising.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

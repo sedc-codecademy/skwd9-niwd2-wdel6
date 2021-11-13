@@ -1,0 +1,29 @@
+[
+  {
+    "id": 6068,
+    "title": "Wise Child",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mf_wisechil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6069,
+    "title": "Juniper",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mf_juniper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6070,
+    "title": "Colman",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mf_colman.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

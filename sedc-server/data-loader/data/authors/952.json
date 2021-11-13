@@ -1,0 +1,384 @@
+[
+  {
+    "id": 9661,
+    "title": "Think Yourself Lucky",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rc_thinkyou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8594,
+    "title": "Holes for Faces",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rc_holesfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5608,
+    "title": "The Kind Folk",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rc_thekindf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13387,
+    "title": "Ghosts Know",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rc_ghostskn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1872,
+    "title": "Creatures of the Pool",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rc_creature.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1243,
+    "title": "Thieving Fear",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rc_thieving.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1200,
+    "title": "The Grin of the Dark",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rc_thegrino.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1192,
+    "title": "Secret Story",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rc_secretst.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24984,
+    "title": "Gathering the Bones: Thirty-Four Original Stories from the World's Masters of Horror",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rcdejd_gatherin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1179,
+    "title": "The Darkest Part of the Woods",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rc_thedarke.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32111,
+    "title": "Pact of the Fathers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "RC_Pactofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1175,
+    "title": "Silent Children",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rc_silentch.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1157,
+    "title": "Nazareth Hill",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rc_nazareth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4593,
+    "title": "Alone with the Horrors",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rc_alonewit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1142,
+    "title": "The Long Lost",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rc_thelongl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1139,
+    "title": "The Count of Eleven",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rc_thecount.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26886,
+    "title": "The Same in Any Language",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1138,
+    "title": "Midnight Sun",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rc_midnight.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26075,
+    "title": "Ancient Images",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rc_ancienti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1137,
+    "title": "The Influence",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rc_theinflu.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 12395,
+    "title": "Dark Feasts: The World of Ramsey Campbell",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "rc_darkfeas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23806,
+    "title": "Scared Stiff: Tales of Sex and Death",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "rc_scaredst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1136,
+    "title": "The Hungry Moon",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "rc_thehungr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27000,
+    "title": "Obsession",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rc_obsessio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1135,
+    "title": "Incarnate",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rc_incarnat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23803,
+    "title": "Dark Companions",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rc_DarkComp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 949,
+    "title": "The Nameless",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rc_thenamel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11206,
+    "title": "New Tales of the Cthulhu Mythos",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "RC_newtale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1127,
+    "title": "To Wake the Dead",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rc_towaketh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23830,
+    "title": "Mackintosh Willy",
+    "year": 1979,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23802,
+    "title": "The Chimney",
+    "year": 1977,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23805,
+    "title": "Loveman's Comeback",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23780,
+    "title": "The Companion",
+    "year": 1976,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 971,
+    "title": "The Doll Who Ate His Mother",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "rc_thedollw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4605,
+    "title": "The Mammoth Book of Best New Horror",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sjrc_bestnh01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4761,
+    "title": "The Mammoth Book of Best New Horror 2",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sjrc_bestnh02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4762,
+    "title": "The Mammoth Book of Best New Horror 3",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sjrc_bestnh03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4763,
+    "title": "The Mammoth Book of Best New Horror 4",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sjrc_bestnh04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4764,
+    "title": "The Mammoth Book of Best New Horror 5",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sjrc_bestnh05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10707,
+    "title": "Demons by Daylight",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "RC_demonsby.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24544,
+    "title": "The Searching Dead",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rc_thesearc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26076,
+    "title": "Born to the Dark",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rc_borntoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30109,
+    "title": "The Way of the Worm",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rc_thewayof.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

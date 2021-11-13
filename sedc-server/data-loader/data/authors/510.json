@@ -1,0 +1,38 @@
+[
+  {
+    "id": 7935,
+    "title": "Arachne",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lm_arachne.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25636,
+    "title": "Cyberweb",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lm_cyberweb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 511,
+    "title": "Summer of Love",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lm_summerof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25635,
+    "title": "The Golden Nineties",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lm_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

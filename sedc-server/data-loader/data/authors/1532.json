@@ -1,0 +1,101 @@
+[
+  {
+    "id": 3388,
+    "title": "The Goblin Corps",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "am_thegobli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4114,
+    "title": "The Conqueror's Shadow",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "am_theconqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4115,
+    "title": "The Warlord's Legacy",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "am_thewarlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4907,
+    "title": "In Thunder Forged: Iron Kingdoms Chronicles",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "am_inthunde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20041,
+    "title": "Hot Lead, Cold Iron",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "am_hotleadc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20042,
+    "title": "Hallow Point",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "am_hallowpo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20043,
+    "title": "Dead to Rites",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "am_deadtori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3809,
+    "title": "Thief's Covenant",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "am_thiefsco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3924,
+    "title": "False Covenant",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "am_falsecov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10911,
+    "title": "Lost Covenant",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "am_lostcove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10912,
+    "title": "Covenant's End",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "am_covenant.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

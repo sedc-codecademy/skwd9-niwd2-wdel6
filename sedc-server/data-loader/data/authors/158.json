@@ -1,0 +1,745 @@
+[
+  {
+    "id": 12127,
+    "title": "A Borrowed Man",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gw_aborrowe.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6048,
+    "title": "The Land Across",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gw_thelanda.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2672,
+    "title": "Home Fires",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gw_homefire.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28866,
+    "title": "Bloodsport",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3012,
+    "title": "The Sorcerer's House",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gw_thesorce.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3686,
+    "title": "The Best of Gene Wolfe: A Definitive Retrospective of His Finest Short Fiction",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gw_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31971,
+    "title": "Donovan Sent Us",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1238,
+    "title": "An Evil Guest",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gw_anevilgu.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 14665,
+    "title": "Memorare",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gw_memorare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1043,
+    "title": "Pirate Freedom",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gw_piratefr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26847,
+    "title": "Sob in the Silence",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26236,
+    "title": "Comber",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3685,
+    "title": "Starwater Strains",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gw_starwate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23644,
+    "title": "Golden City Far",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3684,
+    "title": "Innocents Aboard:  New Fantasy Stories",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gw_innocent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19876,
+    "title": "The Lost Pilgrim",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32395,
+    "title": "Pulp Cover",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32432,
+    "title": "Castaway",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32609,
+    "title": "Shields of Mars",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34679,
+    "title": "A Walking Tour of the Shambles: Little Walks For Sightseers #16",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "NG&GW_AWalking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32675,
+    "title": "Viewpoint",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3683,
+    "title": "Strange Travelers",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gw_stranget.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32767,
+    "title": "Has Anybody Seen Junie Moon?",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21334,
+    "title": "No Planets Strike",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34096,
+    "title": "Petting Zoo",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26753,
+    "title": "Counting Cats in Zanzibar",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34198,
+    "title": "The Ziggurat",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3682,
+    "title": "Castle of Days",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gw_castleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22461,
+    "title": "The Legend of Xi Cygnus",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3677,
+    "title": "Castleview",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gw_castlevi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3678,
+    "title": "Pandora by Holly Hollander",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gw_pandorab.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3681,
+    "title": "Endangered Species",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gw_endanger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3680,
+    "title": "Storeys from the Old Hotel",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gw_storeysf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 756,
+    "title": "There Are Doors",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gw_thereare.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27784,
+    "title": "All the Hues of Hell",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23905,
+    "title": "In the House of Gingerbread",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 200,
+    "title": "Free Live Free",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gw_freelive.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7604,
+    "title": "Plan[e]t Engineering",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "GW_PlanetEn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7273,
+    "title": "The Wolfe Archipelago",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "gw_thewolfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18008,
+    "title": "A Cabin on the Coast",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14137,
+    "title": "Gene Wolfe's Book of Days",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gw_genewolf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21420,
+    "title": "The Woman the Unicorn Loved",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3679,
+    "title": "The Island of Doctor Death and Other Stories and Other Stories",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gw_theislan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22715,
+    "title": "Suzanne Delage",
+    "year": 1980,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18082,
+    "title": "War Beneath the Tree",
+    "year": 1979,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19628,
+    "title": "Seven American Nights",
+    "year": 1978,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3676,
+    "title": "The Devil in a Forest",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "gw_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19627,
+    "title": "The Eyeflash Miracles",
+    "year": 1976,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23929,
+    "title": "The Hero as Werwolf",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "gw_theherow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1803,
+    "title": "Peace",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "gw_peace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18187,
+    "title": "How I Lost the Second World War and Helped Turn Back the German Invasion",
+    "year": 1973,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18213,
+    "title": "Against the Lafayette Escadrille",
+    "year": 1972,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19654,
+    "title": "The Fifth Head of Cerberus",
+    "year": 1972,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1755,
+    "title": "The Fifth Head of Cerberus",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "gw_thefifth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3675,
+    "title": "Operation Ares",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "gw_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19653,
+    "title": "The Death of Dr. Island",
+    "year": 1973,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18229,
+    "title": "The Island of Doctor Death and Other Stories",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 175,
+    "title": "Nightside the Long Sun",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gw_nightsid.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1246,
+    "title": "Lake of the Long Sun",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gw_lakeofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 165,
+    "title": "Calde of the Long Sun",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gw_caldeoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1247,
+    "title": "Exodus From the Long Sun",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gw_exodusfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1817,
+    "title": "The Book of the New Sun, Volume 1:  Shadow and Claw",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gw_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1819,
+    "title": "The Book of the New Sun, Volume 2:  Sword and Citadel",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gw_newsun2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22688,
+    "title": "The Book of the New Sun, Volume 1:  Shadow and Claw",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gw_sfm_newsun1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22689,
+    "title": "The Book of the New Sun, Volume 2:  Sword and Citadel",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gw_sfm_newsun2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20803,
+    "title": "The Book of the New Sun",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gw_booknewsun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 234,
+    "title": "The Shadow of the Torturer",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gw_theshado.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 225,
+    "title": "The Claw of the Conciliator",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gw_theclawo.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 223,
+    "title": "The Sword of the Lictor",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gw_thesword.jpg",
+    "nominations": 6,
+    "wins": -1
+  },
+  {
+    "id": 216,
+    "title": "The Citadel of the Autarch",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "gw_thecitad.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 195,
+    "title": "The Urth of the New Sun",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "gw_theurtho.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1248,
+    "title": "On Blue's Waters",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gw_onbluesw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 697,
+    "title": "In Green's Jungles",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gw_ingreens.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 689,
+    "title": "Return to the Whorl",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "gw_returnto.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8316,
+    "title": "Latro in the Mist",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gw_latroint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 197,
+    "title": "Soldier of the Mist",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "gw_soldiero.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 751,
+    "title": "Soldier of Arete",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gw_soldaret.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1010,
+    "title": "Soldier of Sidon",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gw_soldsido.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 16657,
+    "title": "Dormanna",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gw_dormanna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27846,
+    "title": "The Map",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27171,
+    "title": "The Cat",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11098,
+    "title": "Tor Double #10: Sailing to Byzantium / Seven American Nights",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RS_tordbl10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11115,
+    "title": "Tor Double #25: Fugue State / The Death of Doctor Island",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JF_tordbl25.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1262,
+    "title": "The Wizard Knight",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gw_wizknigh.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 817,
+    "title": "The Knight",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gw_theknigh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1249,
+    "title": "The Wizard",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gw_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

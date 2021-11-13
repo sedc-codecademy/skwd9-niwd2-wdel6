@@ -1,0 +1,739 @@
+[
+  {
+    "id": 26822,
+    "title": "Found Wanting",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lc_foundwan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26855,
+    "title": "Lost Worlds",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "lc_lostworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26821,
+    "title": "Time War",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "lc_timewar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14225,
+    "title": "The Black Star",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "lc_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16230,
+    "title": "Imaginary Worlds",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "LC_Imaginar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26856,
+    "title": "Lovecraft: A Look Behind the Cthulhu Mythos",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "lc_lcalookb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26877,
+    "title": "The Spawn of Cthulhu",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "lc_thespawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18401,
+    "title": "Beyond the Gates of Dream",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "lc_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18402,
+    "title": "Uncollected Works",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21616,
+    "title": "The Off-Worlders / The Star Magicians",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_theoffwo_thestarm.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21521,
+    "title": "The Man Without a Planet / Time to Live",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_themanwi_timetoli.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21555,
+    "title": "Invader on My Back / Destination: Saturn",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_invadero_destinat.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21859,
+    "title": "Kar Kaballa / Tower of the Medusa",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_karkabal_toweroft.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14258,
+    "title": "Jandar of Callisto",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "lc_jandarof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14259,
+    "title": "Black Legion of Callisto",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "lc_blackleg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14260,
+    "title": "Sky Pirates of Callisto",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "lc_skypirat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14261,
+    "title": "Mad Empress of Callisto",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lc_madempre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14262,
+    "title": "Mind Wizards of Callisto",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lc_mindwiza.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14263,
+    "title": "Lankar of Callisto",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lc_lankarof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14264,
+    "title": "Ylana of Callisto",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "lc_ylanaofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14265,
+    "title": "Renegade of Callisto",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "lc_renegade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14266,
+    "title": "The Quest of Kadji",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "lc_thequest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10482,
+    "title": "The Wizard of Zao",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "lc_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14267,
+    "title": "Kellory the Warlock",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "lc_kelloryt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25264,
+    "title": "Conan",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rehlsdclc_conan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25195,
+    "title": "Conan of the Isles",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "lsdclc_cotisles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25198,
+    "title": "Conan the Wanderer",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rehlsdclc_ctwander.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25196,
+    "title": "Conan the Buccaneer",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "lsdclc_ctbuccan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25268,
+    "title": "Conan of Cimmeria",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "rehlsdclc_cocimmer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25197,
+    "title": "Conan of Aquilonia",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "lsdclc_coaquilo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25205,
+    "title": "Conan the Swordsman",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "lsdclcbn_ctswordm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25186,
+    "title": "Conan the Liberator",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "lsdclc_ctlibera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25188,
+    "title": "Conan the Barbarian",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lsdclc_ctbarba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13397,
+    "title": "The Xothic Legend Cycle:  The Complete Mythos Fiction of Lin Carter",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "LC_xothicle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21910,
+    "title": "Flashing Swords! #1",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "LC_flashsw1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21911,
+    "title": "Flashing Swords! #2",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "LC_flashsw2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21912,
+    "title": "Flashing Swords! #3:  Warriors and Wizards",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "LC_flashsw3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21913,
+    "title": "Flashing Swords! #4:  Barbarians and Black Magicians",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "LC_flashsw4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21914,
+    "title": "Flashing Swords! #5:  Demons and Daggers",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "LC_flashsw5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21638,
+    "title": "Giant of World's End",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "lc_giantofw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21633,
+    "title": "The Warrior of World's End",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "lc_thewarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21634,
+    "title": "The Enchantress of World's End",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lc_theencha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21635,
+    "title": "The Immortal of World's End",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "lc_theimmortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21636,
+    "title": "The Barbarian of World's End",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "lc_thebarba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21637,
+    "title": "The Pirate of World's End",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "lc_thepirat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17461,
+    "title": "Under the Green Star",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "lc_underthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17462,
+    "title": "When the Green Star Calls",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "lc_whentheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17463,
+    "title": "By the Light of the Green Star",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "lc_bythelig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17464,
+    "title": "As the Green Star Rises",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lc_asthegre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17465,
+    "title": "In the Green Star's Glow",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "lc_inthegre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26876,
+    "title": "King Kull",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rehlc_kingkull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26817,
+    "title": "The Man Who Loved Mars",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "lc_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26818,
+    "title": "The Valley Where Time Stood Still",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "lc_thevalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26819,
+    "title": "The City Outside the World",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "lc_thecityo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26820,
+    "title": "Down to a Sunless Sea",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "lc_downtoas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16237,
+    "title": "Tolkien:  A Look Behind The Lord of the Rings",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "LC_Tolkien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26813,
+    "title": "Kesrick",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lc_kesrick.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26814,
+    "title": "Dragonrouge",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "lc_dragonro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26815,
+    "title": "Mandricardo",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lc_mandrica.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26816,
+    "title": "Callipygia",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "lc_callipyg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17455,
+    "title": "The Wizard of Lemuria",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "lc_wizarard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17456,
+    "title": "Thongor of Lemuria",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "lc_toflemur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17457,
+    "title": "Thongor Against the Gods",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "lc_tagainst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17458,
+    "title": "Thongor in the City of Magicians",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "lc_tintheci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17459,
+    "title": "Thongor at the End of Time",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "lc_tattheen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17460,
+    "title": "Thongor Fights the Pirates of Tarakus",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "lc_tfightsth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21526,
+    "title": "The Year's Best Fantasy Stories",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lc_tybfs1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21527,
+    "title": "The Year's Best Fantasy Stories: 2",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "lc_tybfs2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21528,
+    "title": "The Year's Best Fantasy Stories: 3",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "lc_tybfs3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21529,
+    "title": "The Year's Best Fantasy Stories: 4",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "lc_tybfs4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21530,
+    "title": "The Year's Best Fantasy Stories: 5",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "lc_tybfs5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21531,
+    "title": "The Year's Best Fantasy Stories: 6",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "lc_tybfs6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26837,
+    "title": "Journey to the Underground World",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "lc_journeyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26838,
+    "title": "Zanthodon",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "lc_zanthodo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26839,
+    "title": "Hurok of the Stone Age",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "lc_hurokoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26840,
+    "title": "Darya of the Bronze Age",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "lc_daryaoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26841,
+    "title": "Eric of Zanthodon",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lc_ericofza.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26850,
+    "title": "The Nemesis of Evil",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lc_thenemes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26851,
+    "title": "Invisible Death",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lc_invisibl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26852,
+    "title": "The Volcano Ogre",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "lc_thevolca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26853,
+    "title": "The Earth-Shaker",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lc_theearth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26854,
+    "title": "Horror Wears Blue",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lc_horrorwe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

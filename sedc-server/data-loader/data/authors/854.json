@@ -1,0 +1,266 @@
+[
+  {
+    "id": 2341,
+    "title": "The Gabble and Other Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "na_thegabbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5756,
+    "title": "The Engineer ReConditioned",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "na_theengin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 852,
+    "title": "Cowl",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "na_cowl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27268,
+    "title": "The Other Gun",
+    "year": 2013,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16765,
+    "title": "Africa Zero",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "na_africazero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32397,
+    "title": "Strood",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2332,
+    "title": "Gridlinked",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "na_gridlink.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2333,
+    "title": "The Line of Polity",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "na_thelineo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2334,
+    "title": "Brass Man",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "na_brassman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2335,
+    "title": "Polity Agent",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "na_polityag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2336,
+    "title": "Line War",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "na_linewar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32285,
+    "title": "Mason's Rats",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5754,
+    "title": "The Departure",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "na_thedepar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5755,
+    "title": "Zero Point",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "na_zeropoin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5584,
+    "title": "Jupiter War",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "na_jupiterw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27143,
+    "title": "Alien Archaeology",
+    "year": 2007,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26423,
+    "title": "Softly Spoke the Gabbleduck",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32613,
+    "title": "Snow in the Desert",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2342,
+    "title": "Prador Moon",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "na_pradormo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2343,
+    "title": "Hilldiggers",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "na_hilldigg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1837,
+    "title": "Shadow of the Scorpion",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "na_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2340,
+    "title": "The Technician",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "na_thetechn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31731,
+    "title": "The Soldier",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "NA_thesoldi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31732,
+    "title": "The Warship",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "NA_thewarsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2337,
+    "title": "The Skinner",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "na_theskinn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2338,
+    "title": "The Voyage of the Sable Keech",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "na_thevoyag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1838,
+    "title": "Orbus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "na_orbus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11048,
+    "title": "Dark Intelligence",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "na_darkinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18542,
+    "title": "War Factory",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "na_warfacto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21976,
+    "title": "Infinity Engine",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "na_infinity.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

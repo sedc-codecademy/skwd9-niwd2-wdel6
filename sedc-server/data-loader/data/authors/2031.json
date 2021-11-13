@@ -1,0 +1,342 @@
+[
+  {
+    "id": 34839,
+    "title": "Of Wars, and Memories, and Starlight",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "AB_ofwarsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30361,
+    "title": "In the Vanishers' Palace",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "adb_inthevan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28763,
+    "title": "In Everlasting Wisdom",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18984,
+    "title": "Lullaby for a Lost World",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "adb_lullabyf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16198,
+    "title": "Heaven Under Earth",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23004,
+    "title": "Prayers of Forges and Furnaces",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22566,
+    "title": "As the Wheel Turns",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28490,
+    "title": "The Church of Accelerated Redemption",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "glpadb_thechurc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23066,
+    "title": "The Lonely Heart",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23358,
+    "title": "The Dragon's Tears",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24451,
+    "title": "Children of Thorns, Children of Water",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "adb_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11880,
+    "title": "The House of Shattered Wings",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "adb_thehouse.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21349,
+    "title": "The House of Binding Thorns",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "adb_houseofb.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34162,
+    "title": "The House of Sundering Flames",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "adb_thosunde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8611,
+    "title": "Obsidian and Blood",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adb_obsidian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5765,
+    "title": "Servant of the Underworld",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "adb_servanto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5766,
+    "title": "Harbinger of the Storm",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "adb_harbinge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5767,
+    "title": "Master of the House of Darts",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "adb_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26519,
+    "title": "The Tea Master and the Detective",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "adb_theteama.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27370,
+    "title": "The Dragon That Flew Out of the Sun",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19304,
+    "title": "The Citadel of Weeping Pearls",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "adb_citadelo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25780,
+    "title": "Crossing the Midday Gate",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24452,
+    "title": "A Hundred and Seventy Storms",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28727,
+    "title": "Pearl",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21934,
+    "title": "A Salvaging of Ghosts",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28484,
+    "title": "In Blue Lily's Wake",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17224,
+    "title": "Three Cups of Grief, by Starlight",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15952,
+    "title": "The Breath of War",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17495,
+    "title": "The Days of the War, as Red as Blood, as Dark as Bile",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15991,
+    "title": "The Waiting Stars",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "adb_sswaitin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15949,
+    "title": "Immersion",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adb_ssimmers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7807,
+    "title": "On a Red Station, Drifting",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adb_onaredst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17328,
+    "title": "Scattered Along the River of Heaven",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17204,
+    "title": "Ship's Brother",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adb_shipsbro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26311,
+    "title": "Two Sisters in Exile ",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15951,
+    "title": "Shipbirth",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "adb_ssshipbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17883,
+    "title": "Fleeing Tezcatlipoca",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15992,
+    "title": "The Jaguar House, in Shadow",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15950,
+    "title": "The Shipmaker",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "adb_ssshipma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26224,
+    "title": "Butterfly, Falling at Dawn",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

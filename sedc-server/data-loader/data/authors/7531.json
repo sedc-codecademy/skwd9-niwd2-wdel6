@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35609,
+    "title": "Fen Runners",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "JG_FenRunne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35607,
+    "title": "The Flesh Eater",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JG_FleshEat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35608,
+    "title": "The Midwinter Watch",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JG_Midwinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35606,
+    "title": "The House on the Brink",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "JG_HouseBri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4149,
+    "title": "The Inquisitor's Apprentice",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cm_theinqui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12678,
+    "title": "The Watcher in the Shadows",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cm_thewatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 463,
+    "title": "Spin State",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cm_spinstat.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1001,
+    "title": "Spin Control",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sm_spincont.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10581,
+    "title": "Ghost Spin",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "CM_ghostspi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

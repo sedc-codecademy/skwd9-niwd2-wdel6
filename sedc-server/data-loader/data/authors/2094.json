@@ -1,0 +1,95 @@
+[
+  {
+    "id": 31966,
+    "title": "The Last Voyage of Skidbladnir",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kt_thelastv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26105,
+    "title": "The Bone Plain",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17619,
+    "title": "Listen",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kt_listen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23263,
+    "title": "Starfish",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24802,
+    "title": "A Call to Arms for Deceased Authors' Rights",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22637,
+    "title": "A Fine Show on the Abyssal Plain",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16779,
+    "title": "Sing",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kt_sing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23053,
+    "title": "Amatka",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kt_amatka.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7126,
+    "title": "Jagannath: Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "KT_Jagannat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27308,
+    "title": "Reindeer Mountain",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22741,
+    "title": "Augusta Prima",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

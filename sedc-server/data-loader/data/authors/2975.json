@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11618,
+    "title": "The Book Thief",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mz_thebookt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11617,
+    "title": "I Am the Messenger ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mz_iamtheme.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

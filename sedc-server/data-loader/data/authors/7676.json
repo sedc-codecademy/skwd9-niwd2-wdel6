@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36261,
+    "title": "Ghost in the Shell 1.5:  Human-Error Processor",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "MS_gits00.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36260,
+    "title": "Ghost in the Shell",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "MS_gits1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36262,
+    "title": "Ghost in the Shell 2.0:  Man-Machine Interface",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "MS_gits2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 17275,
+    "title": "Witches' Forest",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "MF_witchesf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17276,
+    "title": "The Two Headed Wizard",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MF_twoheade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17277,
+    "title": "Black Knights of the Silver-Gray Castle",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MF_blackkni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17278,
+    "title": "Opal of Ice & Snow",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "MF_opalofic.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "id": 9443,
+    "title": "The Quincunx of Time",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jb_thequinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9441,
+    "title": "Anywhen",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jb_anywhen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19656,
+    "title": "A Style in Treason",
+    "year": 1970,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20854,
+    "title": "We All Die Naked",
+    "year": 1969,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9445,
+    "title": "A Torrent of Faces",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jb_atorrent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20853,
+    "title": "Best SF Stories of James Blish",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jb_thebests.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9442,
+    "title": "The Night Shapes",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jb_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9444,
+    "title": "Titan's Daughter",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "jb_titansda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25586,
+    "title": "Galactic Cluster",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "jb_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25585,
+    "title": "King of the Hill",
+    "year": 1955,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28467,
+    "title": "Solar Plexus",
+    "year": 1941,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35691,
+    "title": "The Devil's Day",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "JB_TheDevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5,
+    "title": "A Case of Conscience",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "jb_acaseof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 823,
+    "title": "Black Easter",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_blackeas.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6148,
+    "title": "The Day After Judgment",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "jb_thedayaf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18419,
+    "title": "The Best of James Blish",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "JB_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3482,
+    "title": "Spock Must Die!",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jb_spockmus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1754,
+    "title": "Cities in Flight",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jb_citiesin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31641,
+    "title": "Earthman, Come Home",
+    "year": 1953,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8493,
+    "title": "They Shall Have Stars",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "jb_theyshal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9193,
+    "title": "A Life for the Stars",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jb_alifefor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9194,
+    "title": "Earthman, Come Home",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "jb_earthman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9195,
+    "title": "A Clash of Cymbals (The Triumph of Time)",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "jb_aclashof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9446,
+    "title": "The Warriors of Day",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "jb_thewarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12893,
+    "title": "Jack of Eagles",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "JB_jackofea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7544,
+    "title": "Nebula Award Stories Five",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jb_nebula05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3467,
+    "title": "Star Trek 1",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jb_trek1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3468,
+    "title": "Star Trek 2",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jb_trek2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3469,
+    "title": "Star Trek 3",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jb_trek3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3470,
+    "title": "Star Trek 4",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "jb_trek4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3471,
+    "title": "Star Trek 5",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jb_trek5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3472,
+    "title": "Star Trek 6",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jb_trek6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3473,
+    "title": "Star Trek 7",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jb_trek7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3474,
+    "title": "Star Trek 8",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "jb_trek8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3475,
+    "title": "Star Trek 9",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jb_trek9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3476,
+    "title": "Star Trek 10",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jb_trek10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3477,
+    "title": "Star Trek 11",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jb_trek11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3478,
+    "title": "Star Trek 12",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jb_trek12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19136,
+    "title": "The Shipwrecked Hotel",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

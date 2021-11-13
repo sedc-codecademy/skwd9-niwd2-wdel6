@@ -1,0 +1,128 @@
+[
+  {
+    "id": 35952,
+    "title": "The Big Empty",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "JL_BigEmpty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35951,
+    "title": "Illegal Alien",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JL_IllegalA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 535,
+    "title": "A Fearful Symmetry",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jl_afearful.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16733,
+    "title": "Millennium Falcon",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "JL_millenni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17158,
+    "title": "Cloak of Deception",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "JL_cloakofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14493,
+    "title": "Darth Plagueis",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jl_darthpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17178,
+    "title": "The Dark Lord Trilogy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "JL_thedarkl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17057,
+    "title": "Labyrinth of Evil",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JL_labyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17177,
+    "title": "Dark Lord:  The Rise of Darth Vader",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JL_darklord.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20360,
+    "title": "Catalyst",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jl_catalyst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14636,
+    "title": "Tarkin",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jl_tarkin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15945,
+    "title": "Hero's Trial",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jl_herostri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15946,
+    "title": "Jedi Eclipse",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jl_jediecli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15990,
+    "title": "The Unifying Force",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jl_theunify.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 8839,
+    "title": "The Taking of Planet Five",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sbjmc_thetakin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8887,
+    "title": "Hope",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mc_hope.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26373,
+    "title": "Glory Imperialis",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mcahrw_gloryimp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26365,
+    "title": "Iron Guard",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mc_ironguar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26552,
+    "title": "Tyrant of the Hollow Worlds",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mc_tyrantof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

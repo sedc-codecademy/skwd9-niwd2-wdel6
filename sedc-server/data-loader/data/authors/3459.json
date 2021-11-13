@@ -1,0 +1,96 @@
+[
+  {
+    "id": 31768,
+    "title": "A Catalog of Storms",
+    "year": 2019,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32402,
+    "title": "Riverland",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "fw_riverlan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30256,
+    "title": "Disconnect",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25471,
+    "title": "Clearly Lettered in a Mostly Steady Hand",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23817,
+    "title": "You Are Two Point Three Meters from Your Destination",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23363,
+    "title": "A Moment of Gravity, Circumscribed",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13928,
+    "title": "Updraft",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "fw_updraft.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 19294,
+    "title": "Cloudbound",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "fw_cloudbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24402,
+    "title": "Horizon",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "fw_horizon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17958,
+    "title": "The Jewel and Her Lapidary",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "fw_thejewel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33987,
+    "title": "The Fire Opal Mechanism",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "fw_thefireo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

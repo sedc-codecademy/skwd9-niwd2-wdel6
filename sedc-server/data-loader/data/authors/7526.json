@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1712,
+    "title": "Dragon in Chains",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "df_dragonin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2638,
+    "title": "Jade Man's Skin",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sf_jademans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4071,
+    "title": "Hidden Cities",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "df_hiddenci.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20728,
+    "title": "Mechanical Failure",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jz_mechanic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24085,
+    "title": "Communication Failure",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jz_communic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35331,
+    "title": "System Failure",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jz_systemfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

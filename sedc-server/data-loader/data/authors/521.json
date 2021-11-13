@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1081,
+    "title": "Harm's Way",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cg_harmsway.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22401,
+    "title": "The Entropy Exhibition: Michael Moorcock and the British New Wave in Science Fiction",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "CG_entropye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 522,
+    "title": "Take Back Plenty",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cg_take.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 10488,
+    "title": "Seasons of Plenty",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cg_seasonso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10489,
+    "title": "Mother of Plenty",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cg_motherof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

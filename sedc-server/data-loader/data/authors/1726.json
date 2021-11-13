@@ -1,0 +1,80 @@
+[
+  {
+    "id": 32021,
+    "title": "The Last Apostle",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32030,
+    "title": "Tango Midnight",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mc_tangomid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23069,
+    "title": "More Adventures on Other Planets",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27565,
+    "title": "The Longer Voyage",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32029,
+    "title": "Dragon Season",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mc_dragonse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32028,
+    "title": "The Star Country",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mc_thestarc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4162,
+    "title": "Heaven's Shadow",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dsgmc_heavenss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13458,
+    "title": "Heaven's War",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dsgmc_heavensw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13459,
+    "title": "Heaven's Fall",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dsgmc_heavfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

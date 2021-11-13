@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34353,
+    "title": "Pzyche",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ah_pzyche.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34354,
+    "title": "The Greenstone Grail",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ah_greensto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34355,
+    "title": "The Traitor's Sword",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ah_traitors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34356,
+    "title": "The Poisoned Crown",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ah_poisoned.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

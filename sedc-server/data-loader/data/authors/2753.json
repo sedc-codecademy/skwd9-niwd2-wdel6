@@ -1,0 +1,56 @@
+[
+  {
+    "id": 10793,
+    "title": "Bedknobs and Broomsticks",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "MN_bedandb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10788,
+    "title": "The Borrowers",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "MN_borrower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10789,
+    "title": "The Borrowers Afield",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "MN_boafield.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10790,
+    "title": "The Borrowers Afloat",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "MN_boafloat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10791,
+    "title": "The Borrowers Aloft",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "MN_boaloft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10792,
+    "title": "The Borrowers Avenged",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "MN_bavenged.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

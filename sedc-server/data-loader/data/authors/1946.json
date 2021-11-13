@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5351,
+    "title": "The Poison Throne",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ck_thepoiso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5352,
+    "title": "The Crowded Shadows",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ck_thecrowd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5353,
+    "title": "The Rebel Prince",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ck_therebel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

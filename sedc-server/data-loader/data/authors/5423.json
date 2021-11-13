@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25092,
+    "title": "Second Star",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ds_secondst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25093,
+    "title": "A Handful of Stars",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ds_ahandful.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25094,
+    "title": "Red Planet Run",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ds_redplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

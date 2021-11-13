@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5858,
+    "title": "White Tiger",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kc_whitetig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5859,
+    "title": "Red Phoenix",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kc_redphoen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5860,
+    "title": "Blue Dragon",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kc_bluedrag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32823,
+    "title": "Guardian of Empire",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "kc_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32822,
+    "title": "Scales of Empire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kc_scalesof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5861,
+    "title": "Earth to Hell",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kc_earthtoh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5862,
+    "title": "Hell to Heaven",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kc_helltohe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5863,
+    "title": "Heaven to Wudang",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kc_heavento.JPG",
+    "nominations": 0,
+    "wins": -1
+  }
+]

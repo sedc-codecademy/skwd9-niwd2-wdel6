@@ -1,0 +1,314 @@
+[
+  {
+    "id": 32442,
+    "title": "The Unicorn Anthology",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "psbjw_theunico.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21352,
+    "title": "In Calabria",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "psb_incalabr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24140,
+    "title": "The New Voices of Fantasy",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "psbjw_thenewvo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25436,
+    "title": "The Overneath",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "psb_theovern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21566,
+    "title": "The Story of Kao Yu",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "psb_thestory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19289,
+    "title": "Summerlong",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "psb_summerlo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14999,
+    "title": "Sleight Of Hand",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "psb_sleighto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28644,
+    "title": "Underbridge",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17549,
+    "title": "The Urban Fantasy Anthology",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "psbjrl_theurban.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27008,
+    "title": "The Way It Works Out and All",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23257,
+    "title": "La Lune T'Attend",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15000,
+    "title": "Mirror Kingdoms:  The Best of Peter S. Beagle",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "psb_mirrorki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6577,
+    "title": "The Secret History of Fantasy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "psb_secrethi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28575,
+    "title": "By Moonlight",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24324,
+    "title": "We Never Talk About My Brother",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "psb_wenevert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28884,
+    "title": "King Pelles the Sure",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23660,
+    "title": "Uncle Chaim and Aunt Rifke and the Angel",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28544,
+    "title": "The Last and Only or, Mr. Moscowitz Becomes French",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28526,
+    "title": "El Regalo",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22522,
+    "title": "Gordon, the Self-Made Cat",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5627,
+    "title": "The Line Between",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "psb_thelineb.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31728,
+    "title": "Salt Wine",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36311,
+    "title": "A Dance for Emilia",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "PSB_ADanceFo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 703,
+    "title": "Tamsin",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "psb_tamsin.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 24418,
+    "title": "The Rhinoceros Who Quoted Nietzsche and Other Odd Acquaintances",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "psb_therhino.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15001,
+    "title": "The Unicorn Sonata",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "psb_unicorns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19176,
+    "title": "Peter S. Beagle's Immortal Unicorn",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "psbjb_immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5625,
+    "title": "The Folk of the Air",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "psb_thefolko.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34832,
+    "title": "The Fantasy Worlds of Peter Beagle",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "PB_fantasyw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4344,
+    "title": "A Fine and Private Place",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "psb_afineand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3320,
+    "title": "The Last Unicorn",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "psb_thelastu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16052,
+    "title": "Two Hearts",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "psb_twoheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26426,
+    "title": "Great-Grandmother in the Cellar",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36310,
+    "title": "Quarry",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5626,
+    "title": "Giant Bones",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "psb_giantbon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 731,
+    "title": "The Innkeeper's Song",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "psb_theinnke.jpg",
+    "nominations": 3,
+    "wins": -1
+  }
+]

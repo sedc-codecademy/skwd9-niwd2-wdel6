@@ -1,0 +1,109 @@
+[
+  {
+    "id": 4684,
+    "title": "Come Along with Me:  Classic Short Stories and an Unfinished Novel",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sj_comealon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7592,
+    "title": "Shirley Jackson:  Novels and Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sj_novels.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4604,
+    "title": "Just an Ordinary Day:  The Uncollected Stories of Shirley Jackson",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sj_justanor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4687,
+    "title": "The Magic of Shirley Jackson",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "sj_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4690,
+    "title": "We Have Always Lived in the Castle",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "sj_wehaveal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3123,
+    "title": "The Haunting of Hill House",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "sj_thehaunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4689,
+    "title": "The Sundial",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "sj_thesundi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4686,
+    "title": "The Bird's Nest",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "sj_thebirds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4685,
+    "title": "Hangsaman",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "sj_hangsama.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3498,
+    "title": "The Lottery and Other Stories",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "sj_thelotte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34940,
+    "title": "The Lottery",
+    "year": 1948,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4688,
+    "title": "The Road Through the Wall",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "sj_theroadt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

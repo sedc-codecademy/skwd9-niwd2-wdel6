@@ -1,0 +1,121 @@
+[
+  {
+    "id": 31989,
+    "title": "Midway",
+    "year": 2019,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25595,
+    "title": "A Pound of Darkness, a Quarter of Dreams",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5991,
+    "title": "Dream London",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tb_dreamlon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31827,
+    "title": "If Only…",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31883,
+    "title": "The War Artist",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32063,
+    "title": "Aristotle OS",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32109,
+    "title": "Third Person",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32539,
+    "title": "The Waters of Meribah",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27443,
+    "title": "Stories from the Northern Road",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tb_storiesf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1000,
+    "title": "Recursion",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tb_recursio.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2446,
+    "title": "Capacity",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tb_capacity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2447,
+    "title": "Divergence",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tb_divergen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1840,
+    "title": "Twisted Metal",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tb_twistedm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2252,
+    "title": "Blood and Iron",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tb_bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

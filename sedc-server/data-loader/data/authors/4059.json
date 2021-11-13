@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16937,
+    "title": "Portrait of Jennie",
+    "year": 1940,
+    "type": "novel",
+    "imageName": "RN_Portrait.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35086,
+    "title": "The Enchanted Voyage",
+    "year": 1936,
+    "type": "novel",
+    "imageName": "RN_TheEnchan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35087,
+    "title": "The Bishop's Wife",
+    "year": 1928,
+    "type": "novel",
+    "imageName": "RN_TheBisho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

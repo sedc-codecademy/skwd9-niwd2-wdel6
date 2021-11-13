@@ -1,0 +1,47 @@
+[
+  {
+    "id": 36196,
+    "title": "The Deep",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "ak_thedeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27410,
+    "title": "The Hunger",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ak_thehunge.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4112,
+    "title": "The Taker",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ak_thetaker.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4679,
+    "title": "The Reckoning",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ak_therecko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31467,
+    "title": "The Descent",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ak_thedesce.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

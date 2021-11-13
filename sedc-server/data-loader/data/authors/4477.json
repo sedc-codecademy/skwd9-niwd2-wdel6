@@ -1,0 +1,371 @@
+[
+  {
+    "id": 19257,
+    "title": "Saint Vidicon to the Rescue",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cs_stvidic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21803,
+    "title": "Escape Velocity",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cs_escapeve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21804,
+    "title": "The Warlock in Spite of Himself",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "cs_thewarlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21805,
+    "title": "King Kobold Revived",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cs_kingkobo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21806,
+    "title": "The Warlock Unlocked",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cs_warlocku.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21807,
+    "title": "The Warlock Enraged",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cs_warlocke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21808,
+    "title": "The Warlock Wandering",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cs_warlockw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21809,
+    "title": "The Warlock Is Missing",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cs_warlocki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21810,
+    "title": "The Warlock Heretical",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cs_warlockh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21811,
+    "title": "The Warlock's Companion",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cs_warlocks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21812,
+    "title": "The Warlock Insane",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cs_warlockin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21813,
+    "title": "The Warlock Rock",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cs_warlockr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21814,
+    "title": "Warlock and Son",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cs_warlocka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21815,
+    "title": "The Warlock's Last Ride",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cs_warlockl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21816,
+    "title": "A Wizard in Mind",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_awizardi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21817,
+    "title": "A Wizard in Bedlam",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "cs_wizardbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21818,
+    "title": "A Wizard in Absentia",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cs_wizardab.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21819,
+    "title": "A Wizard in War",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_wizardwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21820,
+    "title": "A Wizard in Peace",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cs_wizardpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21821,
+    "title": "A Wizard in Chaos",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cs_wizardch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21822,
+    "title": "A Wizard in Midgard",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cs_wizardmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21823,
+    "title": "A Wizard and a Warlord",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cs_wizardan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21824,
+    "title": "A Wizard in the Way",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cs_wizardway.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21825,
+    "title": "A Wizard in a Feud",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cs_wizardfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21830,
+    "title": "The Shaman",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_theshama.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21831,
+    "title": "The Sage",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cs_thesage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21800,
+    "title": "A Company of Stars",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cs_acompany.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21801,
+    "title": "We Open on Venus",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cs_weopenon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21802,
+    "title": "A Slight Detour",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cs_aslightd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21826,
+    "title": "M'Lady Witch",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cs_mladywit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21827,
+    "title": "Quicksilver's Knight",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_quicksil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21828,
+    "title": "The Spell-Bound Scholar",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cs_thespell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21829,
+    "title": "Here Be Monsters",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cs_herebemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21792,
+    "title": "Her Majesty's Wizard",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cs_hermajes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21793,
+    "title": "The Oathbound Wizard",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cs_theoathb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21794,
+    "title": "The Witch Doctor",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cs_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21795,
+    "title": "The Secular Wizard",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cs_thesecul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21796,
+    "title": "My Son, the Wizard",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cs_mysonthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21797,
+    "title": "The Haunted Wizard",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cs_thehaunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21798,
+    "title": "The Crusading Wizard",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cs_thecrusa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21799,
+    "title": "The Feline Wizard",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cs_thefelin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

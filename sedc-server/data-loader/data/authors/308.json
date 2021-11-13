@@ -1,0 +1,145 @@
+[
+  {
+    "id": 3257,
+    "title": "Lord Kalvan of Otherwhen",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "hbp_lordkalv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24507,
+    "title": "The Worlds of H. Beam Piper",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "hbp_worldsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24471,
+    "title": "Paratime",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "hbp_paratime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26744,
+    "title": "Omnilingual",
+    "year": 1957,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21372,
+    "title": "Gunner Cade / Crisis in 2140",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ad_gunnerca_crisisin.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21254,
+    "title": "Star Born / A Planet for Texans",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_starborn_aplanetf.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3252,
+    "title": "Four-Day Planet and Lone Star Planet",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "hbp_ad_fourdayp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3251,
+    "title": "Uller Uprising",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "hbp_ullerupr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20979,
+    "title": "Four-Day Planet",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "hbp_fourdayp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3253,
+    "title": "Junkyard Planet",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "hbp_thecosmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3254,
+    "title": "Space Viking",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "hbp_spacevik.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3255,
+    "title": "Federation",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "hbp_federati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3256,
+    "title": "Empire",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "hbp_empire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 312,
+    "title": "Little Fuzzy",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "hbp_littlefu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2422,
+    "title": "Fuzzy Sapiens",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "hbp_fuzzysap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2423,
+    "title": "Fuzzies and Other People",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "hbp_fuzziesa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

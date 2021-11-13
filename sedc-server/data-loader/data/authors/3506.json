@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14145,
+    "title": "Stephen King:  A Literary Companion",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RW_stephenk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14146,
+    "title": "Stephen King:  The Non-Fiction",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RW_thenonfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14147,
+    "title": "Stephen King:  Uncollected, Unpublished - Revised & Expanded",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "RW_uncollec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

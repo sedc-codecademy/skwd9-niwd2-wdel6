@@ -1,0 +1,453 @@
+[
+  {
+    "id": 9813,
+    "title": "The Very Best of Barry N. Malzberg",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bnm_theveryb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24354,
+    "title": "The Business of Science Fiction: Two Insiders Discuss Writing and Publishing",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mrbnm_thebusin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9318,
+    "title": "Breakfast in the Ruins",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bnm_breakfas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10299,
+    "title": "On Account of Darkness and Other SF Stories",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bnmbp_onaccoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10298,
+    "title": "In the Stone House (collection)",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "bnm_inthesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32789,
+    "title": "Shiva",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10297,
+    "title": "The Passage of the Light:  The Recursive Science Fiction of Barry N. Malzberg",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bnm_thepassag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17846,
+    "title": "Understanding Entropy",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20461,
+    "title": "In the Stone House",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 208,
+    "title": "The Remaking of Sigmund Freud",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bnm_theremak.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18028,
+    "title": "Corridors",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10065,
+    "title": "The Cross of Fire",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "bnm_thecross.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18027,
+    "title": "The Engines of the Night: Science Fiction in the Eighties",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "bnm_theengin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34216,
+    "title": "Le Croix (The Cross)",
+    "year": 1980,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10296,
+    "title": "The Man Who Loved the Midnight Lady",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bnm_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10064,
+    "title": "Prose Bowl",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bpbnm_prosebow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10202,
+    "title": "Malzberg at Large",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bnm_malzberg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19133,
+    "title": "Neglected Visions",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bnmmhgjdo_neglecte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10063,
+    "title": "Night Screams",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bpbnm_nightscr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10062,
+    "title": "Chorale",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bnm_chorale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10004,
+    "title": "Acts of Mercy",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bpbnm_actsofme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10005,
+    "title": "The Last Transaction",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bnm_thelastt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10295,
+    "title": "The Best of Barry N. Malzberg",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bnm_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10201,
+    "title": "Down Here in the Dream Quarter",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bnm_downhere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10002,
+    "title": "The Running of Beasts",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bpbnm_therunni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10003,
+    "title": "Scop",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bnm_scop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9968,
+    "title": "Conversations",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bnm_conversa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18996,
+    "title": "A Galaxy Called Rome",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10001,
+    "title": "The Gamesman",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bnm_thegames.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10200,
+    "title": "The Many Worlds of Barry Malzberg",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bnm_themanyw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9966,
+    "title": "The Day of the Burning",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bnm_thedayo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9963,
+    "title": "The Destruction of the Temple",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bnm_thedestr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18392,
+    "title": "Final Stage:  The Ultimate Science Fiction Anthology",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ELF&BNM_FinalSta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 262,
+    "title": "Guernica Night",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bnm_guernica.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9965,
+    "title": "On a Planet Alien",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bnm_onaplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10199,
+    "title": "Out from Ganymede",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bnm_outfromg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9967,
+    "title": "The Sodom and Gomorrah Business",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bnm_thissodo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9964,
+    "title": "Tactics of Conquest",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bnm_tacticso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9811,
+    "title": "Herovit's World",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bnm_herovits.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9810,
+    "title": "In the Enclosure",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bnm_intheenc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9812,
+    "title": "The Men Inside",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "bnm_themenin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9808,
+    "title": "Overlay",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "bnm_overlay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9809,
+    "title": "Revelations",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "bnm_revelati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9805,
+    "title": "The Falling Astronauts",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bnm_thefalli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35265,
+    "title": "Gather in the Hall of the Planets",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "BNM_GatherIn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26504,
+    "title": "Gehenna",
+    "year": 1971,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9806,
+    "title": "Universe Day",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "bnm_universe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19085,
+    "title": "Final War",
+    "year": 1968,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20862,
+    "title": "The Arbor House Treasury of Horror and the Supernatural",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "bpbmmhg_hatsuper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2006,
+    "title": "Galaxies",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bnm_galaxies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 456,
+    "title": "Beyond Apollo",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "bm_beyondap.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

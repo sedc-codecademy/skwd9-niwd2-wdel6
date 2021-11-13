@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4571,
+    "title": "The Great Lover",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mc_thegreat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34772,
+    "title": "Unlanguage",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mc_unlangu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22137,
+    "title": "The Wretch of the Sun",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "MC_wretchof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35994,
+    "title": "The Traitor",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MC_TheTrait.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20694,
+    "title": "The Divinity Student",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "MC_TheDivin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

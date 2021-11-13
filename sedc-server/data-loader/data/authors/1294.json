@@ -1,0 +1,299 @@
+[
+  {
+    "id": 6784,
+    "title": "Faerie Tale",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rf_faerieta.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2412,
+    "title": "A Kingdom Besieged",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ref_akingdom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6563,
+    "title": "A Crown Imperilled ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ref_acrownim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6564,
+    "title": "Magician's End",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ref_magician.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2404,
+    "title": "Talon of the Silver Hawk",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ref_talonoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2405,
+    "title": "King of Foxes",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ref_kingoffo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2406,
+    "title": "Exiles Return",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ref_exilesre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2407,
+    "title": "Flight of the Nighthawks",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ref_flightof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2408,
+    "title": "Into a Dark Realm",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ref_intoadar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2409,
+    "title": "Wrath of a Mad God",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ref_wrathofa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2410,
+    "title": "Rides a Dread Legion",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ref_ridesadr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2411,
+    "title": "At the Gates of Darkness",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ref_atthegat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2393,
+    "title": "Daughter of the Empire",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "refjw_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2394,
+    "title": "Servant of the Empire",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "refjw_servanto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2395,
+    "title": "Mistress of the Empire",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "refjw_mistress.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27861,
+    "title": "King of Ashes",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ref_kingofas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2396,
+    "title": "Prince of the Blood",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ref_princeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2397,
+    "title": "The King's Buccaneer",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ref_thekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2401,
+    "title": "Honoured Enemy",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "refwrf_honorede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2402,
+    "title": "Murder in LaMut",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "refjr_murderin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2403,
+    "title": "Jimmy the Hand",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "refsms_jimmythe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2398,
+    "title": "Krondor: The Betrayal",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ref_thebetra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2399,
+    "title": "Krondor: The Assassins",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ref_theassas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2400,
+    "title": "Krondor: Tear of the Gods",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ref_tearofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6565,
+    "title": "Jimmy and the Crawler",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ref_jimmyand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2389,
+    "title": "Magician: Apprentice",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ref_apprenti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2390,
+    "title": "Magician: Master",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ref_master.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2391,
+    "title": "Silverthorn",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ref_silverth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2392,
+    "title": "A Darkness at Sethanon",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ref_adarknes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2317,
+    "title": "Shadow of a Dark Queen",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ref_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2318,
+    "title": "Rise of a Merchant Prince",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ref_riseofam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2319,
+    "title": "Rage of a Demon King",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ref_rageofad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2320,
+    "title": "Shards of a Broken Crown",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ref_shardsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

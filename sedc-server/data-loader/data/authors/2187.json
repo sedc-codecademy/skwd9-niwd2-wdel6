@@ -1,0 +1,38 @@
+[
+  {
+    "id": 8121,
+    "title": "Duplex",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "KD_Duplex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8966,
+    "title": "The Thin Place",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kd_thinplac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16933,
+    "title": "Hell",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "KD_Hell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8967,
+    "title": "The Girl Who Trod on A Loaf",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "kd_girlwhot.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

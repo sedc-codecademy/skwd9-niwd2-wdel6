@@ -1,0 +1,47 @@
+[
+  {
+    "id": 21412,
+    "title": "The Girl on the Liar's Throne",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dp_thegirlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31591,
+    "title": "Witchsign",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "DP_witchsig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36237,
+    "title": "Stormtide",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "DP_stormtid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9752,
+    "title": "The Boy with the Porcelain Blade",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dp_theboywi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10968,
+    "title": "The Boy Who Wept Blood",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dp_theboywh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

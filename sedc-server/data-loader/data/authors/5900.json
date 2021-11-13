@@ -1,0 +1,38 @@
+[
+  {
+    "id": 28807,
+    "title": "The Wild Road",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gk_thewildr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28809,
+    "title": "The Golden Cat",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gk_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28811,
+    "title": "The Knot Garden",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "gk_theknotg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28813,
+    "title": "Nonesuch",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gk_nonesuch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

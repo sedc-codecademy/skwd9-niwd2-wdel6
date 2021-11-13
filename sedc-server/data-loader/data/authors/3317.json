@@ -1,0 +1,56 @@
+[
+  {
+    "id": 24549,
+    "title": "The Worlds of George O.",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "gos_worldsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30337,
+    "title": "Highways in Hiding",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "gos_spacepla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32649,
+    "title": "Hellflower",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "GOS_Hellflower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21315,
+    "title": "Masters of Evolution / Fire in the Heavens",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_masterso_fireinth.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21302,
+    "title": "Earth's Last Fortress / Lost in Space",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_earthsla_lostinsp.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12999,
+    "title": "Troubled Star",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "GS_troubled.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

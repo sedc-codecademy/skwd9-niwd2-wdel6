@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2823,
+    "title": "Black Wine",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cjd_blackwin.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 6561,
+    "title": "A Paradigm of Earth",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cjd_paradigm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6562,
+    "title": "Machine Sex and Other Stories",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cjd_machines.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

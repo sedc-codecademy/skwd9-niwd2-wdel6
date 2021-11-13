@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5795,
+    "title": "Song in the Silence",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ek_songinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5796,
+    "title": "The Lesser Kindred",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ek_thelesse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5797,
+    "title": "Redeeming the Lost",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ek_redeemin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

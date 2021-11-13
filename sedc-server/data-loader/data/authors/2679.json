@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10523,
+    "title": "The Unincorporated Man",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dkek_man.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10524,
+    "title": "The Unincorporated War",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dkek_war.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10525,
+    "title": "The Unincorporated Woman",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dkek_woman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10526,
+    "title": "The Unincorporated Future",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dkek_future.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

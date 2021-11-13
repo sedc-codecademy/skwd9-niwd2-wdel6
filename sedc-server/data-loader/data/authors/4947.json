@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22280,
+    "title": "Becoming Human",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "vjf_becoming.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22281,
+    "title": "Testament",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "vjf_testamen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22282,
+    "title": "The Beacon",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "vjf_beacon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22283,
+    "title": "Imposter",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "vjf_imposter.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,718 @@
+[
+  {
+    "id": 24773,
+    "title": "Nimisha's Ship",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "am_nimishas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7253,
+    "title": "Black Horses for the King",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "am_blackhor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13881,
+    "title": "The Girl Who Heard Dragons",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "am_thegirlw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25396,
+    "title": "Nerilka's Story & The Coelura",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "am_nestthco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32233,
+    "title": "Get Off the Unicorn",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "am_getoffth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22344,
+    "title": "Velvet Fields",
+    "year": 1973,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10014,
+    "title": "Alchemy and Academe",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "am_alchemya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7252,
+    "title": "Restoree",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "am_restoree.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7743,
+    "title": "Acorna:  The Unicorn Girl",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ammb_aunicorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7744,
+    "title": "Acorna's Quest",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ammb_acoquest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7745,
+    "title": "Acorna's People",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ameas_acpeople.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7746,
+    "title": "Acorna's World",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ameas_acoworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7747,
+    "title": "Acorna's Search",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ameas_acsearch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7748,
+    "title": "Acorna's Rebels",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ameas_acrebels.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7749,
+    "title": "Acorna's Triumph",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ameas_atriumph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7750,
+    "title": "First Warning",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ameas_firstwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7751,
+    "title": "Second Wave",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ameas_secondwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7752,
+    "title": "Third Watch",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ameas_thirdwat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7283,
+    "title": "Freedom's Landing",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "am_frlandin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7284,
+    "title": "Freedom's Choice",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "am_frchoice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7285,
+    "title": "Freedom's Challenge",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "am_frchalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7286,
+    "title": "Freedom's Ransom",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "am_frransom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2816,
+    "title": "Crystal Singer",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "amc_crystals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2817,
+    "title": "Killashandra",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "amc_killasha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2818,
+    "title": "Crystal Line",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "amc_crystall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7313,
+    "title": "Dinosaur Planet",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "am_dinosaur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7314,
+    "title": "Dinosaur Planet Survivors",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "am_dpsurviv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7254,
+    "title": "Decision at Doona",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "am_decision.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7256,
+    "title": "Crisis on Doona",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "amjln_crisison.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7257,
+    "title": "Treaty at Doona",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "amjln_treatyat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1331,
+    "title": "Dragonflight",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "amc_dragonfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 343,
+    "title": "Dragonquest",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "amc_dragonqu.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 358,
+    "title": "The White Dragon",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "amc_thewhite.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 34972,
+    "title": "The Dolphins' Bell",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "amc_dolphins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19665,
+    "title": "Dragonrider",
+    "year": 1967,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19666,
+    "title": "Weyr Search",
+    "year": 1967,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3715,
+    "title": "Dragonsong",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "amc_dragonso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7243,
+    "title": "Dragonsinger",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "am_dragonsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7244,
+    "title": "Dragondrums",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "am_dragondr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 368,
+    "title": "Moreta:  Dragonlady of Pern",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "amc_moreta.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7245,
+    "title": "Nerilka's Story",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mc_nerilkas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 433,
+    "title": "Dragonsdawn",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "amc_dragonsd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7246,
+    "title": "The Renegades of Pern",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "am_thereneg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 100,
+    "title": "All the Weyrs of Pern",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "amc_allthewe.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7247,
+    "title": "The Chronicles of Pern:  First Fall",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "am_thechron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1835,
+    "title": "The Dolphins of Pern",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "amc_thedolph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7248,
+    "title": "Red Star Rising",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "am_redstarr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7249,
+    "title": "The Masterharper of Pern",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "am_themaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7250,
+    "title": "The Skies of Pern",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "am_theskies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7251,
+    "title": "A Gift of Dragons",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "am_agiftofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7829,
+    "title": "Dragon's Kin",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "amtm_dragonsk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7831,
+    "title": "Dragon's Fire",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "amtm_dragonsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7862,
+    "title": "Dragon Harper",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "amtm_drharper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7865,
+    "title": "Dragon's Time",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "amtm_dragtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29026,
+    "title": "Sky Dragons",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "amtm_skydrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7365,
+    "title": "Powers That Be",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ameas_powersth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7366,
+    "title": "Power Lines",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ameas_powerlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7367,
+    "title": "Power Play",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ameas_powerpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7315,
+    "title": "Sassinak",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "amem_sassinak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7316,
+    "title": "The Death of Sleep",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "amjln_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7317,
+    "title": "Generation Warriors",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "amem_generati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19658,
+    "title": "Dramatic Mission",
+    "year": 1969,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3714,
+    "title": "The Ship Who Sang",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "amc_theshipw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7754,
+    "title": "PartnerShip",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ammb_partners.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7755,
+    "title": "The Ship Who Searched",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "amml_shipsear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7756,
+    "title": "The City Who Fought",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "amsms_citywhof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7757,
+    "title": "The Ship Who Won",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "amjln_shipwwon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7486,
+    "title": "To Ride Pegasus",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "am_toridepe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7487,
+    "title": "Pegasus in Flight",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "am_pinfligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7488,
+    "title": "Pegasus in Space",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "am_pinspace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7288,
+    "title": "Catalyst",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ameas_catalyst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7289,
+    "title": "Catacombs",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ameas_catacomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7490,
+    "title": "The Rowan",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "am_therowan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7491,
+    "title": "Damia",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "am_damia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7492,
+    "title": "Damia's Children",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "am_damiasch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7493,
+    "title": "Lyon's Pride",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "am_lyonspri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7494,
+    "title": "The Tower and the Hive",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "am_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7368,
+    "title": "Changelings",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ameas_changeli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7369,
+    "title": "Maelstrom",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ameas_maelstro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7370,
+    "title": "Deluge",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ameas_deluge.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

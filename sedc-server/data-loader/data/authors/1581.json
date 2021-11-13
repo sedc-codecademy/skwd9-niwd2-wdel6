@@ -1,0 +1,37 @@
+[
+  {
+    "id": 3541,
+    "title": "Bone Music",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ar_bonemusi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26078,
+    "title": "Fire",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ar_fire.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23488,
+    "title": "The Boy Who Came Back from the Dead",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13078,
+    "title": "Rebellion",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rhar_rebellio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

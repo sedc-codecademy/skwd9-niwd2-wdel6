@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17239,
+    "title": "Moving Target",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JF_movingta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17238,
+    "title": "The Weapon of a Jedi",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JF_weaponof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27580,
+    "title": "Star Wars, Episode 8: The Last Jedi",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "JF_lastjedi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

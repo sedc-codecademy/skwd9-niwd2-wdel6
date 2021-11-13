@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11889,
+    "title": "Timesplash",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gs_timespla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11890,
+    "title": "True Path",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gs_truepath.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11891,
+    "title": "Foresight",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gs_foresigh.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

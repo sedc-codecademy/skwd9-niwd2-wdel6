@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32009,
+    "title": "Only the Good Die Young",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "CMG_OnlyGood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32010,
+    "title": "Another One Bites the Dust",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "CMG_AnotherO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32011,
+    "title": "Every Breath You Take",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "CMG_EveryBre.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

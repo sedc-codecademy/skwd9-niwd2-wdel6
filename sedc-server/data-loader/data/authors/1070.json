@@ -1,0 +1,56 @@
+[
+  {
+    "id": 33955,
+    "title": "Three Laws Lethal",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dw_threelaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24119,
+    "title": "The Genius Plague",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dw_thegeniu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13603,
+    "title": "Quintessence",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dw_quintess.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1209,
+    "title": "Terminal Mind",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dw_terminal.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10914,
+    "title": "Superposition",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dw_superpos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13657,
+    "title": "Supersymmetry",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dw_supersym.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

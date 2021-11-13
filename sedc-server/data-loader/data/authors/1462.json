@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9081,
+    "title": "The Castle",
+    "year": 1926,
+    "type": "novel",
+    "imageName": "fk_thecastl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3127,
+    "title": "The Trial",
+    "year": 1925,
+    "type": "novel",
+    "imageName": "fk_thetrial.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3214,
+    "title": "The Metamorphosis",
+    "year": 1915,
+    "type": "novel",
+    "imageName": "fk_themetam.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

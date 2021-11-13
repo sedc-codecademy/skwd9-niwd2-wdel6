@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18709,
+    "title": "These Are The Voyages: TOS Season One",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mc_thesear1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18710,
+    "title": "These Are The Voyages: TOS Season Two",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mc_thesear2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18711,
+    "title": "These Are The Voyages: TOS Season Three",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mc_thesear3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": 32447,
+    "title": "Son of Darkness",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JS_SonofDar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32411,
+    "title": "A Cast of Corbies",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ML_CastofCo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32448,
+    "title": "The Horse of Flame",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "JS_HorseofF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32449,
+    "title": "The Shining Falcon",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JS_ShiningF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16954,
+    "title": "The Captive Soul",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JS_captives.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32409,
+    "title": "The Shattered Oath",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "JS_Shattere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32410,
+    "title": "Forging the Runes",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "JS_Forgingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16957,
+    "title": "Vulcan's Forge",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "JS_vulcansf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16958,
+    "title": "Vulcan's Heart",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "JS_vulcansh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16989,
+    "title": "Vulcan's Soul",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "JS_vulcanso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16982,
+    "title": "Exodus",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "JS_vsexodus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16983,
+    "title": "Exiles",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "JS_vsexiles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16984,
+    "title": "Epiphany",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "JS_vsepipha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

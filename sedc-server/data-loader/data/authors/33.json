@@ -1,0 +1,212 @@
+[
+  {
+    "id": 36690,
+    "title": "William Gibson's Archangel",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "WG_archange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26211,
+    "title": "Conversations with William Gibson",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "PS_conversa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4552,
+    "title": "Distrust That Particular Flavor",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "wg_distrust.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34113,
+    "title": "Thirteen Views of a Cardboard City",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14306,
+    "title": "Johnny Mnemonic (collection)",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WG_johnnymn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 180,
+    "title": "The Difference Engine",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "wgbs_thediffe.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 3425,
+    "title": "Burning Chrome (collection)",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "wg_burningc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18780,
+    "title": "Dogfight",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18778,
+    "title": "The Winter Market",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18819,
+    "title": "Burning Chrome",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18043,
+    "title": "Johnny Mnemonic",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "wg_johnnym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 583,
+    "title": "Pattern Recognition",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "wg_patternr.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1040,
+    "title": "Spook Country",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "wg_spookcou.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2096,
+    "title": "Zero History",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "wg_zerohist.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 26866,
+    "title": "Skinner's Room",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 96,
+    "title": "Virtual Light",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "wg_virtuall.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1436,
+    "title": "Idoru",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "wg_idoru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1437,
+    "title": "All Tomorrow's Parties",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "wg_alltomor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9203,
+    "title": "The Peripheral",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "wg_theperip.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 35615,
+    "title": "Agency",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "wg_agency.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26621,
+    "title": "New Rose Hotel",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32,
+    "title": "Neuromancer",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "wg_neuroman.jpg",
+    "nominations": 7,
+    "wins": -1
+  },
+  {
+    "id": 199,
+    "title": "Count Zero",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "wg_countzer.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 116,
+    "title": "Mona Lisa Overdrive",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "wg_monalisa.jpg",
+    "nominations": 4,
+    "wins": -1
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "id": 28376,
+    "title": "Relic",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "adf_relic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25235,
+    "title": "Exceptions to Reality",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "adf_exceptio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13673,
+    "title": "Sagramanda:  A Novel of Near-Future India",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ADF_sagraman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35576,
+    "title": "Impossible Places",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ADF_Impossib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25230,
+    "title": "Interlopers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "adf_interlop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25229,
+    "title": "Kingdoms of Light",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "adf_kingdoms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24923,
+    "title": "Parallelities",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "adf_parallel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3418,
+    "title": "Jed the Dead",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "adf_jedthede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25228,
+    "title": "The Dig",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "adf_thedig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11011,
+    "title": "Design for Great-Day",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "adf_designfo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18648,
+    "title": "Life Form",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "adf_lifeform.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25212,
+    "title": "Greenthieves",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "adf_greenthi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25227,
+    "title": "Codgerspace",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "adf_codgersp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25226,
+    "title": "Cat-A-Lyst",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "adf_catalyst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35575,
+    "title": "Smart Dragons, Foolish Elves",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ADF_SmartDra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25225,
+    "title": "Cyber Way",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "adf_cyberway.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25224,
+    "title": "Quozl",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "adf_quozl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25222,
+    "title": "Maori",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "adf_maori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25223,
+    "title": "To the Vanishing Point",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "adf_tothevan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25221,
+    "title": "Glory Lane",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "adf_glorylan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25220,
+    "title": "Into the Out Of",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "adf_intotheo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25219,
+    "title": "The I Inside",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "adf_theiinsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13453,
+    "title": "The Last Starfighter",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ADF_laststar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25217,
+    "title": "Shadowkeep",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "adf_shadowke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25218,
+    "title": "Slipt",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "adf_slipt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13590,
+    "title": "Starman",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ADF_starman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25216,
+    "title": "Krull",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "adf_krull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25215,
+    "title": "The Man Who Used the Universe",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "adf_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13591,
+    "title": "The Thing",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ADF_thething.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25214,
+    "title": "Clash of the Titans",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "adf_clashoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13577,
+    "title": "Outland",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ADF_outland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10571,
+    "title": "The Black Hole",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "AF_blackhol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13576,
+    "title": "Dark Star",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ADF_darkstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25213,
+    "title": "Luana",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "adf_luana.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13589,
+    "title": "Alien Nation",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ADF_aliennat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24763,
+    "title": "Alien: Covenant Origins",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AF_aliensc2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24382,
+    "title": "Alien: Covenant",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AF_aliencov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3400,
+    "title": "Alien",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "adf_alien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10079,
+    "title": "Aliens",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ADF_aliens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10080,
+    "title": "Alien3",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ADF_alien3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13669,
+    "title": "A Call to Arms",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ADF_callarms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13670,
+    "title": "The False Mirror",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ADF_falsemir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13671,
+    "title": "The Spoils of War",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ADF_spoilswa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13709,
+    "title": "Phylogenesis",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ADF_phylogen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13710,
+    "title": "Dirge",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ADF_dirge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13711,
+    "title": "Diuturnity's Dawn",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ADF_diuturni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7621,
+    "title": "Midworld",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "af_midworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7625,
+    "title": "Cachalot",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "af_cachalot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7626,
+    "title": "Nor Crystal Tears",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "af_norcryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8024,
+    "title": "Voyage to the City of the Dead",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "adf_voyageto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8025,
+    "title": "Sentenced to Prism",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "adf_sentence.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8026,
+    "title": "The Howling Stones",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "adf_thehowli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8027,
+    "title": "Drowning World",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "adf_drowning.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8028,
+    "title": "Quofum",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "adf_quofum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7629,
+    "title": "The Icerigger Trilogy",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "af_theiceri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7619,
+    "title": "Icerigger",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "af_icerigge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7624,
+    "title": "Mission to Moulokin",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "af_missiont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7628,
+    "title": "The Deluge Drivers",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "af_thedelug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13672,
+    "title": "The Mocking Program",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ADF_mockingp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27762,
+    "title": "Montezuma Strip",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "adf_montezum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27760,
+    "title": "Sanctuary",
+    "year": 1988,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7616,
+    "title": "The Tar-Aiym Krang",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "af_thetarai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7618,
+    "title": "Bloodhype",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "af_bloodhyp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7622,
+    "title": "Orphan Star",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "af_orphanst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7623,
+    "title": "The End of the Matter",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "af_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7627,
+    "title": "For Love of Mother-Not",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "af_forloveo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8015,
+    "title": "Flinx in Flux",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "adf_flinxinf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8016,
+    "title": "Mid-Flinx",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "adf_midflinx.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8017,
+    "title": "Reunion",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "adf_reunion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8018,
+    "title": "Flinx's Folly",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "adf_flinxsfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8019,
+    "title": "Sliding Scales",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "adf_slidings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8020,
+    "title": "Running from the Deity",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "adf_runningf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8021,
+    "title": "Trouble Magnet",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "adf_troublem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8022,
+    "title": "Patrimony",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "adf_patrimony.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8023,
+    "title": "Flinx Transcendent",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "adf_flinxtra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25231,
+    "title": "Strange Music",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "adf_strangem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17106,
+    "title": "The Chronicles of Riddick",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ADF_riddick.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3410,
+    "title": "Spellsinger",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "adf_spellsin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3411,
+    "title": "The Hour of the Gate",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "adf_thehouro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3412,
+    "title": "The Day of the Dissonance",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "adf_thedayof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3413,
+    "title": "The Moment of the Magician",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "adf_themomen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3414,
+    "title": "The Paths of the Perambulator",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "adf_thepaths.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3415,
+    "title": "The Time of the Transference",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "adf_thetimeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3416,
+    "title": "Son of Spellsinger",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "adf_sonofspe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3417,
+    "title": "Chorus Skating",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "adf_chorussk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36145,
+    "title": "The Unsettling Stars",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "AF_unsettli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18960,
+    "title": "Star Trek Log One",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ADF_stlog1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18961,
+    "title": "Star Trek Log Two",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ADF_stlog2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18962,
+    "title": "Star Trek Log Three",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ADF_stlog3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18963,
+    "title": "Star Trek Log Four",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ADF_stlog4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18964,
+    "title": "Star Trek Log Five",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ADF_stlog5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18965,
+    "title": "Star Trek Log Six",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ADF_stlog6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18966,
+    "title": "Star Trek Log Seven",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ADF_stlog7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18967,
+    "title": "Star Trek Log Eight",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ADF_stlog8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18968,
+    "title": "Star Trek Log Nine",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ADF_stlog9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18969,
+    "title": "Star Trek Log Ten",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ADF_stlog10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11587,
+    "title": "Star Trek",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "adf_st2009.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11588,
+    "title": "Star Trek: Into Darkness",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "adf_stintoda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16630,
+    "title": "The Approaching Storm",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ADF_approach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3401,
+    "title": "Splinter of the Mind's Eye",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "adf_splinter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10621,
+    "title": "Star Wars, Episode 4: A New Hope",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "gladf_anewhope.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16573,
+    "title": "Star Wars, Episode 7: The Force Awakens",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ADF_forceawk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18805,
+    "title": "Lost and Found",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "adf_lostand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18808,
+    "title": "The Light-years Beneath My Feet",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "adf_theligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18806,
+    "title": "The Candle of Distant Earth",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "adf_thecand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13490,
+    "title": "Terminator Salvation",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ADF_termin4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25232,
+    "title": "The Human Blend",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "adf_thehuman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25233,
+    "title": "Body, Inc.",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adf_bodyinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25234,
+    "title": "The Sum of Her Parts",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "adf_thesumof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5576,
+    "title": "The Snowmelt River",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "fpr_thesnowm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5577,
+    "title": "The Tower of Bones",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "fpr_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25484,
+    "title": "The Sword of Feimhin",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "fpr_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25485,
+    "title": "The Return of the Arinn",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "fpr_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

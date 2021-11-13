@@ -1,0 +1,20 @@
+[
+  {
+    "id": 34010,
+    "title": "Dirty Computer",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jm_dirtycom.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16251,
+    "title": "The Electric Lady",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jm_electric.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11649,
+    "title": "World Enough, and Time",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jk_worldeno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11650,
+    "title": "Times Dark Laughter",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jk_timesdar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10622,
+    "title": "Star Wars, Episode 6: Return of the Jedi",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jk_returnof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 4113,
+    "title": "Chasing the Moon",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "alm_chasint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2669,
+    "title": "Divine Misfortune",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "alm_divinemi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2668,
+    "title": "Monster",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "alm_monster.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2666,
+    "title": "The Automatic Detective",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "alm_theautom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2667,
+    "title": "Too Many Curses",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "alm_toomanyc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2665,
+    "title": "A Nameless Witch",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "alm_anameles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2664,
+    "title": "In the Company of Ogres",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "alm_inthecom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2663,
+    "title": "Gil's All Fright Diner",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "alm_gilsallf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5502,
+    "title": "Helen and Troy's Epic Road Quest",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "alm_helenand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5501,
+    "title": "Emperor Mollusk Versus The Sinister Brain",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "alm_emperorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27211,
+    "title": "The Last Adventure of Constance Verity",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "alm_thelasta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27212,
+    "title": "Constance Verity Saves the World",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "alm_constanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

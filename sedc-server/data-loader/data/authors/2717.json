@@ -1,0 +1,317 @@
+[
+  {
+    "id": 34916,
+    "title": "Aliens: DNA War",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "DC_dnawar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34917,
+    "title": "Aliens: Cauldron",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DC_cauldron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20201,
+    "title": "Day of Honor",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DC_dayofhon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20190,
+    "title": "Ancient Blood",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "DC_ancientb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20195,
+    "title": "Chainmail",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "DC_chainmai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20200,
+    "title": "What Lay Beyond",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "PD_whatlayb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20222,
+    "title": "The Captain's Table",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lag_wardrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20219,
+    "title": "Fire Ship",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dc_fireship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17118,
+    "title": "Call to Arms...",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dc_dwbook2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17120,
+    "title": "...Sacrifice of Angels",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dc_dwbook4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19828,
+    "title": "Station Rage",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dc_stationr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20352,
+    "title": "Trials and Tribble-ations",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "DC_trialtri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20229,
+    "title": "The Search",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "DC_thesearc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20230,
+    "title": "The Way of the Warrior",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "DC_waywarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10627,
+    "title": "What You Leave Behind",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dc_whatyoul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10630,
+    "title": "Broken Bow",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "DC_brokenbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20353,
+    "title": "Cadet Kirk",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "DC_cadetkir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20297,
+    "title": "Ship of the Line",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "DC_shipline.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19855,
+    "title": "Ghost Ship",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dc_ghostshi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19144,
+    "title": "Red Sector",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dc_redsecto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20226,
+    "title": "Descent",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "DC_descent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20056,
+    "title": "The Great Starship Race",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dc_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20914,
+    "title": "First Frontier",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "DC_firstfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20005,
+    "title": "First Strike",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dc_firststr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20234,
+    "title": "Dreadnought!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "DC_dreadnou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20235,
+    "title": "Battlestations!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "DC_battlest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20331,
+    "title": "Final Frontier",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dc_finalfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20330,
+    "title": "Best Destiny",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "DC_bestdest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20332,
+    "title": "Wagon Train to the Stars",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dc_wagontra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20335,
+    "title": "Belle Terre",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "DC_belleter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20333,
+    "title": "Challenger",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "DC_challeng.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20503,
+    "title": "Star Trek: Starfleet Academy",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "DC_starflee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20244,
+    "title": "Flashback",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "DC_flashbac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20245,
+    "title": "Equinox",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DC_equinox.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10629,
+    "title": "Endgame",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "DC_endgame.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

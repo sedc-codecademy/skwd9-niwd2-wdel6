@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14341,
+    "title": "Torment",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JR_torment.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14343,
+    "title": "The Sentinel",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JR_sentinel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14342,
+    "title": "The Raven",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JR_raven.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

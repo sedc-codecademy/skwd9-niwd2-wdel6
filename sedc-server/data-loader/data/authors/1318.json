@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2506,
+    "title": "Nights of Villjamur",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mcn_nightsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2507,
+    "title": "City of Ruin",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mcn_cityofru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2508,
+    "title": "The Book of Transformations",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mcn_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8668,
+    "title": "The Broken Isles",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mcn_thebroke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8669,
+    "title": "Drakenfeld",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mcn_drakenfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9579,
+    "title": "Retribution",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mcn_retribut.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 29043,
+    "title": "Someone Like Me",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mrc_someonel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17590,
+    "title": "Fellside",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mrc_fellside.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9066,
+    "title": "The Girl With All the Gifts",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mrc_thegirlw.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 22044,
+    "title": "The Boy on the Bridge",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mrc_boyonthe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36328,
+    "title": "The Book of Koli",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "MC_bookkoli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36329,
+    "title": "The Trials of Koli",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "MC_trialsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

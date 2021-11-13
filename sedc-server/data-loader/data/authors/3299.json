@@ -1,0 +1,47 @@
+[
+  {
+    "id": 12946,
+    "title": "Raven's Gate",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ah_ravensga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12947,
+    "title": "Evil Star",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ah_evilstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12948,
+    "title": "Nightrise",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ah_nightris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12949,
+    "title": "Necropolis",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ah_necropol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12950,
+    "title": "Oblivion",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ah_oblivion.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

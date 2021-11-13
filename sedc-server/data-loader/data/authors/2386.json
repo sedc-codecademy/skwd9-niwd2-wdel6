@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8995,
+    "title": "Covenant with the Vampire",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jk_covenant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8996,
+    "title": "Children of the Vampire ",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jk_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8997,
+    "title": "Lord of the Vampires ",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jk_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

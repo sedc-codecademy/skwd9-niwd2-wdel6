@@ -1,0 +1,56 @@
+[
+  {
+    "id": 12222,
+    "title": "...Roads",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "sq_roads.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35835,
+    "title": "Black Moon",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sq_blackmoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24748,
+    "title": "The Horror on the Links",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sq_thehorro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25481,
+    "title": "The Devil's Rosary",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sq_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26981,
+    "title": "The Dark Angel",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sq_thedarka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28568,
+    "title": "A Rival From the Grave",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sq_arivalfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

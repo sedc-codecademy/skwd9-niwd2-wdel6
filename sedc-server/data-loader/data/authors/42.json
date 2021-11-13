@@ -1,0 +1,506 @@
+[
+  {
+    "id": 28530,
+    "title": "Red Moon",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ksr_redmoon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21480,
+    "title": "New York 2140",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ksr_newyork2.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 11037,
+    "title": "Aurora",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "KR_aurora.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 16304,
+    "title": "Oral Argument",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ksr_oralargu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8681,
+    "title": "Green Planets: Ecology and Science Fiction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gcksr_greenpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5775,
+    "title": "Shaman",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ksr_shaman.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3883,
+    "title": "2312",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ksr_2312.jpg",
+    "nominations": 7,
+    "wins": -1
+  },
+  {
+    "id": 6921,
+    "title": "The Best of Kim Stanley Robinson",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ksr_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1708,
+    "title": "Galileo's Dream",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ksr_galileos.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 13959,
+    "title": "Vinland the Dream and Other Stories",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ksr_vinlandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 61,
+    "title": "The Years of Rice and Salt",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ksr_theyears.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 27393,
+    "title": "A Martian Romance",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 709,
+    "title": "Antarctica",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ksr_antarcti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7396,
+    "title": "Future Primitive:  The New Ecotopias",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ksr_fururep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13961,
+    "title": "Remaking History and Other Stories",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ksr_remaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13960,
+    "title": "Down and Out in the Year 2000",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ksr_downando.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26230,
+    "title": "A History of the Twentieth Century, with Illustrations",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24296,
+    "title": "Remaking History",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ksr_remaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17696,
+    "title": "Vinland the Dream",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6215,
+    "title": "A Short, Sharp Shock",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ksr_ashortsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17648,
+    "title": "Before I Wake",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6214,
+    "title": "Escape from Kathmandu (collection)",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ksr_escapefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27758,
+    "title": "Glacier",
+    "year": 1988,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16801,
+    "title": "The Lunatics",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ksr_lunatics.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31693,
+    "title": "Remaking History",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20514,
+    "title": "Mother Goddess of the World",
+    "year": 1987,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19258,
+    "title": "The Blind Geometer",
+    "year": 1986,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26846,
+    "title": "Down and Out in the Year 2000",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19260,
+    "title": "Escape from Kathmandu",
+    "year": 1986,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22469,
+    "title": "Our Town",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10889,
+    "title": "The Planet on the Table",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ksr_theplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 650,
+    "title": "The Memory of Whiteness",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ksr_thememor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17193,
+    "title": "Mercurial",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6213,
+    "title": "Icehenge",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ksr_icehenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18489,
+    "title": "The Lucky Strike",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17725,
+    "title": "Ridge Running",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16305,
+    "title": "Black Air",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ksr_blackair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20510,
+    "title": "To Leave a Mark",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17698,
+    "title": "Venice Drowned",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28279,
+    "title": "A Sensitive Dependence on Initial Conditions",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ksr_acm20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14168,
+    "title": "Green Earth",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ksr_greenear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 673,
+    "title": "Forty Signs of Rain",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ksr_fortysig.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 846,
+    "title": "Fifty Degrees Below",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ksr_fiftydeg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1292,
+    "title": "Sixty Days and Counting",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ksr_sixtyday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6497,
+    "title": "The Martians",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ksr_themarti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16121,
+    "title": "Sexual Dimorphism",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19259,
+    "title": "Green Mars",
+    "year": 1985,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 98,
+    "title": "Red Mars",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ksr_redmars.jpg",
+    "nominations": 6,
+    "wins": -1
+  },
+  {
+    "id": 41,
+    "title": "Green Mars",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ksr_greenmar.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 44,
+    "title": "Blue Mars",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ksr_bluemars.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 7373,
+    "title": "Nebula Awards Showcase 2002",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ksr_nebula02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7737,
+    "title": "The Lucky Strike (collection)",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "KSR_TheLucky.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 214,
+    "title": "The Wild Shore",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ksr_thewilds.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 432,
+    "title": "The Gold Coast",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ksr_thegoldc.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 429,
+    "title": "Pacific Edge",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ksr_pacifice.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11083,
+    "title": "Tor Double #1: A Meeting With Medusa / Green Mars",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "AC_tordbl1a.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11119,
+    "title": "Tor Double #13: The Blind Geometer / The New Atlantis",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "KR_tordbl13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11099,
+    "title": "Tor Double #28: A Short Sharp Shock / The Dragon Masters",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "KR_tordbl28.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

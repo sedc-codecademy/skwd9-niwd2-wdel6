@@ -1,0 +1,743 @@
+[
+  {
+    "id": 13161,
+    "title": "Hour of the Gremlins",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "grdbb_hourofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25399,
+    "title": "The Magnificent Wilf",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "grd_themagni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13668,
+    "title": "Wolf and Iron",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "GD_wolfiron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25398,
+    "title": "The Earth Lords",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "grd_theearth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21559,
+    "title": "Beginnings",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "grd_beginnin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18397,
+    "title": "Ends",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "grd_ends.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25397,
+    "title": "The Forever Man",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "grd_theforev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21059,
+    "title": "The Cloak and the Staff",
+    "year": 1980,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19590,
+    "title": "Lost Dorsai",
+    "year": 1980,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25400,
+    "title": "Masters of Everon",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "grd_masterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21253,
+    "title": "On the Run",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "grd_ontherun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10415,
+    "title": "The Far Call",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "grd_thefarca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25401,
+    "title": "Pro",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "grd_pro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 356,
+    "title": "Time Storm",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "grd_timestor.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24973,
+    "title": "The Lifeship",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "hhgrd_thelifes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13136,
+    "title": "Gremlins, Go Home!",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "bbgrd_gremlins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25403,
+    "title": "Alien Art",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "grd_alienart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25402,
+    "title": "The R-Master",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "grd_thermast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18269,
+    "title": "The Star Road",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "GRD_TheStarR.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24700,
+    "title": "The Pritcher Mass",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "grd_thepritc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25404,
+    "title": "Sleepwalker's World",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "grd_sleepwal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25405,
+    "title": "Hour of the Horde",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "grd_hourofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21502,
+    "title": "Jean Duprès",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25455,
+    "title": "Mutants",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "grd_mutants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25410,
+    "title": "None But Man",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "grd_nonebutm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25406,
+    "title": "Wolfling",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "grd_wolfling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25407,
+    "title": "Planet Run",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "klgrd_planetru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19149,
+    "title": "Call Him Lord",
+    "year": 1966,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10691,
+    "title": "The Alien Way",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "grd_thealien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18396,
+    "title": "Computers Don't Argue",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10693,
+    "title": "Mission to Universe",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "grd_missiont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25408,
+    "title": "Space Winners",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "grd_spacewin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25409,
+    "title": "Naked to the Stars",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "grd_nakedtot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21482,
+    "title": "Alien from Arcturus / Atom Curtain",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_alienfro_atomcurt.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21252,
+    "title": "The Crossroads of Time / Mankind on the Run",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_thecross_mankindo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21282,
+    "title": "The Genetic General / Time to Teleport",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_thegenet_timetote.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21283,
+    "title": "Delusion World / Spacial Delivery",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ad_delusion_spaciald.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22020,
+    "title": "Time to Teleport / Delusion World",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "grd_ad81237.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22019,
+    "title": "Alien Art / Arcturus Landing",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "grd_ad1685.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7287,
+    "title": "Five Fates",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "klpa_fivefate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23291,
+    "title": "The Best of Gordon R. Dickson: Volume 1",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "grd_tbogrd1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25414,
+    "title": "Spacial Delivery",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "grd_spaciald.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25415,
+    "title": "Spacepaw",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "grd_spacepaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12024,
+    "title": "The Final Encyclopedia",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "grd_finalenc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21522,
+    "title": "Soldier, Ask Not",
+    "year": 1964,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 299,
+    "title": "Dorsai!",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "grd_dorsai.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1517,
+    "title": "Necromancer",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "grd_necroman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1518,
+    "title": "Soldier, Ask Not",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "grd_soldiera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1519,
+    "title": "Tactics of Mistake",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "grd_tacticso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5947,
+    "title": "The Spirit of Dorsai",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "grd_thespiri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5948,
+    "title": "Lost Dorsai (collection)",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "grd_lostdors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1520,
+    "title": "The Final Encyclopedia:  Vol 1",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "grd_thefinal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1521,
+    "title": "The Final Encyclopedia:  Vol 2",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "grd_thefinal2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1522,
+    "title": "The Chantry Guild",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "grd_thechant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1531,
+    "title": "Young Bleys",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "grd_youngble.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1532,
+    "title": "Other",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "grd_other.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1533,
+    "title": "Antagonist",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "grddww_antagoni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 972,
+    "title": "The Dragon and the George",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "grd_thedrago.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1523,
+    "title": "The Dragon Knight",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "grd_dragonkn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1524,
+    "title": "The Dragon on the Border",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "grd_onthebor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1525,
+    "title": "The Dragon at War",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "grd_atwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1526,
+    "title": "The Dragon the Earl and the Troll",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "grd_theearl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1527,
+    "title": "The Dragon and the Djinn",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "grd_thedjinn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1528,
+    "title": "The Dragon and the Gnarly King",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "grd_gnarlyki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1529,
+    "title": "The Dragon in Lyonesse",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "grd_inlyones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1530,
+    "title": "The Dragon and the Fair Maid of Kent",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "grd_fairmaid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35254,
+    "title": "Of War and Honor",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "GRD_OfWarHon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35255,
+    "title": "Blood and War",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "GRD_BloodWar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8622,
+    "title": "Earthman's Burden",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "pagrd_earthman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13167,
+    "title": "Star Prince Charlie",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "pagrd_starprin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13168,
+    "title": "Hoka!",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pagrd_hoka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13166,
+    "title": "Hoka! Hoka! Hoka!",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pagrd_hokahoka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13169,
+    "title": "Hokas Pokas!",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pagrd_hokaspok.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7507,
+    "title": "Nebula Winners Twelve",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "grd_nebula12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10692,
+    "title": "The Outposter",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "grd_theoutpo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25417,
+    "title": "The Space Swimmers",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "grd_tsswimme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25416,
+    "title": "Home from the Shore",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "grd_homefrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12001,
+    "title": "Way of the Pilgrim",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "grd_wayofthe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25454,
+    "title": "Jamie the Red",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "grdrjg_jamiethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10901,
+    "title": "Tor Double #31: Naked to the Stars / The Alien Way",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "GD_nakedsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25411,
+    "title": "Secret Under the Sea",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "grd_suthesea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25412,
+    "title": "Secret Under Antarctica",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "grd_suantarc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25413,
+    "title": "Secret Under the Caribbean",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "grd_suthecar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

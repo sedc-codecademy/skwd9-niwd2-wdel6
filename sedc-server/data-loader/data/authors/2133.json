@@ -1,0 +1,38 @@
+[
+  {
+    "id": 7837,
+    "title": "The Knight, the Harp, and the Maiden ",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "akb_knightth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7833,
+    "title": "Daughter of Prophecy ",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "akb_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7834,
+    "title": "Children of Enchantment ",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "akb_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7836,
+    "title": "The Misbegotten King ",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "akb_misbegot.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

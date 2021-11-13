@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24496,
+    "title": "First Watch",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dl_firstwat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28307,
+    "title": "Friendly Fire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dl_friendly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34868,
+    "title": "Good Company",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dl_goodcomp.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 26031,
+    "title": "The House of War and Witness",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mclclc_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26030,
+    "title": "The Steel Seraglio",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mclclc_thesteel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1196,
+    "title": "The Devil You Know",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mc_thedevil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2231,
+    "title": "Vicious Circle",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mc_viciousc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2232,
+    "title": "Dead Men's Boots",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mc_deadmens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1926,
+    "title": "Thicker Than Water",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mc_thickert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1920,
+    "title": "The Naming of the Beasts",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mc_thenamin.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

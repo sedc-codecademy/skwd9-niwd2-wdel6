@@ -1,0 +1,120 @@
+[
+  {
+    "id": 34830,
+    "title": "Destroy All Monsters",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SM_destroya.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27870,
+    "title": "Blackfish City",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sjm_blackfis.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 24620,
+    "title": "The Art of Starving",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sjm_theartof.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 25023,
+    "title": "Bodies Stacked Like Firewood",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25795,
+    "title": "The Future of Hunger in the Age of Programmable Matter",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sjm_thefutur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26103,
+    "title": "Making Us Monsters",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28737,
+    "title": "Last Gods",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22156,
+    "title": "Things with Beards",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26133,
+    "title": "Calved",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22263,
+    "title": "Ghosts of Home",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19343,
+    "title": "The Heat of Us:  Notes Toward an Oral History",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17574,
+    "title": "When Your Child Strays From God",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sjm_whenyour.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17572,
+    "title": "We Are the Cloud",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sjm_wearethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28502,
+    "title": "Red Lizard Brigade",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

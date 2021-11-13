@@ -1,0 +1,109 @@
+[
+  {
+    "id": 4789,
+    "title": "The Best of Margaret St. Clair",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mscmhg_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7232,
+    "title": "Change the Sky and Other Stories",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "msc_changeth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7690,
+    "title": "The Dancers of Noyo",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "msc_thedance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7688,
+    "title": "The Shadow People",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "msc_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7687,
+    "title": "The Dolphins of Altair",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "msc_thedolph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7230,
+    "title": "Sign of the Labrys",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "msc_signofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4788,
+    "title": "Agent of the Unknown",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "msc_agentoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22000,
+    "title": "Prott",
+    "year": 1953,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21285,
+    "title": "The World Jones Made / Agent of the Unknown",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_theworld_agentoft.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7228,
+    "title": "The Green Queen / Three Thousand Years",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_thegreen_3thousan.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7229,
+    "title": "The Games of Neith / The Earth Gods Are Coming",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_thegames_theearth.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7231,
+    "title": "Message from the Eocene / Three Worlds of Futurity",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_messagef_threewor.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

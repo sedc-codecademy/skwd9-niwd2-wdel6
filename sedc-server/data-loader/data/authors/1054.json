@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1161,
+    "title": "Chasm",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sl_chasm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35473,
+    "title": "Macabre",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "SL_Macabre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35472,
+    "title": "Darkfall",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "SL_Darkfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35474,
+    "title": "The Frighteners",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "SL_Frighten.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35297,
+    "title": "Ghost Train",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "SL_ghosttri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

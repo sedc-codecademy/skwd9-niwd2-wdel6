@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11405,
+    "title": "Winter Be My Shield",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "js_winterbe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11406,
+    "title": "Black Sun Light My Way",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "js_blacksun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11407,
+    "title": "North Star Guide Me Home",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "js_northsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

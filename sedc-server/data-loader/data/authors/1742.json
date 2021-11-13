@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16923,
+    "title": "The Caretakers",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dn_thecaret.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13460,
+    "title": "The 'Geisters",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dn_thegeist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4237,
+    "title": "Rasputin's Bastards",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dn_rasputin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7580,
+    "title": "Eutopia: A Novel of Terrible Optimism",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dn_eutopia.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

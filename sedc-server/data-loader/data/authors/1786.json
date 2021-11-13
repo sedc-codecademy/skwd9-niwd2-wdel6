@@ -1,0 +1,56 @@
+[
+  {
+    "id": 4449,
+    "title": "ICO:  Castle in the Mist",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mm_icocastl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10052,
+    "title": "Brave Story",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "MM_bravesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10051,
+    "title": "Apparitions: Ghosts of Old Edo",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "MM_appariti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14537,
+    "title": "Crossfire",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mm_crossfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10053,
+    "title": "The Book of Heroes",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "MM_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19398,
+    "title": "The Gate of Sorrows",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mm_thegateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

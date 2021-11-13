@@ -1,0 +1,200 @@
+[
+  {
+    "id": 27899,
+    "title": "Glimpse",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jm_glimpse.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25722,
+    "title": "Indigo:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CG_indigo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23294,
+    "title": "Mars One",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jm_marsone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20707,
+    "title": "Whistling Past the Graveyard",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jm_wistling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3605,
+    "title": "Rot & Ruin",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jm_rotruin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4134,
+    "title": "Dust & Decay",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jm_dustandd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4742,
+    "title": "Flesh & Bone",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_fleshand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10032,
+    "title": "Fire & Ash",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jm_fireash.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10035,
+    "title": "Dead of Night",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jm_deadofni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10036,
+    "title": "Fall of Night",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jm_fallofni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3601,
+    "title": "Patient Zero:  A Joe Ledger Novel",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jm_patientz.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7063,
+    "title": "The Dragon Factory",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jm_thedragonfactory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9204,
+    "title": "The King of Plagues",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jm_thekingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10029,
+    "title": "Assassin's Code",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_assassin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10030,
+    "title": "Extinction Machine",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jm_extincti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10031,
+    "title": "Code Zero",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jm_codezero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20708,
+    "title": "Predator One",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jm_predator.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20709,
+    "title": "Kill Switch",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jm_killswit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23295,
+    "title": "Dogs of War",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jm_dogsofwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3589,
+    "title": "Ghost Road Blues",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jm_ghostroa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10033,
+    "title": "Dead Man's Song",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jm_deadmans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10034,
+    "title": "Bad Moon Rising",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jm_badmoonr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

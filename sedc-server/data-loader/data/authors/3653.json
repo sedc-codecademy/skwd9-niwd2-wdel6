@@ -1,0 +1,55 @@
+[
+  {
+    "id": 35843,
+    "title": "The Southern Book Club's Guide to Slaying Vampires",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "gh_southern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28839,
+    "title": "We Sold Our Souls",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "gh_wesoldou.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 34522,
+    "title": "My Best Friend's Exorcism",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "GH_MyBestFr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14978,
+    "title": "Horrorstör",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gh_horrorst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22373,
+    "title": "Transcript of Interaction Between Astronaut Mike Scudderman and the OnStar Hands-Free A.I. Crash Adv",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26241,
+    "title": "Paperbacks from Hell:  The Twisted History of '70's and '80's Horror Fiction",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gh_paperbac.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

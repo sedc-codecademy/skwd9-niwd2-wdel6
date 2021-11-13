@@ -1,0 +1,47 @@
+[
+  {
+    "id": 28714,
+    "title": "Under the Canopy",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bp_underthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28712,
+    "title": "Bibblings",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bp_bibbling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28708,
+    "title": "Pillars of Salt",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "bp_pillarso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28706,
+    "title": "An Exercise for Madmen",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bp_anexerci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20904,
+    "title": "The Three-Minute Universe",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "BP_threemin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

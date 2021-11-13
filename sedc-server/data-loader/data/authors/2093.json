@@ -1,0 +1,462 @@
+[
+  {
+    "id": 36378,
+    "title": "King of the Dogs, Queen of the Cats",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "jpk_kingofdo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28324,
+    "title": "Grace's Family",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jpk_gracesfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35515,
+    "title": "The Promise of Space and Other Stories",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jpk_promiseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23138,
+    "title": "One Sister, Two Sisters, Three",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26135,
+    "title": "Someday",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22766,
+    "title": "Miss Nobody Never Was",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22236,
+    "title": "The Promise of Space",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26136,
+    "title": "Soulcatcher",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7129,
+    "title": "Digital Rapture:  The Singularity Anthology",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "JPK_DigitalRa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16491,
+    "title": "Crazy Me",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jpk_crazyme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7128,
+    "title": "Kafkaesque:  Stories Inspired by Franz Kafka",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JPK_Kafkaesq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6575,
+    "title": "The Secret History of Science Fiction",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jk_secrethi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7132,
+    "title": "The Wreck of the Godspeed and Other Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "JPK_TheWreck.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17731,
+    "title": "Don't Stop",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jpk_dontstop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7127,
+    "title": "Rewired: The Post-Cyberpunk Anthology",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "JPK_Rewired.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6576,
+    "title": "Feeling Very Strange:  The Slipstream Anthology ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jk_feelingv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16049,
+    "title": "Burn",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jpk_burn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26642,
+    "title": "The Edge of Nowhere",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jpk_edgeofno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17732,
+    "title": "The Best Christmas Ever",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jpk_bestchri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32401,
+    "title": "The Dark Side of Town",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jpk_darkside.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19225,
+    "title": "Men Are Trouble",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jpk_menaretr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17728,
+    "title": "Bernardo's House",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jpk_bernardo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7131,
+    "title": "Strange But Not a Stranger",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JPK_StrangeB.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17733,
+    "title": "Undone",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jpk_undone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17734,
+    "title": "10 to the 16th to 1",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jpk_10tothe1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17727,
+    "title": "Ninety Percent of Everything",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jl_jk_jpk_ninetype.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16177,
+    "title": "Lovestory",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jpk_lovestor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17659,
+    "title": "Itsy Bitsy Spider",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jpk_itsybits.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7130,
+    "title": "Think Like a Dinosaur and Other Stories",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "JPK_ThinkLik.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22330,
+    "title": "Breakaway, Backdown",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17735,
+    "title": "Think Like a Dinosaur",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jpk_thinklike.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25629,
+    "title": "Wildlife",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jpk_wildlife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16176,
+    "title": "Chemistry",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jpk_chemistr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19242,
+    "title": "Standing in Line with Mister Jimmy",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jpk_standing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17736,
+    "title": "Mr. Boy",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jpk_mrboy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20090,
+    "title": "Dancing with the Chairs",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jpk_dancingw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20091,
+    "title": "Faith",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jpk_faith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27790,
+    "title": "Glass Cloud",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jpk_glassclo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20089,
+    "title": "Heroics",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jpk_heroics.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26695,
+    "title": "The Prisoner of Chillon",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17729,
+    "title": "Rat",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jpk_rat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25631,
+    "title": "Freedom Beach",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jpkjk_freedomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27818,
+    "title": "Solstice",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jpk_solstice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27829,
+    "title": "Friends",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19243,
+    "title": "Saint Theresa of the Aliens",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jpk_saintthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28269,
+    "title": "Heroines",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jpk_acm09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26137,
+    "title": "Home Front",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jpk_homefron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26138,
+    "title": "Pogrom",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jpk_pogrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17672,
+    "title": "Going Deep",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jpk_goingdee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17730,
+    "title": "Plus or Minus",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jpk_plusormi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18593,
+    "title": "Masters of Science Fiction: James Patrick Kelly",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jpk_masterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7340,
+    "title": "Nebula Awards Showcase 2012",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jpkjk_nebula12.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

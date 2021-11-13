@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35494,
+    "title": "Entangled",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ARC_Entangle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35495,
+    "title": "Unmade",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ARC_Unmade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35496,
+    "title": "Once & Future",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ARC_OnceFutu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

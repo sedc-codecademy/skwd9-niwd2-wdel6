@@ -1,0 +1,547 @@
+[
+  {
+    "id": 19663,
+    "title": "Future Imperfect",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kl_futureim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19089,
+    "title": "Odyssey",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kl_odyssey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24819,
+    "title": "Judson's Eden",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kl_judsonse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9709,
+    "title": "End As a Hero",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "kl_endasahe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20823,
+    "title": "Star Colony",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "kl_starcolo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20821,
+    "title": "The Ultimax Man",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "kl_theultim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20822,
+    "title": "The Wonderful Secret",
+    "year": 1977,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18438,
+    "title": "The Best of Keith Laumer",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "KL_TheBestOf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7420,
+    "title": "The Glory Game",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "kl_theglory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18231,
+    "title": "The Big Show",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "kl_thebigsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11934,
+    "title": "The Infinite Cage",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "kl_theinfin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11935,
+    "title": "Night of Delusions",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "kl_knightof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9386,
+    "title": "Dinosaur Beach",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "kl_dinosaur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18232,
+    "title": "In the Queue",
+    "year": 1970,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24818,
+    "title": "The Long Twilight",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "kl_thelongt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19661,
+    "title": "The Day Before Forever and Thunderhead",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "kl_thedaybe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35937,
+    "title": "Greylorn",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "KL_greylorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35936,
+    "title": "It's a Mad, Mad, Mad Galaxy",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "KL_itsamadm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19088,
+    "title": "Once There Was a Giant",
+    "year": 1968,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19662,
+    "title": "The Day Before Forever",
+    "year": 1967,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11933,
+    "title": "Galactic Odyssey",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "kl_galodyss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35623,
+    "title": "Nine by Laumer",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "KL_ninebykl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25407,
+    "title": "Planet Run",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "klgrd_planetru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19664,
+    "title": "Catastrophe Planet",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "kl_catastro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3723,
+    "title": "Earthblood",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "klrgbef_earthblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11936,
+    "title": "The Monitors",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "kl_themonit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 834,
+    "title": "A Plague of Demons",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "kl_aplagueo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3725,
+    "title": "The Great Time Machine Hoax",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "kl_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11940,
+    "title": "A Trace of Memory",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "kl_atraceof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21414,
+    "title": "Worlds of the Imperium / Seven from the Stars",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_worldsof_sevenfro.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21245,
+    "title": "Envoy to New Worlds / Flight From Yesterday",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ad_envoyton_flightfr.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7287,
+    "title": "Five Fates",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "klpa_fivefate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3250,
+    "title": "The Compleat Bolo",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kl_thecompl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32195,
+    "title": "Bolo:  The Annals of the Dinochrome Brigade",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "kl_bolo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32196,
+    "title": "Rogue Bolo",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kl_rouguebo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32197,
+    "title": "The Stars Must Wait",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kl_thestars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11932,
+    "title": "Beyond the Imperium",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "kl_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8555,
+    "title": "Worlds of the Imperium",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "kl_worldsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10071,
+    "title": "The Other Side of Time",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "kl_theother.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10072,
+    "title": "Assignment in Nowhere",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "kl_assignme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10073,
+    "title": "Zone Yellow",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kl_zoneyell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24820,
+    "title": "The Time Bender",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "kl_thetimeb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11938,
+    "title": "The World Shuffler",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "kl_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11939,
+    "title": "The Shape Changer",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "kl_theshapec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24821,
+    "title": "The Galaxy Builder",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "kl_thegalaxyb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11937,
+    "title": "Retief Unbound",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "kl_retiefun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8498,
+    "title": "Envoy to New Worlds",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "kl_envoyton.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8499,
+    "title": "Galactic Diplomat",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "kl_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3724,
+    "title": "Retief's War",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "kl_retiefsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4324,
+    "title": "Retief and the Warlords",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "kl_retiefan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9703,
+    "title": "Retief: Ambassador to Space",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "kl_ambassad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4326,
+    "title": "Retief's Ransom",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "kl_retiefsr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9704,
+    "title": "Retief of the CDT",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "kl_rothecdt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9705,
+    "title": "Retief: Emissary to the Stars",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "kl_emissary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9706,
+    "title": "Retief at Large",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "kl_ratlarge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9707,
+    "title": "Retief: Diplomat at Arms",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "kl_rdiploma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4327,
+    "title": "Retief to the Rescue",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "kl_retiefto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4329,
+    "title": "The Return of Retief",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "kl_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9708,
+    "title": "Retief in the Ruins",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kl_intherui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4328,
+    "title": "Reward for Retief",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "kl_rewardfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4325,
+    "title": "Retief and the Rascals",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "kl_retiefras.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

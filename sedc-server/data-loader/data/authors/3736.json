@@ -1,0 +1,47 @@
+[
+  {
+    "id": 15387,
+    "title": "Maze",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jmm_maze.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15380,
+    "title": "Last Dragon",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jmm_lastdrag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15384,
+    "title": "Never Knew Another",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jmm_neverkne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15385,
+    "title": "When We Were Executioners",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jmm_whenwewe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15386,
+    "title": "We Leave Together",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jmm_weleavet.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

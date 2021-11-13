@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34549,
+    "title": "To Be Taught, If Fortunate",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "BC_tobetaug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11141,
+    "title": "The Long Way to a Small, Angry Planet",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bc_thelongw.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 19162,
+    "title": "A Closed and Common Orbit",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bc_acloseda.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 27083,
+    "title": "Record of a Spaceborn Few",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "bc_recordof.jpg",
+    "nominations": 3,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36629,
+    "title": "A Spectral Hue",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "CG_spectral.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12281,
+    "title": "Skin Deep Magic",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "clg_skindeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12280,
+    "title": "Sea, Swallow Me and Other Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "clg_seaswall.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

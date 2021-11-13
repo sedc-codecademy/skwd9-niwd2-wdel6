@@ -1,0 +1,83 @@
+[
+  {
+    "id": 34486,
+    "title": "The Last Astronaut",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "DW_LastAstr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17103,
+    "title": "Good People",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dw_goodpeop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34480,
+    "title": "Frostbite: A Werewolf Tale",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "DW_Frostbit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34481,
+    "title": "Overwinter: A Werewolf Tale",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "DW_Overwint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4163,
+    "title": "13 Bullets",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dw_13bullet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34482,
+    "title": "99 Coffins",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "DW_99Coffin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34483,
+    "title": "Vampire Zero",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "DW_VampireZ.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34484,
+    "title": "23 Hours",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "DW_23Hours.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34485,
+    "title": "32 Fangs",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dw_32fangs.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

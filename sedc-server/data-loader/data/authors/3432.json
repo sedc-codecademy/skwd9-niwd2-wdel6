@@ -1,0 +1,90 @@
+[
+  {
+    "id": 25456,
+    "title": "Triad",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sf_triad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13863,
+    "title": "Infinity's Web",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sf_infinity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35448,
+    "title": "Myths, Metaphors, and Science Fiction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sf_mythsmet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19502,
+    "title": "The Guild of Xenolinguists",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sf_theguild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19501,
+    "title": "Reading the Bones",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sf_readingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19500,
+    "title": "Reading the Bones",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34157,
+    "title": "Out of the Mouths",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25457,
+    "title": "The Garden of the Shaped",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sf_thegarde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25458,
+    "title": "Shaper's Legacy",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sf_shlegacy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25459,
+    "title": "Shaping the Dawn",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sf_sthedawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

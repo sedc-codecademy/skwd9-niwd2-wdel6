@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7781,
+    "title": "The Sundering Flood",
+    "year": 1897,
+    "type": "novel",
+    "imageName": "WM_TheSunde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7782,
+    "title": "The Water of the Wondrous  Isles",
+    "year": 1897,
+    "type": "novel",
+    "imageName": "WM_TheWater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7783,
+    "title": "The Wood Beyond the World",
+    "year": 1894,
+    "type": "novel",
+    "imageName": "WM_TheWoodB.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3178,
+    "title": "News from Nowhere:  or, An Epoch of Rest",
+    "year": 1891,
+    "type": "novel",
+    "imageName": "wm_newsfrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8849,
+    "title": "The Story of the Glittering Plain",
+    "year": 1891,
+    "type": "novel",
+    "imageName": "wm_thestory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7788,
+    "title": "The Well at the World's End",
+    "year": 1896,
+    "type": "novel",
+    "imageName": "WM_TheWellA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7789,
+    "title": "The Well at the World's End Volume I",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "WM_TheWel_1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7790,
+    "title": "The Well at the World's End Volume II",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "WM_TheWel_2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

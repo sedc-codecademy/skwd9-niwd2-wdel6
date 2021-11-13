@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16844,
+    "title": "Unbound",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sp_unbound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14392,
+    "title": "Unfettered:  Tales by Masters of Fantasy",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ss_unfetter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28448,
+    "title": "Unfettered II: New Tales by Masters of Fantasy",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sp_unfette2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32679,
+    "title": "Unfettered III:  New Tales by Masters of Fantasy",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ss_unfette3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

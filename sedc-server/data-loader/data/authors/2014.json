@@ -1,0 +1,149 @@
+[
+  {
+    "id": 26275,
+    "title": "The Dark Birds",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25054,
+    "title": "Sun, Moon, Dust",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26274,
+    "title": "Razorback",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23172,
+    "title": "The Tomato Thief",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "uv_tomatoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15904,
+    "title": "Castle Hangnail",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "uv_castleha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26259,
+    "title": "Pocosin",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "uv_pocosin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24800,
+    "title": "Wooden Feathers",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26276,
+    "title": "Godmother",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15964,
+    "title": "Jackalope Wives",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "uv_ssjackal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26313,
+    "title": "Toad Words",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25571,
+    "title": "Digger: The Complete Omnibus",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "UV_Digger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5689,
+    "title": "Digger, Vol 1",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "uv_digger1.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5690,
+    "title": "Digger, Vol 2",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "uv_digger2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5691,
+    "title": "Digger, Vol 3",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "uv_digger3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5692,
+    "title": "Digger, Vol 4",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "uv_digger4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5693,
+    "title": "Digger, Vol 5",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "uv_digger5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5694,
+    "title": "Digger, Vol 6",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "uv_digger6.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

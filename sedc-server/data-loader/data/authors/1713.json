@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4127,
+    "title": "The Panama Laugh",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tsr_themanam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10271,
+    "title": "In the Shadow of the Gargoyle",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "nktsr_inthesha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12205,
+    "title": "Sons of Darkness:  Tales of Men, Blood and Immortality",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mrtsr_sonsofda.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

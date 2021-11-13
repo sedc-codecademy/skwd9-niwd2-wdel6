@@ -1,0 +1,64 @@
+[
+  {
+    "id": 30250,
+    "title": "The Vizier's Second Daughter",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rfy_thevizie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30249,
+    "title": "Eridahn",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "rfy_eridahn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30248,
+    "title": "The Last Yggdrasill",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rfy_thelasty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30252,
+    "title": "Starfinder",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rfy_starfind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21647,
+    "title": "A Glass of Stars",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rfy_aglassof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30251,
+    "title": "The Worlds of Robert F. Young",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "rfy_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21648,
+    "title": "Little Dog Gone",
+    "year": 1964,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

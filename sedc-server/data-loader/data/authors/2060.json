@@ -1,0 +1,74 @@
+[
+  {
+    "id": 31909,
+    "title": "Golden State",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "BHW_GoldenSt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19305,
+    "title": "Underground Airlines",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bhw_underground.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34521,
+    "title": "Bedbugs",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "BHW_Bedbugs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35260,
+    "title": "Android Karenina",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "BHW_AndroidK.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11849,
+    "title": "Sense and Sensibility and Sea Monsters",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jabhw_senseand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6045,
+    "title": "The Last Policeman",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bhw_thelastp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6046,
+    "title": "Countdown City",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bhw_countdow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11433,
+    "title": "World of Trouble",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "BW_worldtro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

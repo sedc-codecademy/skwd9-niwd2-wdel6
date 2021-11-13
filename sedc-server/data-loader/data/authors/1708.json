@@ -1,0 +1,83 @@
+[
+  {
+    "id": 25600,
+    "title": "Bone White",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "RM_bonewhit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19690,
+    "title": "The Night Parade",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rm_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19689,
+    "title": "Little Girls",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rm_littlegi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19687,
+    "title": "Cradle Lake",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rm_cradlela.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19688,
+    "title": "December Park",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rm_december.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19686,
+    "title": "The Mourning House",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rm_themourn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19685,
+    "title": "The Narrows",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rm_thenarro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4122,
+    "title": "Floating Staircase",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rm_floating.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19684,
+    "title": "Snow",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rm_snow.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

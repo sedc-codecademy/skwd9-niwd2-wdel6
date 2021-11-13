@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3508,
+    "title": "Relic",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dplc_relic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32351,
+    "title": "Dark Banquet: A Feast of Twelve Great Ghost Stories",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "LC_DarkBanq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32350,
+    "title": "Dark Company: The Ten Greatest Ghost Stories",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "LC_DarkComp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35152,
+    "title": "Deep Storm",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "LC_DeepStor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35153,
+    "title": "Terminal Freeze",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "LC_Terminal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35154,
+    "title": "The Third Gate",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "LC_ThirdGat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35155,
+    "title": "The Forgotten Room",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "LC_Forgotte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35156,
+    "title": "Full Wolf Moon",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "LC_FullWolf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

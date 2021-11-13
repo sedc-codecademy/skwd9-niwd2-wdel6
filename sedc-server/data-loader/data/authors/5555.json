@@ -1,0 +1,29 @@
+[
+  {
+    "id": 26019,
+    "title": "The City of Brass",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sac_thecityo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 31715,
+    "title": "The Kingdom of Copper",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sac_kingdomo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36381,
+    "title": "The Empire of Gold",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "sac_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

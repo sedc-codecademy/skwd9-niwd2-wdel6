@@ -1,0 +1,56 @@
+[
+  {
+    "id": 15848,
+    "title": "Letters to Tiptree",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ap_ak_letterst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10972,
+    "title": "Kaleidoscope:  Diverse YA Science Fiction and Fantasy Stories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "akjr_kaleidos.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24240,
+    "title": "Sprawl",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ak_sprawl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19929,
+    "title": "Year's Best Young Adult Speculative Fiction 2013",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ak_jr_bestya13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19930,
+    "title": "Year's Best Young Adult Speculative Fiction 2014",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ak_jr_bestya14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21314,
+    "title": "Year's Best Young Adult Speculative Fiction 2015",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jr_ak_best2015.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

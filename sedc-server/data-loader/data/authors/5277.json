@@ -1,0 +1,38 @@
+[
+  {
+    "id": 23870,
+    "title": "The Best of Subterranean",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ws_tbosubte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23871,
+    "title": "The Book of Silverberg:  Stories in Honor of Robert Silverberg",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gdws_tbosilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23872,
+    "title": "Subterranean: Tales of Dark Fantasy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ws_subtodf1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23873,
+    "title": "Subterranean: Tales of Dark Fantasy 2",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ws_subtodf2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

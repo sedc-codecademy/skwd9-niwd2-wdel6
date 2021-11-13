@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10996,
+    "title": "Invitation to the Game",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mh_invitati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10993,
+    "title": "The Keeper of the Isis Light",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mh_keeperof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10994,
+    "title": "The Guardian of Isis",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mh_theguard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10995,
+    "title": "The Isis Pedlar",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mh_theisisp.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

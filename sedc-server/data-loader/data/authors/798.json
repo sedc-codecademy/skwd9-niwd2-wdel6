@@ -1,0 +1,287 @@
+[
+  {
+    "id": 9624,
+    "title": "Variable Star",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rahsr_variable.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12974,
+    "title": "By Any Other Name (collection)",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sr_byanyoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12963,
+    "title": "The Free Lunch",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sr_thefreel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12973,
+    "title": "User Friendly",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sr_userfrie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12962,
+    "title": "Night of Power",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sr_NightofP.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12967,
+    "title": "Melancholy Elephants",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sr_melancho.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21407,
+    "title": "Melancholy Elephants",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12966,
+    "title": "Antinomy",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "sr_antinomy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24838,
+    "title": "The Best of All Possible Worlds",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "sr_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20826,
+    "title": "By Any Other Name",
+    "year": 1976,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12331,
+    "title": "Telempath",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "sr_telempat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28271,
+    "title": "True Minds",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sr_acm12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21431,
+    "title": "Dog Day Evening",
+    "year": 1977,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12717,
+    "title": "Callahan's Crosstime Saloon",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "sr_callcros.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12718,
+    "title": "Time Travelers Strictly Cash",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "sr_timetrav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12719,
+    "title": "Callahan's Secret",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sr_callsecr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12842,
+    "title": "Callahan's Lady",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sr_calllady.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12846,
+    "title": "Lady Slings the Booze",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sr_callbooz.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12847,
+    "title": "The Callahan Touch",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sr_calltouc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12910,
+    "title": "Off the Wall at Callahan's",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sr_callofft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12959,
+    "title": "Callahan's Legacy",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sr_calllega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12960,
+    "title": "Callahan's Key",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sr_callkey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12961,
+    "title": "Callahan's Con",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sr_callcon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12765,
+    "title": "Mindkiller",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sr_mindkill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12766,
+    "title": "Time Pressure",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sr_timepres.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12768,
+    "title": "Lifehouse",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sr_lifehous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19652,
+    "title": "Stardance",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "srjr_stardnva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 795,
+    "title": "Stardance",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "srjr_stardanc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1572,
+    "title": "Starseed",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "srjr_starseed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1573,
+    "title": "Starmind",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "srjr_starmind.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12681,
+    "title": "Very Bad Deaths",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sr_baddeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12682,
+    "title": "Very Hard Choices",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sr_hardchoi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

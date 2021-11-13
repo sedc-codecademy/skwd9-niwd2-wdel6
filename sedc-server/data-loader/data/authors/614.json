@@ -1,0 +1,83 @@
+[
+  {
+    "id": 23874,
+    "title": "The Idiot Gods",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dz_theidiot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 634,
+    "title": "Neverness",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dz_nevernes.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9216,
+    "title": "The Lightstone",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dz_thelight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9217,
+    "title": "Lord of Lies",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dz_thelordo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9218,
+    "title": "Black Jade",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dz_blackjad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9219,
+    "title": "The Diamond Warriors",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dz_thediamo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 615,
+    "title": "The Broken God",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "dz_thebroke.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1569,
+    "title": "The Wild",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dz_thewild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1570,
+    "title": "War in Heaven",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dz_warinhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

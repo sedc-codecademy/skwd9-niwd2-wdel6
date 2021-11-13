@@ -1,0 +1,486 @@
+[
+  {
+    "id": 13178,
+    "title": "Monet's Ghost",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cqy_monetsgh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13177,
+    "title": "Beastnights",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cqy_beastnig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13176,
+    "title": "Taji's Syndrome",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cqy_tajissyn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13175,
+    "title": "Firecode",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cqy_firecode.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13174,
+    "title": "A Baroque Fable",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cqy_abaroque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23482,
+    "title": "Do I Dare to Eat a Peach?",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13172,
+    "title": "A Mortal Glamour",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cqy_amortalg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13173,
+    "title": "To the High Redoubt",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cqy_tothehig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31997,
+    "title": "Nomads",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "CQY_Nomads.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24512,
+    "title": "Signs and Portents",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cqy_singsand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13171,
+    "title": "Hyacinths",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cqy_hyacinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23930,
+    "title": "The Spider Glass",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cqy_thespide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 951,
+    "title": "Ariosto",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "cqy_ariosto.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31996,
+    "title": "Dead & Buried",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "CQY_DeadandB.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13170,
+    "title": "Sins of Omission",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "cqy_sinsofom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2843,
+    "title": "False Dawn",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cqy_falsedaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12712,
+    "title": "Time of the Fourth Horseman",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "cqy_timeofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7328,
+    "title": "A Flame in Byzantium",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cqy_aflamein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7329,
+    "title": "Crusader's Torch",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cqy_crusader.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7331,
+    "title": "A Candle for D'Artagnan",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cqy_acandlef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23836,
+    "title": "Cabin 33",
+    "year": 1980,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4617,
+    "title": "Hotel Transylvania",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cqy_hoteltra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 959,
+    "title": "The Palace",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cqy_thepalac.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7056,
+    "title": "Blood Games",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "cqy_bloodgam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7057,
+    "title": "The Path of the Eclipse",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cqy_pathofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7058,
+    "title": "Tempting Fate",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cqy_tempting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7059,
+    "title": "The Saint-Germain Chronicles",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "cqy_thesaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7290,
+    "title": "Darker Jewels",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cqy_darkerje.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7291,
+    "title": "Better in the Dark",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cqy_betterin.jgp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7292,
+    "title": "Mansions of Darkness",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cqy_mansions.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7293,
+    "title": "Writ in Blood",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cqy_writinbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7294,
+    "title": "Blood Roses",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cqy_bloodros.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7295,
+    "title": "Communion Blood",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cqy_communio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7304,
+    "title": "Come Twilight",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cqy_cometwil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7305,
+    "title": "A Feast in Exile",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cqy_afeastin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7306,
+    "title": "Night Blooming",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cqy_nightblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7307,
+    "title": "Midnight Harvest",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cqy_midnight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7308,
+    "title": "Dark of the Sun",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cqy_darkofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7325,
+    "title": "States of Grace",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cqy_states.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7326,
+    "title": "Roman Dusk",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cqy_romandus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7327,
+    "title": "Borne in Blood",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cyq_borneint.jgp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7730,
+    "title": "Saint Germain: Memoirs",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cqy_saintger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7731,
+    "title": "A Dangerous Climate",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cqy_adangero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7732,
+    "title": "Burning Shadows",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cqy_burnings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7733,
+    "title": "An Embarrassment of Riches",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cqy_anembara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7734,
+    "title": "Commedia della Morte",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cqy_commedia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7735,
+    "title": "Night Pilgrims",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cqy_nightpil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13162,
+    "title": "Sustenance",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cqy_sustenan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7917,
+    "title": "Crown of Empire",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cqy_crownofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4379,
+    "title": "Beyond the Gate of Worlds",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rs_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13179,
+    "title": "Out of the House of Life",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cqy_outofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13180,
+    "title": "In the Face of Death",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cqy_inthefac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13181,
+    "title": "The Angry Angel",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cqy_theangry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13182,
+    "title": "The Soul of an Angel",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cqy_thesoulo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

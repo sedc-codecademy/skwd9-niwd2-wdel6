@@ -1,0 +1,20 @@
+[
+  {
+    "id": 4560,
+    "title": "Sharp Teeth",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tb_sharptee.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6252,
+    "title": "Babayaga",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tb_babayaga.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

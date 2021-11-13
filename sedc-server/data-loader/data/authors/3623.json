@@ -1,0 +1,38 @@
+[
+  {
+    "id": 14849,
+    "title": "The Rose and the Skull",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jc_therosea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14891,
+    "title": "The Thieves' Guild",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jc_thethiev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14851,
+    "title": "Conundrum",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jc_conundru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14853,
+    "title": "Dark Thane",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jc_darkthan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": 22285,
+    "title": "The Sister Paradox",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "JC_sisterpa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32064,
+    "title": "As You Know, Bob",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4285,
+    "title": "Stark's War",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jc_starkswa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4283,
+    "title": "Stark's Command",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jc_starksco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4284,
+    "title": "Stark's Crusade",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jc_starkscr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2476,
+    "title": "Dauntless",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jc_lfdauntl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2477,
+    "title": "Fearless",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jc_lffearle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2478,
+    "title": "Courageous",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jc_lfcourag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2479,
+    "title": "Valiant",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jc_lfvalian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2480,
+    "title": "Relentless",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jc_lfrelent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2481,
+    "title": "Victorious",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jc_lfvictor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3899,
+    "title": "Dreadnaught",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JC_dreadnau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3900,
+    "title": "Invincible",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jc_invincib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7937,
+    "title": "Guardian",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jc_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7938,
+    "title": "Steadfast",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jc_steadfas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11752,
+    "title": "Leviathan",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jc_leviatha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22725,
+    "title": "Vanguard",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jc_vanguard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34115,
+    "title": "Ascendant",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jc_ascendan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34117,
+    "title": "Triumphant",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jc_triumpha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10930,
+    "title": "Tarnished Knight",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jc_tarnishe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10931,
+    "title": "Perilous Shield",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jc_perilous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10932,
+    "title": "Imperfect Sword",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jc_imperfec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18543,
+    "title": "Shattered Spear",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jc_shattere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24645,
+    "title": "The Dragons of Dorcastle",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "camp-dragons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24646,
+    "title": "The Hidden Masters of Marandur",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "camp-thehidd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

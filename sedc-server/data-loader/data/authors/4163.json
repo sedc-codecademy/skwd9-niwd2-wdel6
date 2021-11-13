@@ -1,0 +1,62 @@
+[
+  {
+    "id": 33873,
+    "title": "Knowledgeable Creatures",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cr_knowledg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24534,
+    "title": "Telling the Map:  Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cr_tellingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17283,
+    "title": "The Jack of Coins",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cr_thejacko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26449,
+    "title": "The Contrary Gardener",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19820,
+    "title": "Another Word for Map is Faith",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18585,
+    "title": "The Voluntary State",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24533,
+    "title": "Sandstorm",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cr_sandstor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

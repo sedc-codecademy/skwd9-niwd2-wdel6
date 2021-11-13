@@ -1,0 +1,29 @@
+[
+  {
+    "id": 28138,
+    "title": "Rebel of the Sands",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ah_rebeloft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28139,
+    "title": "Traitor to the Throne",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ah_traitort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28140,
+    "title": "Hero at the Fall",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ah_heroatth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

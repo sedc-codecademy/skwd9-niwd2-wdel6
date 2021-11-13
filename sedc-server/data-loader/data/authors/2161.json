@@ -1,0 +1,569 @@
+[
+  {
+    "id": 30135,
+    "title": "Stardeath",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ect_stardeat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30133,
+    "title": "Pawn of the Omphalos",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ect_pawnofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15793,
+    "title": "Stellar Assignment",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ect_stellara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15792,
+    "title": "The Primitive",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ect_theprimi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15791,
+    "title": "Century of the Manikin",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ect_centuryo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30131,
+    "title": "Escape into Space",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ect_escapein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12606,
+    "title": "S. T. A. R. Flight",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ect_starflig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34288,
+    "title": "The Life Buyer",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ect_thelifeb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30127,
+    "title": "Moon Base",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ect_moonbase.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30137,
+    "title": "Alien Dust",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ect_aliendus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30139,
+    "title": "World at Bay",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ect_worldatb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30123,
+    "title": "Atom War on Mars",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "ect_atomwaro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21286,
+    "title": "The Man Who Japed / The Space-Born",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_themanwh_thespace.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21475,
+    "title": "The Mechanical Monarch / Twice Upon a Time",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_themecha_twiceupo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21628,
+    "title": "Crisis on Cheiron / The Winds of Gath",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_crisison_thewinds.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21545,
+    "title": "Computer War / Death is a Dream",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_computer_deathisa.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21549,
+    "title": "C.O.D. Mars / Alien Sea",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_codmars_aliensea.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21629,
+    "title": "Derai / The Singing Stones",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_derai_thesingi.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21775,
+    "title": "The Winds of Gath / Derai",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ad_thewinds_derai.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21742,
+    "title": "Technos / A Scatter of Stardust",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ad_technos_ascatter.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21864,
+    "title": "Recoil / Lallia",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ad_recoil_lallia.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21728,
+    "title": "To Venus! To Venus! / The Jester at Scar",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_tovenust_thejeste.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21847,
+    "title": "Kalin / The Bane of Kanthos",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_kalin_thebaneo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21703,
+    "title": "Fear That Man / Toyman",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_fearthat_toyman.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7939,
+    "title": "The Winds of Gath",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ect_thewinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10023,
+    "title": "Derai",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ect_derai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10024,
+    "title": "Toyman",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ect_toyman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10025,
+    "title": "Kalin",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ect_kalin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10054,
+    "title": "The Jester at Scar",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ect_thejeste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10055,
+    "title": "Lallia",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ect_lallia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10056,
+    "title": "Technos",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ect_technos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10057,
+    "title": "Veruchia",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ect_veruchia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10058,
+    "title": "Mayenne",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ect_mayenne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10082,
+    "title": "Jondelle",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ect_jondelle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10083,
+    "title": "Zenya",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ect_zenya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10084,
+    "title": "Eloise",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ect_eloise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15769,
+    "title": "Eye of the Zodiac",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ect_eyeofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15770,
+    "title": "Jack of Swords",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ect_jackofsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15771,
+    "title": "Spectrum of a Forgotten Sun",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ect_spectrum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15772,
+    "title": "Haven of Darkness",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ect_havenofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15773,
+    "title": "Prison of Night",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ect_prisonof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15774,
+    "title": "Incident on Ath",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ect_incident.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15775,
+    "title": "The Quillian Sector",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ect_thequill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15776,
+    "title": "Web of Sand",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ect_webofsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15778,
+    "title": "Iduna's Universe",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ect_idunasun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15777,
+    "title": "The Terra Data",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ect_theterra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15779,
+    "title": "World of Promise",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ect_worldofp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15781,
+    "title": "Nectar of Heaven",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "edt_nectarof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15782,
+    "title": "The Terridae",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ect_theterri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15783,
+    "title": "The Coming Event",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ect_thecomin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15784,
+    "title": "Earth is Heaven",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ect_earthish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15785,
+    "title": "Melome",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ect_melome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15786,
+    "title": "Angado",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ect_angado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15787,
+    "title": "Symbol of Terra",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ect_symbolof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15788,
+    "title": "The Temple of Truth",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ect_thetempl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15789,
+    "title": "The Return",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ect_thetetur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15790,
+    "title": "Child of Earth",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ect_childofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15350,
+    "title": "Breakaway",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ect_breakawa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15351,
+    "title": "Collision Course",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ect_collision.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15355,
+    "title": "Alien Seed",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ect_aliensee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15356,
+    "title": "Rogue Planet",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ect_roguepla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15360,
+    "title": "Earthfall",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ect_earthfal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15521,
+    "title": "Earthbound",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ect_earthbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

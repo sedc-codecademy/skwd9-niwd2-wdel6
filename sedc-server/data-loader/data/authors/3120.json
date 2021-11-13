@@ -1,0 +1,38 @@
+[
+  {
+    "id": 33923,
+    "title": "The Fractal Man",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jns_thefract.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12014,
+    "title": "Escape from Heaven",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jns_escapefr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12012,
+    "title": "The Rainbow Cadenza",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jns_rainbowc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12011,
+    "title": "Alongside Night",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jns_alongsid.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

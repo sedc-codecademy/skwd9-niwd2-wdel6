@@ -1,0 +1,44 @@
+[
+  {
+    "id": 17677,
+    "title": "Mars: A Traveler's Guide",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rn_marsatra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27107,
+    "title": "The Big Ice",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30222,
+    "title": "Exit Without Saving",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27072,
+    "title": "The Canadian Who Came Almost All the Way Home from the Stars",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16184,
+    "title": "Looking Through Lace ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rn_lookingt.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

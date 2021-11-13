@@ -1,0 +1,65 @@
+[
+  {
+    "id": 31897,
+    "title": "The Queen's Necklace",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "TE_QueensNe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31898,
+    "title": "Child of Saturn",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "TE_ChildofS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31899,
+    "title": "The Moon in Hiding",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "TE_MooninHi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31900,
+    "title": "The Work of the Sun",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "TE_Workofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31901,
+    "title": "The Castle of the Silver Wheel",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "TE_Castleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31902,
+    "title": "The Grail and the Ring",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "TE_Grailand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31904,
+    "title": "The Moon and the Thorn",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "TE_Moonandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

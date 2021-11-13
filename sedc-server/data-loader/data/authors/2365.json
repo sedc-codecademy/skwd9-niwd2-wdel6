@@ -1,0 +1,38 @@
+[
+  {
+    "id": 14973,
+    "title": "Wetworld",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mm_wetworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14983,
+    "title": "Shining Darkness",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mm_shiningd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8894,
+    "title": "Halflife",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mm.halflife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9084,
+    "title": "Relative Dementias",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mm_relative.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

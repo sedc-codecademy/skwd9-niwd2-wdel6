@@ -1,0 +1,29 @@
+[
+  {
+    "id": 6123,
+    "title": "The Heavens Rise",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cr_theheave.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11228,
+    "title": "The Vines",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cr_thevines.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26016,
+    "title": "Ramses the Damned:  The Passion of Cleopatra",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "arcr_thepassi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

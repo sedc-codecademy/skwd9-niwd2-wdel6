@@ -1,0 +1,28 @@
+[
+  {
+    "id": 36322,
+    "title": "Flyaway",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "kj_flyaway.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28337,
+    "title": "The Heart of Owl Abbas",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kj_theheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30118,
+    "title": "Skull and Hyssop",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

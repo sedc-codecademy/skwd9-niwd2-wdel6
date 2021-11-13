@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21067,
+    "title": "The Martian Sphinx",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "kw_themarti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21090,
+    "title": "Wandl the Invader / I Speak for Earth",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ad_wandlthe_ispeakfo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21112,
+    "title": "The Ladder in the Sky / The Darkness Before Tomorrow",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_theladde_thedarkn.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16349,
+    "title": "Captives of the Flame / The Psionic Menace",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "srd_captivesofthe.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

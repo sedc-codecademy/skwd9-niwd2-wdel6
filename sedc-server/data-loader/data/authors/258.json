@@ -1,0 +1,938 @@
+[
+  {
+    "id": 36019,
+    "title": "The Complete Lythande",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "MB_lythande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9378,
+    "title": "Tiger Burning Bright",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mzbanml_tigerbur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33976,
+    "title": "Spells of Wonder",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mzb_spellsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14044,
+    "title": "The Firebrand",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mzb_thefireb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13852,
+    "title": "The Best of Marion Zimmer Bradley",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mzb_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14043,
+    "title": "Night's Daughter",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mzb_nightsda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14042,
+    "title": "Warrior Woman",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mzb_warriorw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32234,
+    "title": "Greyhaven: An Anthology of Fantasy",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mzb_greyhave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14041,
+    "title": "The House Between the Worlds",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mzb_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14045,
+    "title": "Survey Ship",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mzb_surveysh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9726,
+    "title": "The Ruins of Isis",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "mzb_theruins.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9999,
+    "title": "Drums of Darkness",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mzb_drumsofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9997,
+    "title": "Castle Terror",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "mzb_castlete.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4983,
+    "title": "The Colors of Space",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "mzb_thecolor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4963,
+    "title": "The Door Through Space",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "mzb_thedoort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21586,
+    "title": "The Door Through Space / Rendezvous on a Lost World",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ad_thedoort_rendexvo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21414,
+    "title": "Worlds of the Imperium / Seven from the Stars",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_worldsof_sevenfro.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21587,
+    "title": "The Planet Savers / The Sword of Aldones",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_theplane_thesword.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21588,
+    "title": "The Dark Intruder & Other Stories / Falcons of Narabedla",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_thedarki_falconso.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21716,
+    "title": "The Winds of Darkover / The Anything Tree",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_thewinds_theanyth.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21715,
+    "title": "Ipomoea / The Brass Dragon",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_ipomoea_thebrass.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9998,
+    "title": "Endless Voyage",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "mzb_endlessv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14039,
+    "title": "Web of Light",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mzb_weboflig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14040,
+    "title": "Web of Darkness",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mzb_webofdar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 782,
+    "title": "The Mists of Avalon",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mzb_themists.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4984,
+    "title": "The Forest House",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mzb_thefores.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4985,
+    "title": "Lady of Avalon",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mzb_ladyofav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4986,
+    "title": "Priestess of Avalon",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mzbdlp_priestes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32737,
+    "title": "The Best of Marion Zimmer Bradley's Fantasy Magazine",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mzb_tbomzbf1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32739,
+    "title": "The Best of Marion Zimmer Bradley's Fantasy Magazine Vol. II",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mzbew_tbomzbf2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35997,
+    "title": "The Fall of Neskaya",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "MB_fallofne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35998,
+    "title": "Zandru's Forge",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "MB_zandrusf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35999,
+    "title": "A Flame in Hell",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "MB_aflamein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36002,
+    "title": "Dark Satanic",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "MB_darksata.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36003,
+    "title": "The Inheritor",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "MB_inherito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36004,
+    "title": "Witch Hill",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "MB_witchhil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34677,
+    "title": "The Keeper's Price",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mzb_keepersp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34678,
+    "title": "Sword of Chaos",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mzb_swordof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34694,
+    "title": "Free Amazons of Darkover",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mzb_freeamaz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34695,
+    "title": "The Other Side of the Mirror",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mzb_theother.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34696,
+    "title": "Red Sun of Darkover",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mzb_redsunofjpg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34697,
+    "title": "Four Moons of Darkover",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mzb_fourmoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34702,
+    "title": "Domains of Darkover",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mzb_domainso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34718,
+    "title": "Renunciates of Darkover",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mzb_renuncia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34719,
+    "title": "Leroni of Darkover",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "leroniof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34720,
+    "title": "Towers of Darkover",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mzb_towersof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34721,
+    "title": "Marion Zimmer Bradley's Darkover",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mzb_marionzi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34722,
+    "title": "Snows of Darkover",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mzb_snowsofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1497,
+    "title": "The Planet Savers",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mzb_theplanet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 313,
+    "title": "The Sword of Aldones",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mzb_thesword.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1498,
+    "title": "The Bloody Sun",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "mzb_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1499,
+    "title": "Star of Danger",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "mzb_starofda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1500,
+    "title": "The Winds of Darkover",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mzb_thewinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1501,
+    "title": "The World Wreckers",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mzb_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1502,
+    "title": "Darkover Landfall",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "mzb_landfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1503,
+    "title": "The Spell Sword",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "mzb_thespell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 263,
+    "title": "The Heritage of Hastur",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mzb_theherit.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1504,
+    "title": "The Shattered Chain",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mzb_theshatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 354,
+    "title": "The Forbidden Tower",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "mzb_theforbi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1506,
+    "title": "Stormqueen!",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "mzb_stormque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1507,
+    "title": "Two to Conquer",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mzb_twotocon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1508,
+    "title": "Sharra's Exile",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mzb_sharrase.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1509,
+    "title": "Hawkmistress!",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mzb_hawkmist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1510,
+    "title": "Thendara House",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mzb_thendara.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1511,
+    "title": "City of Sorcery",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mzb_cityofso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1512,
+    "title": "The Heirs of Hammerfell",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mzb_theheirs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1513,
+    "title": "Rediscovery",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mzbml_rediscov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1514,
+    "title": "Exile's Song",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mzb_exilesso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1515,
+    "title": "The Shadow Matrix",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mzb_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1516,
+    "title": "Traitor's Sun",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mzb_traitors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13291,
+    "title": "Hastur Lord",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mzbdjr_hasturlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26620,
+    "title": "Thunderlord",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mzbdjr_thunderl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36016,
+    "title": "The Alton Gift",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MB_altongif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36017,
+    "title": "The Children of Kings",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "MB_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12527,
+    "title": "Glenraven",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mzbhl_glenrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12528,
+    "title": "In the Rift",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mzbhl_intherif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36005,
+    "title": "Ghostlight",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "MB_ghostlig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36006,
+    "title": "Witchlight",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "MB_witchlig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36007,
+    "title": "Gravelight",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "MB_gravelig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36008,
+    "title": "Heartlight",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "MB_heartlig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36000,
+    "title": "Hunters of the Red Moon",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "MB_hunterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36001,
+    "title": "The Survivors",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "MB_surviors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28582,
+    "title": "Sword and Sorceress",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mzb_sands1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28583,
+    "title": "Sword and Sorceress II",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mzb_sands2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28584,
+    "title": "Sword and Sorceress III",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mzb_sands3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28585,
+    "title": "Sword and Sorceress IV",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mzb_sands4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28586,
+    "title": "Sword and Sorceress V",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mzb_sands5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28587,
+    "title": "Sword and Sorceress VI",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mzb_sands6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28588,
+    "title": "Sword and Sorceress VII",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mzb_sands7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28589,
+    "title": "Sword and Sorceress VIII",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mzb_sands8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28590,
+    "title": "Sword and Sorceress IX",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mzb_sands9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28591,
+    "title": "Sword and Sorceress X",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mzb_sands10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28592,
+    "title": "Sword and Sorceress XI",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mzb_sands11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28593,
+    "title": "Sword and Sorceress XII",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mzb_sands12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28594,
+    "title": "Sword and Sorceress XIII",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mzb_sands13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28595,
+    "title": "Sword and Sorceress XIV",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mzb_sands14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28596,
+    "title": "Sword and Sorceress XV",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mzb_sands15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28597,
+    "title": "Sword and Sorceress XVI",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mzb_sands16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28598,
+    "title": "Sword and Sorceress XVII",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mzb_sands17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28599,
+    "title": "Sword and Sorceress XVIII",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mzb_sands18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28600,
+    "title": "Sword and Sorceress XIX",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mzb_sands19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28601,
+    "title": "Sword and Sorceress XX",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mzb_sands20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6511,
+    "title": "Black Trillium ",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mzb_blacktri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6514,
+    "title": "Lady of the Trillium ",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mzb_ladyofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

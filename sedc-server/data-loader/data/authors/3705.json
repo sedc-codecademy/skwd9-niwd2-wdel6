@@ -1,0 +1,53 @@
+[
+  {
+    "id": 15237,
+    "title": "Prodigies",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ag_prodigie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15235,
+    "title": "Kalpa Imperial",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ag_kalpaimp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22619,
+    "title": "The Sense of the Circle",
+    "year": 1979,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15236,
+    "title": "Trafalgar",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ag_trafalga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30094,
+    "title": "Trafalgar and Josefina",
+    "year": 1979,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32538,
+    "title": "The Violet's Embryos",
+    "year": 1973,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

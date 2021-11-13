@@ -1,0 +1,101 @@
+[
+  {
+    "id": 15583,
+    "title": "Tainted Blood",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "nl_taintedb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15580,
+    "title": "Valnir's Bane",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "nl_valnirsb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15581,
+    "title": "The Broken Lance",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "nl_thebroke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15437,
+    "title": "Orcslyer",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "nl_orcslaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15438,
+    "title": "Manslayer",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "nl_manslaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15439,
+    "title": "Elfslayer",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "nl_elfslaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15440,
+    "title": "Shamanslayer",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "nl_shamansl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15441,
+    "title": "Zombieslayer",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "nl_zombiesl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15483,
+    "title": "Bloodborn",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "nl_bloodbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15484,
+    "title": "Bloodforged",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "nl_bloodfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15485,
+    "title": "Bloodsworn",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nl_bloodswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

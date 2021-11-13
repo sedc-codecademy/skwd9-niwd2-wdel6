@@ -1,0 +1,65 @@
+[
+  {
+    "id": 31577,
+    "title": "The Afterward",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ekj_theafter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25935,
+    "title": "That Inevitable Victorian Thing",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ekj_thatinev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36206,
+    "title": "Queen's Peril",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "ekj_queenspe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31407,
+    "title": "Queen's Shadow",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "EJ_queensha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19895,
+    "title": "Ahsoka",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "EJ_ahsoka.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18835,
+    "title": "A Thousand Nights",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ekj_athousan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21937,
+    "title": "Spindle",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "EJ_spindle.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

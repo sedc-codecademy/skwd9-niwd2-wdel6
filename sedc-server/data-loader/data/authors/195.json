@@ -1,0 +1,137 @@
+[
+  {
+    "id": 22787,
+    "title": "Hag-Seed",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ma_hagseed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14639,
+    "title": "The Heart Goes Last",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ma_theheart.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6280,
+    "title": "Stone Mattress",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ma_stonemat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9238,
+    "title": "In Other Worlds:  SF and the Human Imagination",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ma_inotherw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3092,
+    "title": "The Blind Assassin",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ma_theblind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9197,
+    "title": "Alias Grace",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ma_aliasgra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6278,
+    "title": "The Robber Bride",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ma_therobbe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6281,
+    "title": "Bluebeard's Egg",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ma_bluebear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6279,
+    "title": "The Edible Woman",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ma_theedibl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5666,
+    "title": "The Penelopiad",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ma_thepenel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 201,
+    "title": "The Handmaid's Tale",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ma_thehandm.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 31614,
+    "title": "The Testaments",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "MA_TheTesta.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2113,
+    "title": "Oryx and Crake",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ma_oryxandc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1839,
+    "title": "The Year of the Flood",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ma_theyearo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6277,
+    "title": "MaddAddam",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ma_maddadda.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

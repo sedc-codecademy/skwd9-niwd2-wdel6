@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4981,
+    "title": "Phoenix Rising",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pbtm_phoenixr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4982,
+    "title": "The Janus Affair",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pbtm_thejanus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10807,
+    "title": "Dawn's Early Light",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pbtm_dawnsear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10808,
+    "title": "The Diamond Conspiracy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pbtm_thediamo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

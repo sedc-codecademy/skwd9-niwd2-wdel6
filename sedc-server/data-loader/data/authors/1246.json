@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2069,
+    "title": "Adventures in Time and Space",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "rjhjfmc_adventur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18147,
+    "title": "The Best from Fantasy and Science Fiction",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "AB&JFM_F&SFBest1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18175,
+    "title": "The Best from Fantasy and Science Fiction, Second Series",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "AB&JFM_F&SFBest2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18148,
+    "title": "The Best from Fantasy and Science Fiction, Third Series",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "AB&JFM_F&SFBest3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

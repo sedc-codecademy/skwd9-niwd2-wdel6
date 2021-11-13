@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10147,
+    "title": "Usurper of the Sun",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "HN_usurper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10148,
+    "title": "Rocket Girls",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "HN_rocketg1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10149,
+    "title": "Rocket Girls: The Last Planet",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "HN_rocketg2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

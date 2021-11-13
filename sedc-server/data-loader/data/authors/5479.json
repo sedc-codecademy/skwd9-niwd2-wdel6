@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25440,
+    "title": "Andromeda I",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "pw_androme1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25441,
+    "title": "Andromeda 2",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "pw_androme2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25442,
+    "title": "Andromeda 3",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "pw_androme3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

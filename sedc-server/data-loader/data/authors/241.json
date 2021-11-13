@@ -1,0 +1,214 @@
+[
+  {
+    "id": 21151,
+    "title": "Before… 12:01… and After",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ral_before12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25860,
+    "title": "Lovecraft's Book",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ral_lovecraf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32837,
+    "title": "The Crack in the Sky",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "RAL_Crackint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32842,
+    "title": "Lisa Kane",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "RAL_LisaKane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32834,
+    "title": "Sandworld",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "RAL_Sandworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 247,
+    "title": "Sword of the Demon",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "ral_swordoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32835,
+    "title": "The Triune Man",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "RAL_TriuneMa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32836,
+    "title": "Into the Aether",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "RAL_IntotheA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35993,
+    "title": "12:01 P.M.",
+    "year": 1973,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32841,
+    "title": "One Million Centuries",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "RAL_OneMilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15868,
+    "title": "Buck Rogers in the 25th Century",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "RL_buckroge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15869,
+    "title": "That Man on Beta",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "RL_thatman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24618,
+    "title": "Claremont Tales",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ral_cltales1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24619,
+    "title": "Claremont Tales II",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ral_cltales2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10466,
+    "title": "Master of Adventure: The Worlds of Edgar Rice Burroughs",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "RL_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11241,
+    "title": "The Black Tower",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "RL_blacktow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11245,
+    "title": "The Final Battle",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RL_finalbat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18161,
+    "title": "Sail the Tide of Mourning",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21183,
+    "title": "After the Dreamtime",
+    "year": 1974,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19436,
+    "title": "With the Bentfin Boomer Boys on Little Old New Alabama",
+    "year": 1972,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32843,
+    "title": "Sun's End",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "RAL_SunsEnd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32844,
+    "title": "Galaxy's End",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "RAL_GalaxysE.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25154,
+    "title": "Circumpolar!",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ral_circumpo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25155,
+    "title": "Countersolar!",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ral_counterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

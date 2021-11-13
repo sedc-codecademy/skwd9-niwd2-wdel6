@@ -1,0 +1,65 @@
+[
+  {
+    "id": 20693,
+    "title": "Van Helsing",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "KR_vanhelsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20687,
+    "title": "Seeds of Rage",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "KR_seedrage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20688,
+    "title": "Demands of Honor",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "KR_demandso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20689,
+    "title": "Sacrifices of War",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "KR_sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20690,
+    "title": "The Edge of the Sword",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "KR_edgeswor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20691,
+    "title": "Killing Blow",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "KR_killingb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20692,
+    "title": "River of Blood",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "KR_riverofb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

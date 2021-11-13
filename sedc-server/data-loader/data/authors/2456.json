@@ -1,0 +1,101 @@
+[
+  {
+    "id": 20793,
+    "title": "Hellraisers",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ags_hellrais.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20794,
+    "title": "Hellfighters",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ags_hellfigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26038,
+    "title": "Hellwalkers",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ags_hellwalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16485,
+    "title": "The Night Children",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ags_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9277,
+    "title": "Lockdown",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ags_lockdown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9278,
+    "title": "Solitary",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ags_solitary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9279,
+    "title": "Death Sentence",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ags_deathsen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9283,
+    "title": "Fugititives",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ags_fugitive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9284,
+    "title": "Execution",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ags_executio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13461,
+    "title": "The Fury",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ags_thefury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13462,
+    "title": "The Storm",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ags_thestorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

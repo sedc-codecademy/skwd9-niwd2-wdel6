@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11974,
+    "title": "Circle of Nine",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jp_thecircl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11975,
+    "title": "Bride of the Stone",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jp_brideoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11976,
+    "title": "A Fire in the Shell",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jp_afireint.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

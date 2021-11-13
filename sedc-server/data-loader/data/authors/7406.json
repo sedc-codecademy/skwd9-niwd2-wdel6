@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35085,
+    "title": "Freaky Friday",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "MR_FreakyFr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35102,
+    "title": "A Billion For Boris",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "MR_abillion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35103,
+    "title": "Summer Switch",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "MR_summersw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

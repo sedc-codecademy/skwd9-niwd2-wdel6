@@ -1,0 +1,83 @@
+[
+  {
+    "id": 9901,
+    "title": "Harmony",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mbk_harmony.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9889,
+    "title": "A Rumor of Angels",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mbk_arumorof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9897,
+    "title": "The Book of Earth",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mbk_tboearth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9898,
+    "title": "The Book of Water",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mbk_tbowater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9899,
+    "title": "The Book of Fire",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mbk_tboffire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9900,
+    "title": "The Book of Air",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mbk_tboofair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2835,
+    "title": "Lear's Daughters",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mbkwbr_learsdau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30314,
+    "title": "The Wave and the Flame",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mbk_thewavea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30315,
+    "title": "Reign of Fire",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mbkwbr_reighoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

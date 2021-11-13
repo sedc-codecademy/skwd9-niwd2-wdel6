@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13585,
+    "title": "The Trouble with Fate",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "le_thetroub.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13586,
+    "title": "The Thing About Weres",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "le_thething.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13587,
+    "title": "The Problem with Promises",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "le_theprobl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13588,
+    "title": "The Danger of Destiny",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "le_thedange.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

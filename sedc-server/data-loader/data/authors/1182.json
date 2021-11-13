@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5030,
+    "title": "Graceling",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kc_gracelin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1881,
+    "title": "Fire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kc_fire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5031,
+    "title": "Bitterblue",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kc_bitterbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

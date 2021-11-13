@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8893,
+    "title": "Emotional Chemistry",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "saf_emotiona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9085,
+    "title": "Drift",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "saf_drift.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9130,
+    "title": "Shell Shock",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "saf.shellsho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

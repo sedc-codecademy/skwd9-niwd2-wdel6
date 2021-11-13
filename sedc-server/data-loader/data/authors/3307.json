@@ -1,0 +1,164 @@
+[
+  {
+    "id": 13510,
+    "title": "Robot Jox",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "robot-jox.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13509,
+    "title": "Q Colony",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "q-colony.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13508,
+    "title": "Set of Wheels",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "set-of-wheels.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13507,
+    "title": "Alicia II",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "alicia-II.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10569,
+    "title": "Battlestar Galactica:  Classic",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "GL_Battle2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12975,
+    "title": "The Cylon Death Machine",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "galrt_thecylon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12976,
+    "title": "The Tombs of Kobol",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "galrt_thetombs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12977,
+    "title": "The Young Warriors",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "galrt_theyoung.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13065,
+    "title": "The Nightmare Machine",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "galrt_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13066,
+    "title": "Die, Chameleon!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "galrt_diecham.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13067,
+    "title": "Apollo's War",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "galrt_apollosw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13068,
+    "title": "Surrender the Galactica!",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "galrt_surrende.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13102,
+    "title": "Way of the Clans",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rt_wayofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13103,
+    "title": "Bloodname",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rt_bloodnam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13104,
+    "title": "Falcon Guard",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rt_falcongu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13296,
+    "title": "I am Jade Falcon",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rt_iamjadef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13435,
+    "title": "Freebirth:  Twilight of the Clans Vol. IV",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rt_freebir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13536,
+    "title": "Falcon Rising:  Twilight of the Clans Vol. VIII",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rt_falconri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

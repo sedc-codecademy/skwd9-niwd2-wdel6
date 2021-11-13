@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35848,
+    "title": "Weathering With You",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "MS_weatheri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36696,
+    "title": "Voices of a Distant Star:  - words of love / across the stars -",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "MS_voicesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24271,
+    "title": "Your Name",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ms_yourname.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25673,
+    "title": "Your Name. Another Side: Earthbound",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "MS_yournam2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

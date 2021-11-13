@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2831,
+    "title": "A Gift Upon the Shore",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mkw_agiftupo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6615,
+    "title": "Sword of the Lamb ",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mkw_swordoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6616,
+    "title": "Shadow of the Swan ",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mkw_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6617,
+    "title": "House of the Wolf",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mkw_houseoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

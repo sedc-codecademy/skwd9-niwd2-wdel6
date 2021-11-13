@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32554,
+    "title": "Dracula's Guest:  A Connoisseur's Collection of Victorian Vampire Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "MS_draculag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32553,
+    "title": "The Phantom Coach:  A Connoisseur's Collection of Victorian Ghost Stories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MS_phantomc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32555,
+    "title": "Frankenstein Dreams:  A Connoisseur's Collection of Victorian Science Fiction",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "MS_frankdreams.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 4363,
+    "title": "Lanark: A Life in 4 Books",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ag_lanark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6425,
+    "title": "A History Maker",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ag_ahistory.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

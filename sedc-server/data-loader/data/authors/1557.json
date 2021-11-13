@@ -1,0 +1,47 @@
+[
+  {
+    "id": 21958,
+    "title": "The Boys from Brazil",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "il_theboysf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5265,
+    "title": "The Stepford Wives",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "il_thestepf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6762,
+    "title": "This Perfect Day ",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "il_thisperf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3504,
+    "title": "Rosemary's Baby",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "il_rosemary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23186,
+    "title": "Son of Rosemary",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "il_sonofros.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

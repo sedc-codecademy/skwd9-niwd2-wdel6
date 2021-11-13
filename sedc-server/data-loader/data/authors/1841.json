@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4674,
+    "title": "The Black Death",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "bc_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4676,
+    "title": "The House of the Wolf",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "bc_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4673,
+    "title": "Necropolis",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bc_necropol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4675,
+    "title": "The Curse of the Fleers",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "bc_thecurse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4670,
+    "title": "And Afterward, the Dark",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bc_andafter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22078,
+    "title": "The Great White Space",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "BC_greatwhi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4671,
+    "title": "Darkness, Mist and Shadow: Volume 1: The Collected Macabre Tales of Basil Copper",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bc_dms1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4672,
+    "title": "Darkness, Mist and Shadow: Volume 2: The Collected Macabre Tales of Basil Copper",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "bc_dms2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

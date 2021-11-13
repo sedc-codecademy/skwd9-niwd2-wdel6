@@ -1,0 +1,56 @@
+[
+  {
+    "id": 16796,
+    "title": "The Golden Apple of Shangri-La",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "db_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16795,
+    "title": "Business as Usual",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "db_business.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16794,
+    "title": "Work Sets You Free",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "db_worksets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5822,
+    "title": "Gideon Smith and the Mechanical Girl",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "db_gideonsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9544,
+    "title": "Gideon Smith and the Brass Dragon",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "db_gsbrassd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14681,
+    "title": "Gideon Smith and the Mask of the Ripper",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "db_maskofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35733,
+    "title": "The Perfect Assassin",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "KD_perfecta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35734,
+    "title": "The Impossible Contract",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "KD_theimpos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35735,
+    "title": "The Unconquered City",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "KD_theuncon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

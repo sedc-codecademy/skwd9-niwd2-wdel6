@@ -1,0 +1,47 @@
+[
+  {
+    "id": 34075,
+    "title": "Soulkeeper",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dd_soulkeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36281,
+    "title": "Ravencaller",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "DD_RavenCal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20589,
+    "title": "Skyborn",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dd_skyborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20590,
+    "title": "Fireborn",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dd_fireborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25385,
+    "title": "Shadowborn",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dd_shadowbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

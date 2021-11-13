@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35519,
+    "title": "Gallows Hill",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "LD_GallowsH.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35520,
+    "title": "Stranger with My Face",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "LD_Stranger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35521,
+    "title": "Summer of Fear",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "LD_SummerOf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35518,
+    "title": "Down a Dark Hall",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "LD_DownADar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

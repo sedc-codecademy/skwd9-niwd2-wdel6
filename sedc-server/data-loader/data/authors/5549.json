@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25991,
+    "title": "The Liminal War",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "aje_liminwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25990,
+    "title": "The Liminal People",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "aje_lipeople.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25992,
+    "title": "The Entropy of Bones",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "aje_theentro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 19971,
+    "title": "Echoes",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17927,
+    "title": "Ma Qui",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13042,
+    "title": "Her Pilgrim Soul and Other Stories",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "AB_herpilgr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13636,
+    "title": "Time and Chance",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ab_timeandc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27753,
+    "title": "The Third Sex",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13635,
+    "title": "Kindred Spirits",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ab_kindreds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13634,
+    "title": "City of Masques ",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ab_cityofma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28276,
+    "title": "Ma Qui and Other Phantoms",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ab_acm17.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

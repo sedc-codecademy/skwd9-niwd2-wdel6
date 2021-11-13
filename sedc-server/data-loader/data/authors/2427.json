@@ -1,0 +1,56 @@
+[
+  {
+    "id": 21838,
+    "title": "Zero K",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dd_zerok.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9159,
+    "title": "The Body Artist",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dd_bodyarti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9158,
+    "title": "Underworld",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dd_underwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9157,
+    "title": "Libra ",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dd_libra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9155,
+    "title": "White Noise ",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "dd_whitenoi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21945,
+    "title": "Ratner's Star",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "dd_ratnerss.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

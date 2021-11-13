@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5106,
+    "title": "The Darkangel",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "map_thedarka.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5107,
+    "title": "A Gathering of Gargoyles",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "map_agatheri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5108,
+    "title": "The Pearl of the Soul of the World",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "map_thepearl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5109,
+    "title": "Birth of the Firebringer",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "map_birthoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5110,
+    "title": "Dark Moon",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "map_darkmoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5111,
+    "title": "The Son of Summer Stars",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "map_thesonof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

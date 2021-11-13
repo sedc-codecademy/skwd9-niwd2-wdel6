@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34268,
+    "title": "The Bone Shaker",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ec_thebones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13532,
+    "title": "The Relic Guild",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ec_therelic.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23104,
+    "title": "The Cathedral of Known Things",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ec_thecathe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23105,
+    "title": "The Watcher of Dead Time",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ec_thewatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

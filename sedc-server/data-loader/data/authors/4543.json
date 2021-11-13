@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19887,
+    "title": "Independence Day",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "SM_inday1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19888,
+    "title": "Independence Day:  Silent Zone",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "SM_inday2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19889,
+    "title": "Independence Day:  War in the Desert",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "Sm_inday3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

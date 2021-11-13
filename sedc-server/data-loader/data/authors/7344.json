@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34769,
+    "title": "Passing for Human",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "JS_passingf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34770,
+    "title": "I, Vampire",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "JS_Ivampire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34771,
+    "title": "Devil-May-Care",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JS_devilmay.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

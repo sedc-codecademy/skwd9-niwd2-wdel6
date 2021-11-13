@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20769,
+    "title": "Unification",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "JT_unificat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20771,
+    "title": "Pathways",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JT_pathways.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20770,
+    "title": "Mosaic",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "JT_mosaic.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

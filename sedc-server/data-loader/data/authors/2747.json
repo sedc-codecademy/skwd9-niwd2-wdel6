@@ -1,0 +1,155 @@
+[
+  {
+    "id": 11524,
+    "title": "The Life and Adventures of Santa Claus",
+    "year": 1902,
+    "type": "novel",
+    "imageName": "LB_santacla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11523,
+    "title": "The Master Key:  An Electrical Fairy Tale",
+    "year": 1901,
+    "type": "novel",
+    "imageName": "LB_masterke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10730,
+    "title": "The Wizard of Oz",
+    "year": 1900,
+    "type": "novel",
+    "imageName": "LB_wonderfu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10731,
+    "title": "The Land of Oz",
+    "year": 1904,
+    "type": "novel",
+    "imageName": "LB_marvelou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10732,
+    "title": "Ozma of Oz",
+    "year": 1907,
+    "type": "novel",
+    "imageName": "LB_ozmaofoz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10733,
+    "title": "Dorothy and the Wizard in Oz",
+    "year": 1908,
+    "type": "novel",
+    "imageName": "LB_dorothy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10734,
+    "title": "The Road to Oz",
+    "year": 1909,
+    "type": "novel",
+    "imageName": "LB_roadtooz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10735,
+    "title": "The Emerald City of Oz",
+    "year": 1910,
+    "type": "novel",
+    "imageName": "LB_emerald.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10736,
+    "title": "The Patchwork Girl of Oz",
+    "year": 1913,
+    "type": "novel",
+    "imageName": "LB_patchwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10737,
+    "title": "Tik-Tok of Oz",
+    "year": 1914,
+    "type": "novel",
+    "imageName": "LB_tiktokoz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10738,
+    "title": "The Scarecrow of Oz",
+    "year": 1915,
+    "type": "novel",
+    "imageName": "LB_scarecro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10739,
+    "title": "Rinkitink in Oz",
+    "year": 1916,
+    "type": "novel",
+    "imageName": "LB_rinkitin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10740,
+    "title": "The Lost Princess of Oz",
+    "year": 1917,
+    "type": "novel",
+    "imageName": "LB_lostprin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10741,
+    "title": "The Tin Woodman of Oz",
+    "year": 1918,
+    "type": "novel",
+    "imageName": "LB_tinwood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10742,
+    "title": "The Magic of Oz",
+    "year": 1919,
+    "type": "novel",
+    "imageName": "LB_magicoz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10743,
+    "title": "Glinda of Oz",
+    "year": 1920,
+    "type": "novel",
+    "imageName": "LB_glindaoz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10744,
+    "title": "The Royal Book of Oz",
+    "year": 1921,
+    "type": "novel",
+    "imageName": "RT_royalboo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

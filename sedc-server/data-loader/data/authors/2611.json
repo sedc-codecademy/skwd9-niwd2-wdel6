@@ -1,0 +1,29 @@
+[
+  {
+    "id": 14991,
+    "title": "Autonomy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "db_autonomy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10218,
+    "title": "The Dimension Riders",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "db_dimensio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10263,
+    "title": "Infinite Requiem",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "db_infinite.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

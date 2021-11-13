@@ -1,0 +1,83 @@
+[
+  {
+    "id": 4461,
+    "title": "Geist",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pb_geist.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4462,
+    "title": "Spectyr",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pb_spectyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4747,
+    "title": "Wrayth",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pb_wrayth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4981,
+    "title": "Phoenix Rising",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pbtm_phoenixr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4982,
+    "title": "The Janus Affair",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pbtm_thejanus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10807,
+    "title": "Dawn's Early Light",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pbtm_dawnsear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10808,
+    "title": "The Diamond Conspiracy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pbtm_thediamo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4945,
+    "title": "Hunter and Fox",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pb_hunteran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4910,
+    "title": "Kindred and Wings",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pb_kindreda.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

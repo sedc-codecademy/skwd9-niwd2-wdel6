@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11211,
+    "title": "Glory O'Brien's History of the Future",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ask_gloryobr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11210,
+    "title": "Everybody Sees the Ants",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ask_everybod.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34352,
+    "title": "The Dust of 100 Dogs",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ask_dustof10.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

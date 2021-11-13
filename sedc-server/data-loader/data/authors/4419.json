@@ -1,0 +1,36 @@
+[
+  {
+    "id": 18947,
+    "title": "The Deepwater Bride",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25593,
+    "title": "The Magician's Apprentice",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32369,
+    "title": "Gideon the Ninth",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tm_gideonth.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 35828,
+    "title": "Harrow the Ninth",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "tm_harrowth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

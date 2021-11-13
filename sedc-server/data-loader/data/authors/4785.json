@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21572,
+    "title": "Fear the Drowning Deep",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sgm_fearthed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36542,
+    "title": "Reign of the Fallen",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "SGM_ReignFal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36543,
+    "title": "Song of the Dead",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SGM_SongDead.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

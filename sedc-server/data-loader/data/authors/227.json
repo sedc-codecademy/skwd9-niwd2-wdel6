@@ -1,0 +1,29 @@
+[
+  {
+    "id": 233,
+    "title": "The Orphan",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rs_theorpha.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 791,
+    "title": "The Captive",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rs_thecapti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12994,
+    "title": "The Beast",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rs_tehbeast.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

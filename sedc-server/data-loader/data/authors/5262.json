@@ -1,0 +1,29 @@
+[
+  {
+    "id": 23709,
+    "title": "The Caledonian Gambit",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dm_thecaled.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34383,
+    "title": "The Bayern Agenda",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dm_thebayer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36452,
+    "title": "The Aleph Extraction",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "dm_alephext.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

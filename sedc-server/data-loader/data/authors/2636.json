@@ -1,0 +1,73 @@
+[
+  {
+    "id": 11998,
+    "title": "Anarquía",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bl_jkh_anarquia.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10338,
+    "title": "Free Space",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "eekbl_freespac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11997,
+    "title": "Sliders",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "bl_sliders.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11996,
+    "title": "Moon of Ice",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "bl_moonofic.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19559,
+    "title": "Moon of Ice",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13079,
+    "title": "Paradis",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rhbl_paradis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13080,
+    "title": "Destiny",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rhbl_destiny.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13082,
+    "title": "Redemption",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rhbl_redempti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

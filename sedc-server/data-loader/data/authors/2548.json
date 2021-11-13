@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9815,
+    "title": "Beyond Rejection",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jl_beyondre.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9816,
+    "title": "Beyond Humanity",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jl_beyondhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9817,
+    "title": "Beyond Gravity",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jl_beyondgr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32286,
+    "title": "The Sword and the Eye",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "JL_SwordEye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32287,
+    "title": "The Sword and the Tower",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "JL_SwordTow.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

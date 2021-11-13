@@ -1,0 +1,29 @@
+[
+  {
+    "id": 518,
+    "title": "Through the Heart",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rg_throught.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 638,
+    "title": "Rumours of Spring",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rg_rumorsof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 554,
+    "title": "Saraband of Lost Time",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rg_saraband.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

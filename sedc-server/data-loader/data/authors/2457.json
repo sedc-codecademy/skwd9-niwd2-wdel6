@@ -1,0 +1,47 @@
+[
+  {
+    "id": 35633,
+    "title": "The Monsters We Deserve",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "MS_themonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34810,
+    "title": "The Ghosts of Heaven",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MS_ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21858,
+    "title": "A Love Like Blood",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MS_lovelike.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13518,
+    "title": "Midwinterblood",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ms_midwinterblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9303,
+    "title": "White Crow",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_whitecro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

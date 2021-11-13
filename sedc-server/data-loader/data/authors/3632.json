@@ -1,0 +1,38 @@
+[
+  {
+    "id": 14878,
+    "title": "The Doom Brigade",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dpmw_thedoomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14879,
+    "title": "Draconian Measures",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dpmw_draconia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14881,
+    "title": "Brothers in Arms",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mwdp_brothers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14885,
+    "title": "Theros Ironfeld",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dp_therosir.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

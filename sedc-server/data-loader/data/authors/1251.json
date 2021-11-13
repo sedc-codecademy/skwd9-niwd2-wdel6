@@ -1,0 +1,146 @@
+[
+  {
+    "id": 2083,
+    "title": "Crossover",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "js_crossove.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2084,
+    "title": "Breakaway",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_breaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2085,
+    "title": "Killswitch",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "js_killswit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5695,
+    "title": "23 Years on Fire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "js_23yearso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6149,
+    "title": "Operation Shield",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "js_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10910,
+    "title": "Originator",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "js_originat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17317,
+    "title": "Renegade",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "js_renegade.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25704,
+    "title": "Drysine Legacy",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "js_drysine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25705,
+    "title": "Kantovan Vault",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "js_kantovan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25706,
+    "title": "Defiance",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "js_defiance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34666,
+    "title": "Croma Venture",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "JS_cromaven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35558,
+    "title": "Rando Splicer",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JS_randospl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2296,
+    "title": "Sasha",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_sasha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2297,
+    "title": "Petrodor",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_petrodor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2298,
+    "title": "Tracato",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_tracato.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3001,
+    "title": "Haven",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "js_haven.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

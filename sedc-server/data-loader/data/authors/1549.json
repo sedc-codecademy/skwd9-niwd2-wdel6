@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3488,
+    "title": "Acacia: The War with the Mein",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dad_acacia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3489,
+    "title": "The Other Lands",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dad_theother.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3490,
+    "title": "The Sacred Band",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dad_sacredba.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

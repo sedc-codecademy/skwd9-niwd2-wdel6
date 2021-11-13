@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34783,
+    "title": "The Total Devotion Machine and Other Stories",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RL_totaldev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34635,
+    "title": "The Traveling Tide",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rl_thetrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15670,
+    "title": "Secret Lives of Books",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rl_secretli.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

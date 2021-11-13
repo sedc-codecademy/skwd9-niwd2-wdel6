@@ -1,0 +1,83 @@
+[
+  {
+    "id": 28162,
+    "title": "Adjustment Day",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CP_Adjustme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9969,
+    "title": "Beautiful You",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cp_beautifu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7042,
+    "title": "Rant: The Oral Biography of Buster Casey",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "CP_Rant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7041,
+    "title": "Haunted",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "CP_Haunted.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7040,
+    "title": "Diary",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "CP_Diary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3578,
+    "title": "Lullaby",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cp_lullaby.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3184,
+    "title": "Fight Club",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cp_fightclu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7038,
+    "title": "Damned",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "CP_Damned(2).jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7039,
+    "title": "Doomed",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "CP_Doomed.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

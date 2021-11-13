@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11394,
+    "title": "Cold Iron (Malkin)",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sm_coldiron.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11390,
+    "title": "Snow, Fire, Sword",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sm_snowfire.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11391,
+    "title": "The Curse of Zohreh",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_thecurse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11392,
+    "title": "The Tyrant's Nephew",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sm_thetyran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11393,
+    "title": "The Maharajah's Ghost",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sm_themahar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

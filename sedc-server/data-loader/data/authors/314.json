@@ -1,0 +1,1576 @@
+[
+  {
+    "id": 13365,
+    "title": "Renaissance Faire",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "anjr_renaissa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9384,
+    "title": "Three Hands for Scorpio",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "an_threehan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13209,
+    "title": "The Monster's Legacy",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "an_themonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9378,
+    "title": "Tiger Burning Bright",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mzbanml_tigerbur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13208,
+    "title": "Brother to Shadows",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "an_brothert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13207,
+    "title": "The Jekyll Legacy",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rban_thejekyl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13223,
+    "title": "Wizards' Worlds",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "an_wizardw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13222,
+    "title": "Moon Mirror",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "an_moonmirr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13220,
+    "title": "House of Shadows",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "anpm_houseofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13206,
+    "title": "Wheel of Stars",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "an_wheelofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13200,
+    "title": "Moon Called",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "an_mooncall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13219,
+    "title": "Seven Spells to Sunday",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "anpm_sevenspe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13199,
+    "title": "Yurth Burden",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "an_yurthbur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12178,
+    "title": "Perilous Dreams",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "an_perilous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13210,
+    "title": "Knave of Dreams",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "an_knaveofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11167,
+    "title": "Merlin's Mirror",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "AN_merlin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12951,
+    "title": "No Night Without Stars",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "an_nonightw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13211,
+    "title": "The White Jade Fox",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "an_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13212,
+    "title": "Iron Cage",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "an_ironcage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13364,
+    "title": "The Many Worlds of Andre Norton (The Book of Andre Norton)",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "an_themanyw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13213,
+    "title": "Garan the Eternal",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "an_garanthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5118,
+    "title": "Here Abide Monsters",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "an_hereabid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11168,
+    "title": "Breed to Come",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "AN_breedtoc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7020,
+    "title": "Dread Companion",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "an_dreadcom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13221,
+    "title": "High Sorcery",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "an_highsorc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12176,
+    "title": "Ice Crown",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "an_icecrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12180,
+    "title": "Secret of the Lost Race",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "an_secretof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13214,
+    "title": "Dark Piper",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "an_darkpipe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13215,
+    "title": "Operation Time Search",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "an_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21200,
+    "title": "Wizard's World",
+    "year": 1967,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11166,
+    "title": "Star Gate",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "AN_stargate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13216,
+    "title": "Sea Siege",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "an_seasiege.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13217,
+    "title": "Daybreak - 2250 A.D. (Star Man's Son, 2250 A.D.)",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "an_daybreak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13218,
+    "title": "Huon of the Horn",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "an_huonofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13363,
+    "title": "The People of the Crater",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "an_peopleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21259,
+    "title": "Beyond Earth's Gates / Daybreak--2250 A.D",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ad_beyondea_daybreak.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21257,
+    "title": "The Last Planet / A Man Obsessed",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ad_thelastp_amanobse.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21256,
+    "title": "The Stars Are Ours! / Three Faces of Time",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ad_thestars_3facesof.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21252,
+    "title": "The Crossroads of Time / Mankind on the Run",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_thecross_mankindo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21188,
+    "title": "Planet of No Return / Star Guard",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_planetof_starguar.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21254,
+    "title": "Star Born / A Planet for Texans",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_starborn_aplanetf.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21255,
+    "title": "One Against Herculum / Secret of the Lost Race",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_oneagain_secretof.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21222,
+    "title": "The Sioux Spaceman / And Then the Town Took Off",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_thesioux_andthent.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21149,
+    "title": "Star Hunter / The Beast Master",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ad_starhunt_thebeast.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21150,
+    "title": "Eye of the Monster / Sea Siege",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_eyeofthe_seasiege.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21260,
+    "title": "Star Hunter & Voodoo Planet",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "an_sthuvopl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11164,
+    "title": "Quest Crosstime",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "AN_questcro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11165,
+    "title": "The Crossroads of Time",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "AN_crossroa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3917,
+    "title": "The Shadow of Albion",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "anre_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3918,
+    "title": "Leopard in Exile",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "anre_leopardi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13833,
+    "title": "Catfantastic: Nine Lives and Fifteen Tales",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "anmhg_catfant1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13834,
+    "title": "Catfantastic II",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "anmhg_catfant2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13835,
+    "title": "Catfantastic III",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "anmhg_catfant3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13836,
+    "title": "Catfantastic IV",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "anmhg_catfant4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13837,
+    "title": "Catfantastic V",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "anmhg_catfant5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9317,
+    "title": "Star Rangers",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "an_starrang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3717,
+    "title": "Star Guard",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "an_starguar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6108,
+    "title": "Tales From High Hallack - The Collected Short Stories of Andre Norton, Volume: 1",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "an_hh1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6109,
+    "title": "Tales From High Hallack - The Collected Short Stories of Andre Norton, Volume: 2",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "an_hh2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13274,
+    "title": "The Game of Stars and Comets",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "an_thegameo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13224,
+    "title": "The Sioux Spaceman",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "an_thesioux.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13225,
+    "title": "Eye of the Monster",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "an_eyeofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12182,
+    "title": "The X Factor",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "an_thexfact.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12181,
+    "title": "Voorloper",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "an_voorlope.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13233,
+    "title": "To the King a Daughter",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ansm_tothekin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13234,
+    "title": "Knight or Knave",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ansm_knightor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13235,
+    "title": "A Crown Disowned",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ansm_acrowndi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13236,
+    "title": "Dragon Blade",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ansm_dragonbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13237,
+    "title": "The Knight of the Red Beard",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ansm_thekight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13244,
+    "title": "Masks of the Outcasts",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "an_masksoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4978,
+    "title": "Catseye",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "an_catseye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4979,
+    "title": "Night of Masks",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "an_nightofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13226,
+    "title": "The Hands of Lyr",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "an_thehands.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13227,
+    "title": "Mirror of Destiny",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "an_mirrorof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13228,
+    "title": "Scent of Magic",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "an_scentofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13229,
+    "title": "Wind in the Stone",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "an_windinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13230,
+    "title": "A Taste of Magic",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "anjr_atasteof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9313,
+    "title": "Storm Over Warlock",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "an_stormove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9314,
+    "title": "Ordeal in Otherwhere",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "an_ordealin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9315,
+    "title": "Forerunner Foray",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "an_forrforay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4195,
+    "title": "Forerunner",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "an_forerunn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9316,
+    "title": "Forerunner: The Second Venture",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "an_thesecond.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9375,
+    "title": "The Elvenbane",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "anml_elvenban.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9376,
+    "title": "Elvenblood",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "anml_elvenblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9377,
+    "title": "Elvenborn",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "anml_elvenbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11172,
+    "title": "The Beast Master",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "AN_beastmas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11173,
+    "title": "Lord of Thunder",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "AN_lordthun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11174,
+    "title": "Beast Master's Ark",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "AN_beastark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11175,
+    "title": "Beast Master's Circus",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "AN_beastcir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11176,
+    "title": "Beast Master's Quest",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "AN_beastque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13231,
+    "title": "Imperial Lady",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "anss_imperial.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13232,
+    "title": "Empire of the Eagle",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "anss_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14311,
+    "title": "Magic in Ithkar",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "anra_Ithkar1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14312,
+    "title": "Magic in Ithkar 2",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "anra_Ithkar2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14313,
+    "title": "Magic in Ithkar 3",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "anra_Ithkar3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14314,
+    "title": "Magic in Ithkar 4",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "anra_Ithkar4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13240,
+    "title": "Janus",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "an_janus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13238,
+    "title": "Judgment on Janus",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "an_judgment.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13239,
+    "title": "Victory on Janus",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "an_victoryo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13243,
+    "title": "Search for the Star Stones",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "an_searchfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13241,
+    "title": "The Zero Stone",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "an_thezeros.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13242,
+    "title": "Uncharted Stars",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "an_uncharte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13284,
+    "title": "The Magic Books",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "an_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13277,
+    "title": "Steel Magic (Gray Magic)",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "an_steelmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13278,
+    "title": "Octagon Magic",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "an_octagonm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13279,
+    "title": "Fur Magic",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "an_furmagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13280,
+    "title": "Dragon Magic",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "an_dragonma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13281,
+    "title": "Lavender-Green Magic",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "an_lavenderg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13282,
+    "title": "Red Hart Magic",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "an_redhartm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13283,
+    "title": "Dragon Mage",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "anjr_dragonma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13269,
+    "title": "Mark of the Cat / Year of the Rat",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "an_motcyotr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13268,
+    "title": "The Mark of the Cat",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "an_themarko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9296,
+    "title": "Moon of Three Rings",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "an_moonofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9297,
+    "title": "Exiles of the Stars",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "an_exilesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9298,
+    "title": "Flight in Yiktor",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "an_flightin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9299,
+    "title": "Dare to Go A-Hunting",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "an_dareahun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13245,
+    "title": "Star Flight",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "an_starflig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3716,
+    "title": "The Stars are Ours!",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "an_thestars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4680,
+    "title": "Star Born",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "an_starborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13249,
+    "title": "Gods and Androids",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "an_godandan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11162,
+    "title": "Android At Arms",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "AN_android.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11163,
+    "title": "Wraiths of Time",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "AN_wriathof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11169,
+    "title": "Quag Keep",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "AN_quagkeep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11170,
+    "title": "Return to Quag Keep",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "AN_returnqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4533,
+    "title": "Sargasso of Space",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "an_sargasso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4498,
+    "title": "Plague Ship",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "an_plaguesh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13258,
+    "title": "Voodoo Planet",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "an_voodoopl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12179,
+    "title": "Postmarked the Stars",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "an_postmark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13255,
+    "title": "Redline the Stars",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "anpmg_redlinet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13256,
+    "title": "Derelict for Trade",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "anss_dfortrad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13257,
+    "title": "A Mind for Trade",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "anss_amindfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13366,
+    "title": "Star Ka'at",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "andm_starkaat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13367,
+    "title": "Star Ka'at World",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "andm_skaworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13368,
+    "title": "Star Ka'ats and the Plant People ",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "andm_plantpeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13369,
+    "title": "Star Ka'ats and the Winged Warriors",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "andm_wingedwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4221,
+    "title": "The Time Traders",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "an_timetrad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13250,
+    "title": "Galactic Derelict",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "an_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13251,
+    "title": "The Defiant Agents",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "an_thedefia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12177,
+    "title": "Key Out Of Time",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "an_keyoutof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13252,
+    "title": "Firehand",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "anpmg_firehand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13253,
+    "title": "Echoes in Time",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "anss_echoesin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13254,
+    "title": "Atlantis Endgame",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "anss_atlantis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5592,
+    "title": "The Duke's Ballad",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "anlmc_thedukes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9578,
+    "title": "Silver May Tarnish",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "anlm_silverma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9572,
+    "title": "The Key of the Keplian",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "anlm_thekeyof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5588,
+    "title": "Ciara's Song",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "anlmc_ciarasso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9573,
+    "title": "The Magestone",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "anmhs_themages.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9574,
+    "title": "The Warding of Witch World",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "an_thewardi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13273,
+    "title": "Four from the Witch World",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "an_fourfrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12952,
+    "title": "Lore of the Witch World",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "an_loreofwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12953,
+    "title": "Tales of the Witch World",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "an_totwwI.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12957,
+    "title": "Tales of the Witch World 2",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "an_totww2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12958,
+    "title": "Tales of the Witch World 3",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "an_totww3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 318,
+    "title": "Witch World",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "an_witchwor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5535,
+    "title": "Web of the Witch World",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "an_webofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5536,
+    "title": "Three Against the Witch World",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "an_threeaga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5537,
+    "title": "Warlock of the Witch World",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "an_warlocko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5538,
+    "title": "Sorceress of the Witch World",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "an_sorceres.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5539,
+    "title": "Trey of Swords",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "an_treyofsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5540,
+    "title": "'Ware Hawk",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "an_warehawk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5541,
+    "title": "The Gate of the Cat",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "an_thegateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9575,
+    "title": "Horn Crown",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "an_horncrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5603,
+    "title": "Year of the Unicorn",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "an_yearofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5604,
+    "title": "Spell of the Witch World",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "an_spelloft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5593,
+    "title": "The Jargoon Pard",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "sn_thejargo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9576,
+    "title": "Zarsthor's Bane",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "an_zarsthor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9577,
+    "title": "Songsmith",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "anacc_songsmit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5587,
+    "title": "The Crystal Gryphon",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "an_thecryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9295,
+    "title": "Gryphon in Glory",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "an_gryglory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9300,
+    "title": "Gryphon's Eyrie",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "anacc_gryphons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13270,
+    "title": "Storms of Victory",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "anpmg_stormsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13271,
+    "title": "Flight of Vengeance",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "anpmgms_flightof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13272,
+    "title": "On Wings of Magic",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "anpmsm_onwingso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6511,
+    "title": "Black Trillium ",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mzb_blacktri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6513,
+    "title": "Golden Trillium ",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "an_goldentr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

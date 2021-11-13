@@ -1,0 +1,37 @@
+[
+  {
+    "id": 22834,
+    "title": "Water",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6147,
+    "title": "Nexus",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rn_nexus.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 8570,
+    "title": "Crux",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rn_crux.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11093,
+    "title": "Apex",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RN_apex.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

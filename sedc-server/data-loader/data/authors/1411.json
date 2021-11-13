@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2860,
+    "title": "A Phule and His Money",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rapjh_aphulean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2861,
+    "title": "Phule Me Twice",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rapjh_phulemet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2862,
+    "title": "No Phule Like an Old Phule",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rapjh_nophulel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2863,
+    "title": "Phule's Errand",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rapjh_phuleser.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

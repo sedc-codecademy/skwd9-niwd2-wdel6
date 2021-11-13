@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9970,
+    "title": "Spark",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jth_spark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9971,
+    "title": "The Traveler",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jth_thetrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9972,
+    "title": "The Dark River",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jth_thedarkr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9973,
+    "title": "The Golden City",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jth_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

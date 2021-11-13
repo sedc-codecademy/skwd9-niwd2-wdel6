@@ -1,0 +1,65 @@
+[
+  {
+    "id": 5220,
+    "title": "The Stone Prince",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "fp_thestone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5221,
+    "title": "The Painter Knight",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "fp_thepaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5222,
+    "title": "The Granite Shield",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "fp_thegrani.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5223,
+    "title": "The Golden Sword",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "fp_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5224,
+    "title": "The Silver Lake",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "fp_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5225,
+    "title": "The Golden Tower",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "fp_goldento.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5226,
+    "title": "The Shining City",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "fp_theshini.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

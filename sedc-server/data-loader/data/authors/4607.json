@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20428,
+    "title": "Creatures of the Storm",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bm_creature.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20429,
+    "title": "Voices of the Storm",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bm_voicesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20431,
+    "title": "Secrets of the Storm",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bm_secretso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

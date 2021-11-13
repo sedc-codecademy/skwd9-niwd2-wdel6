@@ -1,0 +1,83 @@
+[
+  {
+    "id": 12069,
+    "title": "Venusian Lullaby",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pl_venusian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12075,
+    "title": "Dancing the Code",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pl_dancingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22959,
+    "title": "Speed of Flight",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pl_speedoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8806,
+    "title": "Genocide",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pl_genocide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8819,
+    "title": "Dreamstone Moon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pl_dreamsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8832,
+    "title": "Revolution Man",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pl_revolu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8863,
+    "title": "The Turing Test",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pl_theturin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8901,
+    "title": "The Last Resort",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pl_thelastr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10273,
+    "title": "Toy Soldiers",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pl_toysoldi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

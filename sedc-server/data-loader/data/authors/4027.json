@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16749,
+    "title": "Hero of the Five Points",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ag_heroofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17433,
+    "title": "Join, or Die",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ag_joinordi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20482,
+    "title": "The Assassination Game",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "AG_assassin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

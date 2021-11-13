@@ -1,0 +1,47 @@
+[
+  {
+    "id": 15364,
+    "title": "Moon Odyssey",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jr_moonodys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15365,
+    "title": "Lunar Attack",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jr_lunaratt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15366,
+    "title": "Astral Quest",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jr_astralqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15367,
+    "title": "Android Planet",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jr_androidp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15368,
+    "title": "Phoenix of Megaron",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jr_phoenixo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

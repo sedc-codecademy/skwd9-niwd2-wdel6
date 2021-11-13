@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13379,
+    "title": "1634: The Galileo Affair",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "efad_thegalil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13381,
+    "title": "1635: The Cannon Law",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "efad_cannonla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19529,
+    "title": "1635: A Parcel of Rogues",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "efad_1635apar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

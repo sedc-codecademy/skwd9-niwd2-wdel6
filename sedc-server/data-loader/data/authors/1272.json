@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2239,
+    "title": "Twelve",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jk_twelve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2289,
+    "title": "Thirteen Years Later",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jk_thirteen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3810,
+    "title": "The Third Section",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jk_thethird.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5322,
+    "title": "The People's Will",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jk_thepeopl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9564,
+    "title": "The Last Rite",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jk_thelastr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

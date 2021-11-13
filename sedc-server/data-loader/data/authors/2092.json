@@ -1,0 +1,116 @@
+[
+  {
+    "id": 17673,
+    "title": "I Remember the Future",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mab_iremember.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7954,
+    "title": "I Remember the Future:  The Award-Nominated Stories of Michael A. Burstein",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mab_iremembe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19264,
+    "title": "Sanctuary",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21308,
+    "title": "Seventy-Five Years",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20907,
+    "title": "TelePresence",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21309,
+    "title": "Decisions",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20515,
+    "title": "Time Ablaze",
+    "year": 2004,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21312,
+    "title": "Paying It Forward",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21313,
+    "title": "Spaceships",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17737,
+    "title": "Kaddish for the Last Survivor",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21326,
+    "title": "Cosmic Corkscrew",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21339,
+    "title": "TeleAbsence",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19499,
+    "title": "Reality Check",
+    "year": 1999,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20949,
+    "title": "Broken Symmetry",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

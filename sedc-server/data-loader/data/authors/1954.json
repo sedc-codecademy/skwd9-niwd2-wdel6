@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5381,
+    "title": "God Save the Queen",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kl_godsavet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5382,
+    "title": "The Queen Is Dead",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kl_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5383,
+    "title": "Long Live the Queen",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kl_longlive.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

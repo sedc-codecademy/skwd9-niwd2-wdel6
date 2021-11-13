@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35925,
+    "title": "The Little Animals",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "st_littlean.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11078,
+    "title": "The Stone Boatmen",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ST_stoneboa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34692,
+    "title": "NoFood",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "st_nofood.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

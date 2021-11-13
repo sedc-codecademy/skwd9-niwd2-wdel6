@@ -1,0 +1,38 @@
+[
+  {
+    "id": 26772,
+    "title": "Bastion Wars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "hz_bastionw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26769,
+    "title": "Emperor's Mercy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "hz_emperors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26770,
+    "title": "Flesh and Iron",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "hz_fleshand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26771,
+    "title": "Blood Gorgons",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "hz_bloodgor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

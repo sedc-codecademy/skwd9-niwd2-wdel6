@@ -1,0 +1,38 @@
+[
+  {
+    "id": 30235,
+    "title": "Alice Isn't Dead",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jf_aliceisn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14203,
+    "title": "Welcome to Night Vale",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JC_welcomet.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32033,
+    "title": "It Devours!",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jfjc_itdevour.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36355,
+    "title": "The Faceless Old Woman Who Secretly Lives in Your Home",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "jfjc_thefacel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

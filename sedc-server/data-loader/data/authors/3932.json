@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36209,
+    "title": "The Lord of the Rings: A Reader's Companion",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "WH_lotrread.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16282,
+    "title": "J. R. R. Tolkien:  Artist & Illustrator",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WGH&CS_TolkienA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16330,
+    "title": "The Art of The Hobbit by J.R.R. Tolkien",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "JRRT&WGH&SC_TheArtOfjpg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17111,
+    "title": "The Art of The Lord of the Rings by J. R. R. Tolkien",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "WGH&SC&JRRT_TheArtOfT.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

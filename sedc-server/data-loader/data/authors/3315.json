@@ -1,0 +1,79 @@
+[
+  {
+    "id": 27942,
+    "title": "Vanguard 2.0",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27905,
+    "title": "KIT: Some Assembly Required",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20093,
+    "title": "Gypsy",
+    "year": 2015,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12996,
+    "title": "The Amount to Carry",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cs_theamoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13010,
+    "title": "Radiance:  A Novel",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cs_radiance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12995,
+    "title": "Kafka Americana",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jlcs_kafkaam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12997,
+    "title": "Palimpsests",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "csgh_palimpse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18944,
+    "title": "The Ninth Symphony of Ludwig van Beethoven and Other Lost Songs",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17365,
+    "title": "Gypsy (collection)",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "CS_Gypsy.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

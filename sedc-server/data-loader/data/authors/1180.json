@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2203,
+    "title": "Nightlife",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rt_nightlif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2204,
+    "title": "Moonshine",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rt_moonshin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2205,
+    "title": "Madhouse",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rt_madhouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1878,
+    "title": "Deathwish",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rt_deathwis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2206,
+    "title": "Roadkill",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rt_roadkill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3385,
+    "title": "Blackout",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rt_blackout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16217,
+    "title": "Doubletake",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rt_doubleta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16218,
+    "title": "Slashback",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rt_slashbac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16219,
+    "title": "Downfall",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rt_downfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16220,
+    "title": "Nevermore",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rt_nevermor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

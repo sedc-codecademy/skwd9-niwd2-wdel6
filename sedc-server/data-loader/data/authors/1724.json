@@ -1,0 +1,56 @@
+[
+  {
+    "id": 26486,
+    "title": "One of Us Will Be Dead by Morning",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dm_oneofusw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35561,
+    "title": "All Roads End Here",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "DM_AllRoads.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35562,
+    "title": "Chokehold",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "DM_Chokehol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13826,
+    "title": "Hater",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dm_hater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13825,
+    "title": "Dog Blood",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dm_dogblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4157,
+    "title": "Them or Us",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dm_themorus.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

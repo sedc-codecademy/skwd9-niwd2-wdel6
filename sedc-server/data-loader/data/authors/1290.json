@@ -1,0 +1,65 @@
+[
+  {
+    "id": 4504,
+    "title": "A Red Sun Also Rises",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mh_aredsuna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2288,
+    "title": "The Strange Affair of Spring Heeled Jack",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mh_thestran.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2513,
+    "title": "The Curious Case of the Clockwork Man",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mh_thecurio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4054,
+    "title": "Expedition to the Mountains of the Moon",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mh_expediti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5696,
+    "title": "The Secret of Abdu El Yezdi",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mh_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5988,
+    "title": "The Return of the Discontinued Man",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mh_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10907,
+    "title": "The Rise of the Automated Aristocrats",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mh_theriseo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

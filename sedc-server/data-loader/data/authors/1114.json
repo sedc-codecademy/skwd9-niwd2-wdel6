@@ -1,0 +1,362 @@
+[
+  {
+    "id": 34362,
+    "title": "Mythic Journeys",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pg_mythicjo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26882,
+    "title": "Ex Libris:  Stories of Librarians, Libraries & Lore",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pg_exlibris.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24147,
+    "title": "The Mammoth Book of the Mummy",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pg_tmbmummy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26040,
+    "title": "New York Fantastic",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pg_newyorkf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22490,
+    "title": "Swords Against Darkness",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pg_swordsag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18904,
+    "title": "Beyond the Woods:  Fairy Tales Retold",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pg_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24669,
+    "title": "The Mammoth Book of Cthulhu: New Lovecraftian Fiction",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pg_tmbocthu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17914,
+    "title": "Street Magicks",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pg_streetmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12382,
+    "title": "Blood Sisters: Vampire Stories by Women",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pg_bloodsis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11608,
+    "title": "Mermaids and Other Mysteries of the Deep",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pg_mermaids.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11183,
+    "title": "New Cthulhu 2: More Recent Weird",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "PG_newcthu2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16455,
+    "title": "Warrior Women",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pg_warriorw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7116,
+    "title": "Magic City:  Recent Spells",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pg_magiccit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9539,
+    "title": "Time Travel:  Recent Trips",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pg_timetrav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17367,
+    "title": "After the End:  Recent Apocalypses",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pg_afterthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21140,
+    "title": "Future Games",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pg_futurega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24670,
+    "title": "The Mammoth Book of Angels and Demons",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pg_tmobange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24218,
+    "title": "Once Upon a Time:  New Fairy Tales",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pg_onceupon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28655,
+    "title": "Weird Detectives:  Recent Investigations",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pg_weirddet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23497,
+    "title": "Extreme Zombies",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pg_exzombie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17625,
+    "title": "Ghosts:  Recent Hauntings",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pg_ghostsre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23449,
+    "title": "Obsession:  Tales of Irresistible Desire",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pg_obsessio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24219,
+    "title": "Rock On: The Greatest Hits of Science Fiction & Fantasy",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pg_rockon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18671,
+    "title": "Season of Wonder",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pg_seasonso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18578,
+    "title": "Witches: Wicked, Wild & Wonderful",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pg_witchesw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23628,
+    "title": "Halloween",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pg_hallowee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3015,
+    "title": "New Cthulhu:  The Recent Weird",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pg_newcthul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17395,
+    "title": "Vampires:  The Recent Undead",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pg_vampires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4464,
+    "title": "Zombies: The Recent Dead",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pg_zombiest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4601,
+    "title": "The Year's Best Dark Fantasy & Horror 2010",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pg_theyears01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4635,
+    "title": "The Year's Best Dark Fantasy & Horror 2011",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pg_theyears02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4636,
+    "title": "The Year's Best Dark Fantasy & Horror 2012",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pg_theyears03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7117,
+    "title": "The Year's Best Dark Fantasy & Horror 2013",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pg_tybdfh13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7118,
+    "title": "The Year's Best Dark Fantasy & Horror 2014",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pg_tybdfh14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13310,
+    "title": "The Year's Best Dark Fantasy & Horror 2015 ",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pg_tybdfh15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18672,
+    "title": "The Year's Best Dark Fantasy & Horror 2016",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pg_tybdfh16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21743,
+    "title": "The Year's Best Dark Fantasy & Horror 2017",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pg_dfah2017.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29020,
+    "title": "The Year’s Best Dark Fantasy & Horror 2018",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pg_tybdfh18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14187,
+    "title": "The Year's Best Science Fiction & Fantasy Novellas 2015",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pg_tybsffno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19303,
+    "title": "The Year's Best Science Fiction & Fantasy Novellas 2016",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pg_tybsfn16.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

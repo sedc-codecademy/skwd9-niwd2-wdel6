@@ -1,0 +1,101 @@
+[
+  {
+    "id": 25303,
+    "title": "Conan the Renegade",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lc_ctrenega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25304,
+    "title": "Conan the Raider",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lc_ctraider.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25305,
+    "title": "Conan the Warlord",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "lc_ctwarlor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25306,
+    "title": "Conan the Hero",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lc_cthehero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25307,
+    "title": "Conan the Great",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "lc_ctgreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25308,
+    "title": "Conan the Outcast",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "lc_ctoutcas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25309,
+    "title": "Conan the Savage",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lc_ctsavage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25310,
+    "title": "Conan of the Red Brotherhood",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "lc_cotredbr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25311,
+    "title": "Conan, Scourge of the Bloody Coast",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lc_cscourge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25312,
+    "title": "Conan the Gladiator",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lc_ctgladia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25313,
+    "title": "Conan, Lord of the Black River",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lc_clordoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

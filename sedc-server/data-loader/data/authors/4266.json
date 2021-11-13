@@ -1,0 +1,55 @@
+[
+  {
+    "id": 17685,
+    "title": "The Button Bin",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17681,
+    "title": "Clockwork Phoenix:  Tales of Beauty and Strangeness",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ma_phoenix1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17682,
+    "title": "Clockwork Phoenix 2:  More Tales of Beauty and Strangeness",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ma_phoenix2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17683,
+    "title": "Clockwork Phoenix 3:  New Tales of Beauty and Strangeness",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ma_phoenix3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17684,
+    "title": "Clockwork Phoenix 4",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ma_phoenix4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22491,
+    "title": "Clockwork Phoenix 5",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ma_cphoeni5.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

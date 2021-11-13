@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35032,
+    "title": "The Sentinel Mage",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eg_sentinalm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35033,
+    "title": "The Fire Prince",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eg_fireprin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35034,
+    "title": "The Blood Curse",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "eg_bloodcur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

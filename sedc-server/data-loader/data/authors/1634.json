@@ -1,0 +1,182 @@
+[
+  {
+    "id": 11613,
+    "title": "Beowulf",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jrrt_beowulfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11614,
+    "title": "The Fall of Arthur",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jrrt_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11615,
+    "title": "The Legend of Sigurd and Gudrún",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jrrt_thelegen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16342,
+    "title": "The Monsters and the Critics and Other Essays",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "JRRT_monsters.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11612,
+    "title": "The Letters of J. R. R. Tolkien",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jrrt_thelette.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3692,
+    "title": "The Book of Lost Tales: Part 1",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jrrtct_thebook1.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3693,
+    "title": "The Book of Lost Tales: Part 2",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jrrtct_thebook2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3694,
+    "title": "The Lays of Beleriand",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jrrtct_thelayso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3695,
+    "title": "The Shaping of Middle-Earth",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jrrtct_theshapi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3696,
+    "title": "The Lost Road and Other Writings",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jrrtct_thelostr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3697,
+    "title": "The Return of the Shadow",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jrrtct_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3698,
+    "title": "The Treason of Isengard",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jrrtct_thetreas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3699,
+    "title": "The War of the Ring",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jrrtct_thewarof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3700,
+    "title": "Sauron Defeated",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jrrtct_sauronde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3701,
+    "title": "Morgoth's Ring",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jrrtct_morgoths.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3702,
+    "title": "The War of the Jewels",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jrrtct_thejewel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3703,
+    "title": "The Peoples of Middle-Earth",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jrrtct_thepeopl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28081,
+    "title": "The Fall of Gondolin",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jrrt_thefallofg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4964,
+    "title": "The Children of Hurin",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jrrtct_thechild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3704,
+    "title": "Unfinished Tales of Numenor and Middle-Earth",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jrrtct_unfinish.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3833,
+    "title": "Noise",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "db_noise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35927,
+    "title": "Totem",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "DB_Totem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9225,
+    "title": "Chimpanzee",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "db_chimpanzee.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

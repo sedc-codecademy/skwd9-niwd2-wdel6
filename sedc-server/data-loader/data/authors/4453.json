@@ -1,0 +1,47 @@
+[
+  {
+    "id": 23421,
+    "title": "Horror: The Best of the Year: 2006 Edition",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jbsw_htboty06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19829,
+    "title": "Devil in the Sky",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gxjgb_devilint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19831,
+    "title": "The Heart of the Warrior",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jgb_theheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19142,
+    "title": "Infection",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jgb_infectio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19832,
+    "title": "Incident at Arbuk",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jgb_incident.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

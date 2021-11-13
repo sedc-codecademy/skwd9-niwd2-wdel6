@@ -1,0 +1,145 @@
+[
+  {
+    "id": 28543,
+    "title": "The Oddling Prince",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ns_theoddli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20942,
+    "title": "Plumage",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ns_plumage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5274,
+    "title": "Fair Peril",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ns_fairperi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6431,
+    "title": "Larque on the Wing",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ns_larqueon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6938,
+    "title": "Metal Angel",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ns_metalang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20943,
+    "title": "Apocalypse",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ns_apocalyp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21000,
+    "title": "The Hex Witch of Seldom",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ns_thehexwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13901,
+    "title": "Chance and Other Gestures of the Hand of Fate",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ns_chancean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17978,
+    "title": "The Boy Who Plaited Manes",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6940,
+    "title": "Chains of Gold ",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ns_chainsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6939,
+    "title": "Wings of Flame ",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ns_wingsoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6934,
+    "title": "The White Hart ",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ns_whitehar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6935,
+    "title": "The Silver Sun ",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "ns_silversu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5273,
+    "title": "The Sable Moon",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ns_thesable.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6936,
+    "title": "The Black Beast ",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ns_blackbea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6937,
+    "title": "The Golden Swan ",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "ns_goldenswa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

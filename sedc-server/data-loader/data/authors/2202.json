@@ -1,0 +1,101 @@
+[
+  {
+    "id": 10461,
+    "title": "Saturn Rukh",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rlf_saturnru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35165,
+    "title": "Indistinguishable from Magic",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RLF_Indistin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12003,
+    "title": "Timemaster",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rlf_timemast.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10463,
+    "title": "Martian Rainbow",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rlf_martianr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8221,
+    "title": "Dragon's Egg",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rlf_dragonse.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8222,
+    "title": "Starquake ",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rlf_starquak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14623,
+    "title": "Rocheworld",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rf_rocheworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14624,
+    "title": "Return to Rocheworld",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jff_returntoro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14625,
+    "title": "Marooned on Eden",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rf_maroonedon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14626,
+    "title": "Ocean Under the Ice",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rf_oceanunder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14627,
+    "title": "Rescued From Paradise",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rf_rescuedfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": 32709,
+    "title": "Core",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "PP_Core.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10518,
+    "title": "Starfire",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pp_starfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32708,
+    "title": "Human Error",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "PP_HumanErr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32707,
+    "title": "Re-Entry",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "PP_Re-entry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9814,
+    "title": "The Gates of Heaven",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pp_thegates.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10419,
+    "title": "Arthur C. Clarke's Venus Prime:  Breaking Strain",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pp_1breakin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10420,
+    "title": "Arthur C. Clarke's Venus Prime 2:  Maelstrom",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pp_2maelstr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10421,
+    "title": "Arthur C. Clarke's Venus Prime 3:  Hide and Seek",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "pp_3hideand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10422,
+    "title": "Arthur C. Clarke's Venus Prime 4:  The Medusa Encounter",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "pp_4themedu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10423,
+    "title": "Arthur C. Clarke's Venus Prime 5:  The Diamond Moon",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "pp_5thediam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10424,
+    "title": "Arthur C. Clarke's Venus Prime 6:  The Shining Ones",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pp_6theshin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25151,
+    "title": "Broken Symmetries",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pp_brokensy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 419,
+    "title": "Secret Passages",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pp_secretpa.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

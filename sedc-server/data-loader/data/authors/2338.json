@@ -1,0 +1,38 @@
+[
+  {
+    "id": 8833,
+    "title": "Dominion",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "nw_dominion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8844,
+    "title": "The Fall of Yquatine",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "nw.thefallof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8900,
+    "title": "Reckless Engineering",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "nw_reckless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9056,
+    "title": "Superior Beings",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "nw_superior.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

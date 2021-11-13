@@ -1,0 +1,29 @@
+[
+  {
+    "id": 6102,
+    "title": "Hourglass",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mme_hourglas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6103,
+    "title": "Timepiece",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mme_timepiec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6104,
+    "title": "Infinityglass",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mme_infinity.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

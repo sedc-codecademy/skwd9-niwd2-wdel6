@@ -1,0 +1,56 @@
+[
+  {
+    "id": 31581,
+    "title": "Delta-V",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ds_delta-v.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24924,
+    "title": "Change Agent",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ds_changeag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12078,
+    "title": "Influx",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ds_influx.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12035,
+    "title": "Kill Decision",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ds_killdeci.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21906,
+    "title": "Daemon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ds_daemon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21907,
+    "title": "Freedom",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ds_freedom.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

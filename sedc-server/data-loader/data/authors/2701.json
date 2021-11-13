@@ -1,0 +1,55 @@
+[
+  {
+    "id": 22447,
+    "title": "Skullsworn",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bs_skullswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16690,
+    "title": "The Log Goblin",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bs_theloggo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17435,
+    "title": "The Last Abbot of Ashk'lan",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10592,
+    "title": "The Emperor's Blades",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "bs_theemper.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 10957,
+    "title": "The Providence of Fire",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "bs_theprovi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17169,
+    "title": "The Last Mortal Bond",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_thelastm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

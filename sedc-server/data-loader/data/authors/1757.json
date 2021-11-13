@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4306,
+    "title": "Chasers",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jp_chasers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19421,
+    "title": "Survivor",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jp_survivor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19422,
+    "title": "Quarantine",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jp_quaranti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

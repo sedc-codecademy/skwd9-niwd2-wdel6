@@ -1,0 +1,134 @@
+[
+  {
+    "id": 26745,
+    "title": "Copping Squid",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ms_coppings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19588,
+    "title": "The Autopsy and Other Tales",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ms_theautop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23643,
+    "title": "The Growlimb",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26727,
+    "title": "Fat Face",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ms_fatface.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19587,
+    "title": "Polyphemus",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ms_polyphem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25859,
+    "title": "In Yana, the Touch of Undying",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ms_inyana.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32851,
+    "title": "The Color Out of Time",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "MS_Colorout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19589,
+    "title": "The Autopsy",
+    "year": 1980,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18938,
+    "title": "The Angel of Death",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1118,
+    "title": "A Quest for Simbilis",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ms_aquestfo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13454,
+    "title": "The Extra",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_theextra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13455,
+    "title": "Assault on Sunrise",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ms_assaulto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 946,
+    "title": "Nifft the Lean",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ms_nifftthe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13456,
+    "title": "The Mines of Behemoth",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ms_themines.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13457,
+    "title": "The A'rak",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ms_thearak.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

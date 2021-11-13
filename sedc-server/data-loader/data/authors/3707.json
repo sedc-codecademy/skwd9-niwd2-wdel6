@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15243,
+    "title": "Womanthology",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "fa_womantho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15241,
+    "title": "Expanded Science Fiction Worlds of Forrest J Ackerman & Friends PLUS",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "fa_expanded.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15242,
+    "title": "Ackermanthology",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "fa_ackerman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26997,
+    "title": "Best Science Fiction for 1973",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "fja_bsff1973.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

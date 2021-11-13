@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36012,
+    "title": "The Stars Now Unclaimed",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dw_starsnow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36013,
+    "title": "A Chain Across the Dawn",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dw_achainac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36014,
+    "title": "The Firmament of Flame",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "dw_firmamen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

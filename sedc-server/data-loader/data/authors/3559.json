@@ -1,0 +1,83 @@
+[
+  {
+    "id": 14456,
+    "title": "Embers",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "LB_embers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14459,
+    "title": "Sparks",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "LB_sparks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14464,
+    "title": "The Hallowed Ones",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "LB_hallowed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14465,
+    "title": "The Outside",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "LB_outside.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14467,
+    "title": "Dark Alchemy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "LB_darkalch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14468,
+    "title": "Mercury Retrograde",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "LB_mercuryr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20507,
+    "title": "Nine of Stars",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lb_nineofst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27373,
+    "title": "Witch Creek",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "lb_witchcre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32375,
+    "title": "Phoenix Falling",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lb_phoenixf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

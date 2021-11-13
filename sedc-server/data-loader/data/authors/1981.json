@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5561,
+    "title": "Seoul Survivors",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nf_seoulsur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6060,
+    "title": "Astra",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "nf_astra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10975,
+    "title": "Rook Song",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "nf_rooksong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20181,
+    "title": "The Blood of the Hoopoe",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "nf_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28969,
+    "title": "Stained Light",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "nf_stainedl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 9243,
+    "title": "Starters",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lp_starters.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9244,
+    "title": "Enders",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lp_enders.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

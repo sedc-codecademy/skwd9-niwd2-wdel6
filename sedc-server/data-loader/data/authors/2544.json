@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36502,
+    "title": "Cries from the Lost Island",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "KOG_CriesLos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9796,
+    "title": "An Abyss of Light",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kon_anabysso.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9797,
+    "title": "A Treasure of Light",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "kon_treasure.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9798,
+    "title": "Redemption of Light",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kon_redempti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

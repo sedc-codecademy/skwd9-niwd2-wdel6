@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24495,
+    "title": "Blackwing",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "em_blackwin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28566,
+    "title": "Ravencry",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "em_ravencry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33990,
+    "title": "Crowfall",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "em_crowfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

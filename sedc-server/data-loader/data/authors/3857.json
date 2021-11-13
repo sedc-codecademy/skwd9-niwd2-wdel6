@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15938,
+    "title": "Lightless",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cah_lightles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19161,
+    "title": "Supernova",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cah_supernov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25330,
+    "title": "Radiate",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cah_radiate.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11485,
+    "title": "Impulse",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "db_impulse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26579,
+    "title": "Starbound",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "db_starboun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26580,
+    "title": "Defiant",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "db_defiant.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

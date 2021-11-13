@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16005,
+    "title": "Return to Isis",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "js_returnto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16008,
+    "title": "Isis Rising",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "js_isisrisi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16009,
+    "title": "Warriors of Isis ",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "js_warriors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16011,
+    "title": "Winged Isis ",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "js_wingedis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16013,
+    "title": "Wizard of Isis ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "js_wizardof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

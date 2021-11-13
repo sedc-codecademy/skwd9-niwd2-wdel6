@@ -1,0 +1,298 @@
+[
+  {
+    "id": 26984,
+    "title": "Good Guys",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sb_goodguys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16522,
+    "title": "The Desecrator",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sb_thedesec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5931,
+    "title": "Freedom & Necessity",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sbeb_freedoma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5930,
+    "title": "Agyar",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sb_agyar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5929,
+    "title": "The Gypsy",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sbml_gypsy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5928,
+    "title": "Cowboy Feng's Space Bar and Grille",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sb_cowboyfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5908,
+    "title": "Brokedown Palace",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sb_brokendo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14453,
+    "title": "To Reign in Hell",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sb_toreigni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17782,
+    "title": "When the Bow Breaks",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16895,
+    "title": "Fireworks in the Rain",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sb_firework.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5932,
+    "title": "The Incrementalists",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sbsw_theincre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19490,
+    "title": "The Skill of Our Hands",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sb_sw_skillofo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5909,
+    "title": "The Phoenix Guards",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sb_phoenixg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5910,
+    "title": "Five Hundred Years After",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sb_500years.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5911,
+    "title": "The Paths of the Dead",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sb_thepaths.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5912,
+    "title": "The Lord of Castle Black",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sb_thelordo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5913,
+    "title": "Sethra Lavode",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sb_sethrala.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5927,
+    "title": "The Sun, the Moon, and the Stars",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sb_thesunth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5914,
+    "title": "Jhereg",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sb_jhereg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5915,
+    "title": "Yendi",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sb_yendi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5916,
+    "title": "Teckla",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sb_teckla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5917,
+    "title": "Taltos",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sb_taltos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5918,
+    "title": "Phoenix",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sb_phoenix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5919,
+    "title": "Athyra",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sb_athyra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5920,
+    "title": "Orca",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sb_orca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5921,
+    "title": "Dragon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sb_dragon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5922,
+    "title": "Issola",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sb_issola.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5923,
+    "title": "Dzur",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sb_dzur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5924,
+    "title": "Jhegaala",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sb_jhegaala.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5925,
+    "title": "Iorich",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sb_iorich.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5926,
+    "title": "Tiassa",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sb_tiassa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9519,
+    "title": "Hawk",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sb_hawk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24816,
+    "title": "Vallista",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sb_vallista.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

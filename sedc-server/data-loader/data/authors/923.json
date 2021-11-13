@@ -1,0 +1,433 @@
+[
+  {
+    "id": 27940,
+    "title": "Jackals",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "clg_jackals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3496,
+    "title": "Raven",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cg_raven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27938,
+    "title": "Fire Mask",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "clg_firemask.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27939,
+    "title": "Something Stirs",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "clg_somethin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27937,
+    "title": "Stunts",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "clg_stunts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 920,
+    "title": "In a Dark Dream",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "clg_inadarkd.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 27930,
+    "title": "For Fear of the Night",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "clg_forfearo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 930,
+    "title": "The Pet",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "clg_thepet.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27929,
+    "title": "The Tea Party",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "clg_theteapa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27928,
+    "title": "Night Songs",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "clg_nightson.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23447,
+    "title": "The Dodd, Mead Gallery of Horror",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "clg_thedoddm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23439,
+    "title": "Confess the Seasons",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 947,
+    "title": "The Nestling",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "clg_thenestl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18143,
+    "title": "A Glow of Candles and Other Stories",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "clg_aglowofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27927,
+    "title": "A Quiet Night of Fear",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "clg_aquietni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23810,
+    "title": "Tales from the Nightside:  Dark Fantasy",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "clg_talesfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18083,
+    "title": "Secrets of the Heart",
+    "year": 1980,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23823,
+    "title": "Hear Me Now, My Sweet Abbey Rose",
+    "year": 1978,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27926,
+    "title": "The Ravens of the Moon",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "clg_theraven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27888,
+    "title": "The Curse",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "clg_thecurse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18943,
+    "title": "A Glow of Candles, a Unicorn's Eye",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23809,
+    "title": "When All the Children Call My Name",
+    "year": 1977,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18142,
+    "title": "A Crowd of Shadows",
+    "year": 1976,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18163,
+    "title": "White Wolf Calling",
+    "year": 1975,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19010,
+    "title": "The Rest is Silence",
+    "year": 1974,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23469,
+    "title": "Night Visions 2",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "clg_nightv02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25864,
+    "title": "The Bloodwind",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "clg_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4599,
+    "title": "Nightmare Seasons",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "clg_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23440,
+    "title": "Night's Swift Dragons",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23840,
+    "title": "Coin of the Realm",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25865,
+    "title": "The Grave",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "clg_thegrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 958,
+    "title": "The Last Call of Mourning",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "clg_thelastc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 962,
+    "title": "The Sound of Midnight",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "clg_thesound.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 967,
+    "title": "The Hour of the Oxrun Dead",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "clg_thehouro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27885,
+    "title": "The Shadow of Alpha",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "clg_theshadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27886,
+    "title": "Ascension",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "clg_ascensio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27887,
+    "title": "Legion",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "clg_legion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23695,
+    "title": "The Best of Shadows",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "clg_boshadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4600,
+    "title": "Shadows",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "clg_shadows1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23685,
+    "title": "Shadows 2",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "clg_shadows2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23686,
+    "title": "Shadows 3",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "clg_shadows3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23687,
+    "title": "Shadows 4",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "clg_shadows4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23688,
+    "title": "Shadows 5",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "clg_shadows5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23689,
+    "title": "Shadows 6",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "clg_shadows6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23690,
+    "title": "Shadows 7",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "clg_shadows7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23691,
+    "title": "Shadows 8",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "clg_shadows8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23692,
+    "title": "Shadows 9",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "clg_shadows9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23693,
+    "title": "Shadows 10",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "clg_shadow10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23694,
+    "title": "Final Shadows",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "clg_finalsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

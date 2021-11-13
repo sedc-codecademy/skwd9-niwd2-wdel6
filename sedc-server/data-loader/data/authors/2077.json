@@ -1,0 +1,190 @@
+[
+  {
+    "id": 27754,
+    "title": "Visiting the Dead",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26776,
+    "title": "The Macharian Crusade",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "wk_themacha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26773,
+    "title": "Angel of Fire",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "wk_angeloff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26774,
+    "title": "Fist of Demetrius",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "wk_fistofde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26775,
+    "title": "Fall of Macharius",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "wk_fallofma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26707,
+    "title": "Space Wolf: The Second Omnibus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "wkll_spacewol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26706,
+    "title": "The Space Wolf Omnibus",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "wk_thespace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26698,
+    "title": "Space Wolf",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "wk_spacewol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26699,
+    "title": "Ragnar's Claw",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "wk_ragnarsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26700,
+    "title": "Grey Hunter",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "wk_greyhunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26701,
+    "title": "Wolfblade",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "wk_wolfblad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6132,
+    "title": "Blood of Aenarion",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "wk_bloodofa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6133,
+    "title": "Sword of Caledor",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "wk_swordofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6134,
+    "title": "Bane of Malekith",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "wk_baneofma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15430,
+    "title": "Trollslayer",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "wk_trollsla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15431,
+    "title": "Skavenslayer",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "wk_skavensl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15432,
+    "title": "Daemonslayer",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "wk_daemonsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15433,
+    "title": "Dragonslayer",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "wk_dragonsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15434,
+    "title": "Beastslayer",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "wk_beastslayer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15435,
+    "title": "Vampireslayer",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "wk_vampires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15436,
+    "title": "Giantslayer",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "wk_giantsla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

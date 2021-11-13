@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1787,
+    "title": "The Worm Ouroboros",
+    "year": 1922,
+    "type": "novel",
+    "imageName": "ere_thewormo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1799,
+    "title": "Mistress of Mistresses: A Vision of Zimiamvia",
+    "year": 1935,
+    "type": "novel",
+    "imageName": "ere_mistress.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2256,
+    "title": "A Fish Dinner in Memison",
+    "year": 1941,
+    "type": "novel",
+    "imageName": "ere_afishdin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2257,
+    "title": "The Mezentian Gate",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ere_themezen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

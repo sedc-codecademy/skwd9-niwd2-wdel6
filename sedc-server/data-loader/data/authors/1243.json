@@ -1,0 +1,263 @@
+[
+  {
+    "id": 20184,
+    "title": "The Castle in Transylvania",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jv_thecastlein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10402,
+    "title": "Paris in the Twentieth Century",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "JV_parisint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17857,
+    "title": "Yesterday and Tomorrow",
+    "year": 1910,
+    "type": "novel",
+    "imageName": "jv_yesterda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10541,
+    "title": "In the Year 2889",
+    "year": 1889,
+    "type": "novel",
+    "imageName": "JV_in2889.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33853,
+    "title": "A Fantasy of Dr. Ox",
+    "year": 1874,
+    "type": "novel",
+    "imageName": "jv-afantasy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3617,
+    "title": "From the Earth to the Moon",
+    "year": 1865,
+    "type": "novel",
+    "imageName": "jv_fromthee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3618,
+    "title": "Around the Moon",
+    "year": 1870,
+    "type": "novel",
+    "imageName": "jv_roundthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11709,
+    "title": "The Purchase of the North Pole",
+    "year": 1889,
+    "type": "novel",
+    "imageName": "JV_purchase.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17872,
+    "title": "Into the Niger Bend",
+    "year": 1914,
+    "type": "novel",
+    "imageName": "jv_intothen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17873,
+    "title": "The City in the Sahara",
+    "year": 1914,
+    "type": "novel",
+    "imageName": "jv_thecityi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2066,
+    "title": "20,000 Leagues Under the Sea",
+    "year": 1870,
+    "type": "novel",
+    "imageName": "jv_20000lea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10540,
+    "title": "The Mysterious Island",
+    "year": 1874,
+    "type": "novel",
+    "imageName": "JV_misland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10401,
+    "title": "The Chase of the Golden Meteor",
+    "year": 1908,
+    "type": "novel",
+    "imageName": "jv_thechase.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10400,
+    "title": "The Meteor Hunt",
+    "year": 1908,
+    "type": "novel",
+    "imageName": "JV_meteorhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10538,
+    "title": "The Secret of Wilhelm Storitz",
+    "year": 1910,
+    "type": "novel",
+    "imageName": "JV_secretws.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10548,
+    "title": "The Sphinx of the Ice Realm",
+    "year": 1897,
+    "type": "novel",
+    "imageName": "JV_sphnix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10527,
+    "title": "Robur the Conqueror",
+    "year": 1886,
+    "type": "novel",
+    "imageName": "JV_roburcon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10528,
+    "title": "The Master of the World",
+    "year": 1904,
+    "type": "novel",
+    "imageName": "JV_masterw3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11708,
+    "title": "Off on a Comet",
+    "year": 1877,
+    "type": "novel",
+    "imageName": "JV_offcomet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17874,
+    "title": "The Demon of Cawnpore",
+    "year": 1880,
+    "type": "novel",
+    "imageName": "jv_thedemon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17875,
+    "title": "Tigers and Traitors",
+    "year": 1880,
+    "type": "novel",
+    "imageName": "jv_tigersan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10547,
+    "title": "Five Weeks in a Balloon",
+    "year": 1863,
+    "type": "novel",
+    "imageName": "JV_fiveweek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2103,
+    "title": "Journey to the Center of the Earth",
+    "year": 1864,
+    "type": "novel",
+    "imageName": "jv_journeyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10544,
+    "title": "The Begum's Millions",
+    "year": 1879,
+    "type": "novel",
+    "imageName": "JV_begumsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17904,
+    "title": "Carpathian Castle",
+    "year": 1892,
+    "type": "novel",
+    "imageName": "JV_carpathi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10539,
+    "title": "The Self-Propelled Island",
+    "year": 1895,
+    "type": "novel",
+    "imageName": "JV_selfprop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17858,
+    "title": "For the Flag",
+    "year": 1896,
+    "type": "novel",
+    "imageName": "jv_forthefl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17859,
+    "title": "The Village in the Treetops",
+    "year": 1901,
+    "type": "novel",
+    "imageName": "jv_thevilla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10546,
+    "title": "Invasion of the Sea",
+    "year": 1905,
+    "type": "novel",
+    "imageName": "JV_invasion.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

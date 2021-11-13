@@ -1,0 +1,92 @@
+[
+  {
+    "id": 12514,
+    "title": "Colony Fleet",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "srm_colonyfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12513,
+    "title": "Avalanche Soldier",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "srm_avalanch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 495,
+    "title": "An Exchange of Hostages",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "srm_anexchan.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 12508,
+    "title": "Prisoner of Conscience",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "srm_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12509,
+    "title": "Hour of Judgment",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "srm_hourofju.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12510,
+    "title": "Angel of Destruction",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "srm_angelofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12511,
+    "title": "The Devil and Deep Space",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "srm_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12512,
+    "title": "Warring States",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "srm_warrings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22451,
+    "title": "Blood Enemies",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "srm_bloodene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31716,
+    "title": "Crimes Against Humanity",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "srm_crimesag.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

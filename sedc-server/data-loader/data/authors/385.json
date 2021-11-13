@@ -1,0 +1,184 @@
+[
+  {
+    "id": 24306,
+    "title": "The Last Good Man",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ln_lastgood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24638,
+    "title": "The Martian Obelisk",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ln_themarti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28217,
+    "title": "Light and Shadow: Eight Short Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ln_lightand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23084,
+    "title": "The Way Home",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22541,
+    "title": "A Moment Before It Struck",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 387,
+    "title": "Memory",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ln_memory.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13883,
+    "title": "Limit of Vision",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ln_limitofv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19470,
+    "title": "Goddesses",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4214,
+    "title": "The Bohr Maker",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ln_thebohrm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4215,
+    "title": "Deception Well",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ln_deceptio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2821,
+    "title": "Vast",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ln_vast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4216,
+    "title": "Tech-Heaven",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ln_techheav.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32360,
+    "title": "Edges",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ln_edges.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35458,
+    "title": "Silver",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ln_silver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22865,
+    "title": "Codename: Delphi",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22190,
+    "title": "Nightside on Callisto",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6117,
+    "title": "The Red: First Light",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ln_thered.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 11659,
+    "title": "The Trials",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ln_thetrial.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14169,
+    "title": "Going Dark",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ln_goingdar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 29064,
+    "title": "Out in the Dark",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19803,
+    "title": "Nahiku West",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 27810,
+    "title": "Extrasolar",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ng_extrasol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4294,
+    "title": "Ghosts by Gaslight:  Stories of Steampunk and Supernatural Suspense",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jdng_ghostsby.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13918,
+    "title": "Is Anybody Out There?",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "MH_isanybod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24291,
+    "title": "Other Earths",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ngjl_otherear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11144,
+    "title": "Extraordinary Engines",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ng_extraor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

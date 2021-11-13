@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36346,
+    "title": "The Rich Man's House",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "amg_therichm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11833,
+    "title": "Wonders of a Godless World",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "am_wonderso.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11834,
+    "title": "Underground",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "am_undergro.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

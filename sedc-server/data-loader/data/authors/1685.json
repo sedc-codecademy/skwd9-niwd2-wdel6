@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21883,
+    "title": "The Underground Railroad",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cw_theunder.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 4067,
+    "title": "Zone One",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cw_zoneone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25335,
+    "title": "The Intuitionist",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cw_theinsti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

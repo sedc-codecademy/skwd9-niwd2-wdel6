@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4707,
+    "title": "The Strain",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gdtch_thestrai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4708,
+    "title": "The Fall",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gdtch_thefall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4709,
+    "title": "The Night Eternal",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gdtch_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

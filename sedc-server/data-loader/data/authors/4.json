@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24551,
+    "title": "The Science Fiction of Mark Clifton",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mc_thesfofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8534,
+    "title": "Eight Keys to Eden",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "mc_eightkey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3,
+    "title": "The Forever Machine",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "mc_theforev.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

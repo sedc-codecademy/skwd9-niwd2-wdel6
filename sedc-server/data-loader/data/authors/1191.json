@@ -1,0 +1,155 @@
+[
+  {
+    "id": 4995,
+    "title": "Southern Fire",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jemk_southern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4996,
+    "title": "Northern Storm",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jemk_northern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4997,
+    "title": "Western Shore",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jemk_westerns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4998,
+    "title": "Eastern Tide",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jemk_easternt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1892,
+    "title": "Irons in the Fire",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jemk_ironsint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3308,
+    "title": "Blood in the Water",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jemk_bloodint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3309,
+    "title": "Banners in the Wind",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jemk_bannersi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34800,
+    "title": "The Green Man's Heir",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jem_greenhei.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34801,
+    "title": "The Green Man's Foe",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jem_greenfoe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4298,
+    "title": "Dangerous Waters",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jemk_danderou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4299,
+    "title": "Darkening Skies",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jemk_darkenin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4960,
+    "title": "Defiant Peaks",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jemk_defiantp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4990,
+    "title": "The Thief's Gamble",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jemk_thethief.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4991,
+    "title": "The Swordsman's Oath",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jemk_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4992,
+    "title": "The Gambler's Fortune",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jemk_thegambl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4993,
+    "title": "The Warrior's Bond",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jemk_thewarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4994,
+    "title": "The Assassin's Edge",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jemk_theassas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

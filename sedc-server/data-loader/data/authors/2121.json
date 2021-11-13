@@ -1,0 +1,182 @@
+[
+  {
+    "id": 9698,
+    "title": "The Devil's Diadem",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sd_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9699,
+    "title": "The Hall of Lost Footsteps",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sd_thehallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14328,
+    "title": "Threshold",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sd_threshol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9690,
+    "title": "Beyond the Hanging Wall",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sd_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7766,
+    "title": "Battleaxe",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sd_battleax.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7768,
+    "title": "Enchanter",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sd_enchante.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7769,
+    "title": "Starman",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sd_starman.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9691,
+    "title": "The Nameless Day",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sd_thenamel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9692,
+    "title": "The Wounded Hawk",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sd_thewound.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9693,
+    "title": "The Crippled Angel",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sd_thecripp.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7773,
+    "title": "The Serpent Bride",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sd_serpentb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7774,
+    "title": "The Twisted Citadel",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sd_twistedc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7775,
+    "title": "The Infinity Gate",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sd_infinity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9694,
+    "title": "Hades' Daughter",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sd_hadesdau.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9695,
+    "title": "Gods' Concubine",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sd_godsconc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9696,
+    "title": "Darkwitch Rising",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sd_darkwitc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9697,
+    "title": "Druid's Sword",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sd_druidssw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7770,
+    "title": "Sinner",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sd_sinner.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7771,
+    "title": "Pilgrim",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sd_pilgrim.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7772,
+    "title": "Crusader",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sd_crusader.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

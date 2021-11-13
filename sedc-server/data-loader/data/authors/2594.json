@@ -1,0 +1,119 @@
+[
+  {
+    "id": 17431,
+    "title": "A Court of Thorns and Roses",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sjm_acourthof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18545,
+    "title": "A Court of Mist and Fury",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sjm_mistfury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25479,
+    "title": "A Court of Wings and Ruin",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sjm_acowings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28545,
+    "title": "A Court of Frost and Starlight",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sjm_frostand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33948,
+    "title": "House of Earth and Blood",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "sjm_houseofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10092,
+    "title": "The Assassin's Blade: The Throne of Glass Novellas",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sjm_theassas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10089,
+    "title": "Throne of Glass",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sjm_throneof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10090,
+    "title": "Crown of Midnight",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sjm_crownofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10091,
+    "title": "Heir of Fire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sjm_heiroffi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17432,
+    "title": "Queen of Shadows",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ajm_queenofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20284,
+    "title": "Empire of Storms",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sjm_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25480,
+    "title": "Tower of Dawn",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sjm_towerofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28539,
+    "title": "Kingdom of Ash",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sjm_kingdomo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

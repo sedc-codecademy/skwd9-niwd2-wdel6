@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9174,
+    "title": "The Buried Life",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cp_buriedli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13109,
+    "title": "Cities and Thrones",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cp_citiesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22780,
+    "title": "The Song of the Dead",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cp_songofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

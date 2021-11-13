@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4152,
+    "title": "Loss of Separation",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cw_lossofse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1897,
+    "title": "One",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cw_one.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1199,
+    "title": "The Unblemished",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cw_theunble.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20638,
+    "title": "Dead Letters: An Anthology of the Undelivered, the Missing & the Returned",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cw_deadlett.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

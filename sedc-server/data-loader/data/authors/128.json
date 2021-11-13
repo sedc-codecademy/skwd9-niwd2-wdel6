@@ -1,0 +1,124 @@
+[
+  {
+    "id": 4412,
+    "title": "Bloom",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "wmc_bloom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35172,
+    "title": "Antediluvian",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "WM_Antedilu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22539,
+    "title": "The Necromancer in Love",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32147,
+    "title": "Heisenberg Elementary",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28964,
+    "title": "The Policeman's Daughter",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20062,
+    "title": "Once Upon a Matter Crushed",
+    "year": 1999,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32816,
+    "title": "Murder in the Solid State",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "WM_Murderin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32815,
+    "title": "Flies from the Amber",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WM_Fliesfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32817,
+    "title": "Aggressor Six",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "WM_Aggresso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32818,
+    "title": "The Fall of Sirius",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "WM_FallofSi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 134,
+    "title": "The Collapsium",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "wmc_thecolla.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1257,
+    "title": "The Wellstone",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "wmc_thewells.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1258,
+    "title": "Lost in Transmission",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "wmc_lostintr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 855,
+    "title": "To Crush the Moon",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "wmc_tocrusht.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

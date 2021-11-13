@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25204,
+    "title": "The Return of Conan",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "bnlsdc_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25266,
+    "title": "Conan the Avenger",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rehbnlsdc_ctavenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25205,
+    "title": "Conan the Swordsman",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "lsdclcbn_ctswordm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

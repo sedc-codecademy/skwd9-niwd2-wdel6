@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36620,
+    "title": "The Time Collector",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "GW_TimeColl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25334,
+    "title": "The Fortune Teller",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "gw_thefortu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14327,
+    "title": "The Memory Painter",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gw_thememor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

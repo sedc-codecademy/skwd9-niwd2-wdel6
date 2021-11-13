@@ -1,0 +1,47 @@
+[
+  {
+    "id": 35391,
+    "title": "The Grace Year",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "KL_GraceYea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35392,
+    "title": "The Unfortunates",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "KL_Unfortun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35393,
+    "title": "The Last Harvest",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "KL_LastHarv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35394,
+    "title": "Blood and Salt",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "KL_BloodSal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35395,
+    "title": "Heart of Ash",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "KL_HeartAsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

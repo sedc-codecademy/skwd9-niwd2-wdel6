@@ -1,0 +1,20 @@
+[
+  {
+    "id": 17007,
+    "title": "Tales from the Empire",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "PS_talesemp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17009,
+    "title": "Tales from the New Republic",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "PS_talesnew.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

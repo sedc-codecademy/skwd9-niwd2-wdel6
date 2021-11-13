@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8787,
+    "title": "Varney, the Vampyre",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jmr_varneyth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8788,
+    "title": "Sweeney Todd",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jmr_sweeneyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34659,
+    "title": "The Black Monk; or, The Secret of the Grey Turret:  A Romance",
+    "year": 1844,
+    "type": "novel",
+    "imageName": "JR_blackmon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 8804,
+    "title": "Vampire Science",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jbko_vampires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8820,
+    "title": "Seeing I",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "kojb_seeingi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8834,
+    "title": "Unnatural History",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "kojb_unnatura.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35529,
+    "title": "The Prisoner's Dilemma",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "JB_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9132,
+    "title": "Fallen Gods",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jbko_fallengo.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

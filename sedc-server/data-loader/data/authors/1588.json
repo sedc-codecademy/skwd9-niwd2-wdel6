@@ -1,0 +1,65 @@
+[
+  {
+    "id": 3590,
+    "title": "Headstone City",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tp_headston.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3588,
+    "title": "November Mourns",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tp_november.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3579,
+    "title": "A Choir of Ill Children",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tp_achoirof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3574,
+    "title": "The Night Class",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tp_thenight.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3569,
+    "title": "The Deceased",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "tp_thedecea.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3555,
+    "title": "Hexes",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "tp_hexes.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16421,
+    "title": "Emerald Hell",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tp_emeraldh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

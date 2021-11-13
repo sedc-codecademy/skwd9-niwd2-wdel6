@@ -1,0 +1,20 @@
+[
+  {
+    "id": 18510,
+    "title": "Lord Byron's Prophecy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "se_lordbyro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12219,
+    "title": "The Survivors",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "se_thesurvi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

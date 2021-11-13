@@ -1,0 +1,163 @@
+[
+  {
+    "id": 32270,
+    "title": "Neptune's Cauldron",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "MGC_Neptunes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32273,
+    "title": "The Jaws That Bite, the Claws That Catch",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "MGC_JawsThat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32269,
+    "title": "Monitor Found in Orbit",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "MGC_MonitorF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32271,
+    "title": "Winter's Children",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "MGC_WintersC.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32272,
+    "title": "Friends Come in Boxes",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "MGC_FriendsC.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32274,
+    "title": "The Hero of Downways",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "MGC_HeroofDo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8250,
+    "title": "Mirror Image",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "mgc_mirrorim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8251,
+    "title": "Syzygy",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "mgc_syzygy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1061,
+    "title": "Brontomek!",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mgc_brontome.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18674,
+    "title": "Tea and Hamsters",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14603,
+    "title": "Charisma",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "mgc_charisma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3109,
+    "title": "Hello Summer, Goodbye",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "mc_hellosumm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14598,
+    "title": "I Remember Pallahaxi",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mgc_irememb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1070,
+    "title": "Cat Karina",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mgc_catkarin.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 14599,
+    "title": "The Celestial Steam Locomotive",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mgc_celestia.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14600,
+    "title": "Gods of the Greataway",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mgc_godsofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14601,
+    "title": "Fang, the Gnome",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mgc_fangtheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14602,
+    "title": "King of the Scepter'd Isle",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mgc_kingofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": 36428,
+    "title": "The Initiate",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "JLC_Initiate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31703,
+    "title": "Arkad's World",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jlc_arkadswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12140,
+    "title": "Corsair",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jc_corsair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28431,
+    "title": "Contractual Obligation",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10978,
+    "title": "A Darkling Sea",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jlc_adarklin.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 26263,
+    "title": "Balancing Accounts",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32403,
+    "title": "The Eckener Alternative",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27239,
+    "title": "The Ocean of the Blind",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16131,
+    "title": "A Diagram of Rapture",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 1,
+    "wins": -1
+  }
+]

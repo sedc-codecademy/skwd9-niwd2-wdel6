@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15691,
+    "title": "Tymora's Luck",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "knjg_tymorasl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15204,
+    "title": "Azure Bonds",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "knjg_azurebon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15205,
+    "title": "The Wyvern's Spur",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "knjg_thwyver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15206,
+    "title": "Song of the Saurials",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "knjf_songofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21415,
+    "title": "The Automated Goliath / The Three Suns of Amara",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_theautom_thethree.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21125,
+    "title": "The Silent Invaders / Battle on Venus",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ad_thesilen_battleon.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21741,
+    "title": "The Three Suns of Amara / Battle on Venus",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ad_thethree_battleon.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12981,
+    "title": "Four-Sided Triangle",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "WT_fourside.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

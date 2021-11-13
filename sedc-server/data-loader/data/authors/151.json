@@ -1,0 +1,271 @@
+[
+  {
+    "id": 28723,
+    "title": "A Compendium of Architecture and the Science of Building",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10958,
+    "title": "The Very Best of Kate Elliott",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ke_tvbokate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13197,
+    "title": "The Labyrinth Gate",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ke_thelabyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14170,
+    "title": "Black Wolves",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ke_blackwol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27062,
+    "title": "Dead Empire",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ke_deadempi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13196,
+    "title": "Court of Fives",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ke_courtoff.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19716,
+    "title": "Poisoned Blade",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ke_poisoned.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23594,
+    "title": "Buried Heart",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ke_buriedhe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11886,
+    "title": "Spirit Gate",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ke_spiritga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11887,
+    "title": "Shadow Gate",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ke_shadowga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11888,
+    "title": "Traitor's Gate",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ke_traitors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 158,
+    "title": "King's Dragon",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ke_kingsdra.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1423,
+    "title": "Prince of Dogs",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ke_princeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1424,
+    "title": "The Burning Stone",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ke_theburni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1425,
+    "title": "Child of Flame",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ke_childoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1426,
+    "title": "The Gathering Storm",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ke_thegathe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1427,
+    "title": "In the Ruins",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ke_intherui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1428,
+    "title": "The Crown of Stars",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ke_crownofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 900,
+    "title": "The Golden Key",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mrjrke_thegolde.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5832,
+    "title": "A Passage of Stars",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ke_apassage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5833,
+    "title": "Revolution's Shore",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ke_revoluti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5834,
+    "title": "The Price of Ransom",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ke_theprice.JPG",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5835,
+    "title": "Jaran",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ke_jaran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5836,
+    "title": "An Earthly Crown",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ke_anearthl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5837,
+    "title": "His Conquering Sword",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ke_hisconqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5838,
+    "title": "The Law of Becoming",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ke_thelawof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5491,
+    "title": "Cold Magic",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ke_coldmagi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5492,
+    "title": "Cold Fire",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ke_coldfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5493,
+    "title": "Cold Steel",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ke_coldstee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22048,
+    "title": "Writing Women Characters Into Epic Fantasy Without Quotas",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ke_writingw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

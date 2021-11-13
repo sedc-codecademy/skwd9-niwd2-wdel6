@@ -1,0 +1,29 @@
+[
+  {
+    "id": 23499,
+    "title": "Lovecraft's Legacy:  A Centennial Celebration of H.P. Lovecraft",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rwmhg_lolegacy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32664,
+    "title": "A Logical Magician",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "RW_LogicalM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32665,
+    "title": "A Calculated Magic",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RW_Calculat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 13406,
+    "title": "1635: The Papal Stakes",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "efceg_thepapal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13409,
+    "title": "1636: Commander Cantrell in the West Indies",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "efceg_commande.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26581,
+    "title": "1636: The Vatican Sanction",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "efceg_thevatic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13934,
+    "title": "Rumors of War and Infernal Machines:  Technomilitary Agenda-Setting in S-F",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "CG_rumorsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14123,
+    "title": "Man-Kzin Wars XIII",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ln_mankzin13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22248,
+    "title": "Extremis",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "swceg_extremis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22249,
+    "title": "Imperative",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "swceg_imperati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28496,
+    "title": "Oblivion",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "swceg_oblivion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11574,
+    "title": "The Aethers of Mars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ef_cg_aetherso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6116,
+    "title": "Fire with Fire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ceg_firewith.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8970,
+    "title": "Trial by Fire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ceg.trialbyf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12580,
+    "title": "Raising Caine",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ceg_raisingc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21561,
+    "title": "Caine's Mutiny",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ceg_csmutiny.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35015,
+    "title": "Marque of Caine",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ceg_marqueof.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

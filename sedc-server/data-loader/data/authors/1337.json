@@ -1,0 +1,493 @@
+[
+  {
+    "id": 33895,
+    "title": "Any Way the Wind Blows",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sm_anywayth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35376,
+    "title": "Laughter at the Academy",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SM_Laughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32364,
+    "title": "Middlegame",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sm_middlega.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 31695,
+    "title": "Under the Sea of Stars",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20642,
+    "title": "Dusk or Dark or Dawn or Day",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sm_duskorda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25067,
+    "title": "How the Maine Coon Cat Learned to Love the Sea",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25722,
+    "title": "Indigo:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CG_indigo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28372,
+    "title": "And Men Will Mine the Mountain for Our Souls",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23740,
+    "title": "Dragonflies",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22167,
+    "title": "The Jaws That Bite, the Claws That Catch",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24955,
+    "title": "Ye Highlands and Ye Lowlands",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16845,
+    "title": "Fiber",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26141,
+    "title": "Hello, Hello",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23100,
+    "title": "The Myth of Rain",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17882,
+    "title": "Each to Each",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "smg_eachtoea.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23411,
+    "title": "Lady Antheia's Guide to Horticultural Warfare",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16843,
+    "title": "Midway Relics and Dying Breeds",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sm_midwayre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22714,
+    "title": "Homecoming",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25061,
+    "title": "A Citizen in Childhood's Country",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22517,
+    "title": "Lost",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7110,
+    "title": "Sparrow Hill Road",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sm_sparrowh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27352,
+    "title": "The Girl in the Green Silk Gown",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sm_thegirli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4802,
+    "title": "Discount Armageddon",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "smg_discount.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4803,
+    "title": "Midnight Blue-Light Special",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "smg_midnight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6143,
+    "title": "Half-Off Ragnarok",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "smg_half-off.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11072,
+    "title": "Pocket Apocalypse",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sm_pocketap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17136,
+    "title": "Chaos Choreography",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sm_chaoscho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21185,
+    "title": "Magic For Nothing",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sm_magicfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27244,
+    "title": "Tricks for Free",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sm_tricksfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32422,
+    "title": "That Ain't Witchcraft",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "smg_thataint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34613,
+    "title": "Imaginary Numbers",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "sm_imaginar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6452,
+    "title": "Indexing",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sm_indexing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17229,
+    "title": "Reflections",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sm_reflecti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22148,
+    "title": "Full of Briars",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sm_fullofbr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21251,
+    "title": "In Sea-Salt Tears",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sm_inseasal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19503,
+    "title": "Rat-Catcher",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sm_ratcatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1744,
+    "title": "Rosemary and Rue",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "smg_rosemary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4796,
+    "title": "A Local Habitation",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "smg_alocalha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4797,
+    "title": "An Artificial Night",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "smg_anartifi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4798,
+    "title": "Late Eclipses",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "smg_lateecli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4799,
+    "title": "One Salt Sea",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "smg_onesalts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4800,
+    "title": "Ashes of Honor",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "smg_ashesofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8991,
+    "title": "Chimes at Midnight",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sm_chimesat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8992,
+    "title": "The Winter Long",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sm_thewinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12621,
+    "title": "A Red-Rose Chain",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "smg_aredrose.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19290,
+    "title": "Once Broken Faith",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sm_oncebrok.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24091,
+    "title": "The Brightest Fell",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sm_brightes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28216,
+    "title": "Night and Silence",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sm_nightand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34472,
+    "title": "The Unkindest Tide",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sm_unkindes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36087,
+    "title": "A Killing Frost",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "sm_killingf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17230,
+    "title": "Every Heart a Doorway",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sm_everyhea.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20185,
+    "title": "Down Among the Sticks and Bones",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sm_downamon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24084,
+    "title": "Beneath the Sugar Sky",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sm_beneatht.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28215,
+    "title": "In an Absent Dream",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sm_inanabse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34087,
+    "title": "Come Tumbling Down",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "sm_cometumb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36673,
+    "title": "Across the Green Grass Fields",
+    "year": 2021,
+    "type": "novel",
+    "imageName": "sm_acrossth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

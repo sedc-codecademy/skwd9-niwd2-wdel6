@@ -1,0 +1,326 @@
+[
+  {
+    "id": 35489,
+    "title": "Road to the Stars",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "REV_RoadStar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31911,
+    "title": "The Sandcats of Rhyl",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "REV_Sandcats.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31944,
+    "title": "Cenotaph Road",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "REV_Cenotaph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31945,
+    "title": "The Sorcerer's Skull",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "REV_Sorcerer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31946,
+    "title": "World of Mazes",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "REV_WorldMaz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31947,
+    "title": "Iron Tongue",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "REV_IronTong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31948,
+    "title": "Fire and Fog",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "REV_FireandF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31949,
+    "title": "Pillar of Night",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "REV_Pillarof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21873,
+    "title": "The Demon Crown Trilogy",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RV_demoncro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21870,
+    "title": "The Glass Warrior",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RV_glasswar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21871,
+    "title": "Phantoms on the Wind",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "RV_phantoms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21872,
+    "title": "A Symphony of Storms",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RV_symphony.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21878,
+    "title": "The Jade Demons Quartet",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "RV_jadequar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21874,
+    "title": "The Quaking Lands",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "RV_quakingl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21875,
+    "title": "The Frozen Waves",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "RV_frozenwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21876,
+    "title": "The Crystal Clouds",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "RV_crystalc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21877,
+    "title": "The White Fire",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "RV_whitefir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31943,
+    "title": "The Keys to Paradise",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "REV_thekeyst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31940,
+    "title": "The Flame Key",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "REV_FlameKey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31941,
+    "title": "The Skeleton Lord's Key",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "REV_Skeleton.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31942,
+    "title": "Key of Ice and Steel",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "REV_KeyIceSt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20725,
+    "title": "The Klingon Gambit",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "RV_klingong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20726,
+    "title": "Mutiny on the Enterprise",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "RV_mutinyon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31950,
+    "title": "To Demons Bound",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "REV_ToDemons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31951,
+    "title": "A Yoke of Magic",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "REV_YokeofMa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31952,
+    "title": "Blood Fountain",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "REV_BloodFou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31953,
+    "title": "Death's Acolyte",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "REV_DeathsAc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31954,
+    "title": "Beasts of the Mist ",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "REV_BeastsMi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31955,
+    "title": "For Crown and Kingdom",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "REV_ForCrown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17426,
+    "title": "Hell Heart",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rev_hellhear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35483,
+    "title": "The Sundered Realm",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "REV_Sundered.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35484,
+    "title": "The City in the Glacier",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "REV_CityGlac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35485,
+    "title": "The Destiny Stone",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "REV_DestinyS.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35486,
+    "title": "The Fallen Ones",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "REV_FallenOn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35487,
+    "title": "In the Shadow of Omizantrim",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "REV_ShadowOm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35488,
+    "title": "Demon of the Dark Ones",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "REV_DemonDar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

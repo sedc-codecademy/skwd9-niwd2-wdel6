@@ -1,0 +1,36 @@
+[
+  {
+    "id": 34345,
+    "title": "Between the Dark and the Dark",
+    "year": 2019,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35579,
+    "title": "When We Were Patched",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17468,
+    "title": "Nigerians in Space",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dbo_nigerian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25534,
+    "title": "After the Flare:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "DO_afterthe.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

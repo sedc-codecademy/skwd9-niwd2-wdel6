@@ -1,0 +1,337 @@
+[
+  {
+    "id": 27660,
+    "title": "The Best of Ian Watson",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "iw_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19222,
+    "title": "The Mammoth Book of SF Wars",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "iwiw_sfwars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26872,
+    "title": "The Mammoth Book of Alternate Histories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "iwiw_mbalthis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20114,
+    "title": "The Butterflies of Memory",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "iw_thebutte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25083,
+    "title": "The Moby Clitoris of His Beloved",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30227,
+    "title": "Saving for a Sunny Day, or, the Benefits of Reincarnation",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20115,
+    "title": "An Appeal to Adolf",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13691,
+    "title": "Mockymen",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "IW_mockymen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24630,
+    "title": "The Coming of Vertumnus and Other Stories",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "iw_thecomin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27652,
+    "title": "The Coming of Vertumnus",
+    "year": 1992,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24542,
+    "title": "Salvage Rites and Other Stories",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "iw_salvager.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 641,
+    "title": "Whores of Babylon",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "iw_whoresof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27792,
+    "title": "The Emir's Clock",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24530,
+    "title": "Evil Water and Other Stories",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "iw_evilwate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19255,
+    "title": "Afterlives",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "psiw_afterliv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24531,
+    "title": "The Book of Ian Watson",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "iw_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18794,
+    "title": "Slow Birds and Other Stories",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "iw_slowbirds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18795,
+    "title": "Slow Birds",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12694,
+    "title": "Deathhunter",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "iw_deathhun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35913,
+    "title": "Under Heaven's Bridge",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "IW_underhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8431,
+    "title": "The Gardens of Delight",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "IW_TheGarde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12696,
+    "title": "God's World",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "iw_godsworl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21425,
+    "title": "The Very Slow Time Machine: Science Fiction Stories",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "iw_theverys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21426,
+    "title": "The Very Slow Time Machine",
+    "year": 1978,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20567,
+    "title": "Alien Embassy",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "IW_alienemb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20566,
+    "title": "The Martian Inca",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "IW_martian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1062,
+    "title": "The Jonah Kit",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "iw_thejonah.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26461,
+    "title": "The Book of the River",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "IW_bookrive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26462,
+    "title": "The Book of the Stars",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "IW_bookstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26463,
+    "title": "The Book of Being",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "IW_bookbein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28171,
+    "title": "The Inquisition War",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "iw_theinqui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28168,
+    "title": "Draco",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "iw_draco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28169,
+    "title": "Harlequin",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "iw_harlequi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28170,
+    "title": "Chaos Child",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "iw_chaoschi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 258,
+    "title": "The Embedding",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "iw_theembed.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2008,
+    "title": "Miracle Visitors",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "iw_miraclev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10714,
+    "title": "Chekhov's Journey",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "IW_chekhov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11014,
+    "title": "Tor Double #29: Nanowire Time / The Persistence of Vision",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "IW_tordou29.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

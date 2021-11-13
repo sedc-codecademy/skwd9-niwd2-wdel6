@@ -1,0 +1,74 @@
+[
+  {
+    "id": 34501,
+    "title": "The Supernova Era",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cl_thesuper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19746,
+    "title": "The Weight of Memories",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cl_theweigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11686,
+    "title": "The Wandering Earth:  Classic Science Fiction Collection",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "LC_wanderin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27084,
+    "title": "Ball Lightning",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cl_ballligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16900,
+    "title": "Yuanyuan's Bubbles",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lc_yuanyuan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9501,
+    "title": "The Three-Body Problem",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cl_threebod.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 10060,
+    "title": "The Dark Forest",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "lc_thedarkf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15634,
+    "title": "Death's End",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cl_deathsen.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

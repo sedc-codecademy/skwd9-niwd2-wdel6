@@ -1,0 +1,38 @@
+[
+  {
+    "id": 30346,
+    "title": "Altered",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jr_altered.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30347,
+    "title": "Erased",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jr_erased.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30348,
+    "title": "Reborn",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jr_reborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30349,
+    "title": "Devils & Thieves",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jr_devilsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

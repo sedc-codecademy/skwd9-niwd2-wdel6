@@ -1,0 +1,369 @@
+[
+  {
+    "id": 33868,
+    "title": "My Pal Clunky",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34346,
+    "title": "Suicide, Inc.",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rg_suicidei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34344,
+    "title": "Hellquad",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rg_hellquad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34341,
+    "title": "Upside Downside",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rg_upsidedo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34286,
+    "title": "The Robot in the Closet",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rg_therobot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13593,
+    "title": "Capricorn One",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "RG_capricor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34284,
+    "title": "The Emperor of the Last Days",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "rg_theemper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31995,
+    "title": "Nemo",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "RG_Nemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34282,
+    "title": "The Enormous Hourglass",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "rg_theenorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34280,
+    "title": "When the Waker Sleeps",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "rg_whenthew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34278,
+    "title": "The Tin Angel",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "rg_thetinan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34215,
+    "title": "Wildsmith",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rg_wildsmit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18383,
+    "title": "Broke Down Engine and Other Troubles with Machines",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "rg_brokedow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34416,
+    "title": "What's Become of Screwloose? And Other Inquiries",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "rg_whatsbec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18393,
+    "title": "Calling Dr. Clockwork",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21658,
+    "title": "Clockwork's Pirates / Ghost Breaker",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ad_clockwor_ghostbre.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28268,
+    "title": "Skyrocket Steele Conquers the Universe and Other Media Tales",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rg_acm11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12993,
+    "title": "Greetings From Earth",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "galrg_greeting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13063,
+    "title": "Experiment in Terra",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "galrg_experime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13064,
+    "title": "The Long Patrol",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "galrg_thelongp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36510,
+    "title": "Binary Star No. 3",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "rgih_binary3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34414,
+    "title": "Flux",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "rg_flux.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34410,
+    "title": "The Sword Swallower",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "rg_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34412,
+    "title": "The Chameleon Corps & Other Shape Changers",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rg_thechame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8539,
+    "title": "After Things Fell Apart",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "rg_afterthi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34402,
+    "title": "Gadget Man",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "rg_gadgetma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34404,
+    "title": "Hawkshaw",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "rg_hawkshaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34406,
+    "title": "Crackpot",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "rg_crackpot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34408,
+    "title": "Brinkman",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "rg_brinkman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36053,
+    "title": "A Talent for the Invisible",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "RG_Talentfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36054,
+    "title": "The Panchronicon Plot",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "RG_Panchron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36055,
+    "title": "Hello, Lemuria, Hello",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "RG_HelloLem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18655,
+    "title": "TekWar",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ws_tekwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20921,
+    "title": "TekLords",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "WS_teklords.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20922,
+    "title": "TekLab",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "WS_teklab.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20923,
+    "title": "Tek Vengeance",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "WS_tekvenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20924,
+    "title": "Tek Secret",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "WS_teksecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20925,
+    "title": "Tek Power",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "WS_tekpower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20926,
+    "title": "Tek Money",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "WS_tekmoney.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20927,
+    "title": "Tek Kill",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "WS_tekkill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20928,
+    "title": "Tek Net",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "WS_teknet.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

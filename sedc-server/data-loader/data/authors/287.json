@@ -1,0 +1,110 @@
+[
+  {
+    "id": 9924,
+    "title": "Nomansland",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dgc_nomansla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31834,
+    "title": "Ascendancies",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "dgc_ascendan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31832,
+    "title": "A Usual Lunacy",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "dgc_ausuallu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31830,
+    "title": "The Missionaries",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dgc_themissi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24699,
+    "title": "Chronocules",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dgc_chronocu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19532,
+    "title": "Synthajoy",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "dgc_synthajo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31828,
+    "title": "The Silent Multitude",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "dgc_thesilen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31826,
+    "title": "Farewell, Earth's Bliss",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "dgc_farewell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31824,
+    "title": "The Quality of Mercy",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "dgc_thequali.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 291,
+    "title": "The Steel Crocodile",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dgc_thesteel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 805,
+    "title": "The Continuous Katherine Mortenhoe",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "dgc_theconti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31822,
+    "title": "Windows",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "dgc_windows.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

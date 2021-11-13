@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11791,
+    "title": "The Dark Edge",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rh_thedarked.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 11792,
+    "title": "Taken By Force",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rh_takenbyf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11793,
+    "title": "Hidden From View",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rh_hiddenfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11806,
+    "title": "The Black Crusade",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rh_blackcru.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11805,
+    "title": "The Vicar of Morbing Vyle",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rh_vicarofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

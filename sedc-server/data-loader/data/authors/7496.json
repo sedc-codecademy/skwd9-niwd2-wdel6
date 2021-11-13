@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35468,
+    "title": "Death Hunt on a Dying Planet",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "GAR_DeathHun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35467,
+    "title": "Morlac, the Quest of the Green Magician",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "GAR_MorlacQu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35469,
+    "title": "The Gods of Cerus Major",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "GAR_GodsCeru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35470,
+    "title": "Houndstooth",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "GAR_Houndsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

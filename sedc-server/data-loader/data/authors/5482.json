@@ -1,0 +1,38 @@
+[
+  {
+    "id": 25516,
+    "title": "Dark Twilight",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jac_darktwil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25515,
+    "title": "The Unseen",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jc_theunsee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25517,
+    "title": "Guardian Angels",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jc_guardiana.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25518,
+    "title": "Shadow Child",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jc_shadowchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 14544,
+    "title": "Departure",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "agr_departur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36529,
+    "title": "Pandemic",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AR_pandemic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36530,
+    "title": "Genome",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "AR_genome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36544,
+    "title": "The Atlantis Gene:  A Thriller",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "AR_atlanti1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36545,
+    "title": "The Atlantis Plague",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "AR_atlanti2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36546,
+    "title": "The Atlantis World",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "AR_atlanti3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24744,
+    "title": "The Dark Net",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bp_thedarkn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14179,
+    "title": "The Dead Lands",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "BP_deadland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14194,
+    "title": "Red Moon",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "bp_redmoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

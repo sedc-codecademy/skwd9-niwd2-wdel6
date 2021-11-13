@@ -1,0 +1,65 @@
+[
+  {
+    "id": 12798,
+    "title": "Wings of Morning",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kek_wingsofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10965,
+    "title": "Night Calls:  A Tale of Dark Magic",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "kek_nightcal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10966,
+    "title": "Kindred Rites:  A Tale of Wild Magic",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "kek_kindredr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10967,
+    "title": "Spiral Path:  A Tale of Ritual Magic",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kek_spiralpa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12795,
+    "title": "Fires of Nuala",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "kek_firesofn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12796,
+    "title": "Hidden Fires",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "kek_hiddenfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12797,
+    "title": "Fire Sanctuary",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "kek_firesanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

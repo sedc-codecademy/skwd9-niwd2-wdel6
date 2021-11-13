@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4949,
+    "title": "The King's Bastard",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rcd_thekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4950,
+    "title": "The Uncrowned King",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rcd_theuncro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4951,
+    "title": "The Usurper",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rcd_theusurp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36560,
+    "title": "King Breaker",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rcd_kingbrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6841,
+    "title": "Broken Vows (The Last T'En)",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rcd_brokenvo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6842,
+    "title": "Dark Dreams",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "rcd_darkdrea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6843,
+    "title": "Desperate Alliances",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rcd_desperat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4946,
+    "title": "Besieged",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rcd_besieged.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4947,
+    "title": "Exile",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rcd_exile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4948,
+    "title": "Sanctuary",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rcd_sanctuar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

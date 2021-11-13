@@ -1,0 +1,195 @@
+[
+  {
+    "id": 28441,
+    "title": "The Mere Wife",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mdh_themerew.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 30136,
+    "title": "You Pretend Like You Never Met Me, and I’ll Pretend Like I Never Met You",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28856,
+    "title": "Black Powder",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24688,
+    "title": "Little Widow",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28857,
+    "title": "The Orange Tree",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25026,
+    "title": "The Thule Stowaway",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23353,
+    "title": "See the Unseeable, Know the Unknowable",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24828,
+    "title": "The Virgin Played Bass",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23077,
+    "title": "And the Winners Will Be Swept Out to Sea",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23813,
+    "title": "Ivory Darts, Golden Arrows",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23223,
+    "title": "Solder and Seam",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16709,
+    "title": "Some Gods of El Paso",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mdh_somegods.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28810,
+    "title": "The Thirteen Mercies",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8981,
+    "title": "The End of the Sentence",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mdh_theendo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23461,
+    "title": "If You Were a Tiger, I'd Have to Wear White",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16833,
+    "title": "The Tallest Doll in New York City",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mdh_thetalle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29086,
+    "title": "Such & Such Said to So & So",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22656,
+    "title": "The Traditional",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6330,
+    "title": "Unnatural Creatures",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ng_unnatura.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17564,
+    "title": "Give Her Honey When You Hear Her Scream",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mdh_giveherh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3875,
+    "title": "Queen of Kings",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mdh_queenofk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12141,
+    "title": "Magonia",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mdh_magonia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19937,
+    "title": "Aerie",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mdh_aerie.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

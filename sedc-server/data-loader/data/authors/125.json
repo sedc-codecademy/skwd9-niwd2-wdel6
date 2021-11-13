@@ -1,0 +1,20 @@
+[
+  {
+    "id": 13729,
+    "title": "CUSP",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "RM_cusp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 131,
+    "title": "Picoverse",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ram_picovers.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

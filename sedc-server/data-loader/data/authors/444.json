@@ -1,0 +1,962 @@
+[
+  {
+    "id": 8782,
+    "title": "The Sunday Books",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mmmp_thesunda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24321,
+    "title": "The Best of Michael Moorcock",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mm_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34514,
+    "title": "The Metatemporal Detective",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mm_themetat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32607,
+    "title": "Lost Sorceress of the Silent Citadel",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1820,
+    "title": "Elric",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mm_elric.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8781,
+    "title": "King of the City",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mm_kingofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8780,
+    "title": "Silverheart",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mmsc_silverhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34091,
+    "title": "London Bone",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mm_londonbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24323,
+    "title": "Lunching with the Antichrist:  A Family History: 1925-2015",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mm_lunching.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27734,
+    "title": "The Cairene Purse",
+    "year": 1990,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12163,
+    "title": "Fantasy: The 100 Best Books",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jcmm_fantasyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3177,
+    "title": "Mother London",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mm_motherlo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8706,
+    "title": "Wizardry and Wild Romance: A Study of Epic Fantasy",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mm_wizardrya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7377,
+    "title": "Letters from Hollywood",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mm_letters.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24322,
+    "title": "The Opium General and Other Stories",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mm_theopium.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8779,
+    "title": "The Golden Barge:  A Fable",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "mm_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 447,
+    "title": "Gloriana",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "mm_gloriana.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 12099,
+    "title": "England Invaded",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mm_englandin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7167,
+    "title": "The Rituals of Infinity",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mm_theritua.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8704,
+    "title": "The Black Corridor",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "mm_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8705,
+    "title": "The Ice Schooner",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "mm_theicesc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7166,
+    "title": "The Shores of Death",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "mm_theshore.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7161,
+    "title": "The Sundered Worlds",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "mm_thesunde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7162,
+    "title": "The Winds of Limbo",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "mm_thewinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21547,
+    "title": "Tramontane / The Wrecks Of Time",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_tramonta_thewreck.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18206,
+    "title": "Best S.F. Stories from New Worlds",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "MM_NewWorlds1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18207,
+    "title": "Best Stories from New Worlds II",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "MM_NewWorlds2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18208,
+    "title": "Best SF Stories from New Worlds 3",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "MM_NewWorlds3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18209,
+    "title": "Best SF Stories from New Worlds 4",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "MM_NewWorlds4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18210,
+    "title": "Best SF Stories from New Worlds 5",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "MM_NewWorlds5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12098,
+    "title": "Best SF Stories from New Worlds 6",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "mm_bestsfst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18211,
+    "title": "Best SF Stories from New Worlds 7",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "MM_NewWorlds7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18212,
+    "title": "Best SF Stories from New Worlds 8",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "MM_NewWorlds8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6388,
+    "title": "Byzantium Endures",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mm_byzantiu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6389,
+    "title": "The Laughter of Carthage",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mm_thelaugh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6390,
+    "title": "Jerusalem Commands",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mm_jerusale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6391,
+    "title": "The Vengeance of Rome",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mm_thevenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5994,
+    "title": "Count Brass",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "mm_countbra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5995,
+    "title": "The Champion of Garathorm",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "mm_thechamp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5996,
+    "title": "The Quest for Tanelorn",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "mm_thequest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1304,
+    "title": "The Bull and the Spear",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "mm_thebulla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1305,
+    "title": "The Oak and the Ram",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "mm_theoakan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1117,
+    "title": "The Sword and the Stallion",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "mm_swordand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6380,
+    "title": "Elric: The Stealer of Souls",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mm_thesteal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6381,
+    "title": "Elric: To Rescue Tanelorn",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mm_torescue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6382,
+    "title": "Elric: The Sleeping Sorceress",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mm_sleeping.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6384,
+    "title": "Duke Elric",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mm_dukeelri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6385,
+    "title": "Elric: In the Dream Realms",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mm_inthedre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6386,
+    "title": "Elric: Swords and Roses",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mm_swordsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28143,
+    "title": "Pegging the President",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mm_peggingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28142,
+    "title": "Firing the Cathedral",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mm_firingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1999,
+    "title": "The Final Programme",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "mm_thefinal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6321,
+    "title": "A Cure for Cancer",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mm_acurefor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6322,
+    "title": "The English Assassin ",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "mm_theengli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6324,
+    "title": "The Condition of Muzak",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mm_thecondi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6326,
+    "title": "The Lives and Times of Jerry Cornelius",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mm_thelives.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6327,
+    "title": "The Entropy Tango",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mm_theentro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6328,
+    "title": "The Adventures of Una Persson and Catherine Cornelius in the Twentieth Century",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mm_theadven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6329,
+    "title": "The Great Rock'n'Roll Swindle",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "mm_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1784,
+    "title": "The Dancers at the End of Time",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "mm_thedance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1540,
+    "title": "An Alien Heat",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mm_analienh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1120,
+    "title": "The Hollow Lands",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "mm_hollowla.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1541,
+    "title": "The End Of All Songs",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mm_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15034,
+    "title": "The Coming of the Terraphiles",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mm_thecomin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1306,
+    "title": "Elric of Melniboné",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "mm_elricofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 973,
+    "title": "The Sailor on the Seas of Fate",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mm_thesailo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1307,
+    "title": "The Weird of the White Wolf",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mm_theweird.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1308,
+    "title": "The Vanishing Tower",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mm_thevanis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1309,
+    "title": "The Bane of the Black Sword",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mm_thebaneo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1310,
+    "title": "Stormbringer",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "mm_stormbri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1311,
+    "title": "Elric at the End of Time",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mm_elricatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6264,
+    "title": "The Fortress of the Pearl",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mm_thefortr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6262,
+    "title": "The Revenge of the Rose",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mm_thereven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8124,
+    "title": "The Eternal Champion",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "mm_theetern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8125,
+    "title": "Phoenix in Obsidian (The Silver Warriors)",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "mm_phoenixi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8126,
+    "title": "The Dragon in the Sword",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mm_thedragon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1809,
+    "title": "The History of the Runestaff",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mm_thehisto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5997,
+    "title": "The Jewel in the Skull",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "mm_thejewel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5998,
+    "title": "The Mad God's Amulet",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "mm_themadgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5999,
+    "title": "The Sword of the Dawn",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "mm_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6000,
+    "title": "The Runestaff",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "mm_therunes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19667,
+    "title": "Behold the Man",
+    "year": 1966,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1763,
+    "title": "Behold the Man",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "mm_beholdth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7358,
+    "title": "Breakfast in the Ruins",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mm_breakfast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13893,
+    "title": "The Dreamthief's Daughter:  A Tale of the Albino",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "MM_dreamthi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13894,
+    "title": "The Skrayling Tree:  The Albino in America",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "MM_skraylin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13895,
+    "title": "The White Wolf's Son:  The Albino Underground",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "MM_whitewol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4734,
+    "title": "The Warlord of the Air",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mm_warlordo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4735,
+    "title": "The Land Leviathan",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "mm_thelandl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4736,
+    "title": "The Steel Tsar",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mm_thesteel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7722,
+    "title": "Modem Times 2.0",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mm.modem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10069,
+    "title": "The Whispering Swarm",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mm_thewhisp_.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1085,
+    "title": "Blood:  A Southern Fantasy",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mm_blood.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10067,
+    "title": "Fabulous Harbors",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mm_fabulous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10068,
+    "title": "The War Amongst the Angels",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mm_thewara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1804,
+    "title": "The Chronicles of Corum (The Prince in the Scarlet Robe)",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mm_thechron.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1114,
+    "title": "The Knight of the Swords",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mm_theknigh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1303,
+    "title": "The Queen of the Swords",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "mm_thequeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1115,
+    "title": "The King of the Swords",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "mm_thekingo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4450,
+    "title": "Legends from the End of Time",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mm_legendsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4451,
+    "title": "The Transformation of Miss Mavis Ming:  A Messiah at the End of Time",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "mm_thetrans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 790,
+    "title": "The War Hound and the World's Pain",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mm_thewarho.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1669,
+    "title": "The Brothel in Rosenstrasse",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mm_thebroth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1670,
+    "title": "The City in the Autumn Stars",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mm_thecityi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7163,
+    "title": "City of the Beast",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "mm_cityofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7164,
+    "title": "Lord of the Spiders",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "mm_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7165,
+    "title": "Masters of the Pit",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "mm_masterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 14717,
+    "title": "The Devil's Heart",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cc_devilshe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14718,
+    "title": "The Children of Hamlin",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cc_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14709,
+    "title": "Doomsday World",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "pd_mjf_rg_cc_doomsday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14716,
+    "title": "Dreams of the Raven",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cc_dreamsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

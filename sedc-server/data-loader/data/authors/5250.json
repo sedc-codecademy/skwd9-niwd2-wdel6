@@ -1,0 +1,46 @@
+[
+  {
+    "id": 26888,
+    "title": "Lesser Demons",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23675,
+    "title": "Dark Harvest",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "np_darkharv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24363,
+    "title": "The Man with the Barbed-Wire Fists",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "np_themanwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36647,
+    "title": "It Came From The Drive-In!",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "NP_ItCameFr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24480,
+    "title": "Mr. Fox and Other Feral Tales",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "np_mrfoxand.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

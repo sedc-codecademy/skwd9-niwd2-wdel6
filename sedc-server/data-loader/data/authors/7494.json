@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35462,
+    "title": "The Face of Him",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "IAG_FaceHim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35463,
+    "title": "To Savor the Past",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "IAG_ToSavorP.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35461,
+    "title": "The Stars Will Judge",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "IAG_StarsWil.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

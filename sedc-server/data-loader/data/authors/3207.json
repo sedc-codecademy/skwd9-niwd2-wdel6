@@ -1,0 +1,20 @@
+[
+  {
+    "id": 12400,
+    "title": "The Confidence-Man: His Masquerade",
+    "year": 1857,
+    "type": "novel",
+    "imageName": "HM_confiden.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12297,
+    "title": "Moby Dick",
+    "year": 1851,
+    "type": "novel",
+    "imageName": "hm_mobydick.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

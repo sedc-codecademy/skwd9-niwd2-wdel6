@@ -1,0 +1,415 @@
+[
+  {
+    "id": 25722,
+    "title": "Indigo:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CG_indigo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13847,
+    "title": "Led Astray: The Best of Kelley Armstrong",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ka_ledastra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17526,
+    "title": "The Screams of Dragons",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9370,
+    "title": "Brazen",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ka_brazen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35722,
+    "title": "Shards & Ashes",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "MM_ShardsAs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4310,
+    "title": "Counterfeit Magic",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ka_counterfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6655,
+    "title": "Sea of Shadows",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ka_seaofsha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11601,
+    "title": "Empire of Night",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ka_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17933,
+    "title": "Forest of Ruin",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ka_forestof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32433,
+    "title": "Cruel Fate",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ka_cruelfar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28318,
+    "title": "Rough Justice",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ka_roughjus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22453,
+    "title": "Lost Souls",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ka_lostsoul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9356,
+    "title": "Omens",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ka_omens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9357,
+    "title": "Visions",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ka_visions.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14402,
+    "title": "Deceptions",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ka_deceptio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19480,
+    "title": "Betrayals",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ka_betrayal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23988,
+    "title": "Rituals",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ka_rituals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36627,
+    "title": "A Royal Guide to Monster Slaying",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "KA_royalgui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36628,
+    "title": "The Gryphon's Lair",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "KA_gryphons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16450,
+    "title": "Driven",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ka_driven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19481,
+    "title": "Otherworld Chills:  Final Tales of the Otherworld",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ka_owchills.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11047,
+    "title": "Forsaken",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ka_forsaken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16451,
+    "title": "Otherworld Secrets",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ka_osecrets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9371,
+    "title": "Otherworld Nights",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ka_otherwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35592,
+    "title": "Amityville Horrible",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "KA_amityvil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35970,
+    "title": "Forbidden",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ka_forbidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36357,
+    "title": "Hidden",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "KA_hidden.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9358,
+    "title": "Bitten",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ka_bitten.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9359,
+    "title": "Stolen",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ka_stolen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9360,
+    "title": "Dime Store Magic",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ka_dimestor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9361,
+    "title": "Industrial Magic",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ka_industri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9362,
+    "title": "Haunted",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ka_haunted.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9363,
+    "title": "Broken",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ka_broken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9364,
+    "title": "No Humans Involved",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ka_nohumans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9365,
+    "title": "Personal Demon",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ka_personal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9366,
+    "title": "Living with the Dead",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ka_livingwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1883,
+    "title": "Frostbitten",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ka_frostbit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9367,
+    "title": "Waking the Witch",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ka_wakingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9368,
+    "title": "Spell Bound",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ka_spellbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9369,
+    "title": "Thirteen",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ka_thirteen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4816,
+    "title": "The Summoning",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ka_thesummo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1909,
+    "title": "The Awakening",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ka_theawake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4817,
+    "title": "The Reckoning",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ka_therecko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4818,
+    "title": "The Gathering",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ka_thegathe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4819,
+    "title": "The Calling",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ka_thecalli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4820,
+    "title": "The Rising",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ka_therisin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

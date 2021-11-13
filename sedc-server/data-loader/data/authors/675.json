@@ -1,0 +1,271 @@
+[
+  {
+    "id": 23847,
+    "title": "Red Snow",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "irm_redsnow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23846,
+    "title": "The Visitor from Taured",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26801,
+    "title": "Frost on Glass",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "irm_frostong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26158,
+    "title": "The Discovered Country",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26800,
+    "title": "Entangled",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24215,
+    "title": "Snodgrass and Other Illusions:  The Best Short Stories of Ian R. MacLeod",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "irm_snodgras.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27149,
+    "title": "The Cold Step Beyond",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4062,
+    "title": "Wake Up And Dream",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "irml_wakeupan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4279,
+    "title": "Journeys",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "irml_journeys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22134,
+    "title": "Recrossing the Styx",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1224,
+    "title": "Song of Time",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "irml_songofti.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 32135,
+    "title": "Taking Good Care of Myself",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 859,
+    "title": "The Summer Isles",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "irml_thesumme.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6450,
+    "title": "Breathmoss and Other Exhalations",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "irm_breathmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18479,
+    "title": "Breathmoss",
+    "year": 2002,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20074,
+    "title": "Isabel of the Fall",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19940,
+    "title": "New Light on the Drake Equation",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19956,
+    "title": "The Chop Girl",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19860,
+    "title": "The Summer Isles (novella)",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9773,
+    "title": "The Great Wheel",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "irm_thegreat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26159,
+    "title": "Nevermore",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24416,
+    "title": "Voyages by Starlight",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "irm_voyagesb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23413,
+    "title": "Starship Day",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27642,
+    "title": "Papa",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16172,
+    "title": "Grownups",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "irm_grownups.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26900,
+    "title": "Snodgrass",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27708,
+    "title": "Marnie",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18747,
+    "title": "1/72nd Scale",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27726,
+    "title": "Past Magic",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19786,
+    "title": "The Master Miller's Tale",
+    "year": 2007,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 679,
+    "title": "The Light Ages",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "irml_thelight.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4418,
+    "title": "The House of Storms",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "irml_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9938,
+    "title": "School's Out",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sa_schoolso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1911,
+    "title": "Operation Motherland",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sa_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9942,
+    "title": "Children's Crusade",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sa_childrens.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

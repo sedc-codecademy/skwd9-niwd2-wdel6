@@ -1,0 +1,56 @@
+[
+  {
+    "id": 35358,
+    "title": "Duchamp Versus Einstein",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "CH_DuchampV.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35208,
+    "title": "Starship Alchemon",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "CH_Starship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20410,
+    "title": "Binary Storm",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ch_binaryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9831,
+    "title": "Liege-Killer",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ch_liegekil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9832,
+    "title": "Ash Ock",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ch_ashock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9833,
+    "title": "The Paratwa",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ch_theparat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

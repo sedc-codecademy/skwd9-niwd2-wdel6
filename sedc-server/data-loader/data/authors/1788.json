@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4454,
+    "title": "The Emperor's Knife",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mw_theemper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5581,
+    "title": "Knife Sworn",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mw_knifeswo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5582,
+    "title": "The Tower Broken",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mw_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

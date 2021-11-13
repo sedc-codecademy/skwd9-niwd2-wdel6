@@ -1,0 +1,137 @@
+[
+  {
+    "id": 17154,
+    "title": "Jedi Trial",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "DS_jeditria.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2864,
+    "title": "First to Fight",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dsdc_firsttofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2865,
+    "title": "School of Fire",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dsdc_schoolof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2866,
+    "title": "Steel Gauntlet",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dsdc_steelgau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2867,
+    "title": "Blood Contact",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dsdc_bloodcon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2868,
+    "title": "Technokill",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dsdc_technoki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2869,
+    "title": "Hangfire",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dsdc_hangfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2870,
+    "title": "Kingdom's Swords",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dsdc_kingswor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2871,
+    "title": "Kingdom's Fury",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dsdc_kingdoms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2872,
+    "title": "Lazarus Rising",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dsdc_lazarusr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2873,
+    "title": "A World of Hurt",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dsdc_aworldof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2874,
+    "title": "Flashfire",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dsdc_flashfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2875,
+    "title": "Firestorm",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dsdc_firestor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2876,
+    "title": "Wings of Hell",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dsdc_wingsofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2877,
+    "title": "Double Jeopardy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dsdc_doubleje.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

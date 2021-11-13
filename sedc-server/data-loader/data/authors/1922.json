@@ -1,0 +1,65 @@
+[
+  {
+    "id": 5254,
+    "title": "The Tsaddik of the Seven Wonders",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ih_thetsadd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35059,
+    "title": "Nightmare Express",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "IH_Nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35057,
+    "title": "The Wilk Are Among Us",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "IH_WilkAreA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36100,
+    "title": "The Return",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "IH_Return.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35058,
+    "title": "Transfer to Yesterday",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "IH_Transfer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36510,
+    "title": "Binary Star No. 3",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "rgih_binary3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11151,
+    "title": "Interworld",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ih_interwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": 2809,
+    "title": "Pennterra",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jm_pennterr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31884,
+    "title": "The Middle of Somewhere",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19322,
+    "title": "Tiny Tango",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jm_tinytang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18777,
+    "title": "Surviving",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16664,
+    "title": "Space Ballet",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jm_spacebal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28278,
+    "title": "Two That Came True",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jm_acm19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27324,
+    "title": "The Bear's Baby",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18752,
+    "title": "The Hob",
+    "year": 1988,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2810,
+    "title": "The Ragged World",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jm_theragge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2811,
+    "title": "Time, Like an Ever-Rolling Stream",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jm_timelike.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2812,
+    "title": "The Bird Shaman",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jm_thebirds.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

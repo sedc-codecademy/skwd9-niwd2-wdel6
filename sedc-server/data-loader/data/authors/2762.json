@@ -1,0 +1,56 @@
+[
+  {
+    "id": 10850,
+    "title": "The Copper Promise",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jw_thecoppe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10969,
+    "title": "The Iron Ghost",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jw_theirong.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18316,
+    "title": "The Silver Tide",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jw_thesilve.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27063,
+    "title": "The Ninth Rain",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jw_ninthrai.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27064,
+    "title": "The Bitter Twins",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jw_thebitte.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34434,
+    "title": "The Poison Song",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JW_PoisonSo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

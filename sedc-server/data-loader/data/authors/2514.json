@@ -1,0 +1,83 @@
+[
+  {
+    "id": 9719,
+    "title": "Hard Spell",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jg_hardspel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9720,
+    "title": "Evil Dark",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jg_evildark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9721,
+    "title": "Known Devil",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jg_knowndev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14462,
+    "title": "Play with Fire & Midnight at the Oasis",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jg_omnibus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14455,
+    "title": "Black Magic Woman",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jg_blackmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14457,
+    "title": "Evil Ways",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jg_evilways.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14458,
+    "title": "Sympathy for the Devil",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jg_sympathy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14460,
+    "title": "Play with Fire",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jg_playwith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14461,
+    "title": "Midnight at the Oasis",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jg_midnight.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

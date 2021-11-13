@@ -1,0 +1,56 @@
+[
+  {
+    "id": 4968,
+    "title": "Mickelsson's Ghosts",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jg_mickelss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3211,
+    "title": "Freddy's Book",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jg_freddysb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4967,
+    "title": "Vlemk the Box-Painter",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jg_vlemkthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3212,
+    "title": "In the Suicide Mountains",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jg_inthesui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3210,
+    "title": "Jason and Medeia",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jg_jasonand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1814,
+    "title": "Grendel",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "jg_grendel.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

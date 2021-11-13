@@ -1,0 +1,305 @@
+[
+  {
+    "id": 17532,
+    "title": "In the Company of Thieves",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kb_inthecom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20559,
+    "title": "The Best of Kage Baker",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kb_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27025,
+    "title": "The Books",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kb_thebooks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1728,
+    "title": "The Hotel Under the Sand",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kb_thehotel.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24141,
+    "title": "Caverns of Mystery",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26524,
+    "title": "Running the Snake",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27204,
+    "title": "Mother Aegypt",
+    "year": 2004,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22511,
+    "title": "The Ruby Incomparable",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2626,
+    "title": "The Anvil of the World",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kb_theanvil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1341,
+    "title": "The House of the Stag",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kb_thehouse.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2616,
+    "title": "The Bird of the River",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kb_thebirdo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4311,
+    "title": "Gods and Pawns",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kb_godsandp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27141,
+    "title": "Hellfire at Twilight",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32081,
+    "title": "Plotters and Shooters",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17531,
+    "title": "Rude Mechanicals",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kb_rudemech.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27097,
+    "title": "Where the Golden Apples Grow",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kb_wherethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32430,
+    "title": "A Night on the Barbary Coast",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19459,
+    "title": "The Empress of Mars",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kb_teofmnva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27311,
+    "title": "Welcome to Olympus, Mr. Hearst",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5847,
+    "title": "Black Projects, White Knights:  The Company Dossiers",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "kb_blackpro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26990,
+    "title": "The Hotel at Harlan's Landing",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20560,
+    "title": "Son Observe the Time",
+    "year": 1999,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2617,
+    "title": "In the Garden of Iden",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "kb_inthegar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2618,
+    "title": "Sky Coyote",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "kb_skycoyot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2619,
+    "title": "Mendoza in Hollywood",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "kb_mendozai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2620,
+    "title": "The Graveyard Game",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "kb_thegrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2621,
+    "title": "The Life of the World to Come",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "kn_thelifeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2622,
+    "title": "The Children of the Company",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kb_thechild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2623,
+    "title": "The Machine's Child",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kb_themachi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2624,
+    "title": "The Sons of Heaven",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kb_thesonso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1699,
+    "title": "The Empress of Mars",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kb_theempre.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2625,
+    "title": "Not Less than Gods",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kb_notlesst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17339,
+    "title": "The Green Bird",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7557,
+    "title": "The Women of Nell Gwynne's",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "KB_TheWomen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17533,
+    "title": "The Bohemian Astrobleme",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

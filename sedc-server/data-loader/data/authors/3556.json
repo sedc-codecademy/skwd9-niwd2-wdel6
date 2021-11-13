@@ -1,0 +1,92 @@
+[
+  {
+    "id": 25722,
+    "title": "Indigo:  A Novel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "CG_indigo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14441,
+    "title": "Greywalker",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kr_greywalk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14442,
+    "title": "Poltergeist",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "kr_polterge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14443,
+    "title": "Underground",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kr_undergro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14444,
+    "title": "Vanished",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kr_vanished.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14445,
+    "title": "Labyrinth",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kr_labyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14446,
+    "title": "Downpour",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kr_downpour.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14447,
+    "title": "Seawitch",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kr_seawitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14448,
+    "title": "Possession",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kr_possessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14449,
+    "title": "Revenant",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kr_revenant.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 9064,
+    "title": "Hotel World",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "as_hotelwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8332,
+    "title": "Girl Meets Boy:  The Myth of Iphis",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "as_girlmeet.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

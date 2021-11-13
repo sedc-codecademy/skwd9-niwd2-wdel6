@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9509,
+    "title": "Prince Zaleski and Cummings King Monk",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mps_princeza.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9508,
+    "title": "Shapes in the Fire",
+    "year": 1896,
+    "type": "novel",
+    "imageName": "mps_shapesin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9507,
+    "title": "The Purple Cloud",
+    "year": 1901,
+    "type": "novel",
+    "imageName": "mps_thepurpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

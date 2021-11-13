@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3598,
+    "title": "Johnny Gruesome",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gl_johnnygr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4119,
+    "title": "Personal Demons",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "gl_personal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4120,
+    "title": "Desperate Souls",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gl_desperat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4121,
+    "title": "Cosmic Forces",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gl_cosmicfo.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

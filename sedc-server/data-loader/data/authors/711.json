@@ -1,0 +1,191 @@
+[
+  {
+    "id": 6358,
+    "title": "The Willful Princess and the Piebald Prince",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rh_thewillf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3635,
+    "title": "The Inheritance and Other Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rhml_theinher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1150,
+    "title": "Assassin's Apprentice",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rh_assassia.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 719,
+    "title": "Royal Assassin",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rh_royalass.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 714,
+    "title": "Assassin's Quest",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rh_assassin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7336,
+    "title": "Fool's Assassin",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rh_foolsass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12556,
+    "title": "Fool's Quest",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rh_foolsque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22075,
+    "title": "Assassin's Fate",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rh_assafate.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6282,
+    "title": "Ship of Magic",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rh_shipofma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6283,
+    "title": "Mad Ship",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rh_madship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6284,
+    "title": "Ship of Destiny",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rh_shipofde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6291,
+    "title": "Dragon Keeper",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rh_dragonke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6292,
+    "title": "Dragon Haven",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rh_dragonha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6293,
+    "title": "City of Dragons",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rh_cityofdr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6294,
+    "title": "Blood of Dragons",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rh_bloodofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6288,
+    "title": "Shaman's Crossing",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rh_shamansc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6289,
+    "title": "Forest Mage",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rh_forestma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6290,
+    "title": "Renegade's Magic",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rh_renegade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6285,
+    "title": "Fool's Errand",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "rh_foolserr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6286,
+    "title": "The Golden Fool",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rh_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6287,
+    "title": "Fool's Fate",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rh_foolsfat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

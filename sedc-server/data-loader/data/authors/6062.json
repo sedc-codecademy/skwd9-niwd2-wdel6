@@ -1,0 +1,38 @@
+[
+  {
+    "id": 32099,
+    "title": "Eldrie the Healer",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "CJE_Eldrieth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32096,
+    "title": "Taming the Forest King",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "CJE_Tamingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32097,
+    "title": "A Horsewoman in Godsland",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "CJE_HorseWom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32098,
+    "title": "Bright and Shining Tiger",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "CJE_Brightan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

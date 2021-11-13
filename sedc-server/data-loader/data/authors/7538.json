@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35652,
+    "title": "Space Pioneers",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CR_SpacePio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35651,
+    "title": "Star Destroyers",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CR_StarDest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35649,
+    "title": "Empire of Silence",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CR_EmpireSi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35650,
+    "title": "Howling Dark",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "CR_HowlingD.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

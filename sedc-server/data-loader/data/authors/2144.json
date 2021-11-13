@@ -1,0 +1,65 @@
+[
+  {
+    "id": 7891,
+    "title": "Mars - The Red Planet",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mf_marsthered.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21857,
+    "title": "The DNA Cowboys Trilogy",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "MF_dnacowbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7886,
+    "title": "The Quest of the DNA Cowboys",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mf_thequest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7887,
+    "title": "Synaptic Manhunt",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "mf_synaptic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7888,
+    "title": "The Neural Atrocity",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "mf_theneural.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7890,
+    "title": "The Last Stand of the DNA Cowboys",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mf_thelaststand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7885,
+    "title": "Road Movie",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mf_roadmovie.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

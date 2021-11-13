@@ -1,0 +1,128 @@
+[
+  {
+    "id": 10569,
+    "title": "Battlestar Galactica:  Classic",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "GL_Battle2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12975,
+    "title": "The Cylon Death Machine",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "galrt_thecylon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12976,
+    "title": "The Tombs of Kobol",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "galrt_thetombs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12977,
+    "title": "The Young Warriors",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "galrt_theyoung.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12988,
+    "title": "Galactica Discovers Earth",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "galmr_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12991,
+    "title": "The Living Legend",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "galny_thelivin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12992,
+    "title": "War of the Gods",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "galny_warofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12993,
+    "title": "Greetings From Earth",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "galrg_greeting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13063,
+    "title": "Experiment in Terra",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "galrg_experime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13064,
+    "title": "The Long Patrol",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "galrg_thelongp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13065,
+    "title": "The Nightmare Machine",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "galrt_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13066,
+    "title": "Die, Chameleon!",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "galrt_diecham.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13067,
+    "title": "Apollo's War",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "galrt_apollosw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13068,
+    "title": "Surrender the Galactica!",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "galrt_surrende.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

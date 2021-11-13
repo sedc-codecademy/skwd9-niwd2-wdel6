@@ -1,0 +1,82 @@
+[
+  {
+    "id": 11535,
+    "title": "Winter",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sb_winter.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11534,
+    "title": "Privateer",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sb_privatee.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27543,
+    "title": "Empire's Daughter",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sb_empiresd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27544,
+    "title": "Rival's Son",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sb_rivalsso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27545,
+    "title": "Daughter of Independence",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sb_daughterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27546,
+    "title": "Inheritance",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sb_inherita.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27547,
+    "title": "Fire and Sword",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sb_fireands.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27548,
+    "title": "Sovereign",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sb_sovereig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27535,
+    "title": "The Masque of Agamemnon",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 32210,
+    "title": "Phoenix Rising",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RS_PhoeRisi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32211,
+    "title": "Phoenix in Shadow",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RS_PhoeShad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32212,
+    "title": "Phoenix Ascendant",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RS_PhoeAsce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32199,
+    "title": "Boundary",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "EF_Boundary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32200,
+    "title": "Threshold",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "EF_Threshol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32201,
+    "title": "Portal",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "EF_Portal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32202,
+    "title": "Castaway Planet",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "EF_CastPlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32203,
+    "title": "Castaway Odyssey",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "EF_CastOdys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32207,
+    "title": "Grand Central Arena",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RS_GrandCen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32208,
+    "title": "Spheres of Influence",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RS_Sphereso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32209,
+    "title": "Challenges of the Deeps",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "RS_Challeng.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

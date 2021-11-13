@@ -1,0 +1,20 @@
+[
+  {
+    "id": 5655,
+    "title": "The Wild Swans",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pk_thewilds.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5656,
+    "title": "Emerald House Rising",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pk_emeraldh.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

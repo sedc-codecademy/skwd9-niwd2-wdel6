@@ -1,0 +1,47 @@
+[
+  {
+    "id": 32663,
+    "title": "Clarion",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "WG_Clarion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32662,
+    "title": "Starjacked!",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "WG_Starjack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32661,
+    "title": "Timejumper",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "WG_Timejump.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32659,
+    "title": "The Tartarus Incident",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "WG_Tartarus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32660,
+    "title": "The Pandora Stone",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "WG_PandoraS.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

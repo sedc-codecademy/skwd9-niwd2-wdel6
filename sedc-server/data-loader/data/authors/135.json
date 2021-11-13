@@ -1,0 +1,546 @@
+[
+  {
+    "id": 11003,
+    "title": "The Painted Boy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cdl_thepaint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4008,
+    "title": "The Very Best of Charles de Lint",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cdl_theveryb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4014,
+    "title": "Eyes Like Leaves",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cdl_eyeslike.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1919,
+    "title": "The Mystery of Grace",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cdl_themyste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4018,
+    "title": "Waifs and Strays",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cdl_waifsand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24376,
+    "title": "Triskell Tales: 22 Years of Chapbooks",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cdl_triskell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6546,
+    "title": "The Wild Wood",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cdl_thewildw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 741,
+    "title": "The Little Country",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cdl_thelittl.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 6675,
+    "title": "Svaha",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "cdl_shava.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6678,
+    "title": "Wolf Moon",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cdl_wolfmoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6680,
+    "title": "The Harp of the Grey Rose",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cdl_theharpo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6681,
+    "title": "Mulengro",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "cdl_mulengro.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25902,
+    "title": "The Riddle of the Wren",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cdl_theriddl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28281,
+    "title": "Hedgework and Guessery",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cdl_acm22.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6660,
+    "title": "Jack of Kinrowan",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cdl_jackofki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6657,
+    "title": "Jack the Giant-Killer",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cdl_jacktheg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6658,
+    "title": "Drink Down the Moon",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cdl_drinkdow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32370,
+    "title": "Where Desert Spirits Crowd the Night",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cdl_wheredes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17548,
+    "title": "Make a Joyful Noise",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cdl_makeajoy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24100,
+    "title": "A Circle of Cats",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cdl_acircleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23638,
+    "title": "Seven Wild Sisters",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cdl_sevenwil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17198,
+    "title": "Trading Hearts at the Half Kaffe Café",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23962,
+    "title": "The Moon Is Drowning While I Sleep",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23951,
+    "title": "Bridges",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23950,
+    "title": "The Conjure Man",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21726,
+    "title": "Our Lady of the Harbour",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cdl_ourladyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23528,
+    "title": "Paperjack",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "cdl_paperjac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23949,
+    "title": "Pity the Monsters",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23954,
+    "title": "Uncle Dobbin's Parrot Fair",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "cdl_uncledob.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6543,
+    "title": "The Dreaming Place",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cdl_dreaming.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4005,
+    "title": "Dreams Underfoot",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cdl_dreamsun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 730,
+    "title": "Memory & Dream",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cdl_memoryan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4015,
+    "title": "The Ivory and the Horn",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cdl_theivory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 895,
+    "title": "Trader",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cdl_trader.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 889,
+    "title": "Someplace to Be Flying",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cdl_someplac.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 4007,
+    "title": "Moonlight and Vines",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cdl_moonligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 141,
+    "title": "Forests of the Heart",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cdl_forestso.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 877,
+    "title": "The Onion Girl",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cdl_theonion.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4017,
+    "title": "Tapping the Dream Tree",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cdl_tappingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4012,
+    "title": "Spirits in the Wires",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cdl_spiritsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4013,
+    "title": "Medicine Road",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cdl_medicine.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3650,
+    "title": "The Blue Girl",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cdl_theblueg.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4006,
+    "title": "Widdershins",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cdl_widdersh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4010,
+    "title": "Promises to Keep",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cdl_promises.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4009,
+    "title": "Little (Grrl) Lost",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "csl_littlegr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30333,
+    "title": "Dingo",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cdl_dingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4016,
+    "title": "Muse and Reverie",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cdl_museandr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17547,
+    "title": "Newford Stories: Crow Girls",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cdl_crowgirl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30332,
+    "title": "The Wind in His Heart",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cdl_thewindi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25901,
+    "title": "The Road to Lisdoonvarna",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cdl_theroadt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6545,
+    "title": "Spiritwalk",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "cdl_spiritwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23953,
+    "title": "Merlin Dreams in the Mondream Wood",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cdk_merlindr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25900,
+    "title": "Greenmantle",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cdl_greenmantle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6547,
+    "title": "Yarrow:  An Autumn Tale",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cdl_yarrow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4011,
+    "title": "Moonheart",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cdl_moonhear.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11242,
+    "title": "The Valley of Thunder",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "CL_valleyth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11244,
+    "title": "The Hidden City",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "CL_hiddenci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11132,
+    "title": "Tor Double #19: Ill Met In Lankhmar / The Fair in Emain Macha",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "FL_tordbl19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15914,
+    "title": "Under My Skin",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cdl_undermys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15915,
+    "title": "Over My Head",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cdl_overmyhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15916,
+    "title": "Out of this World",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cdl_outofthi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5355,
+    "title": "Fade to Black",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "fk_fadetobl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5356,
+    "title": "Before the Fall",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "fk_beforeth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5586,
+    "title": "Last to Rise",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "fk_lasttori.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

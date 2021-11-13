@@ -1,0 +1,37 @@
+[
+  {
+    "id": 36404,
+    "title": "Ode to Defiance",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ms_odetodef.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12027,
+    "title": "David's Sling",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ms_davidssl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20667,
+    "title": "Valentina",
+    "year": 1984,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13612,
+    "title": "Valentina: Soul in Sapphire",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jhdms_valentin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

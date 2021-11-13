@@ -1,0 +1,56 @@
+[
+  {
+    "id": 9152,
+    "title": "The Scarlet Plague",
+    "year": 1915,
+    "type": "novel",
+    "imageName": "jl_thescarl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10611,
+    "title": "The Star Rover:  A Tale of Past Lives",
+    "year": 1915,
+    "type": "novel",
+    "imageName": "JL_starrove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6763,
+    "title": "The Iron Heel",
+    "year": 1908,
+    "type": "novel",
+    "imageName": "JL_TheIronH.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3615,
+    "title": "Before Adam",
+    "year": 1906,
+    "type": "novel",
+    "imageName": "jl_beforead.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10600,
+    "title": "Fantastic Tales",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "JL_fantasti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2286,
+    "title": "The Science Fiction of Jack London",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jl_thesfofj.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

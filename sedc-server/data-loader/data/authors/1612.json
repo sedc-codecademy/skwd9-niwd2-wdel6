@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1922,
+    "title": "The Prodigal Mage",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "km_theprodi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4337,
+    "title": "The Reluctant Mage",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "km_thereluc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4331,
+    "title": "Empress of Mijak",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "km_empress.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4389,
+    "title": "The Riven Kingdom",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "km_theriven.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4332,
+    "title": "Hammer of God",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "km_hammerof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4336,
+    "title": "The Innocent Mage",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "km_theinnoc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4335,
+    "title": "The Awakened Mage (Innocence Lost)",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "km_theawake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4330,
+    "title": "A Blight of Mages",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "km_ablighto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4334,
+    "title": "Stealth",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "km_stealth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4333,
+    "title": "Siege",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "km_siege.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4390,
+    "title": "Wild Space",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "km_wildspac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16544,
+    "title": "Alliances",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "KM_alliance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16545,
+    "title": "Do No Harm",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KM_donoharm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9420,
+    "title": "The Falcon Throne",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "km_falconth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

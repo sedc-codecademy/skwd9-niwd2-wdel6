@@ -1,0 +1,65 @@
+[
+  {
+    "id": 898,
+    "title": "The Bear Went Over the Mountain",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "wk_thebearw.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4360,
+    "title": "Fata Morgana",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "wk_fatamorg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31434,
+    "title": "The Amphora Project",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "wk_theampho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31435,
+    "title": "The Exile",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "wk_theexile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26565,
+    "title": "Christmas at Fontaine's",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "WK_Christma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13534,
+    "title": "E. T. the Extra-Terrestrial in His Adventure on Earth",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "WK_etextrat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 968,
+    "title": "Dr. Rat",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "wk_doctorra.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

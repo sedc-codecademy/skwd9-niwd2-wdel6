@@ -1,0 +1,38 @@
+[
+  {
+    "id": 25678,
+    "title": "62: A Model Kit",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "JC_62AModel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32855,
+    "title": "Blow-Up and Other Stories",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jc_blowup.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32853,
+    "title": "Hopscotch",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "jc_hopscotc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17234,
+    "title": "Headache",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "jc_headache.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

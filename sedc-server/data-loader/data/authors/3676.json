@@ -1,0 +1,91 @@
+[
+  {
+    "id": 32562,
+    "title": "Forbidden World",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "TW_Forbidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32561,
+    "title": "Trouble on Project Ceres",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "TW_Troubleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32560,
+    "title": "By Furies Possessed",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "TW_ByFuries.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32559,
+    "title": "The Jewels of Elsewhen",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "TW_Jewelsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32558,
+    "title": "Secret of the Marauder Satellite",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "TW_Secretof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18453,
+    "title": "The Peacock King",
+    "year": 1965,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21042,
+    "title": "The Altar on Asconel / Android Avenger",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_thealtar_androida.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15068,
+    "title": "Phoenix Prime",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "tw_phoenixp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15069,
+    "title": "The Sorceress of Qar",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "tw_thesorce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15070,
+    "title": "Star Wolf!",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "tw_starwolf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

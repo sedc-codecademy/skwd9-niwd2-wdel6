@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5568,
+    "title": "Gemsigns",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ss_gemsigns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6865,
+    "title": "Binary",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ss_binary.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18386,
+    "title": "Regeneration",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ss_regenera.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

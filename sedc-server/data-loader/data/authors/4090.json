@@ -1,0 +1,56 @@
+[
+  {
+    "id": 25034,
+    "title": "Dreams of Flesh and Sand",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "wtq_doflesha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25035,
+    "title": "Dreams of Gods and Men",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "wtq_dogodsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25036,
+    "title": "Singularities",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "wtq_singular.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17047,
+    "title": "Planet of the Apes",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "WQ_planetap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17048,
+    "title": "The Fall",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "WQ_thefall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17049,
+    "title": "Colony",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "WQ_colony.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

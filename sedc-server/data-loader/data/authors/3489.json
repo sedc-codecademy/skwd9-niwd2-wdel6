@@ -1,0 +1,61 @@
+[
+  {
+    "id": 22153,
+    "title": "Laws of Night and Silk",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23325,
+    "title": "Morrigan in Shadow",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16711,
+    "title": "Please Undo This Hurt",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sd_pleaseun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26205,
+    "title": "Three Bodies at Mitanni",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22875,
+    "title": "A Tank Only Fears Four Things",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14030,
+    "title": "The Traitor Baru Cormorant",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sd_thetrait.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28513,
+    "title": "The Monster Baru Cormorant",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sd_themonst.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

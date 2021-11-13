@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9182,
+    "title": "Deceit",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pde_deceit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9040,
+    "title": "Independence Day",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pde_independ.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9055,
+    "title": "Asylum",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pde_asylum.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

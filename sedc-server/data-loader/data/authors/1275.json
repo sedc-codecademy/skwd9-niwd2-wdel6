@@ -1,0 +1,83 @@
+[
+  {
+    "id": 34044,
+    "title": "The Sea Girl",
+    "year": 1929,
+    "type": "novel",
+    "imageName": "RC_SeaGirl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34045,
+    "title": "Beyond the Stars",
+    "year": 1928,
+    "type": "novel",
+    "imageName": "rc_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21484,
+    "title": "The Man Who Mastered Time / Overlords From Space",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_themanwh_overlord.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21317,
+    "title": "Beyond the Vanishing Point / The Secret of Zi",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_beyondth_thesecre.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21090,
+    "title": "Wandl the Invader / I Speak for Earth",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ad_wandlthe_ispeakfo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2260,
+    "title": "The Girl in the Golden Atom",
+    "year": 1923,
+    "type": "novel",
+    "imageName": "rc_thegirli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11318,
+    "title": "A Brand New World",
+    "year": 1928,
+    "type": "novel",
+    "imageName": "RC_brandnew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10365,
+    "title": "Tama of the Light Country",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "rc_tamaoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10366,
+    "title": "Tama, Princess of Mercury",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "rc_tamaprin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4807,
+    "title": "Havemercy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jjdb_havemerc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4808,
+    "title": "Shadow Magic",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jjdb_shadowma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4809,
+    "title": "Dragon Soul",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jjdb_dragonso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4301,
+    "title": "Steelhands",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jjdb_steelhan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

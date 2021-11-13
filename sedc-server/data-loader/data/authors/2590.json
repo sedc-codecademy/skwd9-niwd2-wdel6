@@ -1,0 +1,506 @@
+[
+  {
+    "id": 10844,
+    "title": "Accel World 1: Kuroyukihime's Return",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RK_accelw1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10845,
+    "title": "Accel World 2: The Red Storm Princess",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RK_accelw2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10846,
+    "title": "Accel World 3: The Twilight Marauder",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RK_accelw3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12551,
+    "title": "Accel World 4: Flight Towards a Blue Sky",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RK_accelwo4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14317,
+    "title": "Accel World 5: The Floating Starlight Bridge",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RK_accelwo5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17573,
+    "title": "Accel World 6: Shrine Maiden of the Sacred Fire",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RK_accelwo6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19845,
+    "title": "Accel World 7:  Armor of Catastrophe",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RK_accelwo7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21163,
+    "title": "Accel World 8: The Binary Stars of Destiny",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RK_accelw8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22286,
+    "title": "Accel World 9: The Seven-Thousand-Year Prayer",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RK_accelwo9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23546,
+    "title": "Accel World 10: Elements",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RK_accelw10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25670,
+    "title": "Accel World 11: The Carbide Wolf",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RK_accelw11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26117,
+    "title": "Accel World 12: The Red Crest",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RK_accel12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28042,
+    "title": "Accel World 13: Signal Fire at the Water's Edge",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RK_accelw13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28224,
+    "title": "Accel World 14: Archangel of Savage Light",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RK_accelw14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28617,
+    "title": "Accel World 15: The End and the Beginning",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RK_accelw15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31423,
+    "title": "Accel World 16: Snow White's Slumber",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "RK_accelw16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33897,
+    "title": "Accel World 17: Cradle of Stars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rk_accelw17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33898,
+    "title": "Accel World 18: The Black Dual Swordsman",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RK_accelw18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34935,
+    "title": "Accel World 19: Pull of the Dark Nebula",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RK_accelw19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35270,
+    "title": "Accel World 20: The Rivalry of White and Black",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rk_accelwor20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36300,
+    "title": "Accel World 21: The Snow Sprite",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RK_accelw21.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11962,
+    "title": "The Biter",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "RK_isloator.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16514,
+    "title": "The Igniter",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RK_igniter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20469,
+    "title": "The Trancer",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RK_trancer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28155,
+    "title": "The Stinger",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "RK_isolat4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10048,
+    "title": "Sword Art Online 1: Aincrad",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RK_swordar1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10049,
+    "title": "Sword Art Online 2: Aincrad",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RK_swordar2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10050,
+    "title": "Sword Art Online 3: Fairy Dance",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "RK_swordar3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11041,
+    "title": "Sword Art Online 4: Fairy Dance",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RK_saonl4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12554,
+    "title": "Sword Art Online 5: Phantom Bullet",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RK_sao5phan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14918,
+    "title": "Sword Art Online 6: Phantom Bullet",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RK_SAO6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17571,
+    "title": "Sword Art Online 7: Mother's Rosary",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RK_swordar7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19584,
+    "title": "Sword Art Online 8:  Early and Late",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "RK_sao8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21170,
+    "title": "Sword Art Online 9: Alicization Beginning",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RK_swordar9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22289,
+    "title": "Sword Art Online 10: Alicization Running",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RK_sworda10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24428,
+    "title": "Sword Art Online 11: Alicization Turning",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RK_sworda11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26098,
+    "title": "Sword Art Online 12: Alicization Rising",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RK_sworda12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28023,
+    "title": "Sword Art Online 13: Alicization Dividing",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RK_sworda13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28304,
+    "title": "Sword Art Online 14: Alicization Uniting",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "RK_sworda14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30341,
+    "title": "Sword Art Online 15: Alicization Invading",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "RK_sword15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33861,
+    "title": "Sword Art Online 16: Alicization Exploding",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RK_sword16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35068,
+    "title": "Sword Art Online 17: Alicization Awakening",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RK_sao17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35542,
+    "title": "Sword Art Online 18: Alicization Lasting",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RK_saoal18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36226,
+    "title": "Sword Art Online 19: Moon Cradle",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "RK_sao19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28232,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 1:  Squad Jam",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "KS_gungale1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28664,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 2:  Second Squad Jam: Start",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "KS_gungale2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31611,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 3:  Second Squad Jam: Finish",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RK_gungale3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33863,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 4:  3rd Squad Jam: Betrayers' Choice",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RK_gungale4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35541,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 5:  3rd Squad Jam: Betrayers' Choice: Finish",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "RK_gungale5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35950,
+    "title": "Sword Art Online Alternative Gun Gale Online, Vol. 6:  One Sumer Day",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "RK_gungale6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11040,
+    "title": "Sword Art Online Progressive 01",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RK_swonlpro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11306,
+    "title": "Sword Art Online Progressive 02",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RK_saoprog2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14215,
+    "title": "Sword Art Online Progressive 03",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "RK_SAOp3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20162,
+    "title": "Sword Art Online Progressive 04",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RK_swordap4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30340,
+    "title": "Sword Art Online Progressive 05",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "RK_saoprog5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33862,
+    "title": "Sword Art Online Progressive 06",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "RK_saop06.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

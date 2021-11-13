@@ -1,0 +1,101 @@
+[
+  {
+    "id": 21001,
+    "title": "The Nets of Space",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ep_thenets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21002,
+    "title": "The Path Beyond the Stars",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ep_thepathb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21003,
+    "title": "The Time Twister",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ep_thetimet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21523,
+    "title": "The Ship From Atlantis / The Stolen Sun",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_theshipf_thestole.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21541,
+    "title": "Five Against Arlane / Lord of the Green Planet",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_fiveagai_lordofth.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21547,
+    "title": "Tramontane / The Wrecks Of Time",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_tramonta_thewreck.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21641,
+    "title": "The Prism / Crown of Infinity",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_theprism_crownofi.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21553,
+    "title": "Doom of the Green Planet / Star Quest",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_doomofth_starques.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21004,
+    "title": "Alpha Yes, Terra No! / The Ballad of Beta-2",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_alphayes_theballa.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21157,
+    "title": "The Caves of Mars / Space Mercenaries",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_thecaves_spacemer.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21654,
+    "title": "The Blind Worm / Seed of the Dreamers",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_theblind_seedofth.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

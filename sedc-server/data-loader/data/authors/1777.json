@@ -1,0 +1,151 @@
+[
+  {
+    "id": 26527,
+    "title": "Lion Walk",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22466,
+    "title": "My She",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26265,
+    "title": "The Egg Man",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18565,
+    "title": "Night Wind",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26791,
+    "title": "Home Movies",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25633,
+    "title": "Horizons",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mr_horizons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26784,
+    "title": "Search Engine",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27208,
+    "title": "Skin Deep",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23396,
+    "title": "Tracker",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16122,
+    "title": "The Eye of God",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20143,
+    "title": "One Good Juror",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20564,
+    "title": "Gas Fish",
+    "year": 1996,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13927,
+    "title": "Synthesis & Other Virtual Realities",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "MR_Synthesi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27574,
+    "title": "Casting at Pegasus",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25632,
+    "title": "The Stone Garden",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mr_thestone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27587,
+    "title": "California Dreamer",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4407,
+    "title": "Chimera",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mr_chimera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9793,
+    "title": "The Drylands",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mr_thedryla.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

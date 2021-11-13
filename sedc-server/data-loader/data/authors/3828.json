@@ -1,0 +1,20 @@
+[
+  {
+    "id": 15822,
+    "title": "Pulitzer",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "LES_pulitzer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15825,
+    "title": "Angels Unaware",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "LES_angelsun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

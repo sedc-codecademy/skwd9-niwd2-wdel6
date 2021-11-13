@@ -1,0 +1,729 @@
+[
+  {
+    "id": 35381,
+    "title": "World Engines: Destroyer",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SB_WorldEng.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24768,
+    "title": "The Martian in the Wood",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sb_themarti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27904,
+    "title": "Mars Abides",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17521,
+    "title": "The Medusa Chronicles",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sbar_themedus.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 20040,
+    "title": "Obelisk",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sb_obelisk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26799,
+    "title": "The Invasion of Venus",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32017,
+    "title": "Tempest 43",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26793,
+    "title": "Turing's Apples",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1031,
+    "title": "The H-Bomb Girl",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sb_thehbomb.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21303,
+    "title": "Last Contact",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32066,
+    "title": "No More Stories",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27098,
+    "title": "The Pacific Mystery",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27087,
+    "title": "The Children of Time",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13690,
+    "title": "Evolution",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "SB_evolutio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21322,
+    "title": "The Gravity Mine",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7074,
+    "title": "The Light of Other Days",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "accsb_thelight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20051,
+    "title": "On the Orion Line",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27169,
+    "title": "People Came from Earth",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20950,
+    "title": "Traces",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sb_traces.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20951,
+    "title": "Moon Six",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34143,
+    "title": "Columbiad",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27539,
+    "title": "In the MSOB",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27305,
+    "title": "Earth I",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1213,
+    "title": "Flood",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sb_flood.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1673,
+    "title": "Ark",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sb_ark.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24226,
+    "title": "Last and First Contacts",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sb_lastandf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18905,
+    "title": "Project CLIO",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sb_projectc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6659,
+    "title": "The Long Earth",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tpsb_thelonge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5601,
+    "title": "The Long War",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tpsb_thelongw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7390,
+    "title": "The Long Mars",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tpsb_thelongm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11669,
+    "title": "The Long Utopia",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tp_sb_longutop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18870,
+    "title": "The Long Cosmos",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "tpsb_longcosm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13687,
+    "title": "Silverhair",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "SB_silverha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13688,
+    "title": "Longtusk",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "SB_longtusk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13689,
+    "title": "Icebones",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SB_icebones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32672,
+    "title": "Grey Earth",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20053,
+    "title": "Sheena 5",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32772,
+    "title": "Huddle",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33881,
+    "title": "The Twelfth Album",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 590,
+    "title": "Manifold: Time",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sb_manifold.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1390,
+    "title": "Manifold: Space",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sb_manspace.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1391,
+    "title": "Manifold: Origin",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sb_manorig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6378,
+    "title": "Phase Space:  Stories from the Manifold and Elsewhere",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sb_phasespa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 605,
+    "title": "Voyage",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sb_voyage.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 600,
+    "title": "Titan",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sb_titan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1389,
+    "title": "Moonseed",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sb_moonseed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2743,
+    "title": "Stone Spring",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sb_stonespr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7107,
+    "title": "Bronze Summer",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sb_bronzesu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7108,
+    "title": "Iron Winter",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sb_ironwint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15065,
+    "title": "The Wheel of Ice",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sb_thewheel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5710,
+    "title": "Proxima",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sb_proxima.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9928,
+    "title": "Ultima",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sb_ultima.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27472,
+    "title": "Saddlepoint: Roughneck",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7068,
+    "title": "Time's Eye",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "accsb_timeseye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7069,
+    "title": "Sunstorm",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "accsb_sunstorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7070,
+    "title": "Firstborn",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "accsb_firstborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13721,
+    "title": "Emperor",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "SB_emperor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13722,
+    "title": "Conqueror",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "SB_conquero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13723,
+    "title": "Navigator",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "SB_navigato.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13724,
+    "title": "Weaver",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SB_weaver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 88,
+    "title": "The Time Ships",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sb_thetimes.jpg",
+    "nominations": 7,
+    "wins": -1
+  },
+  {
+    "id": 21977,
+    "title": "The Massacre of Mankind",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sb_themassa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27028,
+    "title": "Return to Titan",
+    "year": 2010,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28573,
+    "title": "Formidable Caress: A Tale of Old Earth",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32151,
+    "title": "The Lowland Expedition",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22342,
+    "title": "Gossamer",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26895,
+    "title": "Cilia-of-Gold",
+    "year": 1994,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27640,
+    "title": "Lieserl",
+    "year": 1993,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 625,
+    "title": "Raft",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "sb_raft.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1474,
+    "title": "Timelike Infinity",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sb_timelike.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1475,
+    "title": "Flux",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sb_flux.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1476,
+    "title": "Ring",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "sb_ring.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 481,
+    "title": "Vacuum Diagrams",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sb_vacuumdi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14183,
+    "title": "Xeelee: Endurance",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sb_xeeleeen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24381,
+    "title": "Xeelee: Vengeance",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sb_xvengean.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31385,
+    "title": "Xeelee: Redemption",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sb_redempti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32284,
+    "title": "Lakes of Light",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27203,
+    "title": "Mayflower II",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sb_mayflowe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32535,
+    "title": "The Great Game",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21320,
+    "title": "The Ghost Pit",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 580,
+    "title": "Coalescent",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sb_coalesce.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1401,
+    "title": "Exultant",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sb_exultant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 807,
+    "title": "Transcendent",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sb_transcen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6244,
+    "title": "Resplendent",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sb_resplend.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

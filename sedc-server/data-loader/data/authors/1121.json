@@ -1,0 +1,56 @@
+[
+  {
+    "id": 35533,
+    "title": "Garden of Eldritch Delights",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "LAS_GardenEl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32792,
+    "title": "While the Black Stars Burn",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "LAS_Whilethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9349,
+    "title": "Soft Apocalypses",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "las_softapoc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1747,
+    "title": "Spellbent",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "las_spellben.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9347,
+    "title": "Shotgun Sorceress",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "las_shotguns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9348,
+    "title": "Switchblade Goddess",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "las_switchbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

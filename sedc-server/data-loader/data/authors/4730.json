@@ -1,0 +1,83 @@
+[
+  {
+    "id": 21701,
+    "title": "Star Trek: The Amazing Stories",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JO_amazings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21055,
+    "title": "Wounds",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KD_wounds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21126,
+    "title": "Strange New Worlds I",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "DS_strange1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21127,
+    "title": "Strange New Worlds II",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DS_strange2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21128,
+    "title": "Strange New Worlds III",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "DS_strange3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21129,
+    "title": "Strange New Worlds IV",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "DS_strange4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21130,
+    "title": "Strange New Worlds V",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "DS_strange5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21131,
+    "title": "Strange New Worlds VI",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "DS_strange6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21132,
+    "title": "Strange New Worlds VII",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "DS_strange7.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

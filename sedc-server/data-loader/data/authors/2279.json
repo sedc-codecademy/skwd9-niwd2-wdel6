@@ -1,0 +1,334 @@
+[
+  {
+    "id": 28965,
+    "title": "The Best from the Rest of the World",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "daw_tbotrest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28619,
+    "title": "More Macabre",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "daw_moremaca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26736,
+    "title": "One Against the Moon",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "daw_oneagains.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35272,
+    "title": "Mimic",
+    "year": 1942,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21358,
+    "title": "Sentinels from Space / The Ultimate Invader and Other Science-Fiction",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ad_sentinel_theultim.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21359,
+    "title": "Adventures in the Far Future / Tales of Outer Space",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "ad_adventur_talesofo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21396,
+    "title": "The Earth in Peril / Who Speaks of Conquest?",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ad_theearth_whospeak.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21331,
+    "title": "Men on the Moon / City on the Moon",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_menonthe_cityonth.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10390,
+    "title": "The Secret of Saturn's Rings",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "daw_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10405,
+    "title": "Secret of the Martian Moons",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "daw_secretof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10409,
+    "title": "The Secret of the Ninth Planet",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "dw_secretni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8602,
+    "title": "World's Best Science Fiction:  1965",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1965.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8603,
+    "title": "World's Best Science Fiction:  1966",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1966.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8604,
+    "title": "World's Best Science Fiction:  1967",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1967.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8605,
+    "title": "World's Best Science Fiction:  1968",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1968.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8599,
+    "title": "World's Best Science Fiction:  1969",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1969.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8606,
+    "title": "World's Best Science Fiction:  1970",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1970.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8607,
+    "title": "World's Best Science Fiction:  1971",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "dawtc_wbsf1971.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8638,
+    "title": "The 1972 Annual World's Best SF ",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1972.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8639,
+    "title": "The 1973 Annual World's Best SF",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1973.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8640,
+    "title": "The 1974 Annual World's Best SF",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1974.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8642,
+    "title": "The 1975 Annual World's Best SF",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1975.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8645,
+    "title": "The 1976 Annual World's Best SF",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1976.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8647,
+    "title": "The 1977 Annual World's Best SF",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1977.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8671,
+    "title": "The 1978 Annual World's Best SF",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1978.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8672,
+    "title": "The 1979 Annual World's Best SF",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1979.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8673,
+    "title": "The 1980 Annual World's Best SF",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1980.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8674,
+    "title": "The 1981 Annual World's Best SF",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1981.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8675,
+    "title": "The 1982 Annual World's Best SF",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1982.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8676,
+    "title": "The 1983 Annual World's Best SF",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1983.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8677,
+    "title": "The 1984 Annual World's Best SF",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1984.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8682,
+    "title": "The 1985 Annual World's Best SF",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1985.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8683,
+    "title": "The 1986 Annual World's Best SF",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1986.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8684,
+    "title": "The 1987 Annual World's Best SF",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1987.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8685,
+    "title": "The 1988 Annual World's Best SF",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1988.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8686,
+    "title": "The 1989 Annual World's Best SF",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1989.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8687,
+    "title": "The 1990 Annual World's Best SF",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dawaws_wbsf1990.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

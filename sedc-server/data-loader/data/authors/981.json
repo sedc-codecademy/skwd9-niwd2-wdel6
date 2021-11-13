@@ -1,0 +1,56 @@
+[
+  {
+    "id": 28498,
+    "title": "The Land of Somewhere Safe",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "hd_thelando.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28509,
+    "title": "Susurrus on Mars",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "hd_susurrus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6786,
+    "title": "Scruffians! Stories of Better Sodomites",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "hd_scruffia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33879,
+    "title": "Escape from Hell!",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "HD_Escapefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 979,
+    "title": "Vellum",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "hd_vellum.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 6785,
+    "title": "Ink",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "hd_ink.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

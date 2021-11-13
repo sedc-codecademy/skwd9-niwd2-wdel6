@@ -1,0 +1,29 @@
+[
+  {
+    "id": 7889,
+    "title": "Finnikin of the Rock",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mm_finnikin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7929,
+    "title": "Froi of the Exiles",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mm_froiofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7930,
+    "title": "Quintana of Charyn",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mm_quintana.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

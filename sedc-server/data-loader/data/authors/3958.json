@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16382,
+    "title": "Ten Billion Tomorrows:  How Science Fiction Technology Became Reality",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "BC_tenbilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16383,
+    "title": "How To Build a Time Machine:  The Real Science of Time Travel",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "BC_howtobui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16384,
+    "title": "Upgrade Me:  Our Amazing Journey to Human 2.0",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "BC_upgradem.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

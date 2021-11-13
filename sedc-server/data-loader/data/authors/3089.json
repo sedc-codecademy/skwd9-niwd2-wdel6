@@ -1,0 +1,65 @@
+[
+  {
+    "id": 11922,
+    "title": "The Ion War",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ck_theionwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11925,
+    "title": "Manalone",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "ck_manalone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11923,
+    "title": "The Dark Mind",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ck_darkmind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11926,
+    "title": "Search for the Sun",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ck_searchfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11927,
+    "title": "The Lost Worlds of Cronus",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ck_thelostw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11924,
+    "title": "The Patterns of Chaos",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ck_thepatte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35995,
+    "title": "The Chaos Weapon",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "CK_ChaosWea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

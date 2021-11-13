@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4343,
+    "title": "Pincher Martin: The Two Deaths of Christopher Martin",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "wg_pincherm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1988,
+    "title": "The Inheritors",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "wg_theinher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3117,
+    "title": "Lord of the Flies",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "wg_lordofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

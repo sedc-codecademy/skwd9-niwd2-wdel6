@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2834,
+    "title": "Angel at Apogee",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "snl_angelata.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27907,
+    "title": "Fieldwork",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16022,
+    "title": "Songs Of Chaos",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "snl_songsofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20569,
+    "title": "Cybersong",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "SL_cyberson.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

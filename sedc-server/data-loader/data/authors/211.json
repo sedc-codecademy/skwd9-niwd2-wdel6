@@ -1,0 +1,730 @@
+[
+  {
+    "id": 7762,
+    "title": "Chateau d'If and Other Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_chateaud.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7764,
+    "title": "Golden Girl and Other Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_goldengi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7765,
+    "title": "The Moon Moth and Other Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_themoonm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7761,
+    "title": "Sail 25 and Other Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_sail25an.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7760,
+    "title": "The World-Thinker and Other Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7267,
+    "title": "This is Me, Jack Vance!:  Or, More Properly, This is ",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jv_thisisme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24320,
+    "title": "Wild Thyme, Green Magic",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jv_wildthym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36154,
+    "title": "The Augmented Agent and Other Stories",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "JV_TheAugme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4683,
+    "title": "Galactic Effectuator",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jv_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6867,
+    "title": "Gold and Iron",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jv_goldandi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24298,
+    "title": "Green Magic",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jv_greenmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6828,
+    "title": "Fantasms and Magics",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jv_fantasms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18444,
+    "title": "The Best of Jack Vance",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "JV_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20829,
+    "title": "Assault on a City",
+    "year": 1974,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1761,
+    "title": "Emphyrio",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jv_emphyrio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8733,
+    "title": "The Blue World",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jv_thebluew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8731,
+    "title": "The Last Castle",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jv_thelastc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8732,
+    "title": "Space Opera",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jv_spaceope.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24971,
+    "title": "Future Tense",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "jv_futurete.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4196,
+    "title": "The Languages of Pao",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "jv_thelangu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8730,
+    "title": "The Miracle Workers",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "jv_themirac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8729,
+    "title": "To Live Forever",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "jv_tolivefo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6829,
+    "title": "The Five Gold Bands",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "jv_thefiveg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21330,
+    "title": "Big Planet / Slaves of the Klau",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ad_bigplane_slavesof.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21595,
+    "title": "The Five Gold Bands / The Dragon Masters",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ad_thefiveg_thedrago.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21596,
+    "title": "Son of the Tree / The Houses of Iszm",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_sonofthe_thehouse.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21627,
+    "title": "The Last Castle / World of the Sleeper",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_thelastc_worldoft.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21064,
+    "title": "Monsters in Orbit / The World Between and Other Stories",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_monsters_theworld.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21065,
+    "title": "The Brains of Earth / The Many Worlds of Magnus Ridolph",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_thebrain_themanyw.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21204,
+    "title": "The Dragon Masters / The Last Castle",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ad_thelastc_thedrago.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4206,
+    "title": "Trullion:  Alastor 2262",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jv_trullion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4207,
+    "title": "Marune:  Alastor 933",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jv_marune.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4208,
+    "title": "Wyst:  Alastor 1716",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jv_wyst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4474,
+    "title": "Big Planet",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "jv_bigplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6701,
+    "title": "Showboat World",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "jv_showboat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8739,
+    "title": "The Cadwal Chronicles",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_thecadwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8736,
+    "title": "Araminta Station",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jv_araminta_.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8737,
+    "title": "Ecce and Old Earth",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jv_ecceando_.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8738,
+    "title": "Throy",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jv_throy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4197,
+    "title": "The Star King",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "jv_starking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4198,
+    "title": "The Killing Machine",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "jv_thekilli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4199,
+    "title": "The Palace of Love",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jv_thepalac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4200,
+    "title": "The Face",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jv_theface.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4201,
+    "title": "The Book of Dreams",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jv_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4209,
+    "title": "The Anome",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jv_theanome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4210,
+    "title": "The Brave Free Men",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "jv_thebrave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4211,
+    "title": "The Asutra",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jv_theasutr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1788,
+    "title": "Tales of the Dying Earth",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jv_talesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23808,
+    "title": "The Bagful of Dreams",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jv_thebagfu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4309,
+    "title": "The Dying Earth",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "jv_thedying.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4347,
+    "title": "The Eyes of the Overworld",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jv_theeyeso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4472,
+    "title": "Cugel's Saga",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jv_cugelssa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4473,
+    "title": "Rhialto the Marvellous",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jv_rhialtot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24341,
+    "title": "Hard-Luck Diggings: The Early Jack Vance",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jv_hardluck.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24342,
+    "title": "Dream Castles: The Early Jack Vance, Volume Two",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_dreamcas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24343,
+    "title": "Magic Highways: The Early Jack Vance, Volume Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jv_magichig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24344,
+    "title": "Minding the Stars: The Early Jack Vance, Volume Four",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jv_mindingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24345,
+    "title": "Grand Crusades: The Early Jack Vance, Volume Five",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jv_grandcru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4410,
+    "title": "Night Lamp",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jv_nightlam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8735,
+    "title": "Maske: Thaery",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jv_masketha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8734,
+    "title": "The Domains of Koryphon",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jv_thedomai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3614,
+    "title": "The Dragon Masters",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "jv_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1821,
+    "title": "Lyonesse II and III:  The Green Pearl and Madouc",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jv_greenmad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 217,
+    "title": "Lyonesse: Suldrun's Garden",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jv_suldrans.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 773,
+    "title": "Lyonesse II: The Green Pearl",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jv_thegreen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1056,
+    "title": "Lyonesse III: Madouc",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jv_madouc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7767,
+    "title": "Magnus Ridolph",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_magnusri_.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11076,
+    "title": "The Many Worlds of Magnus Ridolph",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "jv_themanyw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6832,
+    "title": "Nopalgarth",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jv_nopalgar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6830,
+    "title": "Son of the Tree",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jv_sonofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6831,
+    "title": "The Houses of Iszm",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "jv_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8740,
+    "title": "Ports of Call",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jv_portsofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8741,
+    "title": "Lurulu",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jv_lurulu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11097,
+    "title": "Tor Double #15: The Last Castle / Nightwings",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JV_tordbl15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11099,
+    "title": "Tor Double #28: A Short Sharp Shock / The Dragon Masters",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "KR_tordbl28.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17500,
+    "title": "Tschai",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jv_tschai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4202,
+    "title": "City of the Chasch",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "jv_cityofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4203,
+    "title": "Servants of the Wankh",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jv_servants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4204,
+    "title": "The Dirdir",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jv_thedirdi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4205,
+    "title": "The Pnume",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jv_thepnum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8703,
+    "title": "Vandals of the Void",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "jv_vandalso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

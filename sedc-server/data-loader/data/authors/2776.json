@@ -1,0 +1,146 @@
+[
+  {
+    "id": 10942,
+    "title": "Tales of the Lovecraft Mythos",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RP_taleslov.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11186,
+    "title": "The New Lovecraft Circle",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RP_newlove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13300,
+    "title": "The Hastur Cycle:  Second Revised Edition",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RP_hasturcy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13301,
+    "title": "The Innsmouth Cycle:  The Taint of the Deep Ones",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RP_insmouth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13302,
+    "title": "The Ithaqua Cycle:  The Wind-Walker of the Icy Wastes",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RP_ithaquac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13303,
+    "title": "The Antarktos Cycle",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "RP_antarkto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13304,
+    "title": "Tales Out of Innsmouth:  New Stories of the Children of Dagon",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "RP_talesout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13305,
+    "title": "The Book of Eibon",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RP_bookeibo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13306,
+    "title": "The Necronomicon:  The Blasphemous Tome of the Mad Arab",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "RP_necronom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13318,
+    "title": "The Tsathoggua Cycle:  Terror Tales of the Toad God",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "RP_tsathogg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13319,
+    "title": "The Yith Cycle:  Lovecraftian Tales of the Great Race",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "RP_yithcycl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13390,
+    "title": "The Shub-Niggurath Cycle:  Tales of the Black Goat with a Thousand Young",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "RP_shubnigg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13391,
+    "title": "The Azathoth Cycle:  Tales of the Blind Idiot God",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RP_azathoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13392,
+    "title": "The Dunwich Cycle:  Where the Old Gods Wait",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RP_dunwichc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13393,
+    "title": "The Cthulhu Cycle:  Thirteen Tentacles of Terror",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RP_cthulhuc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13394,
+    "title": "The Nyarlarthotep Cycle:  The God of a Thousand Forms",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RP_nyarlart.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

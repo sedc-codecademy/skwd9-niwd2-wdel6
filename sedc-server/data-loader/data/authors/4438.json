@@ -1,0 +1,371 @@
+[
+  {
+    "id": 19017,
+    "title": "Transit to Scorpio",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "aba_transit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19018,
+    "title": "The Suns of Scorpio",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "aba_thesuns.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19019,
+    "title": "Warrior of Scorpio",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "aba_warrior.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19020,
+    "title": "Swordships of Scorpio",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "aba_swordsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19021,
+    "title": "Prince of Scorpio",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "aba_princeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19022,
+    "title": "Manhounds of Antares",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "aba_manhoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19023,
+    "title": "Arena of Antares",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "aba_arenaof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19024,
+    "title": "Fliers of Antares",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "aba_flierso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19025,
+    "title": "Bladesman of Antares",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "aba_bladesm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19026,
+    "title": "Avenger of Antares",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "aba_avenger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19027,
+    "title": "Armada of Antares",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "aba_armadao.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19028,
+    "title": "The Tides of Kregen",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "aba_thetide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19029,
+    "title": "Renegrade of Kregen",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "aba_renegra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19030,
+    "title": "Krozair of Kregen",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "aba_krozair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19031,
+    "title": "Secret Scorpio",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "aba_secrets.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19032,
+    "title": "Savage Scorpio",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "aba_savages.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19033,
+    "title": "Captive Scorpio",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "aba_captive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19034,
+    "title": "Golden Scorpio",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "aba_goldens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19035,
+    "title": "A Life for Kregen",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "aba_alifefo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19036,
+    "title": "A Sword for Kregen",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "aba_aswordf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19037,
+    "title": "A Fortune for Kregen",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "aba_afortun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19038,
+    "title": "A Victory for Kregen",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "aba_avictor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19039,
+    "title": "Beasts of Antares",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "aba_beastso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19040,
+    "title": "Rebel of Antares",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "aba_rebelof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19041,
+    "title": "Legions of Antares",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "aba_legions.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19042,
+    "title": "Allies of Antares",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "aba_alliesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19043,
+    "title": "Mazes of Scorpio",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "aba_mazesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19044,
+    "title": "Delia of Vallia",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "aba_deliaof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19045,
+    "title": "Fires of Scorpio",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "aba_firesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19046,
+    "title": "Talons of Scorpio",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "aba_talonso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19047,
+    "title": "Masks of Scorpio",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "aba_masksof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19048,
+    "title": "Seg the Bowman",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "aba_segtheb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19050,
+    "title": "Werewolves of Kregen",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "aba_werewolv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19051,
+    "title": "Witches of Kregen",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "aba_witcheso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19052,
+    "title": "Storm over Vallia",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "aba_stormove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19053,
+    "title": "Omens of Kregen",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "aba_omensofk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19054,
+    "title": "Warlord of Antares",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "aba_warlordo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19055,
+    "title": "Scorpio Reborn",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "aba_scorpior.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19056,
+    "title": "Scorpio Assassin",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "aba_scorpioas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19057,
+    "title": "Scorpio Invasion",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "aba_scorpioi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19058,
+    "title": "Scorpio Ablaze",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "aba_scorpioa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

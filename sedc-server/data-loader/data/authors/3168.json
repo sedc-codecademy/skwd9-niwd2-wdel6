@@ -1,0 +1,110 @@
+[
+  {
+    "id": 12240,
+    "title": "Gossamer Axe",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gb_gossamer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28179,
+    "title": "Dragonsword",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gb_dragonsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28180,
+    "title": "Duel of Dragons",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gb_duelofdr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28181,
+    "title": "Dragon Death",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gb_dragonde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28186,
+    "title": "Spires of Spirit",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gb_spiresof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28182,
+    "title": "Strands of Starlight",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gb_strands1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28183,
+    "title": "Maze of Moonlight",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gb_strands2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28184,
+    "title": "Shroud of Shadow",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gb_strands3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28185,
+    "title": "Strands of Sunlight",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gb_strands4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28187,
+    "title": "O Greenest Branch!",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gb_ogreenes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28188,
+    "title": "The Dove Looked In",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gb_thedovel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28189,
+    "title": "Branch and Crown",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gb_branchan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

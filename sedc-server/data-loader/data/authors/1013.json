@@ -1,0 +1,45 @@
+[
+  {
+    "id": 28719,
+    "title": "The Smoke of Gold Is Glory",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22788,
+    "title": "A Year and a Day in Old Theradane",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1019,
+    "title": "The Lies of Locke Lamora",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sl_thelieso.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 3306,
+    "title": "Red Seas Under Red Skies",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sl_redseasu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3307,
+    "title": "The Republic of Thieves",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sl_therepub.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

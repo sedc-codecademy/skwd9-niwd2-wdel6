@@ -1,0 +1,108 @@
+[
+  {
+    "id": 20016,
+    "title": "A Feast of Sorrows:  Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "as_afeastof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16834,
+    "title": "Finnegan's Field",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "as_finnegan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32860,
+    "title": "Winter Children and Other Chilling Tales",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "as_winterch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14000,
+    "title": "Of Sorrow and Such",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "as_ofsorrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14180,
+    "title": "The Bitterwood Bible and Other Recountings",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "as_thebitte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16836,
+    "title": "St Dymphna's School for Poison Girls",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14181,
+    "title": "Sourdough and Other Stories",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "as_sourdoug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15671,
+    "title": "The Female Factory",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "llhas_thefemal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22692,
+    "title": "Brisneyland by Night",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19282,
+    "title": "Vigil",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "as_vigil.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23602,
+    "title": "Corpselight",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "as_corpseli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28308,
+    "title": "Restoration",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "as_restorat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

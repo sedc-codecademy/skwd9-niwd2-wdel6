@@ -1,0 +1,119 @@
+[
+  {
+    "id": 5688,
+    "title": "Death and Resurrection",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rama_deathand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12670,
+    "title": "In Between",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ram_inbetwee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2833,
+    "title": "The Third Eagle",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rama_thethird.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12664,
+    "title": "The Grey Horse",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ram_thegreyh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 770,
+    "title": "The Book of Kells",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rama_thebooko.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 218,
+    "title": "Tea with the Black Dragon",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "rama_teawitht.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 767,
+    "title": "Twisting the Rope",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "rama_twisting.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1293,
+    "title": "Damiano",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "rama_damiano.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 777,
+    "title": "Damiano's Lute",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rama_damianos.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 778,
+    "title": "Raphael",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rama_raphael.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12666,
+    "title": "Lens of the World",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ram_lensofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12667,
+    "title": "King of the Dead",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ram_kingofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12668,
+    "title": "The Belly of the Wolf",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ram_thebelly.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

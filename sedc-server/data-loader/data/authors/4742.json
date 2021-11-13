@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35051,
+    "title": "King of Argent",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "JTP_KingArge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21860,
+    "title": "Life with Lancelot / Hunting on Kunderer",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ad_lifewith_huntingo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21861,
+    "title": "Mister Justice / Hierarchies",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ad_misterju_heirerach.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

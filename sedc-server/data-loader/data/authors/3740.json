@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15416,
+    "title": "Talbot Mundy: Messenger of Destiny",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dmg_talbotmu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15415,
+    "title": "Swordsmen and Supermen",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dmg_swordsme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15414,
+    "title": "Virgil Finlay",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "dmg_vf_virgilfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15419,
+    "title": "Act of Providence",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jpb_dmg_actofpro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

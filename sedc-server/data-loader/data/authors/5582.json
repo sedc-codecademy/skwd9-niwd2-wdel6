@@ -1,0 +1,83 @@
+[
+  {
+    "id": 26438,
+    "title": "Ahriman: The Omnibus",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jf_ahriman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26437,
+    "title": "Ahriman: Exodus",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jf_exodus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26434,
+    "title": "Ahriman: Exile",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jf_exile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26435,
+    "title": "Ahriman: Sorcerer",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jf_sorcerer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26436,
+    "title": "Ahriman: Unchanged",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jf_unchange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26164,
+    "title": "Praetorian of Dorn:  Alpha to omega",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jf_praetori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26940,
+    "title": "Tallarn",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jf_tallarn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28348,
+    "title": "Slaves to Darkness:  Chaos undivided",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jf_slavesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36198,
+    "title": "The Solar War",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jf_thesolar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13247,
+    "title": "The Shuttered Room and Other Tales of Horror",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "hpl_theshute.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11205,
+    "title": "Tales of the Cthulhu Mythos",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "AD_talescth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13246,
+    "title": "The Haunter of the Dark",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "hpl_thehaunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12398,
+    "title": "The Sleeping and the Dead: Thirty Uncanny Tales",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "ad_sleeping.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12399,
+    "title": "The Lurker at the Threshold",
+    "year": 1945,
+    "type": "novel",
+    "imageName": "hplad_lurkerat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3463,
+    "title": "The Watchers Out of Time",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "hpl_thewatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

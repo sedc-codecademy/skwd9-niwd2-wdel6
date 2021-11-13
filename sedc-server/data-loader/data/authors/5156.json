@@ -1,0 +1,56 @@
+[
+  {
+    "id": 30362,
+    "title": "Creatures: The Legacy of Frankenstein",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dtm_creature.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30373,
+    "title": "Not So Stories",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dtm_notsosto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30374,
+    "title": "The True History of the Strange Brigade",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "stm_thetrues.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23113,
+    "title": "Monstrous Little Voices: New Tales from Shakespeare's Fantasy World",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dtm_monstrou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30369,
+    "title": "Two Hundred and Twenty-One Baker Streets:  An Anthology of Holmesian Tales Across Time and Space",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dtm_twohundr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30372,
+    "title": "Dracula: Rise of the Beast",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dtm_dracular.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

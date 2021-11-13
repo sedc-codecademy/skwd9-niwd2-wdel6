@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2514,
+    "title": "Song of Scarabaeus",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sc_songofsc.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2515,
+    "title": "Children of Scarabaeus",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sc_children.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

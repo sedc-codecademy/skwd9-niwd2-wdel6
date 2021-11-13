@@ -1,0 +1,29 @@
+[
+  {
+    "id": 36238,
+    "title": "Goldilocks",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "LL_goldiloc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19604,
+    "title": "False Hearts",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ll_falsehea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23165,
+    "title": "Shattered Minds",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ll_shattere.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

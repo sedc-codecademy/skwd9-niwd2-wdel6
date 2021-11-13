@@ -1,0 +1,38 @@
+[
+  {
+    "id": 26334,
+    "title": "Path of the Dark Eldar",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ac_pathdark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26331,
+    "title": "Path of the Renegade",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ac_pathrene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26332,
+    "title": "Path of the Incubus",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ac_pathincu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26333,
+    "title": "Path of the Archon",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ac_patharch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

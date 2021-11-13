@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24722,
+    "title": "The Year's Best Horror Stories, No. 1",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "rd_tybhs01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24723,
+    "title": "The Year's Best Horror Stories: Series II",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "rd_tybhs02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24724,
+    "title": "The Year's Best Horror Stories: Series III",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "rd_tybhs03.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

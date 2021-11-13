@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13380,
+    "title": "1634: The Ram Rebellion",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "efvd_theramre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13383,
+    "title": "1634: The Bavarian Crisis",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "efvdm_1634bava.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13384,
+    "title": "1635: The Dreeson Incident",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "efvd_thedrees.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13399,
+    "title": "1635: The Tangled Web",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "vd_thetangl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 28172,
+    "title": "Every Mountain Made Low",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "aw_everymou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27982,
+    "title": "Alien: The Cold Forge",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "AW_coldforg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28173,
+    "title": "A Big Ship at the Edge of the Universe",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "aw_abigship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28254,
+    "title": "A Bad Deal for the Whole Galaxy",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "aw_abaddeal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35582,
+    "title": "The Worst of All Possible Worlds",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "aw_theworst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

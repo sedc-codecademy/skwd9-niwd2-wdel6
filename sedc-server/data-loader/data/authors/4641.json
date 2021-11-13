@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20603,
+    "title": "Owl and the Japanese Circus",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kc_japanese.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20604,
+    "title": "Owl and the City of Angels",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kc_cityofan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23615,
+    "title": "Owl and the Electric Samurai",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kc_owlandel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

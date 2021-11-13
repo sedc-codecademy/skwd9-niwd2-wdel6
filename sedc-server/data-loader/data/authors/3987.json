@@ -1,0 +1,20 @@
+[
+  {
+    "id": 16458,
+    "title": "Nova",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mf_nova.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22929,
+    "title": "Archangel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mf_archange.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

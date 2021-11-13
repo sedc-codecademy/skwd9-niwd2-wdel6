@@ -1,0 +1,73 @@
+[
+  {
+    "id": 24337,
+    "title": "Ghosts of Yesterday",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jc_ghostsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25973,
+    "title": "The Hauntings of Hood Canal",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jc_thehaunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19517,
+    "title": "The Night We Buried Road Dog (collection)",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jc_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21386,
+    "title": "The Off Season",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jc_theoffse.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 508,
+    "title": "Inagehi",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jc_ingehi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19518,
+    "title": "The Night We Buried Road Dog",
+    "year": 1993,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24481,
+    "title": "The Sons of Noah & Other Stories",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jc_thesonso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22128,
+    "title": "The Well",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "JC_thewell.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

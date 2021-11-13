@@ -1,0 +1,110 @@
+[
+  {
+    "id": 5811,
+    "title": "Burn Bright",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mdp_burnbrig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5812,
+    "title": "Angel Arias",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mdp_angelari.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5813,
+    "title": "Shine Light",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mdp_shinelig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6055,
+    "title": "Nylon Angel",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mdp_nylonang.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6056,
+    "title": "Code Noir",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mdp_codenoir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6057,
+    "title": "Crash Deluxe",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mdp_crashdel.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7023,
+    "title": "Peacemaker",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mp_peacemak.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14049,
+    "title": "Mythmaker",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mdp_mythmake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5817,
+    "title": "Dark Space",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mdp_darkspac.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5818,
+    "title": "Chaos Space",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mdp_chaosspa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5819,
+    "title": "Mirror Space",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mdp_mirrorsp.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5820,
+    "title": "Transformation Space",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mdp_transfor.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

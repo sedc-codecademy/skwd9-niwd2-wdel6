@@ -1,0 +1,29 @@
+[
+  {
+    "id": 28010,
+    "title": "The Book of Atrus",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rmrm_bookofat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28011,
+    "title": "The Book of Ti'ana",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rmdw_bookofti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28012,
+    "title": "The Book of D'ni",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rmdw_bookofdn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

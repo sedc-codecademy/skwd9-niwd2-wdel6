@@ -1,0 +1,83 @@
+[
+  {
+    "id": 14660,
+    "title": "Oneiros",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mh_oneiros.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5387,
+    "title": "The Dwarves",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mh_thedwarv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5384,
+    "title": "The War of the Dwarves",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mh_thewarof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5385,
+    "title": "The Revenge of the Dwarves",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mh_thereven.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5386,
+    "title": "The Fate of the Dwarves",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mh_thefateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27177,
+    "title": "The Triumph of the Dwarves",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mh_thetrium.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9844,
+    "title": "Righteous Fury",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mh_righteou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11600,
+    "title": "Devastating Hate",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mh_devastat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20182,
+    "title": "Dark Paths",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mh_darkpath.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": 27391,
+    "title": "Obsidian Harvest",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27397,
+    "title": "Mall Purchase Night",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rc_mallpurc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27396,
+    "title": "Limbo System",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rc_limbosys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20152,
+    "title": "Symphony for Skyfall",
+    "year": 1994,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27398,
+    "title": "Wizard's Bane",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rc_wizabane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27399,
+    "title": "The Wizardry Compiled",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rc_twcompi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27400,
+    "title": "The Wizardry Cursed",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rc_twcurse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27401,
+    "title": "The Wizardry Consulted",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "rc_twconsul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27402,
+    "title": "The Wizardry Quested",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rc_twqueste.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

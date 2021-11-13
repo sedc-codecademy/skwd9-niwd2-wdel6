@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2385,
+    "title": "Gunner Cade",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "cj_gunnerca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21372,
+    "title": "Gunner Cade / Crisis in 2140",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ad_gunnerca_crisisin.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11648,
+    "title": "Outpost Mars",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "cj_outpostm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

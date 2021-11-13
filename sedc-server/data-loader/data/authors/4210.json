@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36571,
+    "title": "Future Noir:  The Making of Blade Runner: Revised & Updated",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pms_futureno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17402,
+    "title": "Future Noir:  The Making of Blade Runner",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "PS_futureno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17400,
+    "title": "Splatterpunks:  Extreme Horror",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "PS_spatter1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17401,
+    "title": "Splatterpunks II:  Over the Edge",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "PS_spatter2.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 26210,
+    "title": "A Frozen Heart",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ER_afrozenh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24197,
+    "title": "Beauty and the Beast",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ER_beauty01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26209,
+    "title": "Maleficent",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ER_malefice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26208,
+    "title": "The Curse of Maleficent:  A Tale of a Sleeping Beauty",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ER_curseofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35410,
+    "title": "Maleficent:  Mistress of Evil",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ER_mistress.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

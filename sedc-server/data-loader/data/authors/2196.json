@@ -1,0 +1,56 @@
+[
+  {
+    "id": 8194,
+    "title": "The Restorer",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "as_theresto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8195,
+    "title": "The Kingdom ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "as_thekingd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8196,
+    "title": "The Prophet",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "as_theproph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26953,
+    "title": "The Visitor",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "as_thevisit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26954,
+    "title": "The Sinner",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "as_thesinne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26955,
+    "title": "The Awakening",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "as_theawake.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

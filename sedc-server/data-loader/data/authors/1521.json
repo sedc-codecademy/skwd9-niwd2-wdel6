@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3297,
+    "title": "The Giver",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ll_thegiver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3838,
+    "title": "Gathering Blue",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ll_gatherin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3839,
+    "title": "Messenger",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ll_messenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31448,
+    "title": "Son",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ll_son.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

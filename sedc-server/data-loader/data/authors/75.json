@@ -1,0 +1,433 @@
+[
+  {
+    "id": 27912,
+    "title": "Elephant on Table",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20058,
+    "title": "Pirate Utopia",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bs_pirateut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19648,
+    "title": "Totem Poles",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rrbs_totempo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24285,
+    "title": "Gothic High-Tech",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bs_gothichi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16591,
+    "title": "Loco",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rrbs_loco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19812,
+    "title": "The Peak of Eternal Light",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31882,
+    "title": "The Master of the Aviary",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28640,
+    "title": "The Onset of a Paranormal Romance",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28622,
+    "title": "The Exterminator's Want Ad",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16310,
+    "title": "Good Night, Moon",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rrbs_goodnigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26212,
+    "title": "Black Swan",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2070,
+    "title": "The Caryatids",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bs_thecarya.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6553,
+    "title": "Ascendancies: The Best of Bruce Sterling",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bs_ascendan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19180,
+    "title": "Kiosk",
+    "year": 2007,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32108,
+    "title": "The Lustration",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30206,
+    "title": "A Plain Tale from Our Hills",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36178,
+    "title": "Visionary in Residence",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "BS_Visionar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19839,
+    "title": "The Blemmye's Strategem",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32283,
+    "title": "Ivory Tower",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25663,
+    "title": "The Zenith Angle",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "bs_thezenit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19849,
+    "title": "In Paradise",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 695,
+    "title": "Zeitgeist",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "bs_zeitgeis.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6554,
+    "title": "A Good Old-Fashioned Future",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "bs_agoodold.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 75,
+    "title": "Distraction",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "bs_distract.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 19994,
+    "title": "Maneki Neko",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 81,
+    "title": "Holy Fire",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "bs_holyfire.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 24627,
+    "title": "Schismatrix Plus",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "bs_schiplus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8383,
+    "title": "Heavy Weather",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "BS_HeavyWea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27643,
+    "title": "Sacred Cow",
+    "year": 1993,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6555,
+    "title": "Globalhead",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "bs_globalhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 180,
+    "title": "The Difference Engine",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "wgbs_thediffe.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 6556,
+    "title": "Crystal Express",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "bs_crystale.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17931,
+    "title": "Dori Bangs",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27732,
+    "title": "We See Things Differently",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 115,
+    "title": "Islands in the Net",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "bs_islandsi.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 21377,
+    "title": "Our Neural Chernobyl",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18757,
+    "title": "Flowers of Edo",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27814,
+    "title": "The Beautiful and the Sublime",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9412,
+    "title": "Mirrorshades:  The Cyberpunk Anthology",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "bs_mirrorsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21379,
+    "title": "Dinner in Audoghast",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19407,
+    "title": "Green Days in Brunei",
+    "year": 1985,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 209,
+    "title": "Schismatrix",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bs_schismat.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 12507,
+    "title": "The Artificial Kid",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bs_theartif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12506,
+    "title": "Involution Ocean",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "BS_involutio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20982,
+    "title": "Deep Eddy",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20983,
+    "title": "Bicycle Repairman",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18619,
+    "title": "Taklamakan",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18009,
+    "title": "Sunken Gardens",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18796,
+    "title": "Cicada Queen",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21404,
+    "title": "Spider Rose",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18811,
+    "title": "Swarm",
+    "year": 1982,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

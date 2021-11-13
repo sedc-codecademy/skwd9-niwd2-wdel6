@@ -1,0 +1,38 @@
+[
+  {
+    "id": 31605,
+    "title": "Matryoshka",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rp_matryosh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31601,
+    "title": "The Chosen",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "rp_thechose.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31603,
+    "title": "The Standing Dead",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rp_thestand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31604,
+    "title": "The Third God",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rp_thethird.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

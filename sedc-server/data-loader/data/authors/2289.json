@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8749,
+    "title": "Terror By Night:  Classic Ghost and Horror Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ab_terrorby.jgp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12425,
+    "title": "The Complete Short Stories of Ambrose Bierce",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "AB_comshort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35465,
+    "title": "An Occurrence at Owl Creek Bridge",
+    "year": 1890,
+    "type": "novel",
+    "imageName": "AB_AnOccurr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

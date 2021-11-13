@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15694,
+    "title": "Honour of the Grave",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rdl_honourof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15695,
+    "title": "Sacred Flesh",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rdl_sacredfl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15696,
+    "title": "Liar's Peak",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rdl_liarspea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34049,
+    "title": "Shadowblade",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ak_shadowbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9715,
+    "title": "Blades of the Old Empire",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ak_bladesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9716,
+    "title": "The Guild of Assassins",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ak_theguild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34048,
+    "title": "Assassin Queen",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ak_assqueen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

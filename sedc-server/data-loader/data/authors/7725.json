@@ -1,0 +1,56 @@
+[
+  {
+    "id": 36431,
+    "title": "City of the Lost",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "SB_CityLost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36432,
+    "title": "Dead Things",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "SB_DeadThin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36433,
+    "title": "Broken Souls",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "SB_BrokenSo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36434,
+    "title": "Hungry Ghosts",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "SB_HungryGh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36435,
+    "title": "Fire Season",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SB_FireSeas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36436,
+    "title": "Ghost Money",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "SB_GhostMon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

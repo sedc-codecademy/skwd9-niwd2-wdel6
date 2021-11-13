@@ -1,0 +1,110 @@
+[
+  {
+    "id": 16509,
+    "title": "Golem",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MO_andgolem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16510,
+    "title": "Mimic",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "MO_andmimic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16511,
+    "title": "Rebel",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MO_andrebel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15589,
+    "title": "The Lost Library of Cormanthyr",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mo_thelostl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15547,
+    "title": "The Jewel of Turmish",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mo_thejewel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15679,
+    "title": "Rising Tide",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mo_risingti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15680,
+    "title": "Under Fallen Stars",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mo_underfal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15681,
+    "title": "The Sea Devil's Eye",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mo_theseade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17019,
+    "title": "Wrath of the Blue Lady",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mo_wrathoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11672,
+    "title": "Master Sergeant",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mo_masterse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15939,
+    "title": "Guerilla",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mo_guerilla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12497,
+    "title": "Stranded",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "wn_stranded.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 16697,
+    "title": "A Beautiful Accident",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "po_abeautif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16696,
+    "title": "The Hell of It",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "po_thehello.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16489,
+    "title": "The Battle of the Round",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "po_thebattl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16327,
+    "title": "The Great Defense of Layosah",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "po_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16323,
+    "title": "Sacrifice of the First Sheason",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "po_sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2655,
+    "title": "The Unremembered",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "po_theunrem.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12557,
+    "title": "Trial of Intentions",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "po_trialofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

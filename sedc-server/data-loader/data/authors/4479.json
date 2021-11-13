@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19275,
+    "title": "The Fire Sermon",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "fh_thefires.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19276,
+    "title": "The Map of Bones",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "fh_themapof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26521,
+    "title": "The Forever Ship",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "fh_theforev.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

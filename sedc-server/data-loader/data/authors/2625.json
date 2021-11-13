@@ -1,0 +1,56 @@
+[
+  {
+    "id": 10271,
+    "title": "In the Shadow of the Gargoyle",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "nktsr_inthesha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12118,
+    "title": "Dracul: An Eternal Love Story",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "nk_draculan.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14604,
+    "title": "Child of the Night",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "nk_childoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14605,
+    "title": "Near Death",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "nk_neardeat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14606,
+    "title": "Reborn",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "nk_reborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14607,
+    "title": "Bloodlover",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "nk_bloodlov.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

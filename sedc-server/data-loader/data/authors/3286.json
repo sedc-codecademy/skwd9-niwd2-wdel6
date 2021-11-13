@@ -1,0 +1,20 @@
+[
+  {
+    "id": 12758,
+    "title": "Einstein's Bridge",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jc_einststein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12759,
+    "title": "Twistor",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jc_twistor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

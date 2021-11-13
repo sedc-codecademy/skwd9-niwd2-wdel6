@@ -1,0 +1,1020 @@
+[
+  {
+    "id": 23107,
+    "title": "The Gods of Sagittarius",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "efmr_thegodso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20236,
+    "title": "Soulmates",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mr_lr_soulmate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9688,
+    "title": "The Cassandra Project",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jmmr_thecassa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20897,
+    "title": "The Incarceration of Captain Nebula and Other Lost Futures",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mr_theincar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36161,
+    "title": "Resnick's Menagerie",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "MR_menageri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19765,
+    "title": "Win Some, Lose Some:  The Hugo Award Winning (and Nominated) Short Science Fiction and Fantasy of Mike Resnick",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mr_winsomel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21261,
+    "title": "The Homecoming",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24354,
+    "title": "The Business of Science Fiction: Two Insiders Discuss Writing and Publishing",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mrbnm_thebusin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20898,
+    "title": "Alastair Baffle's Emporium of Wonders",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21263,
+    "title": "Article of Faith",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32671,
+    "title": "The Dragon Done It",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "EF_DragonDo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25341,
+    "title": "Idle Roomer",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19722,
+    "title": "Alien Crimes",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mr_aliencri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21264,
+    "title": "Distant Replay",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20905,
+    "title": "All the Things You Are",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6464,
+    "title": "New Dreams for Old",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mr_newdream.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21265,
+    "title": "Down Memory Lane",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19452,
+    "title": "Down These Dark Spaceways",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mr_downthes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21266,
+    "title": "A Princess of Earth",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18471,
+    "title": "Travels with My Cats",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mr_travelsw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17408,
+    "title": "Men Writing Science Fiction as Women",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "MR_menwriti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24293,
+    "title": "New Voices in Science Fiction",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mr_newoice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17407,
+    "title": "Women Writing Science Fiction as Men",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "MR_womenwri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19730,
+    "title": "Hunting the Snark and Other Short Novels",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mr_huntingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24355,
+    "title": "I Have This Nifty Idea… Now What Do I Do with It?",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mr_ihavethi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21268,
+    "title": "Old MacDonald Had a Farm",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18472,
+    "title": "The Elephants on Neptune",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13069,
+    "title": "Magic Feathers:  The Mike and Nick Show",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mrndc_madigfea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24356,
+    "title": "Putting It Together: Turning Sow's Ear Drafts into Silk Purse Stories",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mr_puttingi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19806,
+    "title": "Redchapel",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mr_redchape.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21269,
+    "title": "Hothouse Flowers",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19729,
+    "title": "Bibi",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21270,
+    "title": "Barnaby in Exile",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19117,
+    "title": "Mwalimu in the Squared Circle",
+    "year": 1993,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12680,
+    "title": "The Red Tape War",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "red-tape-war.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21273,
+    "title": "Winter Solstice",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13667,
+    "title": "Second Contact",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "MR_secondco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20955,
+    "title": "The Branch",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mr_thebranc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20954,
+    "title": "Redbeard",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "mr_redbeard.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20460,
+    "title": "Alternate Kennedys",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mr_akennedys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18693,
+    "title": "Alternate Presidents",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mr_altpresi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19118,
+    "title": "Alternate Warriors",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mr_altwarr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20960,
+    "title": "Alternate Outlaws",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mr_aoutlaws.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17790,
+    "title": "Alternate Tyrants",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mr_atyrants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28284,
+    "title": "The Alien Heat",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mr_acm25.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12988,
+    "title": "Galactica Discovers Earth",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "galmr_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21267,
+    "title": "Robots Don't Cry",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9330,
+    "title": "The Outpost",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mr_theoutpo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19731,
+    "title": "Hunting the Snark",
+    "year": 1999,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20959,
+    "title": "A Hunger in the Soul",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mr_ahungeri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19797,
+    "title": "The 43 Antarean Dynasties",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20958,
+    "title": "A Miracle of Rare Design",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mr_amiracle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9331,
+    "title": "Seven Views of Olduvai Gorge ",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mr_sevenvie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 190,
+    "title": "Ivory",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mr_ivory.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 20957,
+    "title": "Walpurgis III",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mr_walpurgi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20956,
+    "title": "The Soul Eater",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "mr_thesoule.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13702,
+    "title": "Paradise:  A Chronicle of a Distant World",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "MR_paradise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13703,
+    "title": "Purgatory",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "MR_purgator.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13704,
+    "title": "Inferno",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "MR_inferno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10906,
+    "title": "The Fortress in Orion",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mr_thefortr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15615,
+    "title": "The Prison in Antares",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mr_thepriso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24866,
+    "title": "The Castle in Cassiopeia",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mr_thecastl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20962,
+    "title": "Soothsayer",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mr_soothsayer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20963,
+    "title": "Oracle",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mr_oracle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20964,
+    "title": "Prophet",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mr_prophet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9329,
+    "title": "Birthright: The Book of Man",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mr_birthrig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9484,
+    "title": "Santiago:  A Myth of the Far Future",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mr_santiago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9485,
+    "title": "The Return of Santiago",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mr_returnos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2089,
+    "title": "Starship: Mutiny",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mr_ssmutin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2090,
+    "title": "Starship: Pirate",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mr_sspirate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2091,
+    "title": "Starship: Mercenary",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mr_ssmercen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2092,
+    "title": "Starship: Rebel",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mr_ssrebel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2093,
+    "title": "Starship: Flagship",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mr_ssflagsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17758,
+    "title": "Sideshow",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mr_sideshow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17759,
+    "title": "The Three-Legged Hootch Dancer",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mr_threeleg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17760,
+    "title": "The Wild Alien Tamer",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mr_wildalie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17761,
+    "title": "The Best Rootin' Tootin' Shootin' Gunslinger in the Whole Damned Galaxy",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mr_bestroot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20965,
+    "title": "Eros Ascending",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mr_eascendi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20966,
+    "title": "Eros at Zenith",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mr_eatzenit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20967,
+    "title": "Eros Descending",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mr_edescend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20968,
+    "title": "Eros at Nadir",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mr_eatnadir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9432,
+    "title": "The Widowmaker",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mr_widowmak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9433,
+    "title": "The Widowmaker Reborn",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mr_wireborn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9434,
+    "title": "The Widowmaker Unleashed",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mr_widunlea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9435,
+    "title": "A Gathering of Widowmakers",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mr_agatheri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9450,
+    "title": "Adventures ",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mr_adventur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9451,
+    "title": "Exploits",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mr_exploits.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9452,
+    "title": "Encounters",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mr_encounte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9453,
+    "title": "Hazards",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mr_hazards.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23108,
+    "title": "Voyages",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mr_voyages.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32441,
+    "title": "The Master of Dreams",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mr_themaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2215,
+    "title": "Stalking the Unicorn",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mr_unicorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2216,
+    "title": "Stalking the Vampire",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mr_vampire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2217,
+    "title": "Stalking the Dragon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mr_dragon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21262,
+    "title": "The Bride of Frankenstein",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21394,
+    "title": "Future Earths: Under African Skies",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mrgd_africans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21395,
+    "title": "Future Earths: Under South American Skies",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mrgd_southame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10447,
+    "title": "The Goddess of Ganymede",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "mr_thegodde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10448,
+    "title": "Pursuit on Ganymede",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "mr_pursuito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9487,
+    "title": "Kilimanjaro:  A Fable of Utopia",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mr_kilimanj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9486,
+    "title": "Kirinyaga:  A Fable of Utopia",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mr_kirinyag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21272,
+    "title": "One Perfect Morning, with Jackals",
+    "year": 1991,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19234,
+    "title": "Kirinyaga",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mr_kirinyaga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19233,
+    "title": "For I Have Touched the Sky",
+    "year": 1989,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19235,
+    "title": "The Manamouki",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21271,
+    "title": "The Lotus and the Spear",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20953,
+    "title": "A Little Knowledge",
+    "year": 1994,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19232,
+    "title": "When the Old Gods Die",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20952,
+    "title": "The Land of Nod",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7345,
+    "title": "Nebula Awards Showcase 2007",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mr_nebula07.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10900,
+    "title": "Bully!",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "MR_bully.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10899,
+    "title": "Tor Double #33: Bwana / Bully!",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "MR_bawana.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2293,
+    "title": "The Buntline Special",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mr_thebuntl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3808,
+    "title": "The Doctor and the Kid",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mr_thedocto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4502,
+    "title": "The Doctor and the Rough Rider",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mr_therough.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20961,
+    "title": "The Doctor and the Dinosaurs",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mr_tdadinos.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

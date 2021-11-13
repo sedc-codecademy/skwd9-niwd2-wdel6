@@ -1,0 +1,893 @@
+[
+  {
+    "id": 34338,
+    "title": "Echoes",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ed_echoes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27915,
+    "title": "The Devil and the Deep: Horror Stories of the Sea",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ed_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22126,
+    "title": "Black Feathers:  Dark Avian Tales",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ed_darkavia.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25652,
+    "title": "Haunted Nights",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "edlm_hauntedn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25653,
+    "title": "Mad Hatters and March Hares",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ed_madhatte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19768,
+    "title": "Children of Lovecraft",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ed_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20045,
+    "title": "Nightmares:  A New Decade of Modern Horror",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ed_nightmares.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11123,
+    "title": "The Doll Collection",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ed_thedollc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13602,
+    "title": "The Monstrous",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ed_themonst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9534,
+    "title": "The Cutting Room:  Dark Reflections of the Silver Screen",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ed_thecutti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6756,
+    "title": "Fearful Symmetries",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ed_fearfull.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6758,
+    "title": "Lovecraft's Monsters",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ed_lovecraf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11124,
+    "title": "Nightmare Carnival",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ed_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11126,
+    "title": "Hauntings",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ed_haunting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6168,
+    "title": "Queen Victoria's Book of Spells:  An Anthology of Gaslamp Fantasy",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "edtw_queenvic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24004,
+    "title": "Telling Tales:  The Clarion West 30th Anniversary Anthology",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ed_tellingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11127,
+    "title": "After:  Nineteen Stories of Apocalypse and Dystopia",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "edtw_after.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22664,
+    "title": "Blood and Other Cravings:  Original Stories of Vampires and Vampirism by Today's Greatest Writers of Dark Fiction",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ed_bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11125,
+    "title": "Naked City:  Tales of Urban Fantasy",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ed_nakedcit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11128,
+    "title": "Supernatural Noir",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ed_supernat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6362,
+    "title": "Teeth: Vampire Tales",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "edtw_teeth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4596,
+    "title": "Darkness:  Two Decades of Modern Horror",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ed_darkness.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17627,
+    "title": "Digital Domains:  A Decade of Science Fiction & Fantasy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ed_digitald.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11129,
+    "title": "Haunted Legends",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ednm_hauntedl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11130,
+    "title": "Tails of Wonder and Imagination",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ed_tailsofw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4167,
+    "title": "Lovecraft Unbound:  Twenty Stories",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ed_lunbound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23337,
+    "title": "Poe:  19 New Tales of Suspense, Dark Fantasy and Horror",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ed_poe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19787,
+    "title": "The Del Rey Book of Science Fiction and Fantasy:  Sixteen Original Works by Speculative Fiction's Finest Voices",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ed_thedelre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4597,
+    "title": "Inferno:  New Tales of Terror and the Supernatural",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ed_inferno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24002,
+    "title": "Salon Fantastique:  Fifteen Original Tales of Fantasy",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "edtw_salonfan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6368,
+    "title": "The Dark: New Ghost Stories",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ed_thedark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18986,
+    "title": "Vanishing Acts",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ed_vanishin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6365,
+    "title": "Sirens and Other Daemon Lovers",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "edtw_sirens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24001,
+    "title": "Lethal Kisses",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ed_lethalki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23926,
+    "title": "Off Limits:  Tales of Alien Sex",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ed_offlimit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20044,
+    "title": "Twists of the Tale:  Cat Horror Stories",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ed_twistsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19332,
+    "title": "Little Deaths:  24 Tales of Sex and Horror",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ed_littlede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23481,
+    "title": "A Whisper of Blood",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ed_awhisper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17702,
+    "title": "Alien Sex",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ed_aliensex.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23881,
+    "title": "Blood Is Not Enough:  17 Stories of Vampirism",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ed_bloodisn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30257,
+    "title": "The Best of the Best Horror of the Year: 10 Years of Essential Short Horror Fiction",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ed_bestofbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4430,
+    "title": "The Best Horror of the Year: Volume One",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ed_bhv1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4431,
+    "title": "The Best Horror of the Year: Volume Two",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ed_bhv2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4432,
+    "title": "The Best Horror of the Year: Volume Three",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ed_bhv3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4433,
+    "title": "The Best Horror of the Year: Volume Four",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ed_bhv4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7355,
+    "title": "The Best Horror of the Year: Volume Five",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ed_tbhoty05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8090,
+    "title": "The Best Horror of the Year: Volume Six",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ed_tbhoty6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12381,
+    "title": "The Best Horror of the Year: Volume Seven",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ed_tbhoty7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17757,
+    "title": "The Best Horror of the Year: Volume Eight",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ed_bhv8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23342,
+    "title": "The Best Horror of the Year: Volume Nine",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ed_bhoty9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28410,
+    "title": "The Best Horror of the Year: Volume Ten",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ed_tbnhoy10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34371,
+    "title": "The Best Horror of the Year, Volume 11",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ed_tbhofy11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6274,
+    "title": "Snow White, Blood Red",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "edtw_snowwhit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17756,
+    "title": "Black Thorn, White Rose",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "edtw_blacktho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17755,
+    "title": "Ruby Slippers, Golden Tears",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "edtw_rubyslip.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17754,
+    "title": "Black Swan, White Raven",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "edtw_blackswa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17753,
+    "title": "Silver Birch, Blood Moon",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "edtw_silveerbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17740,
+    "title": "Black Heart, Ivory Bones",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "edtw_blackhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6364,
+    "title": "Troll's Eye View:  A Book of Villainous Tales",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "edtw_trollsey.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3652,
+    "title": "Swan Sister:  Fairy Tales Retold",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "edtw_swansist.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24003,
+    "title": "A Wolf at the Door and Other Retold Fairy Tales ",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "edtw_awolfatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18556,
+    "title": "The Green Man: Tales from the Mythic Forest",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "edtw_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3649,
+    "title": "The Faery Reel:  Tales from the Twilight Realm",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "edtw_thefaery.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17679,
+    "title": "The Coyote Road:  Trickster Tales",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "edtw_thecoyot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18557,
+    "title": "The Beastly Bride and Other Tales of the Animal People",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "edtw_thebeast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7343,
+    "title": "Nebula Awards Showcase 2009",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ed_nebula09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23790,
+    "title": "Omni Best Science Fiction One",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ed_o_bsf_1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23791,
+    "title": "Omni Best Science Fiction Two",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ed_o_bsf_2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23792,
+    "title": "Omni Best Science Fiction Three",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ed_o_bsf_3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23793,
+    "title": "The First Omni Book of Science Fiction",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ed_firstomn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23794,
+    "title": "The Second Omni Book of Science Fiction",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ed_secondom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23795,
+    "title": "The Third Omni Book of Science Fiction",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ed_thirdomn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23796,
+    "title": "The Fourth Omni Book of Science Fiction",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ed_fourthom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23797,
+    "title": "The Fifth Omni Book of Science Fiction",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ed_fifthomn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23798,
+    "title": "The Sixth Omni Book of Science Fiction",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ed_sixthomn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23799,
+    "title": "The Seventh Omni Book of Science Fiction",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ed_seventh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23800,
+    "title": "Omni Visions One",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ed_omnivis1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23801,
+    "title": "Omni Visions Two",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ed_omnivis2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4598,
+    "title": "The Year's Best Fantasy: First Annual Collection",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "edtw_theyears01.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4637,
+    "title": "The Year's Best Fantasy: Second Annual Collection",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "edtw_theyears02.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4638,
+    "title": "The Year's Best Fantasy and Horror: Third Annual Collection",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "edtw_theyears03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4639,
+    "title": "The Year's Best Fantasy and Horror: Fourth Annual Collection",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "edtw_theyears04.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4640,
+    "title": "The Year's Best Fantasy and Horror: Fifth Annual Collection",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "edtw_theyears05.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4641,
+    "title": "The Year's Best Fantasy and Horror: Sixth Annual Collection",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "edtw_theyears06.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4642,
+    "title": "The Year's Best Fantasy and Horror: Seventh Annual Collection",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "edtw_theyears07.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4643,
+    "title": "The Year's Best Fantasy and Horror: Eighth Annual Collection",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "edtw_theyears08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4644,
+    "title": "The Year's Best Fantasy and Horror: Ninth Annual Collection",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "edtw_theyears09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4645,
+    "title": "The Year's Best Fantasy and Horror: Tenth Annual Collection",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "edtw_theyears10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4646,
+    "title": "The Year's Best Fantasy and Horror: Eleventh Annual Collection",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "edtw_theyears11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4647,
+    "title": "The Year's Best Fantasy and Horror: Twelfth Annual Collection",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "edtw_theyears12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4648,
+    "title": "The Year's Best Fantasy and Horror: Thirteenth Annual Collection",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "edtw_theyears13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4649,
+    "title": "The Year's Best Fantasy and Horror: Fourteenth Annual Collection",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "edtw_theyears14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4650,
+    "title": "The Year's Best Fantasy and Horror: Fifteenth Annual Collection",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "edtw_theyears15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4651,
+    "title": "The Year's Best Fantasy and Horror: Sixteenth Annual Collection",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "edtw_theyears16.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4652,
+    "title": "The Year's Best Fantasy and Horror: Seventeenth Annual Collection",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "edklgjg_theyears17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4653,
+    "title": "The Year's Best Fantasy and Horror: Eighteenth Annual Collection",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "edklgjg_theyears18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4654,
+    "title": "The Year's Best Fantasy and Horror: Nineteenth Annual Collection",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "edklgjg_theyears19.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4655,
+    "title": "The Year's Best Fantasy and Horror: Twentieth Annual Collection",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "edklgjg_theyears20.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4656,
+    "title": "The Year's Best Fantasy and Horror: Twenty-First Annual Collection",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "edklgjg_theyears21.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

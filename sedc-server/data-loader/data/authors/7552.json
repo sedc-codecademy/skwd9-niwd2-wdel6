@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35749,
+    "title": "Chain of Command",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "FC_ChainCom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35748,
+    "title": "The Forever Engine",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "FC_ForeverE.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35746,
+    "title": "How Dark the World Becomes",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "FC_HowDarkW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35747,
+    "title": "Come the Revolution",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "FC_ComeRevo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35931,
+    "title": "Dreamwalker",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RJ_Dreamwal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35930,
+    "title": "Q Island",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "RJ_QIsland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35932,
+    "title": "Black Magic",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "RJ_BlackMag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35933,
+    "title": "Sacrifice",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "RJ_Sacrific.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

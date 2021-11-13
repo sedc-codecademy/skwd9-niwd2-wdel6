@@ -1,0 +1,65 @@
+[
+  {
+    "id": 14876,
+    "title": "Saturn's Child",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mwb_nn_saturnsc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14875,
+    "title": "Catalyst of Sorrows",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mwb_catalyst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14874,
+    "title": "Unspoken Truth",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mwb_unspoken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14873,
+    "title": "Burning Dreams",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mwb_burningd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14870,
+    "title": "Dwellers in the Crucible",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mwb_dwellers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14871,
+    "title": "Strangers from the Sky",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mwb_stranger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14872,
+    "title": "Probe",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mwb_probe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

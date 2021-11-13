@@ -1,0 +1,73 @@
+[
+  {
+    "id": 5335,
+    "title": "Edge: A Novel",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ks_edge.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10289,
+    "title": "Dark Water",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "KS_darkwate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36097,
+    "title": "Floating Water",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10285,
+    "title": "Ring",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "KS_thering1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10286,
+    "title": "Spiral",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "KS_spiral.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10287,
+    "title": "Loop",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "KS_loop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10288,
+    "title": "Birthday",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "KS_birthday.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26686,
+    "title": "S: Es",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "KS_ses.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 27591,
+    "title": "Flowering Mandrake",
+    "year": 1994,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6434,
+    "title": "Genetic Soldier",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gt_genetics.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25621,
+    "title": "Brain Child",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "gt_brainchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 193,
+    "title": "The Sea and Summer",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "gt_theseaan.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 24331,
+    "title": "In the Heart or In the Head: An Essay in Time Travel",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gt_inthehea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

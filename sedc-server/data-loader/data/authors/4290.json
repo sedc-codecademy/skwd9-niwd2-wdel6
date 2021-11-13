@@ -1,0 +1,38 @@
+[
+  {
+    "id": 17860,
+    "title": "The Black Guard",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ajs_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17861,
+    "title": "The Dark Blood",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ajs_thedarkb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17862,
+    "title": "The Red Prince",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ajs_theredpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17863,
+    "title": "The World Raven",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ajs_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

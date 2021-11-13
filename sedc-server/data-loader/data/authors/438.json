@@ -1,0 +1,404 @@
+[
+  {
+    "id": 24234,
+    "title": "Five Autobiographies and a Fiction",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ls_fiveauto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23663,
+    "title": "Rose Street Attractors",
+    "year": 2011,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24317,
+    "title": "Viator Plus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ls_viatorpl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8073,
+    "title": "The Best of Lucius Shepard",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "LS_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8076,
+    "title": "Softspoken",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "LS_SoftSpok.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19736,
+    "title": "Stars Seen Through Stone",
+    "year": 2007,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8075,
+    "title": "Eternity and Other Stories",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "LS_Eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8077,
+    "title": "Trujillo",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "LS_Trujillo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7310,
+    "title": "A Handbook of American Prayer",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ls_handbook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6340,
+    "title": "Two Trains Running",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ls_twotrain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31805,
+    "title": "Jailwise",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6339,
+    "title": "Louisiana Breakdown",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ls_louisian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20078,
+    "title": "Only Partly Here",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20082,
+    "title": "Over Yonder",
+    "year": 2002,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8078,
+    "title": "Valentine",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "LS_Valentin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20083,
+    "title": "Eternity and Afterward",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19737,
+    "title": "Radiant Green Star",
+    "year": 2000,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19738,
+    "title": "Crocodile Rock",
+    "year": 1999,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8074,
+    "title": "Barnacle Bill the Spacer and Other Stories",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "LS_Barnacle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21784,
+    "title": "The Last Time",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ls_thelastt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7263,
+    "title": "The Golden",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ls_thegolden.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19739,
+    "title": "Barnacle Bill the Spacer",
+    "year": 1992,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19245,
+    "title": "The Ends of the Earth (collection)",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ls_theendso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19246,
+    "title": "The All-Consuming",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27750,
+    "title": "The Ends of the Earth",
+    "year": 1989,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23910,
+    "title": "Life of Buddha",
+    "year": 1988,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8072,
+    "title": "The Jaguar Hunter (collection)",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "LS_TheJagu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 548,
+    "title": "Life During Wartime",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ls_lifeduri.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 23494,
+    "title": "Shades",
+    "year": 1987,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19244,
+    "title": "Aymara",
+    "year": 1986,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19740,
+    "title": "R & R",
+    "year": 1986,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 441,
+    "title": "Green Eyes",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ls_greeneye.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 17646,
+    "title": "The Jaguar Hunter",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ls_jaguarhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26694,
+    "title": "A Spanish Lesson",
+    "year": 1985,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27827,
+    "title": "Black Coral",
+    "year": 1984,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17647,
+    "title": "Salvador",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ls_salvador.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19741,
+    "title": "A Traveler's Tale",
+    "year": 1984,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23859,
+    "title": "Solitario's Eyes",
+    "year": 1983,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28936,
+    "title": "Sylgarmo's Proclamation",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21782,
+    "title": "The Skull",
+    "year": 2012,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6341,
+    "title": "The Taborin Scale",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ls_thetabor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21783,
+    "title": "Liar's House",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ls_liarshou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17644,
+    "title": "The Father of Stones",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ls_fatherof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17643,
+    "title": "The Scalehunter's Beautiful Daughter",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ls_scalehun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17645,
+    "title": "The Man Who Painted the Dragon Griaule",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ls_manwhopa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5543,
+    "title": "The Dragon Griaule",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ls_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7551,
+    "title": "Beautiful Blood",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ls_beautifu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

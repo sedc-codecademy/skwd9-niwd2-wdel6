@@ -1,0 +1,38 @@
+[
+  {
+    "id": 30312,
+    "title": "Leviathan's Deep",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jc_leviathan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30309,
+    "title": "Navigator's Sindrome",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jc_navigato.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30310,
+    "title": "The Treasure in the Heart of the Maze",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jc_thetreas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30311,
+    "title": "Rabelaisian Reprise",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jc_rabelais.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

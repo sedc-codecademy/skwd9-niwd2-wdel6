@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3045,
+    "title": "The Affinity Trap",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ms_theaffin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3046,
+    "title": "The Destiny Mask",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ms_thedesti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3047,
+    "title": "The Liberty Gun",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ms_theliber.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

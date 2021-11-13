@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2325,
+    "title": "The Mirrored Heavens",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "djw_themirro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2326,
+    "title": "The Burning Skies",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "djw_theburni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2327,
+    "title": "The Machinery of Light",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "djw_themachi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "id": 5342,
+    "title": "The Rapture of the Nerds",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cdcs_theraptu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16588,
+    "title": "A Tall Tail",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cs_atalltai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2094,
+    "title": "Wireless",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cs_wireless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11285,
+    "title": "Palimpsest",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cs_palimpse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28542,
+    "title": "Trunk and Disorderly",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1005,
+    "title": "Glasshouse",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cs_glasshou.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 34504,
+    "title": "Missile Gap",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cs_missileg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26345,
+    "title": "Rogue Farm",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18005,
+    "title": "Toast:  And Other Rusted Futures",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "CS_Toast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20028,
+    "title": "Antibodies",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26346,
+    "title": "A Colder War",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20765,
+    "title": "Empire Games",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cs_empirega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25682,
+    "title": "Dark State",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cs_darkstat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 57,
+    "title": "Singularity Sky",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cs_singular.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 665,
+    "title": "Iron Sunrise",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cs_ironsunr.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1039,
+    "title": "Halting State",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cs_haltings.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2546,
+    "title": "Rule 34",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cs_rule34.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 9374,
+    "title": "Equoid",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cs_equoid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16059,
+    "title": "Overtime",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cs_overtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16066,
+    "title": "Down on the Farm",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cs_downonth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28634,
+    "title": "Pimpf ",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20531,
+    "title": "The Concrete Jungle",
+    "year": 2004,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2547,
+    "title": "The Atrocity Archives",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cs_theatroc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1008,
+    "title": "The Jennifer Morgue",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cs_thejenni.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2548,
+    "title": "The Fuller Memorandum",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cs_thefulle.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5339,
+    "title": "The Apocalypse Codex",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cs_theapoca.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5989,
+    "title": "The Rhesus Chart",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cs_therhesu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13185,
+    "title": "The Annihilation Score",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cs_theannih.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16555,
+    "title": "The Nightmare Stacks",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cs_nightmar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21355,
+    "title": "The Delirium Brief",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cs_delirium.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25904,
+    "title": "The Labyrinth Index",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cs_labyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36676,
+    "title": "Dead Lies Dreaming",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "cs_deadlies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 808,
+    "title": "Accelerando",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cs_accelera.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 18603,
+    "title": "Lobsters",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19848,
+    "title": "Halo",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20918,
+    "title": "Nightfall",
+    "year": 2003,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20530,
+    "title": "Elector",
+    "year": 2004,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 677,
+    "title": "The Family Trade",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cs_thefamil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1593,
+    "title": "The Hidden Family",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cs_thehidde.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1594,
+    "title": "The Clan Corporate",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cs_theclanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1595,
+    "title": "The Merchants' War",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cs_themerchant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1596,
+    "title": "The Revolution Business",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cs_therevol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1597,
+    "title": "The Trade of Queens",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cs_tradeofq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1229,
+    "title": "Saturn's Children",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cs_saturnsc.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 5616,
+    "title": "Neptune's Brood",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cs_neptunes.jpg",
+    "nominations": 3,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11268,
+    "title": "Libyrinth",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pn_libyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11269,
+    "title": "The Boy from Ilysies",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pn_theboyfr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11270,
+    "title": "The Book of the Night",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pn_thebooko.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

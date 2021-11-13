@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16708,
+    "title": "Islands off the Coast of Capitola, 1978",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dh_islandso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9873,
+    "title": "Evening's Empire",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dh_evenings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9763,
+    "title": "Ceres Storm",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dh_ceressto.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

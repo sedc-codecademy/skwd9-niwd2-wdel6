@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16807,
+    "title": "Labyrinth",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "km_labyrint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16808,
+    "title": "Sepulchre",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "km_sepulchr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16809,
+    "title": "Citadel",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "km_citadel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

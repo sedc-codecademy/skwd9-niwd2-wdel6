@@ -1,0 +1,493 @@
+[
+  {
+    "id": 20443,
+    "title": "Norse Mythology",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "NG_norsemyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18531,
+    "title": "The View from the Cheap Seats:  Selected Nonfiction",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ng_theviewfrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16769,
+    "title": "The Return of the Thin White Duke",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ng_returnof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10760,
+    "title": "Trigger Warning:  Short Fictions and Disturbances",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ng_triggerw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28791,
+    "title": "How the Marquis Got His Coat Back",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10843,
+    "title": "The Truth is a Cave in the Black Mountains:  A Tale of Travel and Darkness with Pictures of All",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ng_thetruth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5596,
+    "title": "The Ocean at the End of the Lane",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ng_theocean.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 14640,
+    "title": "The Sleeper and the Spindle",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ng_thesleep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6330,
+    "title": "Unnatural Creatures",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ng_unnatura.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28675,
+    "title": "Adventure Story",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28864,
+    "title": "And Weep Like Alexander",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19869,
+    "title": "Stories:  All-New Tales",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ngas_stories.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28876,
+    "title": "The Thing About Cassandra",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22738,
+    "title": "An Invocation of Incuriosity",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1228,
+    "title": "The Graveyard Book",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ng_thegrave.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 15508,
+    "title": "Odd and the Frost Giants",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ng_oddandth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32044,
+    "title": "Orange",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26874,
+    "title": "M Is for Magic",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ng_misforma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26870,
+    "title": "The Witch's Headstone",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3932,
+    "title": "Fragile Things",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ng_fragilet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17591,
+    "title": "How to Talk to Girls at Parties",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ng_howtotal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26386,
+    "title": "Sunbird",
+    "year": 2005,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17114,
+    "title": "Bitter Grounds",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ng_bittergr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21318,
+    "title": "A Study in Emerald",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3654,
+    "title": "Coraline",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ng_coraline.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24097,
+    "title": "October in the Chair",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34679,
+    "title": "A Walking Tour of the Shambles: Little Walks For Sightseers #16",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "NG&GW_AWalking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 706,
+    "title": "Stardust",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ng_stardust.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24000,
+    "title": "Shoggoth's Old Peculiar",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ng_shoggoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3931,
+    "title": "Smoke and Mirrors",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ng_smokeand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3318,
+    "title": "Neverwhere",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ng_neverwhe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10340,
+    "title": "The Sandman:  Book of Dreams",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ngeek_sandmanb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23963,
+    "title": "Troll-Bridge",
+    "year": 1993,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35803,
+    "title": "Now We Are Sick:  An Anthology of Nasty Verse",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "NG&SJ_NowWeAre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 745,
+    "title": "Good Omens",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "tpng_goodomen.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 3687,
+    "title": "Don't Panic The Official Hitchhiker's Guide to the Galaxy Companion",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ng_dontpani.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17100,
+    "title": "I, Cthulhu",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ng_icthulhu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26132,
+    "title": "Black Dog",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ng_blackdog.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 49,
+    "title": "American Gods",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ng_american.jpg",
+    "nominations": 8,
+    "wins": -1
+  },
+  {
+    "id": 848,
+    "title": "Anansi Boys",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ng_anansibo.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 14344,
+    "title": "InterWorld",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "NG_interwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14345,
+    "title": "The Silver Dream",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "NG_silverdr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14346,
+    "title": "Eternity's Wheel",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "NG_eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16432,
+    "title": "The Sandman: Overture",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "NG_overture.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23943,
+    "title": "A Midsummer Night's Dream",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3316,
+    "title": "The Sandman: Preludes and Nocturnes",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ng_preludes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3329,
+    "title": "The Sandman: The Doll's House",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ng_thedolls.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3330,
+    "title": "The Sandman: Dream Country",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ng_dreamcou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3331,
+    "title": "The Sandman: Season of Mists",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ng_seasonof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3332,
+    "title": "The Sandman: A Game of You",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ng_agameofy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3333,
+    "title": "The Sandman: Fables & Reflections",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ng_fablesan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3334,
+    "title": "The Sandman: Brief Lives",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ng_briefliv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3335,
+    "title": "The Sandman: Worlds' End",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ng_worldsen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3336,
+    "title": "The Sandman: The Kindly Ones",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ng_thekindl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3337,
+    "title": "The Sandman: The Wake",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ng_thewake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28654,
+    "title": "The Case of Death and Honey",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

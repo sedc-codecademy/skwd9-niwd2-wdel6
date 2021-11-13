@@ -1,0 +1,29 @@
+[
+  {
+    "id": 27989,
+    "title": "Who Runs the World?",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "vb_whorunst.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27990,
+    "title": "H2O",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "vb_h2o.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27991,
+    "title": "The Storm",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "vb_thestorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

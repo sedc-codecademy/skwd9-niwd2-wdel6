@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6849,
+    "title": "The Flying Inn",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "gkc_theflyin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3108,
+    "title": "The Man Who Was Thursday:  A Nightmare",
+    "year": 1908,
+    "type": "novel",
+    "imageName": "gkc_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23170,
+    "title": "The Club of Queer Trades",
+    "year": 1905,
+    "type": "novel",
+    "imageName": "GKC_TheClubO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6848,
+    "title": "The Napoleon of Notting Hill",
+    "year": 1904,
+    "type": "novel",
+    "imageName": "gkc_thenapol.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "id": 34328,
+    "title": "The Gossamer Mage",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jec_thegossa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 29018,
+    "title": "Search Image",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jec_searchim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 474,
+    "title": "In the Company of Others",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jec_inthecom.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 22328,
+    "title": "The Passenger",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22223,
+    "title": "Nebula Awards Showcase 2017",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jec_nebula2017.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6694,
+    "title": "A Turn of Light",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jec_turnofli.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6696,
+    "title": "A Play of Shadow",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jec_aplayofs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14659,
+    "title": "This Gulf of Time and Stars",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jec_thisgulf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19287,
+    "title": "The Gate To Futures Past",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jec_thegatet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24309,
+    "title": "To Guard Against the Dark",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jc_toguarda.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6691,
+    "title": "Survival",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jec_survival.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6692,
+    "title": "Migration",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jec_migratio.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6693,
+    "title": "Regeneration ",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jec_regenera.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5808,
+    "title": "Reap the Wild Wind",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jec_reapthew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5809,
+    "title": "Riders of the Storm",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jec_ridersof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5810,
+    "title": "Rift in the Sky",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jec_riftinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5805,
+    "title": "A Thousand Words for Stranger",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jec_athousan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5806,
+    "title": "Ties of Power",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jec_tiesofpo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5807,
+    "title": "To Trade the Stars",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jec_totradet.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12106,
+    "title": "Beholder's Eye",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jc_beholder.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12107,
+    "title": "Changing Vision",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jc_changingv.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12108,
+    "title": "Hidden in Sight",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jc_hiddenin.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

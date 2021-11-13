@@ -1,0 +1,47 @@
+[
+  {
+    "id": 34842,
+    "title": "Invasion",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ML_invasion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34843,
+    "title": "World Divided",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ML_worlddiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34844,
+    "title": "Revolution",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ML_revoluti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34845,
+    "title": "Collision",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ML_collisio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34846,
+    "title": "Avalanche",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ML_avalanch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

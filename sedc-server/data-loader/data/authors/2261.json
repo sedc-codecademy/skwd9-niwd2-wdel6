@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8422,
+    "title": "Uprising",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sc_uprising.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26540,
+    "title": "The Gildar Rift",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sc_thegilda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15492,
+    "title": "Valkia the Bloody",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sc_valkiath.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

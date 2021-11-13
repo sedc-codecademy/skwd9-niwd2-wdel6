@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11251,
+    "title": "Devilish",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mj_devilish.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36481,
+    "title": "The Name of the Star",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "MJ_NameStar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36482,
+    "title": "The Madness Underneath",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "MJ_MadnessU.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36483,
+    "title": "The Shadow Cabinet",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "MJ_ShadowCa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

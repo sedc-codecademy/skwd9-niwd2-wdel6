@@ -1,0 +1,146 @@
+[
+  {
+    "id": 13365,
+    "title": "Renaissance Faire",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "anjr_renaissa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14848,
+    "title": "The Silver Stair",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jr_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14756,
+    "title": "The Dawning of a New Age",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jr_thedawni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14757,
+    "title": "The Day of the Tempest",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jr_thedayte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14758,
+    "title": "The Eve of the Maelstrom",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jr_theeveof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14852,
+    "title": "The Lake of Death",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jr_thelakeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14759,
+    "title": "Downfall",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jr_downfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14760,
+    "title": "Betrayal",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jr_betrayal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14761,
+    "title": "Redemption",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jr_redempti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14763,
+    "title": "The Rebellion",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jr_therebel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14765,
+    "title": "Death March",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jr_deathmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14766,
+    "title": "Goblin Nation",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jr_goblinna.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14883,
+    "title": "Maquesta Kar-Thon",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tdjr_maquesta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13230,
+    "title": "A Taste of Magic",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "anjr_atasteof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13283,
+    "title": "Dragon Mage",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "anjr_dragonma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11170,
+    "title": "Return to Quag Keep",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "AN_returnqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

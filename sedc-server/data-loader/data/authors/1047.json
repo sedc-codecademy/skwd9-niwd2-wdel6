@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1894,
+    "title": "Lord of Silence",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mc_lordofsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1144,
+    "title": "Nocturne",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "mc_nocturne.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1171,
+    "title": "World's End",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mc_worldsen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1396,
+    "title": "Darkest Hour",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mc_darkesth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1177,
+    "title": "Always Forever",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mc_alwaysfo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1180,
+    "title": "The Devil in Green",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mc_deviling.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1188,
+    "title": "The Queen of Sinister",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mc_thequeen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1190,
+    "title": "The Hounds of Avalon",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mc_thehound.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1889,
+    "title": "The Ice Wolves",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mc_hellboyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1198,
+    "title": "Jack of Ravens",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mc_jackofra.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1429,
+    "title": "The Burning Man",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mc_theburni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1430,
+    "title": "Destroyer of Worlds",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mc_destroye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1924,
+    "title": "The Silver Skull",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mc_thesilve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2294,
+    "title": "The Scar-Crow Men",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mc_thescarc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4507,
+    "title": "The Devil's Looking Glass",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mc_devilslo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9129,
+    "title": "Wonderland",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mc_wonderla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

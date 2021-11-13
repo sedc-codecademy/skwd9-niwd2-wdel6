@@ -1,0 +1,450 @@
+[
+  {
+    "id": 28325,
+    "title": "The Guile",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "im_theguile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27080,
+    "title": "Time Was",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "imd_timewas.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 17852,
+    "title": "The Best of Ian McDonald",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "im_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27889,
+    "title": "Women's Christmas",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19757,
+    "title": "Botanica Veneris:  Thirteen Papercuts by Ida Countess Rathangan",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26184,
+    "title": "Driftings",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26384,
+    "title": "The Queen of the Night's Aria",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26657,
+    "title": "Digging",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2074,
+    "title": "The Dervish House",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "imd_thedervi.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 22754,
+    "title": "Tonight We Fly",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19756,
+    "title": "The Tear",
+    "year": 2008,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1036,
+    "title": "Brasyl",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "imd_brasyl.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 27129,
+    "title": "Verthandi's Ring",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27355,
+    "title": "The Old Cosmonaut and the Construction Worker Dream of Mars",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27483,
+    "title": "The Days of Solomon Gursky",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26898,
+    "title": "After Kerry",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22371,
+    "title": "Recording Angel",
+    "year": 1996,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6423,
+    "title": "Sacrifice of Fools",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "imd_sacrific.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1084,
+    "title": "Necroville",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "imd_necrovil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 510,
+    "title": "Scissors Cut Paper Wrap Stone",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "imd_scissors.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16143,
+    "title": "Some Strange Desire",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27651,
+    "title": "The Best and the Rest of James Joyce",
+    "year": 1992,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 620,
+    "title": "Hearts, Hands and Voices",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "imd_heartsha.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7003,
+    "title": "Speaking in Tongues",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "im_speaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27685,
+    "title": "Fragments of an Analysis of a Case of Hysteria",
+    "year": 1991,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 523,
+    "title": "King of Morning, Queen of Day",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "imd_kingofmo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6558,
+    "title": "Out on Blue Six",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "im_outonbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27033,
+    "title": "Rainmaker Cometh",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7002,
+    "title": "Empire Dreams",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "im_empired.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16142,
+    "title": "Unfinished Portrait of the King of Pain by Van Gogh",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "im_unfinish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19754,
+    "title": "Tendeléo's Story",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "im_tendeleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 422,
+    "title": "Chaga",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "imd_chaga.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6952,
+    "title": "Kirinya",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "im_kirinya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 632,
+    "title": "Desolation Road",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "imd_desolati.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6951,
+    "title": "Ares Express",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "im_aresexpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3807,
+    "title": "Planesrunner",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "imd_planesru.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4501,
+    "title": "Be My Enemy",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "imd_bemyenem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6158,
+    "title": "Empress of the Sun",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "imd_empresso.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11297,
+    "title": "Vishnu at the Cat Circus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "im_vishnuat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24752,
+    "title": "An Eligible Boy",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26183,
+    "title": "The Dust Assassin",
+    "year": 2008,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26603,
+    "title": "Sanjeev and Robotwallah",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16141,
+    "title": "The Djinn's Wife",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "im_djinnswi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16140,
+    "title": "The Little Goddess",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "im_littlego.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 573,
+    "title": "River of Gods",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "imd_riverofgo.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1653,
+    "title": "Cyberabad Days",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "imd_cyberaba.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35605,
+    "title": "The Menace from Farside",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lm_menacefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27875,
+    "title": "The Falls: A Luna Story",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16703,
+    "title": "The Fifth Dragon",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "im_fifthdra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13107,
+    "title": "Luna: New Moon",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "im_lunanewm.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18572,
+    "title": "Luna: Wolf Moon",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "im_lunawolf.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31741,
+    "title": "Luna: Moon Rising",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "im_moonrisi.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

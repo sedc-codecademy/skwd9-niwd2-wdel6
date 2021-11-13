@@ -1,0 +1,37 @@
+[
+  {
+    "id": 21994,
+    "title": "Saisensu Fikushon 2016",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "TF_saiensuf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22112,
+    "title": "Orbital Cloud",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "TF_orbitalc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12373,
+    "title": "Gene Mapper",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "TF_genemap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23180,
+    "title": "Violation of the TrueNet Security Act",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

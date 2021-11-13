@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2835,
+    "title": "Lear's Daughters",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mbkwbr_learsdau.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30314,
+    "title": "The Wave and the Flame",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mbk_thewavea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30315,
+    "title": "Reign of Fire",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mbkwbr_reighoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

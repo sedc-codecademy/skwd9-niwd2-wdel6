@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11466,
+    "title": "Heaven's Net is Wide",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "lh_heavensn.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11462,
+    "title": "Across the Nightingale Floor",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lh_acrossth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11463,
+    "title": "Grass For His Pillow",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lh_grassfor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11464,
+    "title": "Brilliance of the Moon",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lh_brillian.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11465,
+    "title": "The Harsh Cry of the Heron",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "lh_harshcry.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

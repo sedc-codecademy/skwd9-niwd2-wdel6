@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15045,
+    "title": "Tales of Trenzalore",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jr_talesoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15015,
+    "title": "Hunter's Moon",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pf_huntersm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14582,
+    "title": "Stronghold",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pf_strongho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

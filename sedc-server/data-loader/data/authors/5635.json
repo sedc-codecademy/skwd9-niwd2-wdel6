@@ -1,0 +1,64 @@
+[
+  {
+    "id": 26836,
+    "title": "Black as Blood",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rc_blackasb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26828,
+    "title": "This Side of Independence",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26835,
+    "title": "Rounded with Sleep",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rc_roundedw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26834,
+    "title": "Men Like Rats",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "rc_menliker.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26833,
+    "title": "The Shores of Kansas",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "rc_theshore.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26832,
+    "title": "The Star-Crowned Kings",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "rc_thestarc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26831,
+    "title": "As the Curtain Falls",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "rc_asthecur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

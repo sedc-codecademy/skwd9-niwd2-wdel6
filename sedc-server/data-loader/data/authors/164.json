@@ -1,0 +1,72 @@
+[
+  {
+    "id": 13076,
+    "title": "The Child Eater",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rp_thechild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22880,
+    "title": "Burning Beard: The Dreams and Visions of Joseph Ben Jacob, Lord Viceroy of Egypt",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 896,
+    "title": "Godmother Night",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rp_godmothe.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 32700,
+    "title": "Golden Vanity",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "RP_GoldenVa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28669,
+    "title": "Jack Shade in the Forest of Souls",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30228,
+    "title": "The Beatrix Gates",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rp_thebeatr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 636,
+    "title": "Unquenchable Fire",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "rp_unquench.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 172,
+    "title": "Temporary Agency",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rp_temporar.jpg",
+    "nominations": 3,
+    "wins": -1
+  }
+]

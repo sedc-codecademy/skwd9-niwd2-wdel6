@@ -1,0 +1,92 @@
+[
+  {
+    "id": 35631,
+    "title": "The Guinevere Deception",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "KW_guinever.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32778,
+    "title": "And I Darken",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kw_andidark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32779,
+    "title": "Now I Rise",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kw_nowirise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32780,
+    "title": "Bright We Burn",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "kw_brightwe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32725,
+    "title": "The Dark Descent of Elizabeth Frankenstein",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "KW_DarkDesc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32726,
+    "title": "Mind Games",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "KW_MindGame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32727,
+    "title": "Perfect Lies",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "KW_PerfectL.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32781,
+    "title": "Paranormalcy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kw_paranorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32782,
+    "title": "Supernaturally",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kw_supernat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32783,
+    "title": "Endlessly",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kw_endlessl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

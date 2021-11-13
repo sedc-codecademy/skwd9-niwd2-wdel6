@@ -1,0 +1,100 @@
+[
+  {
+    "id": 31480,
+    "title": "Vigilance",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rjb_vigilance.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5191,
+    "title": "American Elsewhere",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rjb_american.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5190,
+    "title": "The Troupe",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rjb_thetroup.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3907,
+    "title": "The Company Man",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rjb_thecompa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22855,
+    "title": "A Drink for Teddy Ford",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4567,
+    "title": "Mr. Shivers",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rjb_mrshiver.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9232,
+    "title": "City of Stairs",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rjb_cityofst.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 14284,
+    "title": "City of Blades",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rjb_cityofbl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21893,
+    "title": "City of Miracles",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "rjb_cityofmi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28040,
+    "title": "Foundryside",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rjb_foundrys.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 33949,
+    "title": "Shorefall",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "rjb_shorefal.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 10322,
+    "title": "Borderland",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "twmaa_borderla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10323,
+    "title": "Bordertown",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "twmaa_borderto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24806,
+    "title": "Elsewhere",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "twmaa_elsewhe1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24807,
+    "title": "Elsewhere, Vol. II",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "twmaa_elsewhe2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24808,
+    "title": "Elsewhere, Vol. III",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "twmaa_elsewhe3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

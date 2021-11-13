@@ -1,0 +1,37 @@
+[
+  {
+    "id": 16783,
+    "title": "Leena Krohn: Collected Fiction",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lk_collected.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8872,
+    "title": "Datura",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lk_datura.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23255,
+    "title": "Gorgonoids",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8871,
+    "title": "Tainaron:  Mail from Another City",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lk_tainaron.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

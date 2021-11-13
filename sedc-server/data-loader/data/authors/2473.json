@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10775,
+    "title": "Mary Poppins From A to Z",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "PT_fromatoz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9492,
+    "title": "Mary Poppins",
+    "year": 1934,
+    "type": "novel",
+    "imageName": "plt_marypopp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10772,
+    "title": "Mary Poppins Comes Back",
+    "year": 1935,
+    "type": "novel",
+    "imageName": "Pt_mpcomesb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10773,
+    "title": "Mary Poppins Opens the Door",
+    "year": 1944,
+    "type": "novel",
+    "imageName": "PT_mpopens.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10774,
+    "title": "Mary Poppins in the Park",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "PT_inthepar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10777,
+    "title": "Mary Poppins in Cherry Tree Lane",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "PT_cherrytr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10776,
+    "title": "Mary Poppins in the Kitchen:  A Cookery Book with a Story",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "PT_kitchen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10778,
+    "title": "Mary Poppins and the House Next Door",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "PT_housenex.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

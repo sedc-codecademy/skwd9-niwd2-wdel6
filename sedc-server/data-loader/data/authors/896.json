@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9802,
+    "title": "The Impossible Bird",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pol_theimpos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24362,
+    "title": "Other Voices, Other Doors",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pol_othervoi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 894,
+    "title": "The Gift",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pol_thegift.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 9788,
+    "title": "Door Number Three",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pol_doornumb.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

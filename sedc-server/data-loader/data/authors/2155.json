@@ -1,0 +1,56 @@
+[
+  {
+    "id": 7924,
+    "title": "Malice",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jg_malice.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7972,
+    "title": "Valour",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jg_valour.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13055,
+    "title": "Ruin",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jg_ruin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21411,
+    "title": "Wrath",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jg_wrath.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25372,
+    "title": "A Time of Dread",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jg_atimeofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32484,
+    "title": "A Time of Blood",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jg_atoblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

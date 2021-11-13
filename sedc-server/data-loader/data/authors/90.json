@@ -1,0 +1,700 @@
+[
+  {
+    "id": 36162,
+    "title": "Sea Change",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "NK_seachang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27923,
+    "title": "Canoe",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27935,
+    "title": "Dear Sarah",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28769,
+    "title": "Every Hour of Light and Dark",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14056,
+    "title": "The Best of Nancy Kress",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "nk_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28733,
+    "title": "Cocoons",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27880,
+    "title": "Machine Learning",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23431,
+    "title": "Someone to Watch Over Me",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19708,
+    "title": "Annabel Lee",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nk_annabell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16793,
+    "title": "One",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nk_one.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26529,
+    "title": "Pathways",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5768,
+    "title": "After the Fall, Before the Fall, During the Fall",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nk_afterthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13879,
+    "title": "Flash Point",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nk_flashpoi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4941,
+    "title": "Fountain of Age:  Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nk_fountain.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22089,
+    "title": "Eliot Wrote",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7806,
+    "title": "Act One",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "nk_actone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31974,
+    "title": "Exegesis",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26497,
+    "title": "Images of Anna",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1703,
+    "title": "Steal Across the Sky",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "nk_stealacr.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6925,
+    "title": "Dogs",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "nk_dogs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16087,
+    "title": "The Erdmann Nexus",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "nk_erdmannn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6228,
+    "title": "Nano Comes to Clifford Falls: And Other Stories",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "nk_nanocome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22559,
+    "title": "Art of War",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28527,
+    "title": "By Fools Like Me",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22693,
+    "title": "End Game",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19709,
+    "title": "Fountain of Age",
+    "year": 2007,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26498,
+    "title": "Laws of Survival",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19224,
+    "title": "Safeguard",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26644,
+    "title": "Nano Comes to Clifford Falls",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27205,
+    "title": "Shiva in Shadow",
+    "year": 2004,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22017,
+    "title": "Ej-Es",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6926,
+    "title": "Nothing Human",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "nk_nothingh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26251,
+    "title": "The Most Famous Little Girl in the World",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32540,
+    "title": "Patent Infringement",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26758,
+    "title": "Computer Virus",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18468,
+    "title": "My Mother, Dancing",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20050,
+    "title": "Savior",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32740,
+    "title": "To Cuddle Amy",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6226,
+    "title": "Beaker's Dozen",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "nk_beakersd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6927,
+    "title": "Maximum Light",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "nk_maximuml.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33874,
+    "title": "State of Nature",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22436,
+    "title": "Always True to Thee, in My Fashion",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20948,
+    "title": "Steamship Soldier on the Information Front",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20049,
+    "title": "Marigold Outlet",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34210,
+    "title": "Evolution",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19717,
+    "title": "Fault Lines",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27576,
+    "title": "Feigenbaum Number",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26347,
+    "title": "Margin of Error",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13877,
+    "title": "The Aliens of Earth",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "nk_thealien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19710,
+    "title": "Dancing on Air",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "nk_dancingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18467,
+    "title": "The Mountain to Mohammed",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10233,
+    "title": "Murasaki",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pa_murasaki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20608,
+    "title": "And Wild for to Hold",
+    "year": 1991,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7691,
+    "title": "Brain Rose",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "nk_brainros.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26865,
+    "title": "Inertia",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19770,
+    "title": "The Price of Oranges",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "nk_theprice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7614,
+    "title": "An Alien Light",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "nk_analienl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27759,
+    "title": "In Memoriam",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18466,
+    "title": "Out of All Them Bright Stars",
+    "year": 1985,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13878,
+    "title": "Trinity and Other Stories",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "nk_trinitya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7615,
+    "title": "The White Pipes",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "nk_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7657,
+    "title": "The Golden Grove",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "nk_thegolden.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19712,
+    "title": "Trinity",
+    "year": 1984,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7658,
+    "title": "The Prince of Morning Bells",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "nk_theprinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6928,
+    "title": "Crossfire",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "nk_crossfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6929,
+    "title": "Crucible",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "nk_crucible.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7372,
+    "title": "Nebula Awards Showcase 2003",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "nk_nebula03.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7323,
+    "title": "Oaths and Miracles",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "nk_oathsand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7324,
+    "title": "Stinger",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "nk_stinger.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19229,
+    "title": "The Flowers of Aulit Prison",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1392,
+    "title": "Probability Moon",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "nk_probamoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 402,
+    "title": "Probability Sun",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "nk_probasun.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 394,
+    "title": "Probability Space",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "nk_probabil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19711,
+    "title": "Beggars in Spain",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "nk_begganva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 93,
+    "title": "Beggars In Spain",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "nk_beggarsi.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 164,
+    "title": "Beggars and Choosers",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "nk_beggarsa.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1394,
+    "title": "Beggars Ride",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "nk_beggarsr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11573,
+    "title": "New Under The Sun",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nk_tp_newunder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8718,
+    "title": "Yesterday's Kin",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "nk_yesterda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21895,
+    "title": "Tomorrow's Kin",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nk_tomorrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26980,
+    "title": "If Tomorrow Comes",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "nk_iftomorr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28212,
+    "title": "Terran Tomorrow",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "nk_terranto.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

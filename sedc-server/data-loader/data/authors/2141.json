@@ -1,0 +1,29 @@
+[
+  {
+    "id": 7876,
+    "title": "Coyote Cowgirl ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ka_coyoteco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24006,
+    "title": "Blossoms",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ka_blossoms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34636,
+    "title": "Counting on Wildflowers:  An Entanglement",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ka_counting.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

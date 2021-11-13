@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18002,
+    "title": "The Duke in His Castle",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "vn_dukeinhi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18469,
+    "title": "Salt of the Air",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "vn_saltofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18470,
+    "title": "The Story of Love",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "vn_storyofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

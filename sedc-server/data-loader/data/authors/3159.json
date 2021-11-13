@@ -1,0 +1,20 @@
+[
+  {
+    "id": 12217,
+    "title": "Green Thumb",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tc_greenthu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12218,
+    "title": "Pumpkin Teeth",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tc.pumpkint.pg.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

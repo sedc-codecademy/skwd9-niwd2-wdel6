@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9426,
+    "title": "A Study in Silks",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ejh_astudyinsilk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9427,
+    "title": "A Study in Darkness",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ejh_astudyindark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9428,
+    "title": "A Study in Ashes",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ejh_astudyinash.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

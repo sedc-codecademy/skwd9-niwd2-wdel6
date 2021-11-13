@@ -1,0 +1,47 @@
+[
+  {
+    "id": 35151,
+    "title": "The Time Shifters",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "SM_timeshif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21256,
+    "title": "The Stars Are Ours! / Three Faces of Time",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ad_thestars_3facesof.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12954,
+    "title": "The House of Many Worlds",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "SM_houseman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12955,
+    "title": "Killer to Come",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "SM_killerto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12956,
+    "title": "The White Widows",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "SM_whitewid.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

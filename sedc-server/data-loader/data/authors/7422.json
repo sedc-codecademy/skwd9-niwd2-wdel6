@@ -1,0 +1,20 @@
+[
+  {
+    "id": 35161,
+    "title": "Flights",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "OT_Flights.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35160,
+    "title": "Primeval and Other Times",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "OT_Primeval.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

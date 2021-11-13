@@ -1,0 +1,38 @@
+[
+  {
+    "id": 26718,
+    "title": "Adrift",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rb_adrift.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21879,
+    "title": "Tracer",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rb_tracer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21880,
+    "title": "Zero-G",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rb_zerog.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21881,
+    "title": "Impact",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rb_impact.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

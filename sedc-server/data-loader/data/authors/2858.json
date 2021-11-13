@@ -1,0 +1,56 @@
+[
+  {
+    "id": 16488,
+    "title": "The Rotten Beast",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mp_therotte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11229,
+    "title": "The Adoration of Jenna Fox",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mep_theadora.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11230,
+    "title": "The Fox Inheritance",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mep_thefoxin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11231,
+    "title": "Fox Forever",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mep_foxforev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13186,
+    "title": "The Kiss of Deception",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mep_thekisso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13187,
+    "title": "The Heart of Betrayal",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mep_theheart.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

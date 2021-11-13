@@ -1,0 +1,64 @@
+[
+  {
+    "id": 27611,
+    "title": "The Inner City",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "KH_TheInner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31885,
+    "title": "Thick Water",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kh_thickwat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25350,
+    "title": "The Completely Rechargeable Man",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28925,
+    "title": "The Difficulties of Evolution",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kh_thediffi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31556,
+    "title": "The Inner City",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KH_innercit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28927,
+    "title": "Other Places",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "kh_otherpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24453,
+    "title": "In Search of Lost Time",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kh_insearch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

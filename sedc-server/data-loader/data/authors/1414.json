@@ -1,0 +1,236 @@
+[
+  {
+    "id": 20679,
+    "title": "Into the Guns",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "wcd_intotheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24010,
+    "title": "Seek and Destroy",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "wcd_seekandd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27492,
+    "title": "Battle Hymn",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "wcd_battlehy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7915,
+    "title": "Cluster Command",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ddwcd_clusterc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31370,
+    "title": "The Flood",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "wcd_theflood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2878,
+    "title": "Legion of the Damned",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "wcd_legionof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2879,
+    "title": "The Final Battle",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "wcd_thefinal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2880,
+    "title": "By Blood Alone",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "wcd_byblooda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2881,
+    "title": "By Force of Arms",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "wcd_byforceo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2882,
+    "title": "For More Than Glory",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "wcd_formoret.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2883,
+    "title": "For Those Who Fell",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "wcd_forthose.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2884,
+    "title": "When All Seems Lost",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "wcd_whenalls.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2885,
+    "title": "When Duty Calls",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "wcd_whenduty.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4551,
+    "title": "A Fighting Chance",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "wcd_afightin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10804,
+    "title": "Andromeda's Fall",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "wcd_andrfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10805,
+    "title": "Andromeda's Choice",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "wcd_anchoice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10806,
+    "title": "Andromeda's War",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "wcd_androwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14354,
+    "title": "Mass Effect: Deception",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "wcd_deceptio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13275,
+    "title": "Deadeye",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "wcd_deadeye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13276,
+    "title": "Redzone",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "wcd_redzone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19570,
+    "title": "Graveyard",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "wcd_graveyar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17209,
+    "title": "Soldier for the Empire",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "WD_soldeirf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17210,
+    "title": "Rebel Agent",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "WD_rebelage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17211,
+    "title": "Jedi Knight",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "WD_jediknig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13719,
+    "title": "At Empire's Edge",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "WD_atempire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13720,
+    "title": "Bones of Empire",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "WD_bonesofe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

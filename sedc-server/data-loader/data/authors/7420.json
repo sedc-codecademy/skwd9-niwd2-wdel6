@@ -1,0 +1,20 @@
+[
+  {
+    "id": 35149,
+    "title": "Atlantis",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "FMH_Atlantis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35150,
+    "title": "Atlantis in Peril",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "FMH_AtlPeril.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

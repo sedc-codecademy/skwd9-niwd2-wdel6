@@ -1,0 +1,20 @@
+[
+  {
+    "id": 8352,
+    "title": "Flicker",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "TR_Flicker.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8328,
+    "title": "The Memoirs of Elizabeth Frankenstein",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "tr_thememoi.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 32341,
+    "title": "Recursion",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "bc_recursio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19247,
+    "title": "Dark Matter",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bc_darkmatt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32339,
+    "title": "Abandon",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "bc_abandon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36072,
+    "title": "Summer Frost",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "BC_summerfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10857,
+    "title": "Pines",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "BC_pines.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10858,
+    "title": "Wayward",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "BC_wayward.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10859,
+    "title": "The Last Town",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "BC_lasttown.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

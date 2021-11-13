@@ -1,0 +1,20 @@
+[
+  {
+    "id": 35387,
+    "title": "Hero",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "DRK_Hero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35388,
+    "title": "Border Dispute",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "DRK_BorderDi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

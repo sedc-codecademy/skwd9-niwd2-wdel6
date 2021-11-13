@@ -1,0 +1,37 @@
+[
+  {
+    "id": 9536,
+    "title": "The Slow Regard of Silent Things",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pr_theslowr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28922,
+    "title": "The Road to Levenshir",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1222,
+    "title": "The Name of the Wind",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pr_thenameo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2230,
+    "title": "The Wise Man's Fear",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pr_thewisem.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

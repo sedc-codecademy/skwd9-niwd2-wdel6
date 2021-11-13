@@ -1,0 +1,47 @@
+[
+  {
+    "id": 31634,
+    "title": "The Mennyms",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sw_themenny.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31635,
+    "title": "Mennyms in the Wilderness",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sw_mennymsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31636,
+    "title": "Mennyms Under Siege",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sw_mennymsu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31637,
+    "title": "Mennyms Alone",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sw_mennymsalo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31638,
+    "title": "Mennyms Alive",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sw_mennymsali.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

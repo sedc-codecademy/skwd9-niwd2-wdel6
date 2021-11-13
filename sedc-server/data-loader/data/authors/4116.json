@@ -1,0 +1,29 @@
+[
+  {
+    "id": 17173,
+    "title": "Scourge of the Betrayer",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "js_scourgeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17174,
+    "title": "Veil of the Deserters",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "js_veilofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17175,
+    "title": "Chains of the Heretic",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "js_chainsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

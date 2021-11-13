@@ -1,0 +1,128 @@
+[
+  {
+    "id": 12734,
+    "title": "Bleak History",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "JS_bleakhis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34020,
+    "title": "Crawlers",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "js_crawlers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24390,
+    "title": "Really, Really, Really, Really, Weird Stories",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "js_reallyre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24395,
+    "title": "Black Butterflies: A Flock on the Dark Side",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "js_blackbut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24500,
+    "title": "Heatseeker",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "js_heatseek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26074,
+    "title": "In Darkness Waiting",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "js_indarkne.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12364,
+    "title": "A Splendid Chaos",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "js_asplendi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24371,
+    "title": "City Come A-Walkin'",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "js_citycome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34918,
+    "title": "Aliens: Steel Egg",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "JS_steelegg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8274,
+    "title": "New Taboos",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "js_newtaboo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8240,
+    "title": "A Song Called Youth ",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "js_asongcal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8237,
+    "title": "Eclipse ",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "js_eclipse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8238,
+    "title": "Eclipse Penumbra ",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "js_eclipsep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8239,
+    "title": "Eclipse Corona ",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "js_eclipsec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

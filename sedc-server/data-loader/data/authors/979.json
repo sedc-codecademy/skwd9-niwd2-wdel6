@@ -1,0 +1,56 @@
+[
+  {
+    "id": 26777,
+    "title": "The Werewolf of Ponkert",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "HM_ponkert.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21523,
+    "title": "The Ship From Atlantis / The Stolen Sun",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ad_theshipf_thestole.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17764,
+    "title": "Merlin's Godson",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "hwm_merlinsg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17762,
+    "title": "King of the World's Edge",
+    "year": 1939,
+    "type": "novel",
+    "imageName": "hwm_kingofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17763,
+    "title": "The Ship from Atlantis",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "hwm_shipfrom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 977,
+    "title": "Merlin's Ring",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "hwn_merlinsr.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

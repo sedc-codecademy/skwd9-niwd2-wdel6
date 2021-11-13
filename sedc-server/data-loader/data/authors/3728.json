@@ -1,0 +1,38 @@
+[
+  {
+    "id": 32461,
+    "title": "Alphabet Squadron",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "AF_alphabet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36365,
+    "title": "Shadow Fall",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "AF_shadowfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15347,
+    "title": "Twilight Company",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "af_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21718,
+    "title": "Rogue One:  A Star Wars Story",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "AF_rogueone.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

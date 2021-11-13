@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13335,
+    "title": "Undead & Unbound:  Unexpected Tales from Beyond the Grave",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "BS_undeadun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13336,
+    "title": "Eldritch Chrome:  Unquiet Tales of a Mythos-Haunted Future",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "BS_eldritch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13337,
+    "title": "Steampunk Cthulhu:  Mythos Terror in the Age of Steam",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "BS_steampun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8243,
+    "title": "Cthulhu Unbound 3 ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dcbms_cthulhu3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

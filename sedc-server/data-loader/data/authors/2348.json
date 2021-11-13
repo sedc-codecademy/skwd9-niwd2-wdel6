@@ -1,0 +1,20 @@
+[
+  {
+    "id": 8862,
+    "title": "Casualties of War",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "se_casualti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8882,
+    "title": "Dark Progeny",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "st_darkprog.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

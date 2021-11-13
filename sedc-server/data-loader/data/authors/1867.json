@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4912,
+    "title": "Earth Girl",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "je_earthgir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6150,
+    "title": "Earth Star",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "je_earthsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11963,
+    "title": "Earth Flight",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "je_earthfli.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

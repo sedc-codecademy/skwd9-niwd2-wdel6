@@ -1,0 +1,20 @@
+[
+  {
+    "id": 12764,
+    "title": "Chimerascope",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ds_chimeras.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12763,
+    "title": "Impossibilia",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ds_impossib.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

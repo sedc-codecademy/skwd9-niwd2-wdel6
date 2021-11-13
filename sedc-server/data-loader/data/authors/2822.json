@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11106,
+    "title": "Red Rising",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pb_redrisin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11107,
+    "title": "Golden Son",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pb_goldenso.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15926,
+    "title": "Morning Star",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pb_morning.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26069,
+    "title": "Iron Gold",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pb_irongold.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32459,
+    "title": "Dark Age",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pb_darkage.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 19652,
+    "title": "Stardance",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "srjr_stardnva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 795,
+    "title": "Stardance",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "srjr_stardanc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1572,
+    "title": "Starseed",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "srjr_starseed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1573,
+    "title": "Starmind",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "srjr_starmind.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

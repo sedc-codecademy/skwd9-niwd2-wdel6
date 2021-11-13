@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12445,
+    "title": "Wondrous Strange",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ll_wonderou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12446,
+    "title": "Darklight",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ll_darkligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12447,
+    "title": "Tempestuous",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ll_tempestu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

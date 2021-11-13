@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34386,
+    "title": "A Boy and His Dog at the End of the World",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "caf_aboyandh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15609,
+    "title": "The Oversight",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cf_theovers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15610,
+    "title": "The Paradox",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cf_theparad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22691,
+    "title": "The Remnant",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cf_theremna.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

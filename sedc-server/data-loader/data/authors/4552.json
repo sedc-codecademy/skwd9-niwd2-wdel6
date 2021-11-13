@@ -1,0 +1,38 @@
+[
+  {
+    "id": 32442,
+    "title": "The Unicorn Anthology",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "psbjw_theunico.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24140,
+    "title": "The New Voices of Fantasy",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "psbjw_thenewvo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19966,
+    "title": "Invaders:  22 Tales from the Outer Limits of Literature",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JW_Invaders.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23766,
+    "title": "The Sword & Sorcery Anthology",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dghjw_thesword.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

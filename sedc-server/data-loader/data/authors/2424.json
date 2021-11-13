@@ -1,0 +1,29 @@
+[
+  {
+    "id": 22914,
+    "title": "The Man in the Velvet Mask",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "do_themanin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10244,
+    "title": "Falls the Shadow",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "do_fallsthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9131,
+    "title": "The Cabinet of Light",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "do_thecabin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

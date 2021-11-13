@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32626,
+    "title": "The Eternal Enemy",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "MB_EternalE.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32624,
+    "title": "Crystal Phoenix",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "MB_CrystalP.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32625,
+    "title": "The Integrated Man",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "MB_Integrat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

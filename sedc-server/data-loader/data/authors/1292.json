@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9848,
+    "title": "The Knight: A Tale from the High Kingdom",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pv_theknigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2307,
+    "title": "The Cardinal's Blades",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pp_thecardi.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 2375,
+    "title": "The Alchemist in the Shadows",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pp_thealche.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4514,
+    "title": "The Dragon Arcana",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pp_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

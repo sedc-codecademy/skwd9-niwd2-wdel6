@@ -1,0 +1,451 @@
+[
+  {
+    "id": 36113,
+    "title": "Gremlin",
+    "year": 2019,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20763,
+    "title": "Martians Abroad",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cv_martians.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19483,
+    "title": "Amaryllis and Other Stories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cv_amarylli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34321,
+    "title": "The Lady of Shalott",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23282,
+    "title": "Origin Story",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17718,
+    "title": "That Game We Played During the War",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cv_thatgame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23181,
+    "title": "Crazy Rhythm",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22883,
+    "title": "Salvage",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16678,
+    "title": "The Best We Can",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cv_thebestw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22659,
+    "title": "Game of Chance",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26153,
+    "title": "Astrophilia",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9640,
+    "title": "Steel",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cv_steel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9655,
+    "title": "Straying From the Path",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cv_straying.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9639,
+    "title": "Discord's Apple",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cv_discords.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9641,
+    "title": "Voices of Dragons",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cv_voicesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25172,
+    "title": "Swing Time",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9637,
+    "title": "After the Golden Age",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cv_afterthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9638,
+    "title": "Dreams of the Golden Age",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cv_dreamsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27438,
+    "title": "Where Would You Be Now?",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cv_wherewou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26806,
+    "title": "Bannerless",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16043,
+    "title": "Amaryllis",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22074,
+    "title": "Bannerless",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cv_bannerle.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28306,
+    "title": "The Wild Dead",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cv_thewildd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22459,
+    "title": "Harry and Marlowe and the Talisman of the Cult of Egil",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22600,
+    "title": "Harry and Marlowe Escape the Mechanical Siege of Paris",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23221,
+    "title": "Harry and Marlowe Meet the Founder of the Aetherian Revolution",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22833,
+    "title": "Harry and Marlowe and the Intrigues at the Aetherian Exhibition",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22975,
+    "title": "Harry and Marlowe Versus the Haunted Locomotive of the Rockies",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28974,
+    "title": "Harry and Marlowe and the Secret of Ahomana",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34261,
+    "title": "Marlowe and Harry and the Disinclined Laboratory",
+    "year": 2019,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36246,
+    "title": "The Immortal Conquistador",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "CV_immortal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31587,
+    "title": "Paranormal Bromance",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "CV_paranorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9654,
+    "title": "Kitty's Greatest Hits",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cv_greatest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17083,
+    "title": "Kitty's Zombie New Year",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22581,
+    "title": "A Princess of Spain",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9642,
+    "title": "Kitty and the Midnight Hour",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cv_midnight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9643,
+    "title": "Kitty Goes to Washington",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cv_washingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9644,
+    "title": "Kitty Takes a Holiday",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cv_takesaho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9645,
+    "title": "Kitty and the Silver Bullet",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cv_silverbu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9646,
+    "title": "Kitty and the Dead Man's Hand",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cv_deadmans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9647,
+    "title": "Kitty Raises Hell",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cv_raiseshe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9648,
+    "title": "Kitty's House of Horrors",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cv_houseofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9649,
+    "title": "Kitty Goes to War",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cv_goestowa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9650,
+    "title": "Kitty's Big Trouble",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cv_bigtroub.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9651,
+    "title": "Kitty Steals the Show",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cv_stealsth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9652,
+    "title": "Kitty Rocks the House",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cv_rocksthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9653,
+    "title": "Kitty in the Underworld",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cv_intheund.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10839,
+    "title": "Low Midnight",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cv_lowmidni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13715,
+    "title": "Kitty Saves the World",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "cv_ksavesth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 33894,
+    "title": "Long is the Way",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cv&sw_longisth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21738,
+    "title": "The Thing About Growing up in Jokertown",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cv_thething.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16614,
+    "title": "Nuestra Señora de la Esperanza",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cv_nuestras.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

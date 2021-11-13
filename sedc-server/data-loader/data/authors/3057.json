@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11858,
+    "title": "And All the Stars",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "akh_andallth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11857,
+    "title": "The Silence of Medair",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "akh_thesilen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15917,
+    "title": "The Pyramids of London",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "akh_pyramids.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

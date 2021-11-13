@@ -1,0 +1,65 @@
+[
+  {
+    "id": 19102,
+    "title": "Sweet",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "el_sweet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17087,
+    "title": "What Mario Scietto Says",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "el_whatmari.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17086,
+    "title": "Jake and the Other Girl",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "el_jakeandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17085,
+    "title": "Dress Your Marines in White",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "el_dressyou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17088,
+    "title": "Monument 14",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "el_monument.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17089,
+    "title": "Sky on Fire",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "el_skyonfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17090,
+    "title": "Savage Drift",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "el_savagedi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

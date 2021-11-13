@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4513,
+    "title": "The Inferior",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pog_theinfer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4512,
+    "title": "The Deserter",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pog_thedeser.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34576,
+    "title": "The Volunteer",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pog_thevolun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34577,
+    "title": "The Call",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pog_thecall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34578,
+    "title": "The Invasion",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pog_theinvas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 24415,
+    "title": "Skyfarer",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jb_skyfarer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28218,
+    "title": "Dragon Road",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "jb_dragonro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4717,
+    "title": "The Mongoliad:  Book One",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nsgb_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4718,
+    "title": "The Mongoliad:  Book Two",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nsgbmtebjbeddcm_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4719,
+    "title": "The Mongoliad:  Book Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nsgbmt_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

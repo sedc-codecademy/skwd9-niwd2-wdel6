@@ -1,0 +1,146 @@
+[
+  {
+    "id": 10081,
+    "title": "Alien: Resurrection",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ACC_alien4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32464,
+    "title": "Storms of Destiny",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ACC_Stormsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11700,
+    "title": "The Eyes of the Beholders",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "acc_eyesofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11702,
+    "title": "Yesterday's Son",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "acc_yesteson.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11701,
+    "title": "Time For Yesterday",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "acc_timefory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11703,
+    "title": "Sarek",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "acc_sarek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16562,
+    "title": "The Han Solo Trilogy",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "AC_hansolot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16559,
+    "title": "The Paradise Snare",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "AC_paradise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16560,
+    "title": "The Hutt Gambit",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "AC_huttgamb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16561,
+    "title": "Rebel Dawn",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "AC_rebeldaw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15644,
+    "title": "V",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ACC_V1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15645,
+    "title": "V: East Coast Crisis",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ACC_V2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15653,
+    "title": "V: Death Tide",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "ACC_V10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15668,
+    "title": "V: The Original Miniseries - Revised Edition",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KJ_V18.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9577,
+    "title": "Songsmith",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "anacc_songsmit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9300,
+    "title": "Gryphon's Eyrie",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "anacc_gryphons.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

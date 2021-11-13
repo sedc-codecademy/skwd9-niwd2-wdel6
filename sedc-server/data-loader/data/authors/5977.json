@@ -1,0 +1,29 @@
+[
+  {
+    "id": 30330,
+    "title": "The World Beyond the Hill: Science Fiction and the Quest for Transcendence",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "apcp_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30327,
+    "title": "Earth Magic",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "apcp_earthmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30329,
+    "title": "SF in Dimension: A Book of Explorations",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "apcp_sfindime.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

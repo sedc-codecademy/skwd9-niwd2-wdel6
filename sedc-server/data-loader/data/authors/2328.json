@@ -1,0 +1,47 @@
+[
+  {
+    "id": 8815,
+    "title": "Kursaal",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pa_kursaal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8841,
+    "title": "Frontier Worlds",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pa_frontier.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8860,
+    "title": "The Ancestor Cell",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pasc_theances.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15713,
+    "title": "Another Life",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pa_anotherl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15718,
+    "title": "Pack Animals",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pa_packanim.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

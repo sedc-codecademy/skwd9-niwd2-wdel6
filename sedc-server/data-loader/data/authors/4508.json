@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20759,
+    "title": "Gilded Cage",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "vj_gildedga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27432,
+    "title": "Tarnished City",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "vj_tarnishc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 29059,
+    "title": "Bright Ruin",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "vj_brightru.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": 29071,
+    "title": "Monster Portraits",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dsss_mosterpo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30182,
+    "title": "An Account of the Land of Witches",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22729,
+    "title": "Tender:  Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ss_tender.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23313,
+    "title": "The Red Thread",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25737,
+    "title": "The Tale of Mahliya and Mauhub and the White-Footed Gazelle",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28816,
+    "title": "Meet Me in Iram",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23317,
+    "title": "Those",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22217,
+    "title": "How to Get Back to the Forest",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24988,
+    "title": "Ogres of East Africa",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16284,
+    "title": "Selkie Stories Are for Losers",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ss_selkiest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26154,
+    "title": "Honey Bear",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6118,
+    "title": "A Stranger in Olondria",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ss_astrange.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 17134,
+    "title": "The Winged Histories",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ss_thewinge.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": 35045,
+    "title": "The Horde",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "JG_TheHorde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35044,
+    "title": "Star Probe",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "JG_StarProb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35046,
+    "title": "Gold the Man",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "JG_GoldtheM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19135,
+    "title": "An Affair with Genius",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "jg_anaffair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11150,
+    "title": "The Loafers of Refuge",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jg_theloafe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19134,
+    "title": "The Decision Makers",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  }
+]

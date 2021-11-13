@@ -1,0 +1,47 @@
+[
+  {
+    "id": 14972,
+    "title": "Sick Building",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pm_sickbuil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8823,
+    "title": "The Scarlet Empress",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pm_thescarl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8838,
+    "title": "The Blue Angel",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pmjh_thebluea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8885,
+    "title": "Mad Dogs and Englishmen",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pm_maddogsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9031,
+    "title": "Verdigris",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pm_Verdigri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

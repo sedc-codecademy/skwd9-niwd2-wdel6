@@ -1,0 +1,20 @@
+[
+  {
+    "id": 30253,
+    "title": "The Inside Out Man",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "FS_TheInsid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20976,
+    "title": "The Raft",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "fs_theraft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": 9373,
+    "title": "Shifting Shadows",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pb_shifting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7237,
+    "title": "The Hob's Bargain",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pb_thehobsb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7242,
+    "title": "Alpha and Omega",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pb_alphaand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7234,
+    "title": "Cry Wolf",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pb_crywolf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7235,
+    "title": "Hunting Ground",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pb_huntingg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7236,
+    "title": "Fair Game",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pb_fairgame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11071,
+    "title": "Dead Heat",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pb_deadheat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26982,
+    "title": "Burn Bright",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pb_burnbrig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7214,
+    "title": "Dragon Bones",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pb_dragonbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7215,
+    "title": "Dragon Blood",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pb_dragonbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7208,
+    "title": "Moon Called",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pb_mooncall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7209,
+    "title": "Blood Bound",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pb_bloodbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7210,
+    "title": "Iron Kissed",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pb_ironkiss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1870,
+    "title": "Bone Crossed",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pb_bonecros.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7211,
+    "title": "Silver Borne",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pb_silverbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7212,
+    "title": "River Marked",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pb_rivermar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7213,
+    "title": "Frost Burned",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pb_frostbur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6471,
+    "title": "Night Broken",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pb_nightbro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16919,
+    "title": "Fire Touched",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pb_firetouc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21353,
+    "title": "Silence Fallen",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pb_silencef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34351,
+    "title": "Storm Cursed",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pb_stormcur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36319,
+    "title": "Smoke Bitten",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "PB_smokebit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7216,
+    "title": "Raven's Shadow",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pb_ravenssh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7217,
+    "title": "Raven's Strike",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pb_ravensst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7238,
+    "title": "Masques",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pb_masques.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7239,
+    "title": "Steal the Dragon",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pb_stealthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7240,
+    "title": "When Demons Walk",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pb_whendemo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7241,
+    "title": "Wolfsbane",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pb_wolfsban.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

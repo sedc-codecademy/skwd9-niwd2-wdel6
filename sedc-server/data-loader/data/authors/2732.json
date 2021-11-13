@@ -1,0 +1,47 @@
+[
+  {
+    "id": 13873,
+    "title": "Science Fiction:  A Very Short Introduction",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "DS_sciencef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13968,
+    "title": "Anticipations:  Essays on Early Science Fiction and its Precursors",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "DS_anticipa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13989,
+    "title": "Speaking Science Fiction:  Dialogues and Interpretations",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "DS_speaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13872,
+    "title": "Future Wars:  The Anticipations and the Fears",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "DS_futurewa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10664,
+    "title": "Ray Bradbury",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "DS_raybradr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

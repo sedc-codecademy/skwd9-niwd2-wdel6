@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34377,
+    "title": "War-Gamers' World",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "hw_wargamer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34378,
+    "title": "Army of Darkness",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "hw_armyofda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34379,
+    "title": "Messengers of Darkness",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "hw_messenge.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

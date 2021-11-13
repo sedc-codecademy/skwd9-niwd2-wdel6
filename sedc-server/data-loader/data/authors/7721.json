@@ -1,0 +1,20 @@
+[
+  {
+    "id": 36424,
+    "title": "Stonehenge",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "LS_Stonehen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36425,
+    "title": "Apeman, Spaceman",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "LS_ApemanSp.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

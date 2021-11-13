@@ -1,0 +1,65 @@
+[
+  {
+    "id": 9865,
+    "title": "Wasteland of Flint",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "th_wastelan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9866,
+    "title": "House of Reeds",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "th_houseofr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9867,
+    "title": "Land of the Dead",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "th_landofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9768,
+    "title": "The Shadow of Ararat ",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "th_theshadow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9769,
+    "title": "The Gate of Fire",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "th_thegateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9770,
+    "title": "The Storm of Heaven",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "th_thestorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9771,
+    "title": "The Dark Lord",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "th_thedarkl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

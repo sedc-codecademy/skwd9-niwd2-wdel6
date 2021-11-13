@@ -1,0 +1,83 @@
+[
+  {
+    "id": 36437,
+    "title": "The Mist-Torn Witches",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "BH_MistTorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36438,
+    "title": "Witches in Red",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "BH_WitchesR.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36439,
+    "title": "Witches with the Enemy",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "BH_WitchEne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36440,
+    "title": "To Kill a Kettle Witch",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "bh_kwitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36661,
+    "title": "Blood Memories",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "BH_BloodMem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36662,
+    "title": "Hunting Memories",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "BH_HuntingM.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36663,
+    "title": "Memories of Envy",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "BH_MemoEnvy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36664,
+    "title": "In Memories We Fear",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "BH_InMemori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36665,
+    "title": "Ghosts of Memories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "BH_GhostsMe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

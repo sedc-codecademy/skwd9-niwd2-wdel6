@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16666,
+    "title": "Twenty-First Century Science Fiction",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dhpnh_21stcent.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16227,
+    "title": "Starlight 1",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pnh_starlig1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16135,
+    "title": "Starlight 2",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pnh_starlig2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16228,
+    "title": "Starlight 3",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pnh_starlig3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19900,
+    "title": "The Year's Best Science Fiction and Fantasy for Teens: First Annual Collection",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jypnh_tybsffft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 36101,
+    "title": "Waterlines",
+    "year": 2019,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34121,
+    "title": "Thirty-Three Percent Joe",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27911,
+    "title": "Number Thirty-Nine Skink",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27356,
+    "title": "The Secret Life of Bots",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30154,
+    "title": "Lazy Dog Out",
+    "year": 2016,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28759,
+    "title": "Ten Poems for the Mossums, One for the Man",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20127,
+    "title": "Shatterdown",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32594,
+    "title": "Finder",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sp_finder.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36069,
+    "title": "Driving the Deep",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "sp_drivingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

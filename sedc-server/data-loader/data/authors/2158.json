@@ -1,0 +1,74 @@
+[
+  {
+    "id": 26292,
+    "title": "Echoes of the Long War",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dg_echoesofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26296,
+    "title": "The Last Son of Dorn",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dg_thelasts.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26175,
+    "title": "Ferrus Manus",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dg_ferrusma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36174,
+    "title": "Lion El'Jonson:  Lord of the First",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "dg_lioneljo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7927,
+    "title": "Headtaker",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dg_headtake.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15466,
+    "title": "City of the Damned",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dg_cityofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15468,
+    "title": "Kinslayer",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dg_kinslaye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15469,
+    "title": "Slayer",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dg_slayer.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

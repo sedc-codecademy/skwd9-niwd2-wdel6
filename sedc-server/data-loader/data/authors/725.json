@@ -1,0 +1,218 @@
+[
+  {
+    "id": 15700,
+    "title": "The Wheel of Time Companion",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rjhmarms_thewheel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12316,
+    "title": "The World of Robert Jordan's The Wheel of Time",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "rjtp_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7562,
+    "title": "Conan the Defender",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rj_cdefende.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7561,
+    "title": "Conan the Invincible",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rj_cinvinci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7563,
+    "title": "Conan the Unconquered",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "rj_cunconqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7564,
+    "title": "Conan the Triumphant",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "rj_ctriumph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7566,
+    "title": "Conan the Destroyer",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rj_cdestroy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7565,
+    "title": "Conan the Magnificent",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rj_cmagnifi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7567,
+    "title": "Conan the Victorious",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rj_cvictori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1378,
+    "title": "New Spring",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rj_newsprin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1379,
+    "title": "The Eye of the World",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rj_theeyeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1380,
+    "title": "The Great Hunt",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rj_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1381,
+    "title": "The Dragon Reborn",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "rj_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1382,
+    "title": "The Shadow Rising",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "rj_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1383,
+    "title": "The Fires of Heaven",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "rj_thefires.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 728,
+    "title": "Lord of Chaos",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "rj_lordofch.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1384,
+    "title": "A Crown of Swords",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "rj_acrownof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1385,
+    "title": "The Path of Daggers",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "rj_thepatho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1386,
+    "title": "Winter's Heart",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "rj_wintersh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1387,
+    "title": "Crossroads of Twilight",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "rj_crossroa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1388,
+    "title": "Knife of Dreams",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rj_knifeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1691,
+    "title": "The Gathering Storm",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rjbs_thegathe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2322,
+    "title": "Towers of Midnight",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rjbs_towersof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4424,
+    "title": "A Memory of Light",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rjbs_amemoryo.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

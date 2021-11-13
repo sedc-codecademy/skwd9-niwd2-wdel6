@@ -1,0 +1,38 @@
+[
+  {
+    "id": 17074,
+    "title": "The Pandora Sequence",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "FH_pandoras.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3420,
+    "title": "The Jesus Incident",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fhbr_thejesus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3421,
+    "title": "The Lazarus Effect",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fhbr_thelazar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3422,
+    "title": "The Ascension Factor",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "fhbr_theascen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

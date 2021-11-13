@@ -1,0 +1,65 @@
+[
+  {
+    "id": 15531,
+    "title": "Shepherd Moon",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "wl_shepherd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15520,
+    "title": "Resurrection",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "wl_resurrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15523,
+    "title": "Eternity Unbound",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "wl_eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15525,
+    "title": "Omega",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "wl_omega.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15526,
+    "title": "Alpha",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "wl_alpha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15528,
+    "title": "Johnny Byrne's Children of the Gods",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "wl_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15530,
+    "title": "The Final Revolution",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "wl_finalrev.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

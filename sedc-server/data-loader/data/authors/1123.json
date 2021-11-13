@@ -1,0 +1,65 @@
+[
+  {
+    "id": 12110,
+    "title": "The Court of Lies",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "MT_TheCourt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10021,
+    "title": "Earth Thirst",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mt_earththi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1749,
+    "title": "Lightbreaker",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mt_lightbre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10020,
+    "title": "Heartland",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mt_heartlan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4717,
+    "title": "The Mongoliad:  Book One",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nsgb_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4718,
+    "title": "The Mongoliad:  Book Two",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nsgbmtebjbeddcm_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4719,
+    "title": "The Mongoliad:  Book Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nsgbmt_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

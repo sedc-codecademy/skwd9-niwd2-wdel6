@@ -1,0 +1,519 @@
+[
+  {
+    "id": 28695,
+    "title": "The Machine Starts",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6656,
+    "title": "Multiverse:  Exploring Poul Anderson's Worlds",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gbgd_multiver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2353,
+    "title": "Hull Zero Three",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gb_hullzero.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1232,
+    "title": "City at the End of Time",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gb_cityatth.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 32304,
+    "title": "RAM Shift Phase 2",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13693,
+    "title": "Dead Lines:  A Novel of Life… After Death",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "GB_deadline.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28065,
+    "title": "Sleepside: The Collected Fantasies",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "gb_sleepsid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28064,
+    "title": "W3: Women in Deep Time",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gb_womenind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6227,
+    "title": "The Collected Stories of Greg Bear",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gb_thecolle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 400,
+    "title": "Vitals",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "gb_vitals.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3707,
+    "title": "Dinosaur Summer",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gb_dinosaur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28063,
+    "title": "Bear's Fantasies",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gb_bearsfan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10233,
+    "title": "Murasaki",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pa_murasaki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18750,
+    "title": "Sisters",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gb_sisters.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17990,
+    "title": "Tangents (collection)",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "gb_tangents.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28062,
+    "title": "Early Harvest",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gb_earlyhar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17991,
+    "title": "Tangents",
+    "year": 1986,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 204,
+    "title": "Blood Music",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gb_bloodmus.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 18810,
+    "title": "Blood Music",
+    "year": 1983,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19409,
+    "title": "Hardfought",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "gb_hardfought.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21247,
+    "title": "The Wind From a Burning Woman",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "GB_TheWindF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18032,
+    "title": "Petra",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28061,
+    "title": "Strength of Stones",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "gb_strength.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28060,
+    "title": "Beyond Heaven's River",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gb_beyondhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10890,
+    "title": "Hegira",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gb_hegira.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28059,
+    "title": "Psychlone",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "gb_psychlon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28056,
+    "title": "Just Over the Horizon",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gb_justover.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28057,
+    "title": "Far Thoughts and Pale Gods",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gb_farthoug.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28058,
+    "title": "Beyond the Farthest Suns",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gb_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 72,
+    "title": "Darwin's Radio",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "gb_darwinsr.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 385,
+    "title": "Darwin's Children",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "gb_darwinsc.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 4717,
+    "title": "The Mongoliad:  Book One",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nsgb_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4718,
+    "title": "The Mongoliad:  Book Two",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "nsgbmtebjbeddcm_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4719,
+    "title": "The Mongoliad:  Book Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nsgbmt_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 118,
+    "title": "The Forge of God",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "gb_theforge.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1473,
+    "title": "Anvil of Stars",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "gb_anvilofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28053,
+    "title": "Halo: Cryptum",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gb_cryptum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28054,
+    "title": "Halo: Primordium",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "gb_primordi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28055,
+    "title": "Halo: Silentium",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "gb_silentiu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17535,
+    "title": "Nebula Awards Showcase 2015",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gb_nebu2015.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13663,
+    "title": "Quantico",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "GB_quantico.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13664,
+    "title": "Mariposa",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "GB_mariposa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 107,
+    "title": "Queen of Angels",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gb_queenofa.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 17530,
+    "title": "Heads",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "gb_heads.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 95,
+    "title": "Moving Mars",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gb_movingma.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 418,
+    "title": "Slant",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gb_slant.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3266,
+    "title": "Foundation and Chaos",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gb_foundcha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 780,
+    "title": "The Infinity Concerto",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gb_theinfin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1648,
+    "title": "The Serpent Mage",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "gb_theserpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11638,
+    "title": "Corona",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "gb_corona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17056,
+    "title": "Rogue Planet",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "GB_rogueple.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11084,
+    "title": "Tor Double #2: Hardfought / Cascade Point",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gbtz_tordbl2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9540,
+    "title": "War Dogs",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gb_wardogs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13994,
+    "title": "Killing Titan",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gb_killingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20017,
+    "title": "Take Back the Sky",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gb_takeback.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 648,
+    "title": "Eon",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "gb_eon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1263,
+    "title": "Eternity",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "gb_eternity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 721,
+    "title": "Legacy",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gb_legacy.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

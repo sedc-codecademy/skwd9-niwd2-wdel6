@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20585,
+    "title": "Night of the Wolves, 2345-2357",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SP_nightwol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20586,
+    "title": "Dawn of the Eagles, 2360-2369",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "SP_dawneagl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20587,
+    "title": "Inception",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "SP_inceptio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

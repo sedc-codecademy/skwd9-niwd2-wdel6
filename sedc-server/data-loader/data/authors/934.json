@@ -1,0 +1,640 @@
+[
+  {
+    "id": 15870,
+    "title": "Ashley Bell",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dk_ashleybe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8093,
+    "title": "The City",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dk_thecity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6699,
+    "title": "Innocence",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dk_innocenc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11077,
+    "title": "77 Shadow Street",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "DK_77shadow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26000,
+    "title": "Breathless",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dk_breathle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9843,
+    "title": "Relentless",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dk_relentle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19121,
+    "title": "The Good Guy",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dk_thegoodg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25999,
+    "title": "Velocity",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dk_velocity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19119,
+    "title": "Life Expectancy",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dk_lifeexpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4610,
+    "title": "The Taking",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dk_thetakin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9425,
+    "title": "The Face",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dk_theface.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15843,
+    "title": "One Door Away from Heaven",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "dk_onedoora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9422,
+    "title": "From the Corner of His Eye",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dk_fromthec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15842,
+    "title": "False Memory",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "dk_falsemem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20971,
+    "title": "Sole Survivor",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dk_solesurv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19120,
+    "title": "Ticktock",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "dk_ticktock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9424,
+    "title": "Icebound",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dk_icebound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9423,
+    "title": "Intensity",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dk_intensit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20969,
+    "title": "Strange Highways",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dk_strangeh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12006,
+    "title": "Dark Rivers of the Heart",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "dk_darkrive.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15841,
+    "title": "Winter Moon",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "dk_wintermo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25998,
+    "title": "Mr. Murder",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "dk_mrmurder.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3534,
+    "title": "Hideaway",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "drk_hideaway.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11930,
+    "title": "Cold Fire",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "dk_coldfire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4611,
+    "title": "The Bad Place",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "dk_thebadpl.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3523,
+    "title": "Midnight",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "drk_midnight.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 15839,
+    "title": "Lightning",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "dk_lightnin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15838,
+    "title": "Shadowfires",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dk_shadowfi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19008,
+    "title": "Twilight Eyes",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dk_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9421,
+    "title": "Watchers",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "dk_watchers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 931,
+    "title": "Strangers",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "drk_stranger.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15840,
+    "title": "The Servants of Twilight",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "dk_theserva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10012,
+    "title": "Phantoms",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dk_phantoms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19098,
+    "title": "The Eyes of Darkness",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "dk_theeyeso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14224,
+    "title": "The House of Thunder",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "drk_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19007,
+    "title": "The Mask",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "dk_themask.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19006,
+    "title": "Whispers",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "dk_whispers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19009,
+    "title": "The Key to Midnight",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "dk_thekeyto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19005,
+    "title": "The Face of Fear",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "dk_thefaceo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26891,
+    "title": "The Vision",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "dk_thevisio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25997,
+    "title": "Night Chills",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "dk_nightchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20970,
+    "title": "Demon Seed",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "dk_demonsee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11929,
+    "title": "A Darkness in My Soul",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "dk_adarknes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20850,
+    "title": "Beastchild",
+    "year": 1970,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20837,
+    "title": "Beastchild",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dk_beastchi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20839,
+    "title": "The Dark Symphony",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dk_thedarks.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20838,
+    "title": "Hell's Gate",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "dk_hellsgat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21553,
+    "title": "Doom of the Green Planet / Star Quest",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_doomofth_starques.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21785,
+    "title": "Against Arcturus / Time Thieves",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ad_againsta_timethie.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21668,
+    "title": "Dark of the Woods / Soft Come the Dragons",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_darkofth_softcome.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21672,
+    "title": "The Fall of the Dream Machine / The Star Venturers",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_thefallo_thestarv.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21703,
+    "title": "Fear That Man / Toyman",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ad_fearthat_toyman.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6061,
+    "title": "Prodigal Son",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dk_prodigal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6062,
+    "title": "City of Night",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dk_cityofni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6063,
+    "title": "Dead and Alive",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "dk_deadanda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6064,
+    "title": "Lost Souls",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "dk_lostsoul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6065,
+    "title": "The Dead Town",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dk_thedeadt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24150,
+    "title": "The Silent Corner",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dk_thesilen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27411,
+    "title": "The Whispering Room",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dk_thewhisp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27413,
+    "title": "The Crooked Staircase",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dk_thecrook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28847,
+    "title": "The Forbidden Door",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dk_theforbi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31639,
+    "title": "The Night Window",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dk_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3551,
+    "title": "Fear Nothing",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dk_fearnoth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5946,
+    "title": "Seize the Night",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dk_seizethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4476,
+    "title": "Odd Thomas",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dk_oddthoma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4477,
+    "title": "Forever Odd",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dk_forevero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4478,
+    "title": "Brother Odd",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dk_brothero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4479,
+    "title": "Odd Hours",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dk_oddhours.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4480,
+    "title": "Odd Apocalypse",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dk_oddapoca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5753,
+    "title": "Deeply Odd",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dk_deeplyod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10797,
+    "title": "Saint Odd",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dk_saintodd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

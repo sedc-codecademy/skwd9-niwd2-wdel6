@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24421,
+    "title": "The Witch Who Came in from the Cold",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lsmgcrcitms_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16771,
+    "title": "Kingmaker",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ls_kingmake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16770,
+    "title": "Doppel",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ls_doppel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

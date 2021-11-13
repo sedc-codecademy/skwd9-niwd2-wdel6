@@ -1,0 +1,118 @@
+[
+  {
+    "id": 35264,
+    "title": "Ninth House",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "LB_NinthHou.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25769,
+    "title": "The Language of Thorns:  Midnight Tales and Dangerous Magic",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lb_thelangu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28848,
+    "title": "Head, Scales, Tongue, Tail",
+    "year": 2016,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16619,
+    "title": "Little Knife",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lb_littlekn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16618,
+    "title": "The Too-Clever Fox",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lb_thetoocl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16617,
+    "title": "The Witch of Duva",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lb_thewitch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5145,
+    "title": "Shadow and Bone",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lb_shadowan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11260,
+    "title": "Siege and Storm",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lb_siegeand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11261,
+    "title": "Ruin and Rising",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lb_ruinandr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31718,
+    "title": "King of Scars",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lb_kingofsc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 15229,
+    "title": "Six of Crows",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lb_sixofcro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19370,
+    "title": "Crooked Kingdom",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lb_crookedk.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32325,
+    "title": "Wonder Woman: Warbringer",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "LB_WonderWo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

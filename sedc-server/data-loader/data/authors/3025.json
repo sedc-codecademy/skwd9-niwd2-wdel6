@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11961,
+    "title": "The Darkness",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "AE_darkness.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11788,
+    "title": "Nightpeople",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ae_nightpeo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11789,
+    "title": "Skyfall",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ae_skyfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11790,
+    "title": "Daywards",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ae_daywards.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

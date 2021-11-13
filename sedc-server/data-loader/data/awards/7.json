@@ -1,0 +1,1388 @@
+[
+  {
+    "titleId": 27870,
+    "authorId": 4252,
+    "year": 2019,
+    "winner": true
+  },
+  {
+    "titleId": 26742,
+    "authorId": 1357,
+    "year": 2019,
+    "winner": false
+  },
+  {
+    "titleId": 26671,
+    "authorId": 847,
+    "year": 2019,
+    "winner": false
+  },
+  {
+    "titleId": 33916,
+    "authorId": 3502,
+    "year": 2019,
+    "winner": false
+  },
+  {
+    "titleId": 33918,
+    "authorId": 7160,
+    "year": 2019,
+    "winner": false
+  },
+  {
+    "titleId": 27052,
+    "authorId": 5653,
+    "year": 2019,
+    "winner": false
+  },
+  {
+    "titleId": 27066,
+    "authorId": 1014,
+    "year": 2019,
+    "winner": false
+  },
+  {
+    "titleId": 33917,
+    "authorId": 7159,
+    "year": 2019,
+    "winner": false
+  },
+  {
+    "titleId": 24119,
+    "authorId": 1070,
+    "year": 2018,
+    "winner": true
+  },
+  {
+    "titleId": 23605,
+    "authorId": 2825,
+    "year": 2018,
+    "winner": false
+  },
+  {
+    "titleId": 25065,
+    "authorId": 1730,
+    "year": 2018,
+    "winner": false
+  },
+  {
+    "titleId": 26042,
+    "authorId": 888,
+    "year": 2018,
+    "winner": false
+  },
+  {
+    "titleId": 18713,
+    "authorId": 1329,
+    "year": 2018,
+    "winner": false
+  },
+  {
+    "titleId": 22699,
+    "authorId": 183,
+    "year": 2018,
+    "winner": false
+  },
+  {
+    "titleId": 24465,
+    "authorId": 4439,
+    "year": 2018,
+    "winner": false
+  },
+  {
+    "titleId": 24814,
+    "authorId": 418,
+    "year": 2018,
+    "winner": false
+  },
+  {
+    "titleId": 16457,
+    "authorId": 1425,
+    "year": 2017,
+    "winner": true
+  },
+  {
+    "titleId": 20546,
+    "authorId": 3495,
+    "year": 2017,
+    "winner": false
+  },
+  {
+    "titleId": 21883,
+    "authorId": 1685,
+    "year": 2017,
+    "winner": false
+  },
+  {
+    "titleId": 19305,
+    "authorId": 2060,
+    "year": 2017,
+    "winner": false
+  },
+  {
+    "titleId": 17521,
+    "authorId": 86,
+    "year": 2017,
+    "winner": false
+  },
+  {
+    "titleId": 21838,
+    "authorId": 2427,
+    "year": 2017,
+    "winner": false
+  },
+  {
+    "titleId": 19450,
+    "authorId": 871,
+    "year": 2017,
+    "winner": false
+  },
+  {
+    "titleId": 17936,
+    "authorId": 418,
+    "year": 2017,
+    "winner": false
+  },
+  {
+    "titleId": 19049,
+    "authorId": 4439,
+    "year": 2016,
+    "winner": true
+  },
+  {
+    "titleId": 14169,
+    "authorId": 385,
+    "year": 2016,
+    "winner": false
+  },
+  {
+    "titleId": 15616,
+    "authorId": 575,
+    "year": 2016,
+    "winner": false
+  },
+  {
+    "titleId": 9772,
+    "authorId": 1112,
+    "year": 2016,
+    "winner": false
+  },
+  {
+    "titleId": 14298,
+    "authorId": 2824,
+    "year": 2016,
+    "winner": false
+  },
+  {
+    "titleId": 13107,
+    "authorId": 420,
+    "year": 2016,
+    "winner": false
+  },
+  {
+    "titleId": 10955,
+    "authorId": 89,
+    "year": 2016,
+    "winner": false
+  },
+  {
+    "titleId": 11486,
+    "authorId": 1313,
+    "year": 2016,
+    "winner": false
+  },
+  {
+    "titleId": 7361,
+    "authorId": 2099,
+    "year": 2015,
+    "winner": true
+  },
+  {
+    "titleId": 10978,
+    "authorId": 2792,
+    "year": 2015,
+    "winner": false
+  },
+  {
+    "titleId": 9501,
+    "authorId": 2484,
+    "year": 2015,
+    "winner": false
+  },
+  {
+    "titleId": 11120,
+    "authorId": 2825,
+    "year": 2015,
+    "winner": false
+  },
+  {
+    "titleId": 9203,
+    "authorId": 33,
+    "year": 2015,
+    "winner": false
+  },
+  {
+    "titleId": 6654,
+    "authorId": 1082,
+    "year": 2015,
+    "winner": false
+  },
+  {
+    "titleId": 11116,
+    "authorId": 2824,
+    "year": 2015,
+    "winner": false
+  },
+  {
+    "titleId": 6093,
+    "authorId": 1031,
+    "year": 2015,
+    "winner": false
+  },
+  {
+    "titleId": 7359,
+    "authorId": 1172,
+    "year": 2014,
+    "winner": true
+  },
+  {
+    "titleId": 5300,
+    "authorId": 418,
+    "year": 2014,
+    "winner": false
+  },
+  {
+    "titleId": 6117,
+    "authorId": 385,
+    "year": 2014,
+    "winner": false
+  },
+  {
+    "titleId": 6206,
+    "authorId": 384,
+    "year": 2014,
+    "winner": false
+  },
+  {
+    "titleId": 5710,
+    "authorId": 86,
+    "year": 2014,
+    "winner": false
+  },
+  {
+    "titleId": 8046,
+    "authorId": 1160,
+    "year": 2014,
+    "winner": false
+  },
+  {
+    "titleId": 6115,
+    "authorId": 172,
+    "year": 2014,
+    "winner": false
+  },
+  {
+    "titleId": 5937,
+    "authorId": 152,
+    "year": 2014,
+    "winner": false
+  },
+  {
+    "titleId": 5029,
+    "authorId": 575,
+    "year": 2013,
+    "winner": true
+  },
+  {
+    "titleId": 5341,
+    "authorId": 706,
+    "year": 2013,
+    "winner": false
+  },
+  {
+    "titleId": 4980,
+    "authorId": 1877,
+    "year": 2013,
+    "winner": false
+  },
+  {
+    "titleId": 5027,
+    "authorId": 563,
+    "year": 2013,
+    "winner": false
+  },
+  {
+    "titleId": 5337,
+    "authorId": 628,
+    "year": 2013,
+    "winner": false
+  },
+  {
+    "titleId": 3802,
+    "authorId": 32,
+    "year": 2013,
+    "winner": false
+  },
+  {
+    "titleId": 5342,
+    "authorId": 58,
+    "year": 2013,
+    "winner": false
+  },
+  {
+    "titleId": 5028,
+    "authorId": 64,
+    "year": 2013,
+    "winner": false
+  },
+  {
+    "titleId": 3608,
+    "authorId": 434,
+    "year": 2012,
+    "winner": true
+  },
+  {
+    "titleId": 2534,
+    "authorId": 61,
+    "year": 2012,
+    "winner": false
+  },
+  {
+    "titleId": 3936,
+    "authorId": 1425,
+    "year": 2012,
+    "winner": false
+  },
+  {
+    "titleId": 3630,
+    "authorId": 1619,
+    "year": 2012,
+    "winner": false
+  },
+  {
+    "titleId": 4061,
+    "authorId": 121,
+    "year": 2012,
+    "winner": false
+  },
+  {
+    "titleId": 4102,
+    "authorId": 1699,
+    "year": 2012,
+    "winner": false
+  },
+  {
+    "titleId": 4065,
+    "authorId": 59,
+    "year": 2012,
+    "winner": false
+  },
+  {
+    "titleId": 3869,
+    "authorId": 1656,
+    "year": 2012,
+    "winner": false
+  },
+  {
+    "titleId": 2074,
+    "authorId": 420,
+    "year": 2011,
+    "winner": true
+  },
+  {
+    "titleId": 2674,
+    "authorId": 1353,
+    "year": 2011,
+    "winner": false
+  },
+  {
+    "titleId": 2536,
+    "authorId": 1324,
+    "year": 2011,
+    "winner": false
+  },
+  {
+    "titleId": 2425,
+    "authorId": 1015,
+    "year": 2011,
+    "winner": false
+  },
+  {
+    "titleId": 2353,
+    "authorId": 72,
+    "year": 2011,
+    "winner": false
+  },
+  {
+    "titleId": 2096,
+    "authorId": 33,
+    "year": 2011,
+    "winner": false
+  },
+  {
+    "titleId": 2748,
+    "authorId": 1375,
+    "year": 2011,
+    "winner": false
+  },
+  {
+    "titleId": 2741,
+    "authorId": 575,
+    "year": 2011,
+    "winner": false
+  },
+  {
+    "titleId": 1737,
+    "authorId": 1112,
+    "year": 2010,
+    "winner": true
+  },
+  {
+    "titleId": 1711,
+    "authorId": 55,
+    "year": 2010,
+    "winner": false
+  },
+  {
+    "titleId": 1674,
+    "authorId": 61,
+    "year": 2010,
+    "winner": false
+  },
+  {
+    "titleId": 1839,
+    "authorId": 195,
+    "year": 2010,
+    "winner": false
+  },
+  {
+    "titleId": 1700,
+    "authorId": 628,
+    "year": 2010,
+    "winner": false
+  },
+  {
+    "titleId": 1846,
+    "authorId": 668,
+    "year": 2010,
+    "winner": false
+  },
+  {
+    "titleId": 1703,
+    "authorId": 90,
+    "year": 2010,
+    "winner": false
+  },
+  {
+    "titleId": 1705,
+    "authorId": 418,
+    "year": 2010,
+    "winner": false
+  },
+  {
+    "titleId": 1219,
+    "authorId": 668,
+    "year": 2009,
+    "winner": true
+  },
+  {
+    "titleId": 1224,
+    "authorId": 675,
+    "year": 2009,
+    "winner": false
+  },
+  {
+    "titleId": 1245,
+    "authorId": 89,
+    "year": 2009,
+    "winner": false
+  },
+  {
+    "titleId": 1232,
+    "authorId": 72,
+    "year": 2009,
+    "winner": false
+  },
+  {
+    "titleId": 1244,
+    "authorId": 1011,
+    "year": 2009,
+    "winner": false
+  },
+  {
+    "titleId": 1216,
+    "authorId": 44,
+    "year": 2009,
+    "winner": false
+  },
+  {
+    "titleId": 1047,
+    "authorId": 121,
+    "year": 2008,
+    "winner": true
+  },
+  {
+    "titleId": 1026,
+    "authorId": 1017,
+    "year": 2008,
+    "winner": false
+  },
+  {
+    "titleId": 1034,
+    "authorId": 64,
+    "year": 2008,
+    "winner": false
+  },
+  {
+    "titleId": 1046,
+    "authorId": 200,
+    "year": 2008,
+    "winner": false
+  },
+  {
+    "titleId": 1028,
+    "authorId": 69,
+    "year": 2008,
+    "winner": false
+  },
+  {
+    "titleId": 1048,
+    "authorId": 1022,
+    "year": 2008,
+    "winner": false
+  },
+  {
+    "titleId": 1036,
+    "authorId": 420,
+    "year": 2008,
+    "winner": false
+  },
+  {
+    "titleId": 1049,
+    "authorId": 533,
+    "year": 2008,
+    "winner": false
+  },
+  {
+    "titleId": 1017,
+    "authorId": 803,
+    "year": 2007,
+    "winner": true
+  },
+  {
+    "titleId": 1009,
+    "authorId": 89,
+    "year": 2007,
+    "winner": false
+  },
+  {
+    "titleId": 1002,
+    "authorId": 869,
+    "year": 2007,
+    "winner": false
+  },
+  {
+    "titleId": 1003,
+    "authorId": 847,
+    "year": 2007,
+    "winner": false
+  },
+  {
+    "titleId": 1015,
+    "authorId": 1011,
+    "year": 2007,
+    "winner": false
+  },
+  {
+    "titleId": 1013,
+    "authorId": 1010,
+    "year": 2007,
+    "winner": false
+  },
+  {
+    "titleId": 985,
+    "authorId": 563,
+    "year": 2007,
+    "winner": false
+  },
+  {
+    "titleId": 1014,
+    "authorId": 119,
+    "year": 2007,
+    "winner": false
+  },
+  {
+    "titleId": 858,
+    "authorId": 51,
+    "year": 2006,
+    "winner": true
+  },
+  {
+    "titleId": 812,
+    "authorId": 55,
+    "year": 2006,
+    "winner": false
+  },
+  {
+    "titleId": 859,
+    "authorId": 675,
+    "year": 2006,
+    "winner": false
+  },
+  {
+    "titleId": 807,
+    "authorId": 86,
+    "year": 2006,
+    "winner": false
+  },
+  {
+    "titleId": 862,
+    "authorId": 864,
+    "year": 2006,
+    "winner": false
+  },
+  {
+    "titleId": 860,
+    "authorId": 240,
+    "year": 2006,
+    "winner": false
+  },
+  {
+    "titleId": 810,
+    "authorId": 64,
+    "year": 2006,
+    "winner": false
+  },
+  {
+    "titleId": 861,
+    "authorId": 863,
+    "year": 2006,
+    "winner": false
+  },
+  {
+    "titleId": 411,
+    "authorId": 409,
+    "year": 2005,
+    "winner": true
+  },
+  {
+    "titleId": 412,
+    "authorId": 410,
+    "year": 2005,
+    "winner": false
+  },
+  {
+    "titleId": 413,
+    "authorId": 411,
+    "year": 2005,
+    "winner": false
+  },
+  {
+    "titleId": 653,
+    "authorId": 88,
+    "year": 2005,
+    "winner": false
+  },
+  {
+    "titleId": 654,
+    "authorId": 207,
+    "year": 2005,
+    "winner": false
+  },
+  {
+    "titleId": 655,
+    "authorId": 64,
+    "year": 2005,
+    "winner": false
+  },
+  {
+    "titleId": 656,
+    "authorId": 654,
+    "year": 2005,
+    "winner": false
+  },
+  {
+    "titleId": 657,
+    "authorId": 418,
+    "year": 2005,
+    "winner": false
+  },
+  {
+    "titleId": 380,
+    "authorId": 119,
+    "year": 2004,
+    "winner": true
+  },
+  {
+    "titleId": 379,
+    "authorId": 377,
+    "year": 2004,
+    "winner": false
+  },
+  {
+    "titleId": 381,
+    "authorId": 379,
+    "year": 2004,
+    "winner": false
+  },
+  {
+    "titleId": 386,
+    "authorId": 384,
+    "year": 2004,
+    "winner": false
+  },
+  {
+    "titleId": 385,
+    "authorId": 72,
+    "year": 2004,
+    "winner": false
+  },
+  {
+    "titleId": 390,
+    "authorId": 388,
+    "year": 2004,
+    "winner": false
+  },
+  {
+    "titleId": 393,
+    "authorId": 391,
+    "year": 2004,
+    "winner": false
+  },
+  {
+    "titleId": 382,
+    "authorId": 380,
+    "year": 2004,
+    "winner": false
+  },
+  {
+    "titleId": 394,
+    "authorId": 90,
+    "year": 2003,
+    "winner": true
+  },
+  {
+    "titleId": 59,
+    "authorId": 32,
+    "year": 2003,
+    "winner": false
+  },
+  {
+    "titleId": 50,
+    "authorId": 51,
+    "year": 2003,
+    "winner": false
+  },
+  {
+    "titleId": 397,
+    "authorId": 395,
+    "year": 2003,
+    "winner": false
+  },
+  {
+    "titleId": 400,
+    "authorId": 72,
+    "year": 2003,
+    "winner": false
+  },
+  {
+    "titleId": 398,
+    "authorId": 346,
+    "year": 2003,
+    "winner": false
+  },
+  {
+    "titleId": 395,
+    "authorId": 393,
+    "year": 2003,
+    "winner": false
+  },
+  {
+    "titleId": 58,
+    "authorId": 59,
+    "year": 2003,
+    "winner": false
+  },
+  {
+    "titleId": 401,
+    "authorId": 399,
+    "year": 2002,
+    "winner": true
+  },
+  {
+    "titleId": 402,
+    "authorId": 90,
+    "year": 2002,
+    "winner": false
+  },
+  {
+    "titleId": 406,
+    "authorId": 30,
+    "year": 2002,
+    "winner": false
+  },
+  {
+    "titleId": 410,
+    "authorId": 408,
+    "year": 2002,
+    "winner": false
+  },
+  {
+    "titleId": 405,
+    "authorId": 403,
+    "year": 2002,
+    "winner": false
+  },
+  {
+    "titleId": 407,
+    "authorId": 405,
+    "year": 2002,
+    "winner": false
+  },
+  {
+    "titleId": 408,
+    "authorId": 406,
+    "year": 2002,
+    "winner": false
+  },
+  {
+    "titleId": 403,
+    "authorId": 64,
+    "year": 2002,
+    "winner": false
+  },
+  {
+    "titleId": 414,
+    "authorId": 105,
+    "year": 2001,
+    "winner": true
+  },
+  {
+    "titleId": 574,
+    "authorId": 573,
+    "year": 2001,
+    "winner": false
+  },
+  {
+    "titleId": 142,
+    "authorId": 119,
+    "year": 2001,
+    "winner": false
+  },
+  {
+    "titleId": 67,
+    "authorId": 51,
+    "year": 2001,
+    "winner": false
+  },
+  {
+    "titleId": 842,
+    "authorId": 107,
+    "year": 2001,
+    "winner": false
+  },
+  {
+    "titleId": 47,
+    "authorId": 41,
+    "year": 2000,
+    "winner": true
+  },
+  {
+    "titleId": 72,
+    "authorId": 72,
+    "year": 2000,
+    "winner": false
+  },
+  {
+    "titleId": 415,
+    "authorId": 413,
+    "year": 2000,
+    "winner": false
+  },
+  {
+    "titleId": 845,
+    "authorId": 847,
+    "year": 2000,
+    "winner": false
+  },
+  {
+    "titleId": 844,
+    "authorId": 399,
+    "year": 2000,
+    "winner": false
+  },
+  {
+    "titleId": 416,
+    "authorId": 414,
+    "year": 1999,
+    "winner": true
+  },
+  {
+    "titleId": 417,
+    "authorId": 105,
+    "year": 1999,
+    "winner": false
+  },
+  {
+    "titleId": 75,
+    "authorId": 75,
+    "year": 1999,
+    "winner": false
+  },
+  {
+    "titleId": 45,
+    "authorId": 24,
+    "year": 1998,
+    "winner": true
+  },
+  {
+    "titleId": 418,
+    "authorId": 72,
+    "year": 1998,
+    "winner": false
+  },
+  {
+    "titleId": 419,
+    "authorId": 417,
+    "year": 1998,
+    "winner": false
+  },
+  {
+    "titleId": 420,
+    "authorId": 418,
+    "year": 1997,
+    "winner": true
+  },
+  {
+    "titleId": 44,
+    "authorId": 42,
+    "year": 1997,
+    "winner": false
+  },
+  {
+    "titleId": 421,
+    "authorId": 74,
+    "year": 1997,
+    "winner": false
+  },
+  {
+    "titleId": 88,
+    "authorId": 86,
+    "year": 1996,
+    "winner": true
+  },
+  {
+    "titleId": 43,
+    "authorId": 44,
+    "year": 1996,
+    "winner": false
+  },
+  {
+    "titleId": 422,
+    "authorId": 420,
+    "year": 1996,
+    "winner": false
+  },
+  {
+    "titleId": 423,
+    "authorId": 421,
+    "year": 1995,
+    "winner": true
+  },
+  {
+    "titleId": 90,
+    "authorId": 87,
+    "year": 1995,
+    "winner": false
+  },
+  {
+    "titleId": 93,
+    "authorId": 90,
+    "year": 1994,
+    "winner": false
+  },
+  {
+    "titleId": 95,
+    "authorId": 72,
+    "year": 1994,
+    "winner": false
+  },
+  {
+    "titleId": 424,
+    "authorId": 422,
+    "year": 1993,
+    "winner": true
+  },
+  {
+    "titleId": 425,
+    "authorId": 107,
+    "year": 1993,
+    "winner": false
+  },
+  {
+    "titleId": 40,
+    "authorId": 41,
+    "year": 1993,
+    "winner": false
+  },
+  {
+    "titleId": 426,
+    "authorId": 424,
+    "year": 1992,
+    "winner": true
+  },
+  {
+    "titleId": 180,
+    "authorId": 33,
+    "year": 1992,
+    "winner": false
+  },
+  {
+    "titleId": 427,
+    "authorId": 425,
+    "year": 1992,
+    "winner": false
+  },
+  {
+    "titleId": 102,
+    "authorId": 59,
+    "year": 1992,
+    "winner": false
+  },
+  {
+    "titleId": 428,
+    "authorId": 426,
+    "year": 1992,
+    "winner": false
+  },
+  {
+    "titleId": 429,
+    "authorId": 42,
+    "year": 1991,
+    "winner": true
+  },
+  {
+    "titleId": 107,
+    "authorId": 72,
+    "year": 1991,
+    "winner": false
+  },
+  {
+    "titleId": 185,
+    "authorId": 89,
+    "year": 1991,
+    "winner": false
+  },
+  {
+    "titleId": 430,
+    "authorId": 410,
+    "year": 1990,
+    "winner": true
+  },
+  {
+    "titleId": 431,
+    "authorId": 429,
+    "year": 1990,
+    "winner": false
+  },
+  {
+    "titleId": 189,
+    "authorId": 183,
+    "year": 1990,
+    "winner": false
+  },
+  {
+    "titleId": 115,
+    "authorId": 75,
+    "year": 1989,
+    "winner": true
+  },
+  {
+    "titleId": 432,
+    "authorId": 42,
+    "year": 1989,
+    "winner": false
+  },
+  {
+    "titleId": 433,
+    "authorId": 96,
+    "year": 1989,
+    "winner": false
+  },
+  {
+    "titleId": 434,
+    "authorId": 47,
+    "year": 1988,
+    "winner": true
+  },
+  {
+    "titleId": 193,
+    "authorId": 187,
+    "year": 1988,
+    "winner": false
+  },
+  {
+    "titleId": 436,
+    "authorId": 410,
+    "year": 1988,
+    "winner": false
+  },
+  {
+    "titleId": 437,
+    "authorId": 434,
+    "year": 1987,
+    "winner": true
+  },
+  {
+    "titleId": 203,
+    "authorId": 89,
+    "year": 1987,
+    "winner": false
+  },
+  {
+    "titleId": 34,
+    "authorId": 34,
+    "year": 1987,
+    "winner": false
+  },
+  {
+    "titleId": 207,
+    "authorId": 32,
+    "year": 1986,
+    "winner": true
+  },
+  {
+    "titleId": 438,
+    "authorId": 297,
+    "year": 1986,
+    "winner": false
+  },
+  {
+    "titleId": 204,
+    "authorId": 72,
+    "year": 1986,
+    "winner": false
+  },
+  {
+    "titleId": 439,
+    "authorId": 436,
+    "year": 1986,
+    "winner": false
+  },
+  {
+    "titleId": 440,
+    "authorId": 26,
+    "year": 1985,
+    "winner": true
+  },
+  {
+    "titleId": 441,
+    "authorId": 438,
+    "year": 1985,
+    "winner": false
+  },
+  {
+    "titleId": 32,
+    "authorId": 33,
+    "year": 1985,
+    "winner": false
+  },
+  {
+    "titleId": 216,
+    "authorId": 158,
+    "year": 1984,
+    "winner": true
+  },
+  {
+    "titleId": 442,
+    "authorId": 439,
+    "year": 1984,
+    "winner": false
+  },
+  {
+    "titleId": 443,
+    "authorId": 440,
+    "year": 1984,
+    "winner": false
+  },
+  {
+    "titleId": 222,
+    "authorId": 200,
+    "year": 1983,
+    "winner": true
+  },
+  {
+    "titleId": 220,
+    "authorId": 87,
+    "year": 1983,
+    "winner": false
+  },
+  {
+    "titleId": 229,
+    "authorId": 223,
+    "year": 1982,
+    "winner": true
+  },
+  {
+    "titleId": 231,
+    "authorId": 188,
+    "year": 1981,
+    "winner": true
+  },
+  {
+    "titleId": 444,
+    "authorId": 441,
+    "year": 1981,
+    "winner": false
+  },
+  {
+    "titleId": 234,
+    "authorId": 158,
+    "year": 1981,
+    "winner": false
+  },
+  {
+    "titleId": 237,
+    "authorId": 231,
+    "year": 1980,
+    "winner": true
+  },
+  {
+    "titleId": 445,
+    "authorId": 220,
+    "year": 1980,
+    "winner": false
+  },
+  {
+    "titleId": 446,
+    "authorId": 443,
+    "year": 1980,
+    "winner": false
+  },
+  {
+    "titleId": 447,
+    "authorId": 444,
+    "year": 1979,
+    "winner": true
+  },
+  {
+    "titleId": 448,
+    "authorId": 445,
+    "year": 1979,
+    "winner": false
+  },
+  {
+    "titleId": 449,
+    "authorId": 446,
+    "year": 1979,
+    "winner": false
+  },
+  {
+    "titleId": 25,
+    "authorId": 26,
+    "year": 1978,
+    "winner": true
+  },
+  {
+    "titleId": 450,
+    "authorId": 447,
+    "year": 1978,
+    "winner": false
+  },
+  {
+    "titleId": 451,
+    "authorId": 10,
+    "year": 1978,
+    "winner": false
+  },
+  {
+    "titleId": 452,
+    "authorId": 450,
+    "year": 1977,
+    "winner": true
+  },
+  {
+    "titleId": 248,
+    "authorId": 26,
+    "year": 1977,
+    "winner": false
+  },
+  {
+    "titleId": 24,
+    "authorId": 25,
+    "year": 1977,
+    "winner": false
+  },
+  {
+    "titleId": 293,
+    "authorId": 289,
+    "year": 1976,
+    "winner": true
+  },
+  {
+    "titleId": 269,
+    "authorId": 246,
+    "year": 1976,
+    "winner": false
+  },
+  {
+    "titleId": 453,
+    "authorId": 374,
+    "year": 1976,
+    "winner": false
+  },
+  {
+    "titleId": 271,
+    "authorId": 10,
+    "year": 1975,
+    "winner": true
+  },
+  {
+    "titleId": 22,
+    "authorId": 18,
+    "year": 1975,
+    "winner": false
+  },
+  {
+    "titleId": 454,
+    "authorId": 452,
+    "year": 1974,
+    "winner": true
+  },
+  {
+    "titleId": 21,
+    "authorId": 22,
+    "year": 1974,
+    "winner": false
+  },
+  {
+    "titleId": 258,
+    "authorId": 253,
+    "year": 1974,
+    "winner": false
+  },
+  {
+    "titleId": 455,
+    "authorId": 453,
+    "year": 1974,
+    "winner": false
+  },
+  {
+    "titleId": 456,
+    "authorId": 202,
+    "year": 1973,
+    "winner": true
+  },
+  {
+    "titleId": 457,
+    "authorId": 455,
+    "year": 1973,
+    "winner": false
+  },
+  {
+    "titleId": 458,
+    "authorId": 346,
+    "year": 1973,
+    "winner": false
+  }
+]

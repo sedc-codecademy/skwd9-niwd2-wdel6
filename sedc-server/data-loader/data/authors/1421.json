@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11181,
+    "title": "Lye Street",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ac_lyestree.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2981,
+    "title": "Scar Night",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ac_scarnigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2982,
+    "title": "Iron Angel",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ac_ironange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2983,
+    "title": "God of Clocks",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ac_godofclo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2984,
+    "title": "Sea of Ghosts",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ac_seaofgho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

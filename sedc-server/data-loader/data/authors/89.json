@@ -1,0 +1,241 @@
+[
+  {
+    "id": 23167,
+    "title": "The Asylum of Dr. Caligari",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jm_theasylu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10955,
+    "title": "Galápagos Regained",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jm_galapago.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13773,
+    "title": "Reality by Other Means:  The Best Short Fiction of James Morrow",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jm_realityb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7459,
+    "title": "The Madonna and the Starship",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jm_themadon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11293,
+    "title": "Shambling Towards Hiroshima",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jm_shamblin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1245,
+    "title": "The Philosopher's Apprentice",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jm_thephilo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18563,
+    "title": "The SFWA European Hall of Fame:  Sixteen Contemporary Masterpieces of Science Fiction from the Continent ",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jmkm_sfwaeuro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1009,
+    "title": "The Last Witchfinder",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jm_thelastw.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 17333,
+    "title": "The Cat's Pajamas & Other Stories",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jm_thecatsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17334,
+    "title": "Apologue",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20088,
+    "title": "The Cat's Pajamas",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18611,
+    "title": "Auspicious Eggs",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17952,
+    "title": "Bible Stories for Adults",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jm_biblesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16069,
+    "title": "City of Truth",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jm_cityoftr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 185,
+    "title": "Only Begotten Daughter",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jm_onlybego.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 203,
+    "title": "This is the Way the World Ends",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jm_thisisth.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 34233,
+    "title": "The Continent of Lies",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jm_continen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34234,
+    "title": "The Wine of Violence",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jm_wineofvi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28267,
+    "title": "Swatting at the Cosmos",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jm_acm08.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17953,
+    "title": "Bible Stories for Adults, No. 17: The Deluge",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 92,
+    "title": "Towing Jehovah",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jm_towingje.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 718,
+    "title": "Blameless in Abaddon",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jm_blameles.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1666,
+    "title": "The Eternal Footman",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jm_theetern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7418,
+    "title": "Nebula Awards 26",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jm_nebula26.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7417,
+    "title": "Nebula Awards 27",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jm_nebula27.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7416,
+    "title": "Nebula Awards 28",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jm_nebula28.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16658,
+    "title": "Thanatos Beach",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_thanatos.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

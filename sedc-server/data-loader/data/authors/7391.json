@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35025,
+    "title": "Killer of Enemies",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "JB_KillerEn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35026,
+    "title": "Trail of the Dead",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JB_TrailDea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35027,
+    "title": "Arrow of Lightning",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "JB_ArrowLig.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

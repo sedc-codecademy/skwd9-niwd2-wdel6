@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12730,
+    "title": "To Honor You Call Us",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "PH_tohonory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12731,
+    "title": "For Honor We Stand",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "PH_forhonor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12732,
+    "title": "Brothers in Valor",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "PH_brothers.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

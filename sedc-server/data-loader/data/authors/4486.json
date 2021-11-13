@@ -1,0 +1,29 @@
+[
+  {
+    "id": 19350,
+    "title": "Peacekeeper",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ler_peacekee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32479,
+    "title": "Vigilante",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "LER_Vigilant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32480,
+    "title": "Pathfinder",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "LER_Pathfind.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 31800,
+    "title": "B.E.A.S.T.",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "cem_beast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31798,
+    "title": "The Darkest of Nights",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "cem_thedarke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31759,
+    "title": "The Mind of Mr. Soames",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "cem_themindo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31793,
+    "title": "Count-Down",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "cem_countdow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31791,
+    "title": "The Tide Went Out",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "cem_thetidew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31757,
+    "title": "World Without Men",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "cem_worldwit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31787,
+    "title": "High Vacuum",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ecm_highvacu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31785,
+    "title": "Escapement",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "cem_escapeme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31783,
+    "title": "Timeliner",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "cem_timeline.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 15560,
+    "title": "Rod Serling's Other Worlds",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "RS_otherwor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15557,
+    "title": "The Season to Be Wary",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "RS_theseaso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15558,
+    "title": "Night Gallery",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "RS_nightgal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15559,
+    "title": "Night Gallery 2",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "RS_nightga2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15552,
+    "title": "Stories from The Twilight Zone",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "RS_storiesf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15553,
+    "title": "More Stories from The Twilight Zone",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "RS_morestor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15554,
+    "title": "New Stories from The Twilight Zone",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "RS_newstori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15555,
+    "title": "Chilling Stories from Rod Serling's The Twilight Zone",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "RS_chilling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15556,
+    "title": "Rod Serling's Twilight Zone Revisited",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "RS_revisite.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

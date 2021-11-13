@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4606,
+    "title": "Ghoul",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "bk_ghoul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35767,
+    "title": "Pressure",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "BK_Pressure.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35766,
+    "title": "Entombed",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "BK_Entombed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35764,
+    "title": "Darkness on the Edge of Town",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "BK_Darkness.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35765,
+    "title": "Dead Sea",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "BR_DeadSea.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

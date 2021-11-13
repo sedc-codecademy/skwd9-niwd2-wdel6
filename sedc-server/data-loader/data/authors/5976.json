@@ -1,0 +1,38 @@
+[
+  {
+    "id": 30319,
+    "title": "The Brooch of Azure Midnight",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "ag_thebrooc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30318,
+    "title": "Mindsail",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "ag_mindsail.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30316,
+    "title": "Dancing on the Volcano",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "ag_dancingo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30317,
+    "title": "To Bathe in Lightning",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ag_tobathei.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

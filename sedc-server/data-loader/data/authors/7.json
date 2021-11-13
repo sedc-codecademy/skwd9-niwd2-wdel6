@@ -1,0 +1,487 @@
+[
+  {
+    "id": 36330,
+    "title": "The Pursuit of the Pankera",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "RH_pursuito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11665,
+    "title": "All You Zombies –:  Five Classic Stories by Robert A. Heinlein",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rah_allyouzo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7184,
+    "title": "Project Moonbase and Others",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rah_projectm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9624,
+    "title": "Variable Star",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rahsr_variable.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6399,
+    "title": "Off the Main Sequence: The Other Science Fiction Stories of Robert A. Heinlein",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rah_offthema.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9625,
+    "title": "For Us, The Living:  A Comedy of Customs",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rah_forusthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24280,
+    "title": "Grumbles from the Grave",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rah_grumbles.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3938,
+    "title": "To Sail Beyond the Sunset",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "rah_tosailbe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3939,
+    "title": "The Cat Who Walks Through Walls",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "rah_thecatwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 212,
+    "title": "Job: A Comedy of Justice",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rah_jobacome.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 221,
+    "title": "Friday",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rah_friday.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 4668,
+    "title": "Expanded Universe",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rah_expanded.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3937,
+    "title": "The Number of the Beast",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "rah_thenumbe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 276,
+    "title": "Time Enough for Love",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "rah_timeenou.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 9385,
+    "title": "I Will Fear No Evil",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "rah_iwillfea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2146,
+    "title": "The Past Through Tomorrow",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "rah_thepastt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14,
+    "title": "The Moon is a Harsh Mistress",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "rah_themooni.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4019,
+    "title": "Farnham's Freehold",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "rah_farnhams.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 317,
+    "title": "Glory Road",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "rah_gloryroa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9353,
+    "title": "Orphans of the Sky",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "rah_orphanso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8,
+    "title": "Stranger in a Strange Land",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "rah_stranger.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4243,
+    "title": "The Unpleasant Profession of Jonathan Hoag (collection)",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "rah_nvunplea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6398,
+    "title": "The Menace From Earth",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "rah_themenac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3915,
+    "title": "Methuselah's Children",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "rah_methusel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1975,
+    "title": "The Door Into Summer",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "rah_thedoori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 294,
+    "title": "Double Star",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "rah_doublest.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6397,
+    "title": "Assignment in Eternity",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "rah_assignme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4020,
+    "title": "Revolt in 2100",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "rah_revoltin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3296,
+    "title": "The Day After Tomorrow",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "rah_thedayaf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3258,
+    "title": "The Green Hills Of Earth",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "rah_thegreen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1981,
+    "title": "The Puppet Masters",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "rah_thepuppe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6394,
+    "title": "The Man Who Sold the Moon (collection)",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "rah_soldthemoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18807,
+    "title": "The Man Who Sold the Moon",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "rah_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6395,
+    "title": "Waldo and Magic, Inc.",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "rah_waldoand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11389,
+    "title": "Beyond This Horizon",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "rh_beyondth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18826,
+    "title": "The Unpleasant Profession of Jonathan Hoag",
+    "year": 1942,
+    "type": "novel",
+    "imageName": "rah_theunple.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31668,
+    "title": "Logic of Empire",
+    "year": 1941,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10991,
+    "title": "Universe",
+    "year": 1941,
+    "type": "novel",
+    "imageName": "RH_universe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3812,
+    "title": "Rocket Ship Galileo",
+    "year": 1947,
+    "type": "novel",
+    "imageName": "rah_rocketsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3259,
+    "title": "Space Cadet",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "rah_spacecad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3712,
+    "title": "Red Planet",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "rah_redplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 53,
+    "title": "Farmer in the Sky",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "rah_farmerin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3813,
+    "title": "Between Planets",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "rah_betweenp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3940,
+    "title": "The Rolling Stones (Space Family Stone)",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "rah_therolli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3941,
+    "title": "Starman Jones",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "rah_starmanj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3710,
+    "title": "The Star Beast",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "rah_thestarb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3709,
+    "title": "Tunnel in the Sky",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "rah_tunnelin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3942,
+    "title": "Time for the Stars",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "rah_timefort.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3943,
+    "title": "Citizen of the Galaxy",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "rah_citizeno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 295,
+    "title": "Have Space Suit - Will Travel",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "rah_havespac.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6,
+    "title": "Starship Troopers",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "rah_starship.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3713,
+    "title": "Podkayne of Mars",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "rah_podkayne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18798,
+    "title": "The Best of Robert Heinlein 1939-1959",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "rah_bestofro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10992,
+    "title": "Tor Double #35: Silent Thunder / Universe",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "DI_silentt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

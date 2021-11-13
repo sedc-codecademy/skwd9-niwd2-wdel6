@@ -1,0 +1,47 @@
+[
+  {
+    "id": 35166,
+    "title": "The Brass Bottle",
+    "year": 1900,
+    "type": "novel",
+    "imageName": "FA_TheBrass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34660,
+    "title": "The Statement of Stella Maberly",
+    "year": 1896,
+    "type": "novel",
+    "imageName": "FA_statemen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35167,
+    "title": "The Tinted Venus",
+    "year": 1885,
+    "type": "novel",
+    "imageName": "FA_TheTinte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34661,
+    "title": "Vice Versa; or, A Lesson to Fathers",
+    "year": 1882,
+    "type": "novel",
+    "imageName": "FA_vicevers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12858,
+    "title": "Tourmalin's Time Cheques",
+    "year": 1891,
+    "type": "novel",
+    "imageName": "FA_tourmali.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

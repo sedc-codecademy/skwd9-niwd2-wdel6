@@ -1,0 +1,38 @@
+[
+  {
+    "id": 567,
+    "title": "The Prometheus Man",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rfn_theprome.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 35220,
+    "title": "Virtual Zen",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RFN_VirtualZ.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24972,
+    "title": "Blake's Progress",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "rfn_blakespr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6422,
+    "title": "The Ganymede Takeover",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "pkdrn_theganym.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

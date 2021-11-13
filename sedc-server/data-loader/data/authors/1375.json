@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2748,
+    "title": "C",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tmc_c.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 14540,
+    "title": "Satin Island",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "TM_SatinIsl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

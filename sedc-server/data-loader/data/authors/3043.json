@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11822,
+    "title": "The Lab",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jh_thelab.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11823,
+    "title": "Remote Control",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jh_remoteco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11824,
+    "title": "Third Transmission",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jh_thirdtra.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

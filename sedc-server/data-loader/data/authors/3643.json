@@ -1,0 +1,65 @@
+[
+  {
+    "id": 34122,
+    "title": "Doctor Who: Scratchman",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "tb_scratchm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14998,
+    "title": "Dead of Winter",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jg_deadofwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14936,
+    "title": "The Blood Cell",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jg_theblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22902,
+    "title": "City of Death",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "da&jg_cityofde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15717,
+    "title": "Almost Perfect",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jg_almostpe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15724,
+    "title": "Risk Assessment",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jg_ristasse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15729,
+    "title": "First Born",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jg_firstbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

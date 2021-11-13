@@ -1,0 +1,20 @@
+[
+  {
+    "id": 35111,
+    "title": "The Starless Sea",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "EM_Starless.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3632,
+    "title": "The Night Circus",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "em_thenight.jpg",
+    "nominations": 3,
+    "wins": -1
+  }
+]

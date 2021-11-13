@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32754,
+    "title": "Dragonbound",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "CM_Dragonbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32755,
+    "title": "The Warrior and the Witch",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "CM_Warriora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32756,
+    "title": "The Goblin Plain War",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "CM_GoblinPl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

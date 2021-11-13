@@ -1,0 +1,29 @@
+[
+  {
+    "id": 8490,
+    "title": "Island",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ah_island.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34785,
+    "title": "After Many a Summer Dies the Swan",
+    "year": 1939,
+    "type": "novel",
+    "imageName": "AH_afterman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2028,
+    "title": "Brave New World",
+    "year": 1932,
+    "type": "novel",
+    "imageName": "ah_bravenew.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

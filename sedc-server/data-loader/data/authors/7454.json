@@ -1,0 +1,20 @@
+[
+  {
+    "id": 35293,
+    "title": "Scary Stories",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "BM_ScarySto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35292,
+    "title": "Great Ghost Stories",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "BM_GreatGho.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

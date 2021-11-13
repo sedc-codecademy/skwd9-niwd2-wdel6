@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10765,
+    "title": "The Wonder City of Oz",
+    "year": 1940,
+    "type": "novel",
+    "imageName": "JN_wonderoz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10766,
+    "title": "The Scalawagons in Oz",
+    "year": 1941,
+    "type": "novel",
+    "imageName": "JN_scalawag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10767,
+    "title": "Lucky Bucky in Oz",
+    "year": 1942,
+    "type": "novel",
+    "imageName": "JN_luckybuc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

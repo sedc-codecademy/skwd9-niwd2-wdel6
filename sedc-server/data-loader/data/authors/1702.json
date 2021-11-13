@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4105,
+    "title": "Blood Red Road",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "my_bloodred.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9267,
+    "title": "Rebel Heart",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "my_rebelhea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9268,
+    "title": "Raging Heart",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "my_ragingst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

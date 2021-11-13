@@ -1,0 +1,101 @@
+[
+  {
+    "id": 7318,
+    "title": "Heroes Die",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mws_heroesdi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7319,
+    "title": "Blade of Tyshalle",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mws_bladeoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7320,
+    "title": "Caine Black Knife",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mws_cainebla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4452,
+    "title": "Caine's Law",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ms_cainesla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7321,
+    "title": "Iron Dawn",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "mws_irondawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7322,
+    "title": "Jericho Moon",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mws_jerichom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16970,
+    "title": "Luke Skywalker and the Shadows of Mindor",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "MS_lukeskyw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10620,
+    "title": "Star Wars, Episode 3: Revenge of the Sith",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ms_revengeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17150,
+    "title": "Shatterpoint",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "MS_shatterp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17178,
+    "title": "The Dark Lord Trilogy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "JL_thedarkl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15984,
+    "title": "Traitor",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ms_traitor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

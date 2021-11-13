@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13361,
+    "title": "Except the Queen",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jyms_exceptth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5658,
+    "title": "The Innamorati",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ms_theinnam.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5659,
+    "title": "Soulstring",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ms_soulstri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

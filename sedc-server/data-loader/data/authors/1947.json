@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5354,
+    "title": "Charming",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ej_charming.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23773,
+    "title": "Daring",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ej_daring.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23774,
+    "title": "Fearless",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ej_fearless.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23775,
+    "title": "In Shining Armor",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ej_inshinin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23776,
+    "title": "Legend Has It",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ej_legendha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

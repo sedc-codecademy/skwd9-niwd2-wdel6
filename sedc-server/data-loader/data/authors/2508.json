@@ -1,0 +1,146 @@
+[
+  {
+    "id": 25914,
+    "title": "Queen's Gambit Declined",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mms_queensga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32706,
+    "title": "Runespear",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "VM_Runespea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11543,
+    "title": "Circuit",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mms_circuit.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11544,
+    "title": "Circuit Breaker",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mms_circuitb.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11545,
+    "title": "Final Circuit",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mms_finalcir.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18890,
+    "title": "The High Ground",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ms_thehighg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21434,
+    "title": "In Evil Times",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ms_inevilti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28209,
+    "title": "The Hidden World",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ms_hiddenwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9657,
+    "title": "The Edge of Reason",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ms_edgeofre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9658,
+    "title": "The Edge of Ruin",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_edgeofru.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12563,
+    "title": "The Edge of Dawn",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ms_theedgeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11639,
+    "title": "The Tears of the Singers",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "mms_tearsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24450,
+    "title": "When the Devil Drives",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ms_whenthed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3079,
+    "title": "Suicide Kings",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "grrm_suicidek.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9910,
+    "title": "Lowball",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "grrmmms_lowball.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19434,
+    "title": "High Stakes",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "grrmmms_highstak.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

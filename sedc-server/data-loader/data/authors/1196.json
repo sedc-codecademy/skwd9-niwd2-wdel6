@@ -1,0 +1,83 @@
+[
+  {
+    "id": 23978,
+    "title": "Fire Water",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jw_firewate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23975,
+    "title": "Dirty Magic",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jw_dirtymag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23976,
+    "title": "Cursed Moon",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jw_cursedmo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23977,
+    "title": "Deadly Spells",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jw_deadlysp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1899,
+    "title": "Red-Headed Stepchild",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jw_redheade.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5487,
+    "title": "The Mage in Black",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jw_themagei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5488,
+    "title": "Green-Eyed Demon",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jw_greeneye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5489,
+    "title": "Silver-Tongued Devil",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jw_silverto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5490,
+    "title": "Blue-Blooded Vamp",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jw_bluebloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

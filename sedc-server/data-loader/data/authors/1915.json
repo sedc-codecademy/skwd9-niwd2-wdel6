@@ -1,0 +1,110 @@
+[
+  {
+    "id": 21568,
+    "title": "The Black Wolves of Boston",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ws_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9555,
+    "title": "Endless Blue",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ws_endlessb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6405,
+    "title": "A Brother's Price",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ws_abrother.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20070,
+    "title": "Project Elfhome",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ws_projecte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5205,
+    "title": "Tinker",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ws_tinker.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5206,
+    "title": "Wolf Who Rules",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ws_wolfwhor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5207,
+    "title": "Elfhome",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ws_elfhome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9554,
+    "title": "Wood Sprites",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ws_woodspri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5208,
+    "title": "Alien Taste",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "ws_alientas.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5209,
+    "title": "Tainted Trail",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ws_taintedt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5210,
+    "title": "Bitter Waters",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ws_bitterwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5211,
+    "title": "Dog Warrior",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ws_dogwarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

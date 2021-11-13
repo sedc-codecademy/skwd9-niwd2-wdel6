@@ -1,0 +1,109 @@
+[
+  {
+    "id": 32849,
+    "title": "The Rule of Three",
+    "year": 2018,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11341,
+    "title": "Sweet Potato Pie and Other Surrealities ",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lms_sweetpot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16296,
+    "title": "The Moment",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lms_moment.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11321,
+    "title": "Buffalito Buffet",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lms_bubuffet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11324,
+    "title": "Barry's Tale",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lms_barrysta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11322,
+    "title": "Buffalito Destiny",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "lms_budestin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11325,
+    "title": "Trial of the Century",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lms_trialoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11323,
+    "title": "Buffalito Contingency",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lms_bucontin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11326,
+    "title": "Calendrical Regression",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "lms_calendri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27694,
+    "title": "Barry's Deal",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "lms_barrdeal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15871,
+    "title": "Barsk:  The Elephants' Graveyard",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lms_barsk.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27351,
+    "title": "The Moons of Barsk",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "lms_themoons.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

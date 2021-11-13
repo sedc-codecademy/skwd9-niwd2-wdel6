@@ -1,0 +1,100 @@
+[
+  {
+    "id": 25858,
+    "title": "The Tower of Beowulf",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pg_thetower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24509,
+    "title": "The Fire When It Comes",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "pg_thefirew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18828,
+    "title": "The Fire When It Comes",
+    "year": 1981,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25030,
+    "title": "A Cold Blue Light",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "mkpg_acoldblu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 952,
+    "title": "Firelord",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pg_firelord.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25856,
+    "title": "Beloved Exile",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "pg_belovede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25857,
+    "title": "The Last Rainbow",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pg_thelastr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25038,
+    "title": "The Masters of Solitude",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "kmpg_themaste.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25039,
+    "title": "Wintermind",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "mkpg_wintermi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35873,
+    "title": "Waiting For the Galactic Bus",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "PG_WaitingF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35902,
+    "title": "The Snake Oil Wars:  or Scheherazade Ginzberg Strikes Again",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "PG_TheSnake.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

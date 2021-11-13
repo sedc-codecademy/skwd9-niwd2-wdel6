@@ -1,0 +1,28 @@
+[
+  {
+    "id": 22747,
+    "title": "Woven Flight",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22746,
+    "title": "Maresi",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mt_maresi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34011,
+    "title": "Naondel",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mt_naondel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

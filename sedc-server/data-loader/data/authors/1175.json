@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5524,
+    "title": "Stray Souls",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kg_straysou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5525,
+    "title": "The Glass God",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kg_theglass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1866,
+    "title": "A Madness Of Angels: Or The Resurrection of Matthew Swift",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kg_amadness.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5521,
+    "title": "The Midnight Mayor",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kg_themidni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5522,
+    "title": "The Neon Court",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "kg_theneonc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5523,
+    "title": "The Minority Council",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kg_theminor.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

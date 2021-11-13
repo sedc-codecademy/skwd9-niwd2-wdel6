@@ -1,0 +1,361 @@
+[
+  {
+    "id": 1052,
+    "title": "The Margarets",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sst_themarga.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 384,
+    "title": "The Companions",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sst_thecompa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 399,
+    "title": "The Visitor",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sst_thevisit.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 842,
+    "title": "The Fresco",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sst_thefresc.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6552,
+    "title": "Singer from the Sea",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sst_singerfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6029,
+    "title": "Six Moon Dance",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sst_sixmoond.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 597,
+    "title": "The Family Tree",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "sst_thefamil.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 603,
+    "title": "Gibbon's Decline and Fall",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "sst_gibbonsd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6030,
+    "title": "Shadow's End",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sst_shadowse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 740,
+    "title": "Beauty",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sst_beauty.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 23495,
+    "title": "The Gardener",
+    "year": 1988,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4783,
+    "title": "The Gate to Women's Country",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sst_thegatet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6550,
+    "title": "After Long Silence (The Enigma Score)",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "stt_afterlon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6551,
+    "title": "The Revenants ",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sst_revenant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 111,
+    "title": "Grass",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sst_grass.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1539,
+    "title": "Raising the Stones",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "sst_raisingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 425,
+    "title": "Sideshow",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "sst_sideshow.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9906,
+    "title": "The Awakeners",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sst_theawake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9904,
+    "title": "Northshore",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sst_northsho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9905,
+    "title": "Southshore",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sst_southsho.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9902,
+    "title": "Blood Heritage",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sst_bloodher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9903,
+    "title": "The Bones",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sst_thebones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5607,
+    "title": "The End of the Game",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "sst_theendof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9894,
+    "title": "Jinian Footseer",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sst_jinianfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9895,
+    "title": "Dervish Daughter",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sst_dervishd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9896,
+    "title": "Jinian Star-Eye",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sst_jstareye.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9907,
+    "title": "Marianne, The Magus, and the Manticore",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sst_themagus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9908,
+    "title": "Marianne, The Madame, and the Momentary Gods",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "sst_themadam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9909,
+    "title": "Marianne, the Matchbox, and the Malachite Mouse",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sst_thematch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5590,
+    "title": "The Chronicles of Mavin Manyshaped",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "sst_thechron.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9891,
+    "title": "The Song of Mavin Manyshaped",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sst_thesongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9892,
+    "title": "The Flight of Mavin Manyshaped",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sst_thefligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9893,
+    "title": "The Search of Mavin Manyshaped",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sst_thesearc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6549,
+    "title": "A Plague of Angels",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "stt_plagueof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3048,
+    "title": "The Waters Rising",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sst_thewater.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6557,
+    "title": "Fish Tails",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sst_fishtail.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5739,
+    "title": "The True Game",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "sst_thetrueg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9886,
+    "title": "King's Blood Four",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sst_kingsblo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9887,
+    "title": "Necromancer Nine",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "sst_necroman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9888,
+    "title": "Wizard's Eleven",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "sst_wizardse.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11644,
+    "title": "Mercury",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "AK_Mercury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19530,
+    "title": "Ice",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ak_ice.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

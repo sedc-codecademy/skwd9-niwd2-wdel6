@@ -1,0 +1,83 @@
+[
+  {
+    "id": 7753,
+    "title": "Disappearing Act",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mb_disappea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32073,
+    "title": "Lost in Translation",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "MB_LostTran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32069,
+    "title": "No Earthly Sunne",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "MB_NoEarthl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32070,
+    "title": "The Shadow Gate",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "MB_ShadowGa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7743,
+    "title": "Acorna:  The Unicorn Girl",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ammb_aunicorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7744,
+    "title": "Acorna's Quest",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ammb_acoquest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7754,
+    "title": "PartnerShip",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ammb_partners.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32071,
+    "title": "Flameweaver",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "MB_FlameWea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32072,
+    "title": "Changeweaver",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "MB_ChangeWe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

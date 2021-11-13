@@ -1,0 +1,55 @@
+[
+  {
+    "id": 34022,
+    "title": "The Allies",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34023,
+    "title": "Mirror to the Sky",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "msg_mirrorto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34025,
+    "title": "The Day Star",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "msg_thedayst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34027,
+    "title": "Lords of the Starship",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "msg_lordsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34029,
+    "title": "Out of the Mouth of the Dragon",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "msg_outofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34034,
+    "title": "The Siege of Wonder",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "msg_thesiege.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

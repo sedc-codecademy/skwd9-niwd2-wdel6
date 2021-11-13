@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35009,
+    "title": "Queen Mab:  A Tale Entwined with William Shakespeare's Romeo & Juliet",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kd_queenmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10013,
+    "title": "The Woodcutter",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kd_thewoodc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35069,
+    "title": "Olde Robin Hood",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "KD_olderobi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

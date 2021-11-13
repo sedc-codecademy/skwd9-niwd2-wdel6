@@ -1,0 +1,38 @@
+[
+  {
+    "id": 20476,
+    "title": "The Cambridge Companion to American Science Fiction",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "GC_cambridg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8681,
+    "title": "Green Planets: Ecology and Science Fiction",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gcksr_greenpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20479,
+    "title": "Metamorphoses of Science Fiction:  On the Poetics and History of a Literary Genre",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "DS_metaofsf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20475,
+    "title": "Octavia E. Butler",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "GC_octaviab.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

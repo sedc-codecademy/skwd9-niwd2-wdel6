@@ -1,0 +1,422 @@
+[
+  {
+    "id": 6827,
+    "title": "Selected Stories",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ts_selected.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24625,
+    "title": "A Touch of Sturgeon",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ts_atosturg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 766,
+    "title": "Godbody",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ts_godbody.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24249,
+    "title": "The Stars Are the Styx",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "ts_thestars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19013,
+    "title": "Case and the Dreamer and Other Stories",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "ts_caseandthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19014,
+    "title": "Case and the Dreamer",
+    "year": 1973,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26351,
+    "title": "Occam's Scalpel",
+    "year": 1971,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18239,
+    "title": "Sturgeon Is Alive and Well…",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "TS_Sturgeon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19068,
+    "title": "Slow Sculpture",
+    "year": 1970,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18303,
+    "title": "The Man Who Learned Loving",
+    "year": 1969,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19361,
+    "title": "If All Men Were Brothers, Would You Let One Marry Your Sister?",
+    "year": 1967,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18248,
+    "title": "Starshine",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "TS_Starshin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30125,
+    "title": "...And My Fear Is Great... & Baby Is Three",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ts_babyfear.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12604,
+    "title": "The Joyous Invasions",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ts_thejoyou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21582,
+    "title": "When You Care, When You Love",
+    "year": 1962,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18247,
+    "title": "Beyond",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "TS_Beyond.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21583,
+    "title": "Need",
+    "year": 1960,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21584,
+    "title": "The Man Who Lost the Sea",
+    "year": 1959,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6826,
+    "title": "To Marry Medusa",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ts_tomarrym(2).jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12603,
+    "title": "A Touch of Strange",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "ts_atouchof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12602,
+    "title": "Caviar",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ts_caviar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25591,
+    "title": "Twink",
+    "year": 1955,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25619,
+    "title": "Who?",
+    "year": 1955,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2265,
+    "title": "E Pluribus Unicorn",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "ts_epluribu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31664,
+    "title": "Baby Is Three",
+    "year": 1952,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6825,
+    "title": "The Dreaming Jewels",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "ts_thedream(2).jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31568,
+    "title": "It",
+    "year": 1940,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6622,
+    "title": "The Ultimate Egoist",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ts_theultim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6623,
+    "title": "Microcosmic God",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ts_microcos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6625,
+    "title": "Killdozer!",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ts_killdoze.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6627,
+    "title": "Thunder and Roses",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ts_thundera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6628,
+    "title": "The Perfect Host",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ts_theperfe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6635,
+    "title": "Baby Is Three",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ts_babyisth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6684,
+    "title": "A Saucer of Loneliness",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ts_asaucero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6685,
+    "title": "Bright Segment",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ts_brightse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6686,
+    "title": "And Now the News…",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ts_andnowth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6687,
+    "title": "The Man Who Lost the Sea",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ts_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6688,
+    "title": "The Nail and the Oracle",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ts_thenaila.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6689,
+    "title": "Slow Sculpture",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ts_slowscul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6690,
+    "title": "Case and the Dreamer",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ts_caseandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 306,
+    "title": "Venus Plus X",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ts_venusplu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11434,
+    "title": "The Cosmic Rape and To Marry Medusa",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "TS_cosmicra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10711,
+    "title": "The Golden Helix",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "TS_goldenhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1766,
+    "title": "More Than Human",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "ts_morethan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3512,
+    "title": "Some of Your Blood",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ts_someofyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22457,
+    "title": "Theodore Sturgeon: A Primary and Secondary Bibliography",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "LD_theodore.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14826,
+    "title": "The Joy Machine",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jeg_ts_joymachi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11113,
+    "title": "Tor Double #9: The Ugly Little Boy / The [Widget], The [Wadget]",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "TS_tordbl9.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

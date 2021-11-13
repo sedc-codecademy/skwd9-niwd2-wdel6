@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20973,
+    "title": "Blood Oranges",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "kt_bloodora.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20974,
+    "title": "Red Delicious",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kt_reddelic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20975,
+    "title": "Cherry Bomb",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kt_cherrybo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

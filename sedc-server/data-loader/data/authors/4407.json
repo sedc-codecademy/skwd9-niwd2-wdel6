@@ -1,0 +1,20 @@
+[
+  {
+    "id": 18799,
+    "title": "Task Force Mars",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dn_taskfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18800,
+    "title": "Operation Orion",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "dn_operati.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

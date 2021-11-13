@@ -1,0 +1,137 @@
+[
+  {
+    "id": 17027,
+    "title": "Extreme Prejudice",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "LG_extremep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20201,
+    "title": "Day of Honor",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "DC_dayofhon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20191,
+    "title": "Armageddon Sky",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "LAG_armagedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20222,
+    "title": "The Captain's Table",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lag_wardrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20216,
+    "title": "War Dragons",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "lag_wardrago(2).jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20228,
+    "title": "Time's Enemy",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lag_timesene.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18705,
+    "title": "Ice Trap",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lag_icetrap.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18704,
+    "title": "Death Count",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "lag_deathcou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20323,
+    "title": "Firestorm",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lag_firestorm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20334,
+    "title": "Rough Trails",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lag_roughtra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18706,
+    "title": "Present Tense",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lag_presentt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18707,
+    "title": "Future Imperfect",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lag_futureim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18708,
+    "title": "Past Prologue",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lag_pastprol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20490,
+    "title": "Traitor Winds",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "LG_traitorw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10628,
+    "title": "Caretaker",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "lag_caretake.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

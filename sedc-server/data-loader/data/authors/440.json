@@ -1,0 +1,92 @@
+[
+  {
+    "id": 24359,
+    "title": "Maps: The Uncollected John Sladek",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "js_maps.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24511,
+    "title": "The Lunatics of Terra",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "js_thelunat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 443,
+    "title": "Tik-Tok",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "js_tiktok.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 18443,
+    "title": "The Best of John Sladek",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "JS_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12439,
+    "title": "Keep the Giraffe Burning",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "js_keeptheg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18497,
+    "title": "The Reproductive System",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "JS_TheRepro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6751,
+    "title": "The Müller-Fokker Effect",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "JS_MullerFo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1775,
+    "title": "The Complete Roderick",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "js_thecompl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 569,
+    "title": "Roderick",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "js_roderick.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18496,
+    "title": "Roderick at Random",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "JS_Ratrandom.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

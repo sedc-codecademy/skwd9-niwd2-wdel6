@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10153,
+    "title": "Knight of Ghosts and Shadows",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mleg_knightofg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10154,
+    "title": "Summoned to Tourney",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mleg_summoned.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10155,
+    "title": "Bedlam Boyz",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "eg_bedlambo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

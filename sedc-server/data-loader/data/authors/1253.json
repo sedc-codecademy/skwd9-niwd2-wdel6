@@ -1,0 +1,20 @@
+[
+  {
+    "id": 9162,
+    "title": "Goslings",
+    "year": 1913,
+    "type": "novel",
+    "imageName": "jdb_goslings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2104,
+    "title": "The Hampdenshire Wonder",
+    "year": 1911,
+    "type": "novel",
+    "imageName": "jdb_thewonde.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

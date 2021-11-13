@@ -1,0 +1,92 @@
+[
+  {
+    "id": 32290,
+    "title": "Perchance",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "MK_Perchanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32291,
+    "title": "Psi Hunt",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "MK_PsiHunt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32297,
+    "title": "Tomorrow Knight",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "MK_Tomorro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32295,
+    "title": "Pluribus",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "MK_Pluribus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32294,
+    "title": "The Whenabouts of Burr",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "MK_WhenAbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32292,
+    "title": "Transmission Error",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "MK_Transmis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32293,
+    "title": "The Unicorn Girl",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "MK_UnicornG.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32296,
+    "title": "Ten Years to Doomsday",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "MK_TenYears.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32288,
+    "title": "Ten Little Wizards",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mk_tenlittl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32289,
+    "title": "A Study in Sorcery",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "MK_StudyinS.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

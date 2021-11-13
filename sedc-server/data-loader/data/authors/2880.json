@@ -1,0 +1,37 @@
+[
+  {
+    "id": 17629,
+    "title": "Still Life with Boobs",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11267,
+    "title": "Inventing Memory",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ah_inventin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11273,
+    "title": "Accidental Creatures",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ah_accident.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11274,
+    "title": "The Nature of Smoke",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ah_thenatur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

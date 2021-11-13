@@ -1,0 +1,29 @@
+[
+  {
+    "id": 13375,
+    "title": "Arkham Tales:  Legends of the Haunted City",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "WJ_arkhamta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13374,
+    "title": "Frontier Cthulhu:  Ancient Horrors in the New World",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "WJ_frontier.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13373,
+    "title": "The Strange Cases of Rudolph Pearson:  Horriplicating Tales of the Cthulhu Mythos",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "WJ_strangec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

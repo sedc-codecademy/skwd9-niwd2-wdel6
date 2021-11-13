@@ -1,0 +1,29 @@
+[
+  {
+    "id": 11992,
+    "title": "Kings of the High Frontier",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "vk_kingsoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11991,
+    "title": "Solomon's Knife",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "vk_solomons.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11990,
+    "title": "The Jehovah Contract",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "vk_thejehov.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

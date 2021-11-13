@@ -1,0 +1,156 @@
+[
+  {
+    "id": 27924,
+    "title": "The Influence Machine",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26204,
+    "title": "The Audience",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23218,
+    "title": "The Ninth Seduction",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26533,
+    "title": "Technarion",
+    "year": 2013,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31821,
+    "title": "Electrica",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27256,
+    "title": "Steamgothic",
+    "year": 2012,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21250,
+    "title": "Eight Miles",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32399,
+    "title": "The Cascade",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11344,
+    "title": "The Centurion's Empire",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sm_thecentu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11453,
+    "title": "Mirrorsun Rising",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "sm_mirrorsu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11454,
+    "title": "Voices in the Light",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "sm_voicesin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11345,
+    "title": "Souls in the Great Machine",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "sm_soulsint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11346,
+    "title": "The Miocene Arrow",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "sm_themioce.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11347,
+    "title": "Eyes of the Calculor",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "sm_eyesofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11348,
+    "title": "Voyage of the Shadowmoon",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "sm_voyageof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11349,
+    "title": "Glass Dragons",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sm_glassdra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11350,
+    "title": "Voidfarer",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sm_voidfare.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11351,
+    "title": "The Time Engine",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sm_thetimee.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

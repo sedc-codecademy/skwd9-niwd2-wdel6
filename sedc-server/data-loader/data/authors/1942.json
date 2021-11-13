@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2450,
+    "title": "The Accidental Sorcerer",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kem_theaccid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1936,
+    "title": "Witches Incorporated",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "kem_witchesi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 2451,
+    "title": "Wizard Squared",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "kem_wizardsq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5449,
+    "title": "Wizard Undercover",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kem_wizardun.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

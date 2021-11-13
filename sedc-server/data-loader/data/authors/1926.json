@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5266,
+    "title": "The Light Maze",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "jn_thelight.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5290,
+    "title": "The Cloud Forest",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "jn_thecloud.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5291,
+    "title": "The Whirling Shapes",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "jn_thewhirl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

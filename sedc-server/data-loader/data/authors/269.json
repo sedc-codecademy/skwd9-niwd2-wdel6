@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9962,
+    "title": "Bleeding Edge",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "tp_bleeding.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7222,
+    "title": "Against the Day",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tp_againstt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 273,
+    "title": "Gravity's Rainbow",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "tp_gravitys.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4346,
+    "title": "The Crying of Lot 49",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "tp_thecryin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18524,
+    "title": "V.",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "TP_V.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

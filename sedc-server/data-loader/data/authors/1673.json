@@ -1,0 +1,110 @@
+[
+  {
+    "id": 14047,
+    "title": "The Dragon Engine",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ar_thedrago.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19489,
+    "title": "Twilight of the Dragons",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4962,
+    "title": "Theme Planet",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ar_themepla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3975,
+    "title": "Toxicity",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ar_toxicity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8563,
+    "title": "Kell's Legend",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ar_kellsleg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8564,
+    "title": "Soul Stealers",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ar_soulstea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8565,
+    "title": "Vampire Warlords",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "ar_vampirew.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8560,
+    "title": "The Iron Wolves",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ar_theironw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8561,
+    "title": "The White Towers",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ar_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16855,
+    "title": "A Song for No Man's Land",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_asongfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18866,
+    "title": "Return of Souls",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_returnof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20639,
+    "title": "The Iron Beast",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ar_ironbeas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

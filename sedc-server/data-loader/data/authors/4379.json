@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18590,
+    "title": "Too Like the Lightning",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ap_tooliket.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21278,
+    "title": "Seven Surrenders",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ap_sevensur.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25022,
+    "title": "The Will to Battle",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ap_thewillt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

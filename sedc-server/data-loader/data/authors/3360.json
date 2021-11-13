@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13297,
+    "title": "Highlander Gambit",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "blp_highland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13419,
+    "title": "Impetus of War",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "blp_impetuso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13431,
+    "title": "Exodus Road:  Twilight Of The Clans I",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "blp_exodusro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13473,
+    "title": "Measure of a Hero",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "blp_measureo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13503,
+    "title": "Call of Duty",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "blp_callofdu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13505,
+    "title": "Operation Audacity",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "blp_operatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

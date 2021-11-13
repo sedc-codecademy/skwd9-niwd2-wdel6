@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25719,
+    "title": "How to Stop Time",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "MH_stoptime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19896,
+    "title": "The Humans",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mh_thehuman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19897,
+    "title": "The Radleys",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mh_theradle.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

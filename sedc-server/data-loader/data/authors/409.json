@@ -1,0 +1,83 @@
+[
+  {
+    "id": 28528,
+    "title": "Thin Air",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rkm_thinair.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1035,
+    "title": "Black Man",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rkm_blackman.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 411,
+    "title": "Market Forces",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rkm_marketfo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6160,
+    "title": "The Steel Remains",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rkm_thesteel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4076,
+    "title": "The Cold Commands (The Dark Commands)",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rm_thecoldc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9537,
+    "title": "The Dark Defiles",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rkm_thedarkd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 459,
+    "title": "Altered Carbon",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "rkm_alteredc.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1693,
+    "title": "Broken Angels",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "rkm_brokenan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1694,
+    "title": "Woken Furies",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "rkm_wokenfur.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

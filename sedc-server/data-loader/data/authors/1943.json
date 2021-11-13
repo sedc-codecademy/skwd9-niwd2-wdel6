@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5345,
+    "title": "Full Blooded",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ac_bullbloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5346,
+    "title": "Hot Blooded",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ac_hotblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5344,
+    "title": "Cold Blooded",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ac_coldbloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13965,
+    "title": "Red Blooded",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ac_redblood.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13966,
+    "title": "Pure Blooded",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "acc_purebloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

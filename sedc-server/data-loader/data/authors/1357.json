@@ -1,0 +1,221 @@
+[
+  {
+    "id": 25070,
+    "title": "The Worshipful Society of Glovers",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17171,
+    "title": "Forest of Memory",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mrk_forestof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19213,
+    "title": "Ghost Talkers",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mrk_ghosttal.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23935,
+    "title": "Midnight Hour",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14173,
+    "title": "Word Puppets",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mrk_wordpupp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11298,
+    "title": "Kiss Me Twice",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mk_kissmetw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15972,
+    "title": "For Want of a Nail",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mrk_forwanto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23179,
+    "title": "The Consciousness Problem",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16003,
+    "title": "First Flight",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mrk_firstfli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2693,
+    "title": "Scenting the Dark and Other Stories",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mrk_scenting.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25274,
+    "title": "Clockwork Chickadee",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16041,
+    "title": "Evil Robot Monkey",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mrk_evilmonk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23374,
+    "title": "For Solo Cello, op.12",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19762,
+    "title": "The Hugo Award Showcase: 2010 Volume",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mrk_hugo2010.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2680,
+    "title": "Shades of Milk and Honey",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mrk_shadesof.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4804,
+    "title": "Glamour in Glass",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mrk_glamouri.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 4805,
+    "title": "Without a Summer",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mrk_withouta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6605,
+    "title": "Valour and Vanity",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mrk_valouran.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11278,
+    "title": "Of Noble Family",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mrk_ofnoblef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32521,
+    "title": "Articulated Restraint",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "mrk_articula.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8116,
+    "title": "The Lady Astronaut of Mars",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mrk_ladyast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26742,
+    "title": "The Calculating Stars",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mrk_calculat.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 26743,
+    "title": "The Fated Sky",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mrk_fatedsky.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35617,
+    "title": "The Relentless Moon",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "mrk-relentle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28507,
+    "title": "Nails in My Feet",
+    "year": 2018,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

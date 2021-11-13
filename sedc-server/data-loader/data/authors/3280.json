@@ -1,0 +1,74 @@
+[
+  {
+    "id": 17080,
+    "title": "The Maiden Thief",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mm_themaide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17529,
+    "title": "Seven Black Diamonds",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mm_sevenbla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14398,
+    "title": "Made for You",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mm_madefory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12722,
+    "title": "The Arrivals",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mm_thearriv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24242,
+    "title": "Rags & Bones: New Twists on Timeless Tales",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mmtp_ragsandb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35722,
+    "title": "Shards & Ashes",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "MM_ShardsAs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35721,
+    "title": "Faery Tales & Nightmares",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "MM_FaeryTal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14397,
+    "title": "Graveminder",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mm_gravemin.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

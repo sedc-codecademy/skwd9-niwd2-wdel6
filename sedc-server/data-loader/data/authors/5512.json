@@ -1,0 +1,65 @@
+[
+  {
+    "id": 31705,
+    "title": "Alliance Rising",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cjcjsf_alliance.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25684,
+    "title": "Ring of Lightning",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jsf_ringofli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25685,
+    "title": "Ring of Intrigue",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jsf_ringofin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25686,
+    "title": "Ring of Destiny",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jsf_ringofde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25687,
+    "title": "Groundties",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jsf_groundti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25688,
+    "title": "Uplink",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jsf_uplink.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25689,
+    "title": "Harmonies of the 'Net",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jsf_harmonie.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

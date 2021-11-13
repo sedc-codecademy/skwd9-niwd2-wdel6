@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4740,
+    "title": "Shadow Prowler",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ap_shadowpr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4116,
+    "title": "Shadow Chaser",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ap_shadowch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4741,
+    "title": "Shadow Blizzard",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ap_shadowbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13188,
+    "title": "Chasers of the Wind",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ap_chaserso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

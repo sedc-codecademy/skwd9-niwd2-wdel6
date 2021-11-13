@@ -1,0 +1,74 @@
+[
+  {
+    "id": 32128,
+    "title": "Gryphon",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "CK_Gryphon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16578,
+    "title": "Lifter",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "ck_lifter.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16576,
+    "title": "Eyas",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ck_eyas.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16579,
+    "title": "The Empire of Time",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ck_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16580,
+    "title": "The Fall of the Republic",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "ck_fallofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16581,
+    "title": "Rogue Emperor",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "ck_rogueemp.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 31879,
+    "title": "Greenmagic",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "CK_GreenMag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31880,
+    "title": "Redmagic",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "CK_Redmagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

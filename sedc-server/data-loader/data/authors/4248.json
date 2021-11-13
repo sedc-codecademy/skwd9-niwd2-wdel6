@@ -1,0 +1,47 @@
+[
+  {
+    "id": 34538,
+    "title": "Velocity Weapon",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "meo_velocity.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36448,
+    "title": "Chaos Vector",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "meo_chaosvec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17520,
+    "title": "Steal the Sky",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "meok_stealacr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20547,
+    "title": "Break the Chains",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "meo_breakthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22383,
+    "title": "Inherit the Flame",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mok_inheritt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 21665,
+    "title": "Forsaken Skies",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dnc_forsaken.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22781,
+    "title": "Forgotten Worlds",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dnc_forgotte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24440,
+    "title": "Forbidden Suns",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dnc_forbidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

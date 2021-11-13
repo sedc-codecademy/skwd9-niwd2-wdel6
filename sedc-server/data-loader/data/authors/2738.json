@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10688,
+    "title": "Pursuit of the Screamer",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "ad_pursuito.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10689,
+    "title": "Circle, Crescent, Star",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "ad_circlecr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10690,
+    "title": "Summerfair",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "ad_summerfa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6005,
+    "title": "The Cleft",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dl_thecleft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3162,
+    "title": "The Memoirs of a Survivor",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "dl_thememoi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4354,
+    "title": "Briefing for a Descent into Hell",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "dl_briefing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2852,
+    "title": "Shikasta",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "dl_shikasta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2853,
+    "title": "The Marriages Between Zones Three, Four and Five",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "dl_themarri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2854,
+    "title": "The Sirian Experiments",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "dl_thesiria.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2855,
+    "title": "The Making of the Representative for Planet 8",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "dl_themakin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2856,
+    "title": "The Sentimental Agents in the Volyen Empire",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "dl_thesenti.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

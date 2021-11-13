@@ -1,0 +1,184 @@
+[
+  {
+    "id": 36130,
+    "title": "Ivory Apples",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "lg_ivoryapp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14154,
+    "title": "Weighing Shadows",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "lg_weighing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4072,
+    "title": "The Uncertain Places",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lg_theuncer.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18566,
+    "title": "Dark Rooms",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6770,
+    "title": "The Alchemist's Door ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "lg_alchemis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32676,
+    "title": "The Go-Between",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 702,
+    "title": "Dark Cities Underground",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "lg_darkciti.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 17781,
+    "title": "Fortune and Misfortune",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15161,
+    "title": "Walking the Labyrinth",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "lg_walkingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17655,
+    "title": "The Narcissus Plague",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27594,
+    "title": "Split Light",
+    "year": 1994,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6771,
+    "title": "Summer King, Winter Fool ",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lg_summerki.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17970,
+    "title": "Travellers in Magic",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "lg_travelle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 734,
+    "title": "Strange Devices of the Sun and Moon",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "lg_stranged.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17855,
+    "title": "Alfred",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6773,
+    "title": "Tourists",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lg_tourists.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17971,
+    "title": "Cassandra's Photographs",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 633,
+    "title": "A Mask for the General",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "lg_amaskfor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 936,
+    "title": "The Dream Years",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lg_thedream.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6772,
+    "title": "The Red Magician ",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lg_redmagic.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28262,
+    "title": "Daily Voices",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lg_acm03.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

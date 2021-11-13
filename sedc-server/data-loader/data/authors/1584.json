@@ -1,0 +1,55 @@
+[
+  {
+    "id": 3553,
+    "title": "Darker Than Night",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "og_darkerth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36168,
+    "title": "Coyote Rage",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "og_coyotera.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 36169,
+    "title": "Breed",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "og_breed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36170,
+    "title": "Evil Whispers",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "og_evilwhis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3545,
+    "title": "Crota",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "og_crota.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18410,
+    "title": "Grass Dancer",
+    "year": 1995,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

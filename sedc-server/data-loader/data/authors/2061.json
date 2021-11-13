@@ -1,0 +1,37 @@
+[
+  {
+    "id": 23372,
+    "title": "The Ghost in the Shell:  Five New Short Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "TU_ghostintheshell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21994,
+    "title": "Saisensu Fikushon 2016",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "TF_saiensuf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23238,
+    "title": "Printable",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6047,
+    "title": "Self-Reference ENGINE",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tej_selfrefe.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

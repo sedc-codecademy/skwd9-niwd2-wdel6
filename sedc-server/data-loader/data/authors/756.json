@@ -1,0 +1,227 @@
+[
+  {
+    "id": 8271,
+    "title": "Regina's Song",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "dele_reginass.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8270,
+    "title": "The Redemption of Althalus",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "dele_theredem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8263,
+    "title": "The Rivan Codex",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "dele_therivan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1159,
+    "title": "Polgara the Sorceress",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "dle_polgarat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8262,
+    "title": "Belgarath the Sorcerer",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "dele_belgarat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1406,
+    "title": "Pawn of Prophecy",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "de_pawnofpr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1407,
+    "title": "Queen of Sorcery",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "de_queenofs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1408,
+    "title": "Magician's Gambit",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "de_magician.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1409,
+    "title": "Castle of Wizardry",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "de_castleof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1410,
+    "title": "Enchanters' End Game",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "de_enchante.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8275,
+    "title": "The Elder Gods",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "dele_theelder.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8276,
+    "title": "The Treasured One",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dele_thetreas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8277,
+    "title": "Crystal Gorge",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "dele_crystalg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8278,
+    "title": "The Younger Gods",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "dele_theyoung.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8264,
+    "title": "The Diamond Throne",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "de_thediamo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8265,
+    "title": "The Ruby Knight",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "de_therubyk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8266,
+    "title": "The Sapphire Rose",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "de_thesapph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1402,
+    "title": "Guardians of the West",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "de_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 758,
+    "title": "King of the Murgos",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "de_kingofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1403,
+    "title": "Demon Lord of Karanda",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "de_demonlor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1404,
+    "title": "Sorceress of Darshiva",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "de_sorceres.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1405,
+    "title": "The Seeress of Kell",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "de_theseere.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8267,
+    "title": "Domes of Fire",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "de_domesoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8268,
+    "title": "The Shining Ones",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "de_theshini.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8269,
+    "title": "The Hidden City",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "de_thehidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

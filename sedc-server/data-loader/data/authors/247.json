@@ -1,0 +1,399 @@
+[
+  {
+    "id": 28521,
+    "title": "The Hermit of Houston",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24357,
+    "title": "About Writing: Seven Essays, Four Letters, & Five Interviews",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "srd_aboutwri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6315,
+    "title": "Aye, and Gomorrah: And Other Stories ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "srd_ayeandgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12209,
+    "title": "Atlantis: Three Tales",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "srd_atlantis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24653,
+    "title": "Driftglass/Starshards",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "srd_drifstar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30301,
+    "title": "The Motion of Light in Water",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "SRD_TheMotio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24623,
+    "title": "The Complete Nebula Award-Winning Fiction",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "srd_thecompl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 652,
+    "title": "Stars in My Pocket Like Grains of Sand",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "srd_starsinm.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 10894,
+    "title": "Distant Stars",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "srd_distants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8465,
+    "title": "Empire Star",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "srd_empirest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21080,
+    "title": "Prismatica",
+    "year": 1977,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 252,
+    "title": "Triton",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "srd_triton.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 256,
+    "title": "Dhalgren",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "srd_dhalgren.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 10681,
+    "title": "Tides of Lust",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "sd_tidesofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8464,
+    "title": "Driftglass (collection)",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "srd_driftgla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10682,
+    "title": "The Fall of the Towers",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "sd_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19543,
+    "title": "Lines of Power",
+    "year": 1968,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19151,
+    "title": "Time Considered as a Helix of Semi-Precious Stones",
+    "year": 1968,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18325,
+    "title": "Aye, and Gomorrah…",
+    "year": 1967,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18322,
+    "title": "Driftglass",
+    "year": 1967,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 331,
+    "title": "The Einstein Intersection",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "srd_theeinst.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 20855,
+    "title": "The Star Pit",
+    "year": 1967,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10683,
+    "title": "The Ballad of Beta-2",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "srd_theballa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21601,
+    "title": "The Jewels of Aptor / Second Ending",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "ad_thejewel_seconden.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16349,
+    "title": "Captives of the Flame / The Psionic Menace",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "srd_captivesofthe.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21243,
+    "title": "The Towers of Toron / The Lunar Eye",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_thetower_thelunar.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21004,
+    "title": "Alpha Yes, Terra No! / The Ballad of Beta-2",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_alphayes_theballa.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21015,
+    "title": "The Tree Lord of Imeten / Empire Star",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_thetreel_empirest.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22024,
+    "title": "The Ballad of Beta-2 / Empire Star",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "srd_ad20571.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 324,
+    "title": "Babel-17",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "srd_babel-17.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 8466,
+    "title": "The Jewels of Aptor",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "srd_thejewel.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 334,
+    "title": "Nova",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "srd_nova.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7506,
+    "title": "Nebula Winners Thirteen",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "srd_nebula13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30242,
+    "title": "The Atheist in the Attic",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "srd_theathei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18328,
+    "title": "Quark/1",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "MH&SRD_Quark1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18329,
+    "title": "Quark/2",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "MH&SRD_Quark2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18330,
+    "title": "Quark/3",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "MH&SRD_Quark3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18332,
+    "title": "Quark/4",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "MH&SRD_Quark4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19541,
+    "title": "The Tale of Gorgik",
+    "year": 1979,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 797,
+    "title": "Tales of Nevèrÿon",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "srd_talesofn.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1598,
+    "title": "Nevèrÿona:  or The Tale of Signs and Cities",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "srd_neveryon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1599,
+    "title": "Flight from Nevèrÿon",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "srd_flightfr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1600,
+    "title": "Return to Nevèrÿon",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "srd_returnto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11086,
+    "title": "Tor Double #4: Tango Charley and Foxtrot Remeo / The Star Pit",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "JV_tordble4a.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11134,
+    "title": "Tor Double #21: Home is the Hangman / We, In Some Strange Power's",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "RZ_tordbl21.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

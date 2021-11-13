@@ -1,0 +1,200 @@
+[
+  {
+    "id": 9262,
+    "title": "Space Opera",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rh_spaceo14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9263,
+    "title": "Superheroes",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rh_superher.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12753,
+    "title": "Robots: The Recent A. I.",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rhsw_robotsth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12752,
+    "title": "War & Space: Recent Combat",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rhsw_warandsp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24918,
+    "title": "Unplugged: The Web's Best Sci-Fi & Fantasy: 2008 Download",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rh_unplugge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9255,
+    "title": "Space Opera",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rh_spaceope.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9280,
+    "title": "Fantasy: The Best of the Year, 2006 Edition",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rh_tbfy06ed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9281,
+    "title": "Fantasy: The Best of the Year, 2007 Edition",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rh_tbfy07ed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9282,
+    "title": "Fantasy: The Best of the Year, 2008 Edition",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rh_tbfy08ed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9269,
+    "title": "Science Fiction: The Best of the Year, 2006 Edition",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "rh_tbsf06ed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9270,
+    "title": "Science Fiction: The Best of the Year, 2007 Edition",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rh_tbsf07ed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9271,
+    "title": "Science Fiction: The Best of the Year, 2008 Edition",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rh_tbsf08ed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9261,
+    "title": "The Year's Best Science Fiction & Fantasy 2009",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rh_tybsff09.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9260,
+    "title": "The Year's Best Science Fiction & Fantasy 2010",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "rh_tybsff10.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9259,
+    "title": "The Year's Best Science Fiction & Fantasy 2011",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "rh_tybsff11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9258,
+    "title": "The Year's Best Science Fiction & Fantasy 2012",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "rh_tybsff12.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9257,
+    "title": "The Year's Best Science Fiction & Fantasy 2013",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "rh_tybsff13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9256,
+    "title": "The Year's Best Science Fiction & Fantasy 2014",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "rh_tybsff14.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12751,
+    "title": "The Year's Best Science Fiction & Fantasy 2015",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "rh_tybsff15.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17980,
+    "title": "The Year's Best Science Fiction & Fantasy 2016",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "rh_bsff2016.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23152,
+    "title": "The Year's Best Science Fiction & Fantasy 2017",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "th_tybsff17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28519,
+    "title": "The Year's Best Science Fiction & Fantasy, 2018",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rh_bsff2018.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

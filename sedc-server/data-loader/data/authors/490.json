@@ -1,0 +1,38 @@
+[
+  {
+    "id": 8155,
+    "title": "Bigot Hall",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "SA_BigotHal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8183,
+    "title": "Atom",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "SA_Atom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 491,
+    "title": "Slaughtermatic",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "sa_slaughte.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8182,
+    "title": "The Crime Studio",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "SA_TheCrime.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

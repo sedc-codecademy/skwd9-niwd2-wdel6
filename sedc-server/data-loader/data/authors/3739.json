@@ -1,0 +1,83 @@
+[
+  {
+    "id": 15464,
+    "title": "Tales from the Fathomless Abyss",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pa_talesfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15407,
+    "title": "Baldur's Gate",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pa_bandurs1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15408,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pa_bandurs2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15891,
+    "title": "The Halls of Stormweather",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pa_thehalls.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15682,
+    "title": "Realms of the Deep: The Threat from the Sea",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pa_realmsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15411,
+    "title": "Whisper of Waves",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pa_whispers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15412,
+    "title": "Lies of Light",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pa_liesofli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15413,
+    "title": "Scream of Stone",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pa_screamof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15677,
+    "title": "Annihilation",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pa_annihila.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

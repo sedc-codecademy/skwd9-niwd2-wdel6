@@ -1,0 +1,47 @@
+[
+  {
+    "id": 30117,
+    "title": "The Subjugate",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "ab_thesubju.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11895,
+    "title": "Darwin",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ab_auroradar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11896,
+    "title": "Pegasus",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ab_aurorapeg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11897,
+    "title": "Meridian",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ab_auroramer.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11898,
+    "title": "Centralis",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ab_auroracen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

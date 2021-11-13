@@ -1,0 +1,38 @@
+[
+  {
+    "id": 14226,
+    "title": "Prisoner of the Horned Helmet",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "js_prisoner.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14227,
+    "title": "Lords of Destruction",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "js_lordsofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14228,
+    "title": "Tooth and Claw",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "js_toothand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14229,
+    "title": "Plague of Knives",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "js_plagueof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

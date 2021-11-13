@@ -1,0 +1,56 @@
+[
+  {
+    "id": 32085,
+    "title": "The Bodelan Way",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "LT_BodelanW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32083,
+    "title": "The City Machine",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "LT_CityMach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35341,
+    "title": "Guardians of the Gate",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "LT_Guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32084,
+    "title": "The Wandering Variables",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "LT_Wanderin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21644,
+    "title": "Anthropol / The Time Mercenaries",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ad_anthropo_thetimem.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21660,
+    "title": "The Communipaths / The Noblest Experiment in the Galaxy",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "ad_thecommu_thenoble.gif",
+    "nominations": 0,
+    "wins": -1
+  }
+]

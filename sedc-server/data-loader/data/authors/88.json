@@ -1,0 +1,352 @@
+[
+  {
+    "id": 5954,
+    "title": "Losers in Space",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jb_losersin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5953,
+    "title": "The Return",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jbba_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5952,
+    "title": "Finity",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jb_finity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5951,
+    "title": "Encounter with Tiber",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jbba_encoute.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5950,
+    "title": "Sin of Origin",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jb_sinofori.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5949,
+    "title": "The Man Who Pulled Down the Sky",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jb_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30142,
+    "title": "My Last Bringback",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27877,
+    "title": "Silence Like Diamonds",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31835,
+    "title": "Swift as a Dream and Fleeting as a Sigh",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26335,
+    "title": "Martian Heart",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23093,
+    "title": "The Birds and the Bees and the Gasoline Trees",
+    "year": 2010,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19813,
+    "title": "Things Undone",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26262,
+    "title": "An Ocean Is a Snowflake, Four Billion Miles Away",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27110,
+    "title": "Every Hole Is Outlined",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 653,
+    "title": "Gaudeamus",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jb_gaudeama.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 20019,
+    "title": "Apostrophes and Apocalypses",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jb_apostrop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5650,
+    "title": "One for the Morning Glory",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jb_oneforth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 91,
+    "title": "Mother of Storms",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jb_motherof.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 20020,
+    "title": "My Advice to the Civilized",
+    "year": 1990,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21061,
+    "title": "The Locusts",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 181,
+    "title": "Orbital Resonance",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jb_orbitalr.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5959,
+    "title": "Kaleidoscope Century",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jb_kaleidos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5960,
+    "title": "Candle",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jb_candle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5961,
+    "title": "The Sky So Big and Black",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jb_theskyso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2607,
+    "title": "Directive 51",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jb_directiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4059,
+    "title": "Daybreak Zero",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jb_daybreak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5955,
+    "title": "The Last President",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jb_thelastp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5956,
+    "title": "The Duke of Uranium",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jb_thedukeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5957,
+    "title": "A Princess of the Aerie",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jb_aprinces.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5958,
+    "title": "In the Hall of the Martian King",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jb_inthehal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 178,
+    "title": "A Million Open Doors",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jb_amillion.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 593,
+    "title": "Earth Made of Glass",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jb_earthmad.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4212,
+    "title": "The Merchants of Souls",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jb_themerch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4213,
+    "title": "The Armies of Memory",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jb_thearmie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5962,
+    "title": "Patton's Spaceship",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jb_pattonss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5963,
+    "title": "Washington's Dirigible",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jb_washingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5964,
+    "title": "Caesar's Bicycle",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jb_caesarsb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5966,
+    "title": "Wartide",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jb_wartide.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5967,
+    "title": "Battlecry",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jb_battlecr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5968,
+    "title": "Union Fires",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "jb_unionfir.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

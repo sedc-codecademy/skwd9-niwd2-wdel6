@@ -1,0 +1,29 @@
+[
+  {
+    "id": 25721,
+    "title": "Fire with Fire",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "CH_firewith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28109,
+    "title": "The Root of All Rage",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CH_rootallr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28110,
+    "title": "In the Heart of Chaos",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "CH_heartofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

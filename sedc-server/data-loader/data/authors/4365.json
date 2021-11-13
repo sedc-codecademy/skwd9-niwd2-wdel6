@@ -1,0 +1,74 @@
+[
+  {
+    "id": 28883,
+    "title": "Blow-Out!",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "tnsfmr_blowout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28889,
+    "title": "The Best of Thomas N. Scortia",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "tns_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28881,
+    "title": "The Gold Crew",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "tnsfmr_thegoldc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28879,
+    "title": "The Nightmare Factor",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "tnsfmr_thenight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18461,
+    "title": "Caution! Inflammable!",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "tns_cautioni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28877,
+    "title": "The Prometheus Crisis",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "tnsfmr_theprome.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28887,
+    "title": "Earthwreck!",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "tns_earthwre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28885,
+    "title": "Artery of Fire",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "tns_arteryof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

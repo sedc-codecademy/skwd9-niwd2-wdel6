@@ -1,0 +1,189 @@
+[
+  {
+    "id": 28452,
+    "title": "An American Story",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cp_anameric.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 398,
+    "title": "The Separation",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cp_thesepar.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 594,
+    "title": "The Extremes",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cp_theextre.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 608,
+    "title": "The Prestige",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cp_theprest.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 24486,
+    "title": "The Quiet Woman",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "cp_thequiet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16200,
+    "title": "The Book On the Edge of Forever:  The Facts, the Figures, and the Delusions Behind Harlan Ellison's Never-Published Anthology",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "CP_TheBookO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1073,
+    "title": "The Glamour",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "cp_theglamou.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19546,
+    "title": "An Infinite Summer",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "cp_aninfini.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21060,
+    "title": "Palely Loitering",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21424,
+    "title": "Anticipations",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "cp_anticipa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22033,
+    "title": "A Dream of Wessex",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "CP_adreamof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9060,
+    "title": "The Space Machine:  A Scientific Romance",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "CP_spacemac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 350,
+    "title": "The Inverted World",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "cp_inverted.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 24487,
+    "title": "Real-Time World",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "cp_therealt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 458,
+    "title": "Fugue for a Darkening Island",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "cp_fuguefor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24485,
+    "title": "Indoctrinaire",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "cp_indoctri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20820,
+    "title": "The Watched",
+    "year": 1978,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1067,
+    "title": "The Affirmation",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "cp_theaffir.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3934,
+    "title": "The Islanders",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cp_theislan.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6101,
+    "title": "The Adjacent",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cp_theadjac.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 19302,
+    "title": "The Gradual",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cp_thegradu.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

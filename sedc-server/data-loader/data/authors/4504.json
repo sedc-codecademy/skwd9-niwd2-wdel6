@@ -1,0 +1,38 @@
+[
+  {
+    "id": 19552,
+    "title": "Alien Stars",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "em_aliensta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19553,
+    "title": "After the Flames",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "em_afterthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19554,
+    "title": "Under the Wheel",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "em_underthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19555,
+    "title": "Free Lancers",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "em_freelanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

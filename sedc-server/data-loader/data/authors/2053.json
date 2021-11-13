@@ -1,0 +1,20 @@
+[
+  {
+    "id": 5953,
+    "title": "The Return",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jbba_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5951,
+    "title": "Encounter with Tiber",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jbba_encoute.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

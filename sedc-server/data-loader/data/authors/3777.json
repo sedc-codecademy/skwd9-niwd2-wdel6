@@ -1,0 +1,65 @@
+[
+  {
+    "id": 15631,
+    "title": "The Gossamer Plain",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "tmr_thegossa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15632,
+    "title": "The Fractured Sky",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "tmr_thefract.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15633,
+    "title": "The Crystal Mountain",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tmr_thecryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15628,
+    "title": "The Sapphire Crescent",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tmr_thesapph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15629,
+    "title": "The Ruby Guardian",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "tmr_therubyg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15630,
+    "title": "The Emerald Scepter",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tmr_theemra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15674,
+    "title": "Insurrection",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tmr_insurrec.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

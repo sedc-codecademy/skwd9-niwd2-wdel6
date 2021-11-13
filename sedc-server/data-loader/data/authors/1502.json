@@ -1,0 +1,64 @@
+[
+  {
+    "id": 18029,
+    "title": "High Steel",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jchjd_highstee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14070,
+    "title": "The Fall of Winter",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jch_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11153,
+    "title": "There is No Darkness",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jh_thereisn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18030,
+    "title": "High Steel",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11625,
+    "title": "Perry's Planet",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jch_perryspl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3221,
+    "title": "Bill, the Galactic Hero on the Planet of Zombie Vampires",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "hhjch_bill4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11090,
+    "title": "Tor Double #32: Run For The Stars / Echoes of Thunder",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "HE_tordbl32.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

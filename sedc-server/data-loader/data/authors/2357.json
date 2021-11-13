@@ -1,0 +1,56 @@
+[
+  {
+    "id": 8879,
+    "title": "Half Bad",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sg_halfbad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36691,
+    "title": "Half Wild",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "SG_HalfWild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36692,
+    "title": "Half Lost",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "SG_HalfLost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36693,
+    "title": "The Smoke Thieves",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "SG_SmokeThi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36694,
+    "title": "The Demon World",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SG_DemonWor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36695,
+    "title": "The Burning Kingdoms",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "SG_BurningK.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

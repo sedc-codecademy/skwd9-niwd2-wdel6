@@ -1,0 +1,20 @@
+[
+  {
+    "id": 9818,
+    "title": "War Games",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "kh_wargames.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9819,
+    "title": "Dream Games",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "kh_dreamgam.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

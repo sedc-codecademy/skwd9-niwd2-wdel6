@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36558,
+    "title": "The Raven's Banquet",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cb_ravensba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36559,
+    "title": "Gideon's Angel",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cb_gideonsa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36556,
+    "title": "The Guns of Ivrea",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "cb_gunsofiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36557,
+    "title": "The Witch of Torinia",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cb_witchoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 24930,
+    "title": "The Artificial Bees",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14975,
+    "title": "The Pirate Loop",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sg_thepirat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14988,
+    "title": "The Slitheen Excursion",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sg_theslith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9111,
+    "title": "The Time Travellers",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sg_thetimet.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

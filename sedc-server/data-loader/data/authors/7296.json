@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35314,
+    "title": "Caster",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "EC_Caster.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34584,
+    "title": "A Thousand Beginnings and Endings",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "eo&ec_athousand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35397,
+    "title": "Dualed",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "EC_Dualed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35398,
+    "title": "Divided",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "EC_Divided.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 23083,
+    "title": "Lotus Blue",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cs_lotusblu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23082,
+    "title": "Hot Rods",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31895,
+    "title": "All the Love in the World",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

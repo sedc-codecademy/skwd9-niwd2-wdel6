@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1903,
+    "title": "Sixty-One Nails",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "ms_sixtyone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4453,
+    "title": "The Road to Bedlam",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ms_theroadt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8575,
+    "title": "The Eighth Court",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ms_theeight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8574,
+    "title": "Strangeness and Charm",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ms_strangen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

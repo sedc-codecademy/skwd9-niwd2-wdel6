@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15106,
+    "title": "Alien Arena",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rd_alienare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15109,
+    "title": "The Crystal Snare",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "rd_thecryst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15114,
+    "title": "Second Skin",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rd_secondsk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15057,
+    "title": "The Colour of Darkness",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rd_thecolou.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

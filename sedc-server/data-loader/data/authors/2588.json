@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10026,
+    "title": "The Crimson Shield",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nh_thecrims.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10027,
+    "title": "Cold Redemption",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nh_coldrede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10028,
+    "title": "The Last Bastion",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nh_thelastb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": 32089,
+    "title": "Subb",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "CCM_Subb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32091,
+    "title": "Recall Not Earth",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "CCM_RecallNo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32090,
+    "title": "Secret of the Sunless World",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "CCM_Secretof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32092,
+    "title": "Worlds of the Wall",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "CCM_Worldsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32093,
+    "title": "Omha Abides",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "CCM_OmhaAbid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19673,
+    "title": "The Mercurymen",
+    "year": 1965,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

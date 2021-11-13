@@ -1,0 +1,91 @@
+[
+  {
+    "id": 26341,
+    "title": "The Commission of The Philosophical Alembic",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17505,
+    "title": "Carter & Lovecraft",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "JLH_CarterLo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25394,
+    "title": "After the End of the World",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jlh_afterthe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16841,
+    "title": "A Long Spoon",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jlh_alongspo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16840,
+    "title": "The Death of Me",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jlh_thedeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4439,
+    "title": "The Necromancer",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jlh_thenecro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4440,
+    "title": "The Detective",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jlh_thedetec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4441,
+    "title": "The Fear Institute",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jlh_thefeari.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13163,
+    "title": "The Brothers Cabal",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jlh_thebroth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20383,
+    "title": "The Fall of the House of Cabal",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jlh_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 20846,
+    "title": "Higher Score",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RM_highersc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21223,
+    "title": "Heirs of the Force",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM_heirsfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21224,
+    "title": "Shadow Academy",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM_shadowac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21225,
+    "title": "The Lost Ones",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM_lostones.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21226,
+    "title": "Lightsabers",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "RM_lightsab.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21227,
+    "title": "Darkest Knight",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RM_darkestk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21228,
+    "title": "Jedi Under Siege",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "RM_jediunde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21229,
+    "title": "Shards of Alderaan",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RM_shardsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21230,
+    "title": "Diversity Alliance",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RM_diversit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21231,
+    "title": "Delusions of Grandeur",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RE_delusion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21232,
+    "title": "Jedi Bounty",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "RM_jediboun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21233,
+    "title": "The Emperor's Plague",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RM_emperors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21234,
+    "title": "Return to Ord Mantell",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RM_returnto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21235,
+    "title": "Trouble on Cloud City ",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RM_troubleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21236,
+    "title": "Crisis at Crystal Reef",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "RM_crisisat.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

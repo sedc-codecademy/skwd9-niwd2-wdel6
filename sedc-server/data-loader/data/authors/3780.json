@@ -1,0 +1,37 @@
+[
+  {
+    "id": 18040,
+    "title": "Zeke",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15648,
+    "title": "V: The Florida Project",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "TS_V5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15652,
+    "title": "V: The New England Resistance",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "TS_V9.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15656,
+    "title": "V: To Conquer the Throne",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "TS_V13.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

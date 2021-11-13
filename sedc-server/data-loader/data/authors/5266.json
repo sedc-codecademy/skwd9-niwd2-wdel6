@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36390,
+    "title": "Repo Virtual",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "cjw_repovirt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23725,
+    "title": "Killing Gravity",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cjw_killingg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25853,
+    "title": "Void Black Shadow",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cjw_voidblac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31443,
+    "title": "Static Ruin",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "cjw_staticru.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

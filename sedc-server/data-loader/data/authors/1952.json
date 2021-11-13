@@ -1,0 +1,83 @@
+[
+  {
+    "id": 5377,
+    "title": "Quick Bites: A Short Story Collection",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jr_quickbit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5369,
+    "title": "Once Bitten, Twice Shy",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jr_oncebitte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5370,
+    "title": "Another One Bites the Dust",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jr_anothero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5371,
+    "title": "Biting the Bullet",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jr_bitingth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5372,
+    "title": "Bitten to Death",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jr_bittento.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5373,
+    "title": "One More Bite",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jr_onemoreb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5374,
+    "title": "Bite Marks",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jr_bitemark.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5375,
+    "title": "Bitten in Two",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jr_bittenin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5376,
+    "title": "The Deadliest Bite",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jr_thedeadl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

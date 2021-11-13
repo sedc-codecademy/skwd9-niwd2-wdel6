@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11845,
+    "title": "Fireborn",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "ka_fireborn.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11846,
+    "title": "Wicked Embers",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ka_wickedem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21409,
+    "title": "Flameout",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ka_flameout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25478,
+    "title": "Ashes Reborn",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "ka_ashesreb.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34833,
+    "title": "The Unlikely Ones",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "MB_unlikely.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34834,
+    "title": "Pigs Don't Fly",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "MB_pigsdont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34835,
+    "title": "Master of Many Treasures",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "MB_masterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34836,
+    "title": "Dragonne's Eg",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "MB_dragonne.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 22502,
+    "title": "My Sister Rosa",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jl_mysister.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11915,
+    "title": "Razorhurst",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jl_razorhur.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9620,
+    "title": "Team Human",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jlsrb_teamhuma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24290,
+    "title": "Zombies Vs. Unicorns",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jlhb_zombiesv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1733,
+    "title": "Liar",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jl_liar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5854,
+    "title": "How to Ditch Your Fairy",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jl_howtodit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16239,
+    "title": "Daughters of Earth:  Feminist Science Fiction in the Twentieth Century",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jl_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10543,
+    "title": "The Battle of the Sexes in Science Fiction",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "JL_battlese.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3644,
+    "title": "Magic or Madness",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jl_magicorm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3642,
+    "title": "Magic Lessons",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jl_magicles.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3643,
+    "title": "Magic's Child",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jl_magicsch.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

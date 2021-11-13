@@ -1,0 +1,253 @@
+[
+  {
+    "id": 36672,
+    "title": "Curious Toys",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "eh_curioust.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12728,
+    "title": "Wylding Hall",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "eh_wyldingh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6723,
+    "title": "Errantry:  Strange Stories",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eh_errantry.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22119,
+    "title": "Near Zennor",
+    "year": 2011,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19870,
+    "title": "The Maiden Flight of McCauley's Bellerophon",
+    "year": 2010,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23303,
+    "title": "Hungerford Bridge",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9164,
+    "title": "Illyria",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eh_illyria.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26303,
+    "title": "Winter's Wife",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17707,
+    "title": "Saffron and Brimstone:  Strange Stories",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "eh_saffrona.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27092,
+    "title": "The Saffron Gatherers",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17708,
+    "title": "Echo",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5665,
+    "title": "Mortal Love",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "eh_mortallo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24338,
+    "title": "Bibliomancy",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "eh_biblioma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23637,
+    "title": "The Least Trumps",
+    "year": 2002,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23625,
+    "title": "Cleopatra Brimstone",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23619,
+    "title": "Chip Crockett's Christmas Carol",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "eh_chipcroc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8433,
+    "title": "Black Light",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "eh_blacklig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13864,
+    "title": "Last Summer at Mars Hill:  and Other Short Stories",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "EH_LastSumm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 598,
+    "title": "Glimmering",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "eh_glimmeri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 723,
+    "title": "Waking the Moon",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "eh_wakingth.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 19515,
+    "title": "Last Summer at Mars Hill",
+    "year": 1994,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23529,
+    "title": "The Erl-King",
+    "year": 1993,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4558,
+    "title": "Generation Loss",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eh_generati.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6204,
+    "title": "Available Dark",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eh_availabl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22547,
+    "title": "Hard Light",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "eh_hardligh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24433,
+    "title": "Fire.",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "EH_Fire.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 531,
+    "title": "Winterlong",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "eh_winterlo.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 520,
+    "title": "Aestival Tide",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "eh_aestival.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 517,
+    "title": "Icarus Descending",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "eh_icarusde.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

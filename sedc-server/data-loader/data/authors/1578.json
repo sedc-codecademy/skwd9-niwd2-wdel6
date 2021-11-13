@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5083,
+    "title": "The Haunted",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "bl_thehaunt.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4634,
+    "title": "The Ignored",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "bl_theignor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3537,
+    "title": "The Summoning",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "bl_thesummo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27415,
+    "title": "The Handyman",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "bl_thehandy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18499,
+    "title": "The Collection",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "bl_thecoll.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31892,
+    "title": "The Walking",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "BL_Walking.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

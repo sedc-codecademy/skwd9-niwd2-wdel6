@@ -1,0 +1,63 @@
+[
+  {
+    "id": 23662,
+    "title": "Everland",
+    "year": 2009,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19348,
+    "title": "Everland and Other Stories",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pw_everland.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12138,
+    "title": "Tumbling After",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pw_tumbling.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19349,
+    "title": "Left of the Dial",
+    "year": 2004,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8339,
+    "title": "Waking Beauty ",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pw_wakingbe.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12136,
+    "title": "The Emperor of all Things",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pw_theemper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12137,
+    "title": "The Watchman of Eternity",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pw_thewatch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

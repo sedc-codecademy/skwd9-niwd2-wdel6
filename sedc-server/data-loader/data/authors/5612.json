@@ -1,0 +1,47 @@
+[
+  {
+    "id": 26631,
+    "title": "No Time Like the Future",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "nsb_notimeli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26629,
+    "title": "The Remarkable Exploits of Lancelot Biggs: Spaceman",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "nsb_lancelot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26627,
+    "title": "Exiles of Time",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "nsb_exilesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26630,
+    "title": "The Thirty-First of February",
+    "year": 1949,
+    "type": "novel",
+    "imageName": "nsb_thethirt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26628,
+    "title": "Mr. Mergenthwirker's Lobblies and Other Fantastic Tales",
+    "year": 1946,
+    "type": "novel",
+    "imageName": "nsb_mrmergen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

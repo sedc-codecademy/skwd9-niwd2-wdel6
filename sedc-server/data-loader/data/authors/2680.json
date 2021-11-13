@@ -1,0 +1,191 @@
+[
+  {
+    "id": 23109,
+    "title": "Blade of p'Na",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "lns_bladeofp.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11985,
+    "title": "Forge of the Elders",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "lns_forgeoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32315,
+    "title": "Brightsuit MacBear",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "LNS_BrightSu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32316,
+    "title": "Taflak Lysandra",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "LNS_TaflakLy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11496,
+    "title": "The Crystal Empire",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "lns_crystalem.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32314,
+    "title": "The Wardove",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "LNS_Wardove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11497,
+    "title": "Henry Martyn",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "lns_henrymar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11498,
+    "title": "Bretta Martyn",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "lns_brettama.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10536,
+    "title": "Pallas",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "lns_pallas.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10537,
+    "title": "Ceres",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "lns_ceres.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10529,
+    "title": "The Probability Broach",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "lns_theproba.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10530,
+    "title": "The Venus Belt",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "lns_thevenus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10531,
+    "title": "Their Majesties' Bucketeers",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "lns_theirmaj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10532,
+    "title": "The Nagasaki Vector",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "lns_thenagas.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10533,
+    "title": "Tom Paine Maru",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "lns_thetompa.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10534,
+    "title": "The Gallatin Divergence",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "lns_thegalla.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 10535,
+    "title": "The American Zone",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "lns_theameri.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16572,
+    "title": "The Lando Calrissian Adventures",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "LS_landocal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16569,
+    "title": "Lando Calrissian and the Mindharp of Sharu",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "LS_mindharp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16570,
+    "title": "Lando Calrissian and the Flamewind of Oseon",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "LS_flamewin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16571,
+    "title": "Lando Calrissian and the Starcave of ThonBoka",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "LS_starcave.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

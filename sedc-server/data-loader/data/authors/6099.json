@@ -1,0 +1,37 @@
+[
+  {
+    "id": 32528,
+    "title": "Soldier of Light",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "TC_Soldiero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32527,
+    "title": "Secret Realms",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "TC_SecretRe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32526,
+    "title": "Infectress",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "TC_Infectre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34118,
+    "title": "Universal Emulators",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

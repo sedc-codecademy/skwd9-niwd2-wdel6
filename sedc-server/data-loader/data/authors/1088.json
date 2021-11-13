@@ -1,0 +1,101 @@
+[
+  {
+    "id": 32378,
+    "title": "Marked",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "sas_marked.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35660,
+    "title": "Broken Crescent",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "SAS_BrokenCr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35656,
+    "title": "God's Dice",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "SAS_GodsDice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1655,
+    "title": "Prophets",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sas_prophets.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1692,
+    "title": "Heretics",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sas_heretics.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3091,
+    "title": "Messiah",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sas_messiah.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35657,
+    "title": "The Dragons of the Cuyahoga",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "SAS_DragonsC.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35658,
+    "title": "The Dwarves of Whiskey Island",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SAS_DwarvesW.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35661,
+    "title": "Dragon Princess",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "SAS_DragPrin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35662,
+    "title": "Dragon Thief",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "SAS_DragThie.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35663,
+    "title": "Dragon Wizard",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "SAS_DragWiza.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

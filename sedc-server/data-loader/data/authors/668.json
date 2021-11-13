@@ -1,0 +1,341 @@
+[
+  {
+    "id": 35259,
+    "title": "Masque of the Red Death",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cd_masqueof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35257,
+    "title": "Model Minority",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cd_modelmin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35258,
+    "title": "Radicalized",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cd_novradic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32376,
+    "title": "Radicalized",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cd_radicali.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35256,
+    "title": "Unauthorized Bread",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "cd_unauthor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25352,
+    "title": "Party Discipline",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cd_partydis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21354,
+    "title": "Walkaway",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "cd_walkaway.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19867,
+    "title": "The Man Who Sold the Moon",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "cd_manwhoso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30120,
+    "title": "Petard: A Tale of Just Deserts",
+    "year": 2014,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4530,
+    "title": "Pirate Cinema",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cd_pirateci.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 5342,
+    "title": "The Rapture of the Nerds",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cdcs_theraptu.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28648,
+    "title": "The Brave Little Toaster",
+    "year": 2011,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2746,
+    "title": "For the Win",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cd_forthewi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28626,
+    "title": "The Jammie Dodgers and the Adventure of the Leicester Square Screening",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17127,
+    "title": "Chicken Little",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cd_chickenl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1846,
+    "title": "Makers",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "cd_makers.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 32051,
+    "title": "The Things that Make Me Weak and Strange Get Engineered Away",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cd_thething.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14662,
+    "title": "True Names",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cd_trueName.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6445,
+    "title": "Overclocked: Stories of the Future Present",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cd_overcloc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31813,
+    "title": "After the Siege",
+    "year": 2006,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26248,
+    "title": "I, Row-Boat",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32138,
+    "title": "When Sysadmins Ruled the Earth",
+    "year": 2006,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31811,
+    "title": "Human Readable",
+    "year": 2005,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20508,
+    "title": "I, Robot",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cd_irobot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 850,
+    "title": "Someone Comes to Town, Someone Leaves Town",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cd_someonec.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 672,
+    "title": "Eastern Standard Tribe",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cd_easterns.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 816,
+    "title": "Down and Out in the Magic Kingdom",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cd_downando.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 32494,
+    "title": "Nimby and the Dimension Hoppers",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24351,
+    "title": "A Place So Foreign and Eight More",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "cd_placesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18598,
+    "title": "0wnz0red",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cd_0wnz0red.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34285,
+    "title": "The Rebranding of Billy Bailey",
+    "year": 2000,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36472,
+    "title": "Return to Pleasure Island",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32810,
+    "title": "Visit the Sins",
+    "year": 1999,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19834,
+    "title": "Craphound",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cd_craphoun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17128,
+    "title": "Shannon's Law",
+    "year": 2011,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16911,
+    "title": "Lawful Interception",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cd_lawfulin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1219,
+    "title": "Little Brother",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "cd_littlebr.jpg",
+    "nominations": 5,
+    "wins": -1
+  },
+  {
+    "id": 5751,
+    "title": "Homeland",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "cd_homeland.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7724,
+    "title": "The Great Big Beautiful Tomorrow",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cd.thegreatbig.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

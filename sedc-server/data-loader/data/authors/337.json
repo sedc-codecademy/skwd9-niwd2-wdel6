@@ -1,0 +1,172 @@
+[
+  {
+    "id": 25425,
+    "title": "Noise",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "hc_noise.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27418,
+    "title": "Exchange Rate",
+    "year": 1999,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25424,
+    "title": "Half Life",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "hc_halflife.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25420,
+    "title": "Still River",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "hc_stillriv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25423,
+    "title": "The Nitrogen Fix",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "hc_thenitro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25422,
+    "title": "Ocean on Top",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "hc_oceanont.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4261,
+    "title": "Natives of Space",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "hc_nativeso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4259,
+    "title": "Cycle of Fire",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "hc_cycleoff.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25421,
+    "title": "The Ranger Boys in Space",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "hc_therange.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4260,
+    "title": "Iceworld",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "hc_iceworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18425,
+    "title": "The Best of Hal Clement",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "HC_TheBestO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3053,
+    "title": "The Essential Hal Clement Volume 1: Trio for Slide Rule & Typewriter",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "hc_triofors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3054,
+    "title": "The Essential Hal Clement Volume 2: Music of Many Spheres",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "hc_musicofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3055,
+    "title": "The Essential Hal Clement Volume 3:  Variations on a Theme by Sir Isaac Newton",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "hc_variatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1785,
+    "title": "Mission of Gravity",
+    "year": 1954,
+    "type": "novel",
+    "imageName": "hc_missiono.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4258,
+    "title": "Close to Critical",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "hc_closetoc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 341,
+    "title": "Star Light",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "hc_starligh.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3051,
+    "title": "Needle",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "hc_needle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3052,
+    "title": "Through the Eye of a Needle",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "hc_throught.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

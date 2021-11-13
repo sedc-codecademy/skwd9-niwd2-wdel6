@@ -1,0 +1,38 @@
+[
+  {
+    "id": 35857,
+    "title": "Enchantress",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JM_Enchantr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35858,
+    "title": "The Hidden Relic",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JM_HiddenRe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35859,
+    "title": "The Path of the Storm",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JM_PathStor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35860,
+    "title": "The Lore of the Evermen",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "JM_LoreEver.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

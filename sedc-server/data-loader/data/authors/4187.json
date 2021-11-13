@@ -1,0 +1,20 @@
+[
+  {
+    "id": 17341,
+    "title": "Guardian Angel",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "sbg_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17342,
+    "title": "Fallen Angel",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sbg_fallenan.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

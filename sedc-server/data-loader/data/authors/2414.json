@@ -1,0 +1,56 @@
+[
+  {
+    "id": 9171,
+    "title": "Cat's Cradle: Warhead",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "ac_catscrad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10246,
+    "title": "Warlock",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "ac_warlock.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10279,
+    "title": "Warchild",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "ac_warchild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9112,
+    "title": "Atom Bomb Blues",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ac_atombomb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9125,
+    "title": "Foreign Devils",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ac_foreignd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15728,
+    "title": "Consequences",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jmjlac_conseque.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

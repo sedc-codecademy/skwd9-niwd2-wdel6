@@ -1,0 +1,47 @@
+[
+  {
+    "id": 32450,
+    "title": "Blackrose Avenue",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "MS_BlackRos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10107,
+    "title": "Wheels of Fire",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mlms_wheelsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10110,
+    "title": "Elvendude",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "ms_elvendud.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10111,
+    "title": "Spiritride",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ms_spiritri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10112,
+    "title": "Lazerwarz",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "ms_lazerwar.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

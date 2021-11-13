@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35509,
+    "title": "Ormeshadow",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "ps_ormeshad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16890,
+    "title": "Fabulous Beasts",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ps_fabulous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16891,
+    "title": "Rag and Bone",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ps_ragandbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

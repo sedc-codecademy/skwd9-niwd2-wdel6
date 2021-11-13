@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5085,
+    "title": "Inheritance",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jmk_inherita.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5084,
+    "title": "The Red Empire and Other Stories",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jmk_theredem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3602,
+    "title": "Quarantined",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jmk_quaranti.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6084,
+    "title": "The Savage Dead",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jmk_thesavag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3042,
+    "title": "Dead City",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jmk_deadcity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3043,
+    "title": "Apocalypse of the Dead",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jmk_apocalyp.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3044,
+    "title": "Flesh Eaters",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jmk_flesheat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4491,
+    "title": "Mutated",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jmk_mutated.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

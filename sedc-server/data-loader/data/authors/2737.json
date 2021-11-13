@@ -1,0 +1,29 @@
+[
+  {
+    "id": 10685,
+    "title": "A Tale of Destiny",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "is_ataleofd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10686,
+    "title": "Song of the Forgiven",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "is_songofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10687,
+    "title": "Requiem for the Infidels",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "is_requiemf.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 3657,
+    "title": "The House of the Scorpion",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "nf_thehouse.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6275,
+    "title": "The Lord of Opium",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nf_thelordo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6407,
+    "title": "The Sea of Trolls",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "nf_theseaof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6408,
+    "title": "The Land of the Silver Apples",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "nf_thelando.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6409,
+    "title": "The Islands of the Blessed",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "nf_theislan.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

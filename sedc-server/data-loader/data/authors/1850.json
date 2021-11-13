@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5869,
+    "title": "The Fool's Tale",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "ng_thefools.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23389,
+    "title": "The Rise and Fall of D.O.D.O.",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nsng_therisea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4719,
+    "title": "The Mongoliad:  Book Three",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "nsgbmt_themongo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

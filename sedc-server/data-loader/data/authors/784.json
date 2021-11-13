@@ -1,0 +1,218 @@
+[
+  {
+    "id": 14035,
+    "title": "The King's Justice:  Two Novellas",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "srd_thekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4232,
+    "title": "The Best of Stephen R. Donaldson",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "srd_thebesto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16346,
+    "title": "Reave the Just and Other Tales",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "srd_reavethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24319,
+    "title": "Strange Dreams",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "srd_stranged.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24621,
+    "title": "Daughter of Regals and Other Tales",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "srd_daughter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 966,
+    "title": "Lord Foul's Bane",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "srd_thechron.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 1284,
+    "title": "The Illearth War",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "srd_theillea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1285,
+    "title": "The Power that Preserves",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "srd_thepower.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1287,
+    "title": "The Real Story: The Gap into Conflict",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "srd_thereals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1288,
+    "title": "Forbidden Knowledge: The Gap into Vision",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "srd_forbidde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1289,
+    "title": "A Dark and Hungry God Arises: The Gap into Power",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "srd_adarkand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1148,
+    "title": "Chaos and Order: The Gap into Madness",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "srd_chaosand.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1291,
+    "title": "This Day All Gods Die: The Gap into Ruin",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "srd_thisdaya.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25374,
+    "title": "Seventh Decimate",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "srd_seventhd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32434,
+    "title": "The War Within",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "srd_thewarwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 866,
+    "title": "The Runes of the Earth",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "srd_therunes.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1286,
+    "title": "Fatal Revenant",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "srd_fatalrev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2331,
+    "title": "Against All Things Ending",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "srd_againsta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5787,
+    "title": "The Last Dark",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "srd_thelastd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5788,
+    "title": "The Mirror of Her Dreams",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "srd_themirro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5789,
+    "title": "A Man Rides Through",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "srd_amanride.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 792,
+    "title": "The Wounded Land",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "srd_thewound.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 786,
+    "title": "The One Tree",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "srd_theonetr.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 784,
+    "title": "White Gold Wielder",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "srd_whitegol.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

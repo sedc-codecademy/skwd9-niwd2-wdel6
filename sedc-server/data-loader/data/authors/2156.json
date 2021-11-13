@@ -1,0 +1,29 @@
+[
+  {
+    "id": 7925,
+    "title": "The Garden of Stones",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mtb_thegarden.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7968,
+    "title": "The Obsidian Heart",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mtb_theobsid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7969,
+    "title": "The Pillars of Sand",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mtb_thepilla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

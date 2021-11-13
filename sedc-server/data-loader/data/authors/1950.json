@@ -1,0 +1,110 @@
+[
+  {
+    "id": 6610,
+    "title": "The Lascar's Dagger ",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "gl_lascarsd.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11763,
+    "title": "The Dagger's Path",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "gl_thedagge.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 22498,
+    "title": "The Fall of the Dagger",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "gl_thefallo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6581,
+    "title": "The Aware",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gl_theaware.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6582,
+    "title": "Gilfeather",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gl_gilfeath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6583,
+    "title": "The Tainted",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "gl_thetaint.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6606,
+    "title": "Heart of the Mirage",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gl_heartoft.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6607,
+    "title": "The Shadow of Tyr ",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "gl_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6609,
+    "title": "Song of the Shiver Barrens ",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "gl_songofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5360,
+    "title": "The Last Stormlord",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gl_thelasts.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5361,
+    "title": "Stormlord Rising",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "gl_stormlor.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5362,
+    "title": "Stormlord's Exile",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "gl_exile.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

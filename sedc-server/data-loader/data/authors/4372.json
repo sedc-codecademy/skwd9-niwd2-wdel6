@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18500,
+    "title": "Sins of the Angels",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "lp_sinsofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18501,
+    "title": "Sins of the Son",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "lp_sotheson.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18502,
+    "title": "Sins of the Lost",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "lp_softlost.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

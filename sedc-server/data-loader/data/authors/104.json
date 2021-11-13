@@ -1,0 +1,110 @@
+[
+  {
+    "id": 19158,
+    "title": "Vectors",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "mpkm_vectors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7105,
+    "title": "The Trigger",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "accmkm_thetrigg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19157,
+    "title": "Exile",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "mpkm_exile.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 108,
+    "title": "The Quiet Pools",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mpkmd_thequiet.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 19156,
+    "title": "Alternities",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "mpkm_alternit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17148,
+    "title": "The Black Fleet Crisis",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "MKM_blackfle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17145,
+    "title": "Before the Storm",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "MKM_beforeth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17146,
+    "title": "Shield of Lies",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "MKM_shieldof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17147,
+    "title": "Tyrant's Test",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "MKM_tyrantte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 555,
+    "title": "Emprise",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "mpkmd_emprise.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1608,
+    "title": "Enigma",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "mpkmd_enigma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1609,
+    "title": "Empery",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "mpkmd_empery.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

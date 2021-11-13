@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3118,
+    "title": "The House of the Seven Gables",
+    "year": 1851,
+    "type": "novel",
+    "imageName": "nh_thehouse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12410,
+    "title": "Twice-Told Tales",
+    "year": 1837,
+    "type": "novel",
+    "imageName": "NH_twicetol.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

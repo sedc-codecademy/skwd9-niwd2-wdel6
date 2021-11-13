@@ -1,0 +1,64 @@
+[
+  {
+    "id": 21512,
+    "title": "Rat Race",
+    "year": 1966,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8473,
+    "title": "This Island Earth",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "rfj_thisisla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12926,
+    "title": "The Alien",
+    "year": 1951,
+    "type": "novel",
+    "imageName": "RJ_thealien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12911,
+    "title": "The Secret People",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "rfj_thesecre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10374,
+    "title": "Son of the Stars",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "rfj_sonofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10385,
+    "title": "Planet of Light",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "rfj_planetof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10387,
+    "title": "The Year When Stardust Fell",
+    "year": 1958,
+    "type": "novel",
+    "imageName": "rfj_theyearw.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

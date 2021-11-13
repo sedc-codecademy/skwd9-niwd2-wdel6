@@ -1,0 +1,56 @@
+[
+  {
+    "id": 11303,
+    "title": "Holder of Lightning",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "slf_holderof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11304,
+    "title": "Mage of Clouds",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "slf_mageofcl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11305,
+    "title": "Heir of Stone",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "slf_heirofst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2328,
+    "title": "A Magic of Twilight",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "slf_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2329,
+    "title": "A Magic of Nightfall",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "slf_nightfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2330,
+    "title": "A Magic of Dawn",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "slf_dawn.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

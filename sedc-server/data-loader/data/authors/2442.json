@@ -1,0 +1,29 @@
+[
+  {
+    "id": 9213,
+    "title": "The Stone War ",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mer_stonewar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9211,
+    "title": "Point of Honour ",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mer_pointofh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9212,
+    "title": "Petty Treason ",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mer_pettytre.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

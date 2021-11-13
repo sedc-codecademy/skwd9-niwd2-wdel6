@@ -1,0 +1,45 @@
+[
+  {
+    "id": 18035,
+    "title": "The Strange Redemption of Sister Mary Ann",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18036,
+    "title": "A Day's Work on the Moon",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19198,
+    "title": "The First Casualty",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "mm_thefirst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19199,
+    "title": "The Price of Peace",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mm_theprice.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19200,
+    "title": "They Also Serve",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "mm_theyalso.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 23340,
+    "title": "Trip Trap",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28097,
+    "title": "Infinity",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sk_infinity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28098,
+    "title": "Invincible",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "sk_invincib.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28099,
+    "title": "Infamous",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "sk_infamous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28100,
+    "title": "Inferno",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sk_inferno.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28101,
+    "title": "Illusion",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sk_illusion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28102,
+    "title": "Instinct",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sk_instinct.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28103,
+    "title": "Invision",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sk_invision.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28104,
+    "title": "Intensity",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sk_intensity.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23711,
+    "title": "Deadmen Walking",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sk_deadmenw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28096,
+    "title": "Death Doesn't Bargain",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sk_deathdoe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

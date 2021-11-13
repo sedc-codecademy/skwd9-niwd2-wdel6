@@ -1,0 +1,29 @@
+[
+  {
+    "id": 35184,
+    "title": "Bats",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "WWJ_Bats.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35182,
+    "title": "Them",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "WWJ_Them.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35183,
+    "title": "Toy Cemetery",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "WWJ_ToyCemet.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

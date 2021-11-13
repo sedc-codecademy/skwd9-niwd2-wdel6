@@ -1,0 +1,56 @@
+[
+  {
+    "id": 15273,
+    "title": "The Secret Oceans",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "bb_secretoc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15268,
+    "title": "The Fantastic Art of Frank Frazetta",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "bb_ff_book1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15269,
+    "title": "Frank Frazetta, Book Two",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "bb_ff_book2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15270,
+    "title": "Frank Frazetta, Book Three",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "bb_ff_book3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15271,
+    "title": "Frank Frazetta, Book Four",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "bb_ff_book4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15272,
+    "title": "Frank Frazetta, Book Five",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "bb_ff_book5.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

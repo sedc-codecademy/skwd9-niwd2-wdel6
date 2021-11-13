@@ -1,0 +1,91 @@
+[
+  {
+    "id": 30330,
+    "title": "The World Beyond the Hill: Science Fiction and the Quest for Transcendence",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "apcp_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30327,
+    "title": "Earth Magic",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "apcp_earthmag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30329,
+    "title": "SF in Dimension: A Book of Explorations",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "apcp_sfindime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30328,
+    "title": "Farewell to Yesterday's Tomorrow",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "ap_farewell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34430,
+    "title": "How Can We Sink When We Can Fly?",
+    "year": 1971,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27117,
+    "title": "Heinlein in Dimension",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "AP_Heinlein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12968,
+    "title": "Star Well",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ap_starwell.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12969,
+    "title": "The Thurb Revolution",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ap_thethurb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12184,
+    "title": "Masque World",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "ap_masquewo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 336,
+    "title": "Rite of Passage",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "ap_riteofpa.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

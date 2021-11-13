@@ -1,0 +1,56 @@
+[
+  {
+    "id": 27093,
+    "title": "City in the Sky",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "cs_cityinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27094,
+    "title": "The Third Ear",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "cs_thethird.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27095,
+    "title": "Skyport",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "cs_skyport.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27046,
+    "title": "Donovan's Brain",
+    "year": 1942,
+    "type": "novel",
+    "imageName": "cs_donovans.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27047,
+    "title": "Hauser's Memory",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "cs_hausersm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27048,
+    "title": "Gabriel's Body",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "cs_gabriels.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

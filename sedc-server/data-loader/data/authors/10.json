@@ -1,0 +1,567 @@
+[
+  {
+    "id": 8235,
+    "title": "The Exegesis of Philip K. Dick",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pkd_theexegesis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36287,
+    "title": "Four Novels of the 1960s",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "PKD_FourNove.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8371,
+    "title": "Minority Report",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pkd_minority.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16275,
+    "title": "Selected Stories of Philip K. Dick",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pkd_selecteds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16356,
+    "title": "What If Our World Is Their Heaven?",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "GL&DES&PKD_WhatIfOu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24274,
+    "title": "I Hope I Shall Arrive Soon",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pkd_ihopeish.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4401,
+    "title": "Radio Free Albemuth",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pkd_radiofre.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24273,
+    "title": "Robots, Androids, and Mechanical Oddities",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "pkd_robotsan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3606,
+    "title": "The Cosmic Puppets",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pkd_thecosmi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24272,
+    "title": "The Golden Man",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pkd_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 451,
+    "title": "A Scanner Darkly",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "pkd_ascanner.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 6413,
+    "title": "Deus Irae",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "pkd_deusirae.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3491,
+    "title": "Dr. Futurity",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "pkd_drfuturi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 824,
+    "title": "Do Androids Dream of Electric Sheep?",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "pkd_doandroi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3443,
+    "title": "The Man Who Japed",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "pkd_themanwh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 271,
+    "title": "Flow My Tears, the Policeman Said",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "pkd_flowmyte.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 18268,
+    "title": "The Book of Philip K. Dick",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "PKD_TheBookO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3566,
+    "title": "Vulcan's Hammer",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "pkd_vulcansh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3705,
+    "title": "We Can Build You",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "pkd_wecanbui.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1782,
+    "title": "Maze of Death",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "pkd_mazeofde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6424,
+    "title": "Our Friends from Frolix 8",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "pkd_ourfrien.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18244,
+    "title": "The Preserving Machine",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "PKD_ThePrese.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21237,
+    "title": "Faith of Our Fathers",
+    "year": 1967,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6422,
+    "title": "The Ganymede Takeover",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "pkdrn_theganym.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4188,
+    "title": "The Crack in Space:  aka Cantata-140",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "pkd_thecrack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1770,
+    "title": "Now Wait for Last Year",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "pkd_nowwaitf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34987,
+    "title": "We Can Remember It for You Wholesale",
+    "year": 1966,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3919,
+    "title": "Lies, Inc.",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "pkd_liesinc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1759,
+    "title": "Martian Time-Slip",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "pkd_martiant.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1780,
+    "title": "The Simulacra",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "pkd_thesimul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9,
+    "title": "The Man in the High Castle",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "pkd_themanin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1779,
+    "title": "Time Out of Joint",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "pkd_timeouto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3455,
+    "title": "The World Jones Made",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "pkd_theworld.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21284,
+    "title": "Solar Lottery / The Big Jump",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "ad_solarlot_thebigju.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21285,
+    "title": "The World Jones Made / Agent of the Unknown",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_theworld_agentoft.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21286,
+    "title": "The Man Who Japed / The Space-Born",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_themanwh_thespace.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21258,
+    "title": "The Cosmic Puppets / Sargasso of Space",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "ad_thecosmi_sargasso.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21086,
+    "title": "Dr. Futurity / Slavers of Space",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_drfururi_slaverso.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21088,
+    "title": "Vulcan's Hammer / The Skynappers",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ad_vulcansh_theskyna.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21617,
+    "title": "The Unteleported Man / The Mind Monsters",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_theuntel_themindm.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21670,
+    "title": "Dr. Futurity / The Unteleported Man",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "ad_drfuturi_theuntel.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25854,
+    "title": "The Best of Philip K. Dick",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "pkd_bestpkd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6427,
+    "title": "Beyond Lies the Wub",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pkd_beyondli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6429,
+    "title": "Second Variety",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pkd_secondva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6430,
+    "title": "The Father-Thing",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pkd_thefathe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6432,
+    "title": "The Days of Perky Pat",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pkd_thedayso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5264,
+    "title": "We Can Remember It for You Wholesale",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pkd_wecanrem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3350,
+    "title": "Solar Lottery",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "pkd_solarlot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 830,
+    "title": "Dr. Bloodmoney:  or, How We Got Along After the Bomb",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "pkd_drbloodm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5064,
+    "title": "Counter-Clock World",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "pkd_counterc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3792,
+    "title": "The Game-Players of Titan",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "pkd_thegamep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1765,
+    "title": "Ubik",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "pkd_ubik.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3370,
+    "title": "Eye in the Sky",
+    "year": 1957,
+    "type": "novel",
+    "imageName": "pkd_eyeinthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 838,
+    "title": "The Three Stigmata of Palmer Eldritch",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "pkd_thethree.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18534,
+    "title": "Philip K. Dick:The Last Interview",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "pkd_thelastinterview.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3811,
+    "title": "Clans of the Alphane Moon",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "pkd_clansoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1781,
+    "title": "The Penultimate Truth",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "pkd_thepenul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4387,
+    "title": "The Zap Gun",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "pkd_thezapgu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6418,
+    "title": "Galactic Pot Healer",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "pkd_galactic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6420,
+    "title": "Nick and the Glimmung",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pkd_nickandt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1774,
+    "title": "Valis",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pkd_valis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1069,
+    "title": "The Divine Invasion",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pkd_thedivin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 224,
+    "title": "The Transmigration of Timothy Archer",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pkd_thetrans.jpg",
+    "nominations": 2,
+    "wins": -1
+  }
+]

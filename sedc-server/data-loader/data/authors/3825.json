@@ -1,0 +1,92 @@
+[
+  {
+    "id": 16935,
+    "title": "Scimitar",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "AM_scimitar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15805,
+    "title": "Quantum Leap:  The Novel",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "AM_quantuml.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15806,
+    "title": "Too Close for Comfort",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "AM_toclosef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15807,
+    "title": "The Wall",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "AM_thewall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15808,
+    "title": "Prelude",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "AM_prelude.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15809,
+    "title": "Random Measures",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "AM_randomme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15801,
+    "title": "Stargate SG-1",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "AM_stargate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15802,
+    "title": "The Price You Pay",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "AM_pricepay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15803,
+    "title": "The First Amendment",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "AM_firstame.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15804,
+    "title": "The Morpheus Factor",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "AM_morpheus.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

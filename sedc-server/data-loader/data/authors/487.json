@@ -1,0 +1,190 @@
+[
+  {
+    "id": 34809,
+    "title": "Aeota",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pdf_aeota.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4338,
+    "title": "Science Fiction: The 101 Best Novels 1985-2010",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dbpdf_sfthe101.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30209,
+    "title": "Wikiworld",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pdf_wikiwoss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26445,
+    "title": "Femaville 29",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8102,
+    "title": "Shuteye for the Timebroker",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "PDF_ShuteyeF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30268,
+    "title": "The Emperor of Gondwanaland",
+    "year": 2005,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27206,
+    "title": "Sisyphus and the Stranger",
+    "year": 2004,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25666,
+    "title": "Spondulix: A Romance of Hoboken",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pdp_sponduli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27328,
+    "title": "And the Dish Ran Away with the Spoon",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28984,
+    "title": "Ailoura",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24361,
+    "title": "Little Doors",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pdf_littledo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8099,
+    "title": "A Year in the Linear City",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "PDF_AYearInT.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23626,
+    "title": "Karuna, Inc.",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27380,
+    "title": "Neutrino Drag",
+    "year": 2001,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8098,
+    "title": "Strange Trades",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "PDF_StrangeT.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 488,
+    "title": "Lost Pages",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pdf_lostpage.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16180,
+    "title": "Alice, Alfie, Ted, and the Aliens",
+    "year": 1997,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8100,
+    "title": "Fractal Paisleys",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "PDF_FractalP.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8101,
+    "title": "Ribofunk",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "PDF_Ribofunk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13345,
+    "title": "The Steampunk Trilogy",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pdf_thesteam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17854,
+    "title": "Lennon Spex",
+    "year": 1992,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17973,
+    "title": "Kid Charlemagne",
+    "year": 1987,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

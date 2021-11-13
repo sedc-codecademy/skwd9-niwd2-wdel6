@@ -1,0 +1,117 @@
+[
+  {
+    "id": 32711,
+    "title": "The Willows",
+    "year": 2019,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23939,
+    "title": "Catcall",
+    "year": 2015,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12740,
+    "title": "Servants of the Storm",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "DD_servants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30321,
+    "title": "Wicked As They Come",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dsd_wickedast.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30322,
+    "title": "Wicked As She Wants",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dsd_shewants.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30323,
+    "title": "Wicked After Midnight",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dsd_aftermid.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30324,
+    "title": "Wicked Ever After",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dsd_everafte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15913,
+    "title": "Hit",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dd_hit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30325,
+    "title": "Strike",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dsd_strike.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34183,
+    "title": "Black Spire",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "DD_blackspi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25445,
+    "title": "Phasma",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "dsd_phasma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28523,
+    "title": "Kill The Farm Boy",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "DSD&KH_KillTheF.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32714,
+    "title": "No Country for Old Gnomes",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dsdkh_nocountr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

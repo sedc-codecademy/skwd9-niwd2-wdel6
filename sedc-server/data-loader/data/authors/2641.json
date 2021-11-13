@@ -1,0 +1,56 @@
+[
+  {
+    "id": 21374,
+    "title": "The Plot Against Earth / Recruit for Andromeda",
+    "year": 1959,
+    "type": "novel",
+    "imageName": "ad_theplota_recruitf.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11360,
+    "title": "",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ML_android.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10369,
+    "title": "Earthbound",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "ml_earthbou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10388,
+    "title": "The Star Seekers",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "ml_thestars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10411,
+    "title": "Stadium Beyond the Stars",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ml_stadiumb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10413,
+    "title": "Spacemen, Go Home",
+    "year": 1961,
+    "type": "novel",
+    "imageName": "ml_spacemen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

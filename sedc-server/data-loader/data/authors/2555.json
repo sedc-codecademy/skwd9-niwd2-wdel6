@@ -1,0 +1,47 @@
+[
+  {
+    "id": 12888,
+    "title": "Heads to the Storm",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ddsm_headstot.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12887,
+    "title": "A Separate Star:  A Science Fiction Tribute to Rudyard Kipling",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "ddsm_asepara.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12884,
+    "title": "Shaman",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "sm_shaman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9845,
+    "title": "Dreamrider",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "sm_dreamrid.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 12885,
+    "title": "Against Time's Arrow: The High Crusade of Poul Anderson",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "sm_thehighc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

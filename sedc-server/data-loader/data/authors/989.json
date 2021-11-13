@@ -1,0 +1,20 @@
+[
+  {
+    "id": 987,
+    "title": "Hav",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jm_hav.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30313,
+    "title": "Last Letters from Hav",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jm_lastletter.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

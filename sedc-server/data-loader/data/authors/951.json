@@ -1,0 +1,47 @@
+[
+  {
+    "id": 17538,
+    "title": "Father Panic's Opera Macabre",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "TT_FatherPa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3552,
+    "title": "Fog Heart",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "tt_fogheart.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 948,
+    "title": "Phantom",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "tt_phantom.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 32704,
+    "title": "The Nightwalker",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "TT_Nightwal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32705,
+    "title": "The Fates",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "TT_TheFates.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

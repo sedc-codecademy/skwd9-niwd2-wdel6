@@ -1,0 +1,65 @@
+[
+  {
+    "id": 3116,
+    "title": "Red Shift",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "ag_redshift.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4348,
+    "title": "The Owl Service",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "ag_theowlse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22823,
+    "title": "Thursbitch",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ag_thursbit.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27725,
+    "title": "Elidor",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ag_elidor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5685,
+    "title": "The Weirdstone of Brisingamen",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "ag_theweird.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5686,
+    "title": "The Moon of Gomrath",
+    "year": 1963,
+    "type": "novel",
+    "imageName": "ag_themoono.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5687,
+    "title": "Boneland",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "ag_boneland.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

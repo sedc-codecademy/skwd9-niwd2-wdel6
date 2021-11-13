@@ -1,0 +1,549 @@
+[
+  {
+    "id": 3157,
+    "title": "An Armory of Swords",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "fs_anarmory.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12923,
+    "title": "Dancing Bears",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "fs_dancingb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12432,
+    "title": "The Black Throne",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "rzfs_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12924,
+    "title": "The White Bull",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "fs_thewhite.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21399,
+    "title": "The Golden People",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "fs_thegolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12978,
+    "title": "A Century of Progress",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fs_acentury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12433,
+    "title": "Coils",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "rzfs_coils.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12922,
+    "title": "Pawn to Infinity",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "fsjs_pawntoin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12989,
+    "title": "Octagon",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "fs_octagon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21159,
+    "title": "The Water of Thought",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "fs_thewater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12998,
+    "title": "Love Conquers All",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fs_loveconq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12990,
+    "title": "The Mask of the Sun",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fs_themasko.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21398,
+    "title": "The Golden People / Exile From Xanadu",
+    "year": 1964,
+    "type": "novel",
+    "imageName": "ad_thegolde_exilefro.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21158,
+    "title": "We, the Venusians / The Water of Thought",
+    "year": 1965,
+    "type": "novel",
+    "imageName": "ad_wetheven_thewater.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21510,
+    "title": "Mr. Jester",
+    "year": 1966,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19125,
+    "title": "Masque of the Red Shift",
+    "year": 1965,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3129,
+    "title": "Berserker",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "fs_berserke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3130,
+    "title": "Brother Assassin",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "fs_brothera.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3131,
+    "title": "Berserker's Planet",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "fs_planet.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3132,
+    "title": "Berserker Man",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fs_man.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3133,
+    "title": "The Ultimate Enemy",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fs_theultim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3134,
+    "title": "The Berserker Wars",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "fs_wars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3135,
+    "title": "Berserker Base",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "fs_base.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3136,
+    "title": "The Berserker Throne",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "fs_throne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3137,
+    "title": "Berserker Blue Death",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "fs_bluedeat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3138,
+    "title": "The Berserker Attack",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "fs_attack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3139,
+    "title": "Berserker Lies",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "fs_lies.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3140,
+    "title": "Berserker Kill",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "fs_kill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3141,
+    "title": "Berserker Fury",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "fs_fury.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3142,
+    "title": "Shiva in Steel",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "fs_shiva.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3144,
+    "title": "Berserker's Star",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "fs_star.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3143,
+    "title": "Berserker Prime",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "fs_prime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3145,
+    "title": "Rogue Berserker",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "fs_rogue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3149,
+    "title": "The First Book of Lost Swords: Woundhealer's Story",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "fs_ls1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3150,
+    "title": "The Second Book of Lost Swords: Sightblinder's Story",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "fs_ls2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3151,
+    "title": "The Third Book of Lost Swords: Stonecutter's Story",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "fs_ls3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3152,
+    "title": "The Fourth Book of Lost Swords: Farslayer's Story",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "fs_ls4.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3153,
+    "title": "The Fifth Book of Lost Swords: Coinspinner's Story",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "fs_ls5.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3154,
+    "title": "The Sixth Book of Lost Swords: Mindsword's Story",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "fs_ls6.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3155,
+    "title": "The Seventh Book of Lost Swords: Wayfinder's Story",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "fs_ls7.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3156,
+    "title": "Last Book of Lost Swords: Shieldbreaker's Story",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "fs_ls8.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3146,
+    "title": "The First Book of Swords",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fs_swords1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3147,
+    "title": "The Second Book of Swords",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "fs_swords2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3148,
+    "title": "The Third Book of Swords",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "fs_swords3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6824,
+    "title": "Vlad Tapes",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "fs_vladtape.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6695,
+    "title": "The Dracula Tape",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "fs_thedracu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6697,
+    "title": "The Holmes-Dracula File",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "fs_theholms.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6698,
+    "title": "An Old Friend of the Family",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fs_anoldfri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6759,
+    "title": "Thorn",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "fs_thorn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6760,
+    "title": "Dominion",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "fs_dominion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6813,
+    "title": "A Matter of Taste",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "fs_amattero.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6819,
+    "title": "A Question of Time",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "fs_aquesti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6821,
+    "title": "Seance for a Vampire",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "fs_seancefo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6822,
+    "title": "A Sharpness on the Neck",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "fs_asharpne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6823,
+    "title": "A Coldness in the Blood",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "fs_acoldnes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21393,
+    "title": "Empire of the East",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "fs_empireof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21389,
+    "title": "The Broken Lands",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "fs_thebroke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21390,
+    "title": "The Black Mountains",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "fs_theblack.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21391,
+    "title": "Changeling Earth",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "fs_changeli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21392,
+    "title": "Ardneh's Sword",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "fs_ardnehss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6812,
+    "title": "The Frankenstein Papers",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "fs_thefrank.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

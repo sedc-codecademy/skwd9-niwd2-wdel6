@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11811,
+    "title": "Weapons of Choice",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jb_weaponso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11813,
+    "title": "Designated Targets",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jb_designat.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11814,
+    "title": "Final Impact",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "jb_finalimp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34961,
+    "title": "The Cruel Stars",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "JB_CruelSta.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 6042,
+    "title": "Life on the Preservation",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "js_lifeofth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 6043,
+    "title": "Are You There and Other Stories",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_areyouth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1746,
+    "title": "Harbinger",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "js_harbinge.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32058,
+    "title": "The Chaos Function",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "js_thechaos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27964,
+    "title": "Assassins",
+    "year": 2017,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23410,
+    "title": "The Last Garden",
+    "year": 2017,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31684,
+    "title": "Tribute",
+    "year": 2015,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30202,
+    "title": "Everyone Bleeds Through",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26749,
+    "title": "Life on the Preservation",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19861,
+    "title": "Dead Worlds",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

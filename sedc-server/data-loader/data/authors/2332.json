@@ -1,0 +1,101 @@
+[
+  {
+    "id": 12071,
+    "title": "State of Change",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "cb_stateofc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12128,
+    "title": "The Sorcerer's Apprentice",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "cb_thesorce.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22916,
+    "title": "The Eye of the Giant",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cb_theeyeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22958,
+    "title": "Twilight of the Gods",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "cb_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22963,
+    "title": "A Device of Death",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cb_adeviceo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8822,
+    "title": "Vanderdeken's Children",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "cb_vanderde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10214,
+    "title": "Shadowmind",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cb_shadowla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8917,
+    "title": "The Ultimate Treasure",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "cb_ultimate.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8953,
+    "title": "City at World's End",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "cb_cityatwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9038,
+    "title": "Imperial Moon",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "cb_imperial.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9086,
+    "title": "Palace of the Red Sun",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cb_palaceof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 32204,
+    "title": "The Looking Glass Wars",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "FB_LookingG.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32205,
+    "title": "Seeing Redd",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "FB_SeeingRe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32206,
+    "title": "ArchEnemy",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "FB_ArchEnem.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

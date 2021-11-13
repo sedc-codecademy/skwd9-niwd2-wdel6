@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15116,
+    "title": "The Horror of Howling Hill",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jg_thehorro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15073,
+    "title": "Necromancer",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jg_necroman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15013,
+    "title": "Magestorm",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jg_magestor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15207,
+    "title": "The Dead and the Damned",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jg_Thedeada.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

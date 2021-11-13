@@ -1,0 +1,63 @@
+[
+  {
+    "id": 31729,
+    "title": "The Teashop",
+    "year": 2007,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4557,
+    "title": "Four Stories Till the End",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "zz_fourstor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15863,
+    "title": "The Book / The Writer",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ZZ_TheBookT.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7633,
+    "title": "Steps Through the Mist",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "ZZ_StepsThr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23636,
+    "title": "The Library",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "zz_thelibra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23010,
+    "title": "The Puzzle",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25664,
+    "title": "The Fourth Circle",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "zz_thefourt.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

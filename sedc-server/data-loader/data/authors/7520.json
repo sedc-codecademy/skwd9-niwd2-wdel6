@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35557,
+    "title": "The Engines of Dawn",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "PC_EnginesD.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35556,
+    "title": "Fortress on the Sun",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "PC_Fortress.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35555,
+    "title": "On the Rim of the Mandala",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "PC_OnRimMan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35554,
+    "title": "Halo",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "PC_Halo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35553,
+    "title": "Duende Meadow",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "PC_DuendeMe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35552,
+    "title": "The Alejandra Variations",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "PC_Alejandr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35551,
+    "title": "Tintagel",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "PC_Tintagel.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

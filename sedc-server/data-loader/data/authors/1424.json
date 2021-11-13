@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2989,
+    "title": "The Falling Machine",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "apm_thefalli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3805,
+    "title": "Hearts of Smoke and Steam",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "apm_heartsofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4503,
+    "title": "Power Under Pressure",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "apm_powerund.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 17517,
+    "title": "Drake",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pm_drake.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20411,
+    "title": "Dominion",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "pm_dominion.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22055,
+    "title": "Damnation",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "pm_damnatio.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28833,
+    "title": "Priest of Bones",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "pm_priestof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 34497,
+    "title": "Priest of Lies",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "pm_priestoflies.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2425,
+    "title": "Yarn",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ja_yarn.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 1021,
+    "title": "Grey",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ja_grey.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

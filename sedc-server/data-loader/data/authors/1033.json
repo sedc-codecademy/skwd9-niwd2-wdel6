@@ -1,0 +1,369 @@
+[
+  {
+    "id": 27900,
+    "title": "Buying Time",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "eb_buyingti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27344,
+    "title": "The Martian Simulacra",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "eb_themarti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24746,
+    "title": "Binary / System",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "eb_binarysy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23253,
+    "title": "Beyond the Heliopause",
+    "year": 2016,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27460,
+    "title": "Rites of Passage",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eb_ritesofp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27454,
+    "title": "Salvage",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "eb_salvage.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4961,
+    "title": "The Serene Invasion",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "eb_serenein.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2460,
+    "title": "The Kings of Eternity",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eb_thekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34564,
+    "title": "The Angels of Life and Death",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "EB_angelsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2459,
+    "title": "Guardians of the Phoenix",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "eb_guardian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27458,
+    "title": "Approaching Omega",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "eb_approach.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27457,
+    "title": "The Fall of Tartarus",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "eb_thefallo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10457,
+    "title": "The Mammoth Book of New Jules Verne Adventures:  New Tales by the Heirs of Jules Verne",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "EB_mammoth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27455,
+    "title": "Deep Future",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "eb_deepfutu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27456,
+    "title": "A Writer's Life",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "eb_awriters.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18635,
+    "title": "Penumbra",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "eb_penumbra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24448,
+    "title": "Blue Shifting",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "eb_blueshif.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1083,
+    "title": "Engineman",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "eb_enginema.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 18634,
+    "title": "Meridian Days",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "eb_meridian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34563,
+    "title": "Bengal Station",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "EB_bengalst.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2456,
+    "title": "Necropath",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "eb_necropat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1843,
+    "title": "Xenopath",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "eb_xenopath.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2457,
+    "title": "Cosmopath",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "eb_cosmopat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2458,
+    "title": "Helix",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eb_helix.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4939,
+    "title": "Helix Wars",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eb_helixwar.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27447,
+    "title": "Strange Visitors",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eb_strangev.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18638,
+    "title": "Jani and the Greater Game",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eb_greatgam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18639,
+    "title": "Jani and the Great Pursuit",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "eb_greatpur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25831,
+    "title": "Laying the Ghost",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27459,
+    "title": "Starship Seasons",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "eb_starship.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28657,
+    "title": "Starship Summer",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "eb_sssummer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28659,
+    "title": "Starship Fall",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "eb_ssfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28661,
+    "title": "Starship Winter",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eb_sswinter.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28663,
+    "title": "Starship Spring",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eb_ssspring.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28553,
+    "title": "Starship Coda",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "eb_stshcoda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27451,
+    "title": "New York Nights",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "eb_nynights.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27452,
+    "title": "New York Blues",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "eb_nyblues.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27453,
+    "title": "New York Dreams",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "eb_nydreams.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3906,
+    "title": "The Devil's Nebula",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "eb_thedevil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18636,
+    "title": "Satan's Reach",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "eb_satansre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18637,
+    "title": "The Baba Yaga",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ebum_thebabay.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

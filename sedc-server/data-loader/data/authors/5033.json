@@ -1,0 +1,36 @@
+[
+  {
+    "id": 24442,
+    "title": "Never Now Always",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "db_nevernow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22638,
+    "title": "Deus Ex Arca",
+    "year": 2013,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22769,
+    "title": "It Came From the North",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "db_itcamefr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25366,
+    "title": "Celadon",
+    "year": 2009,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

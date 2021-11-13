@@ -1,0 +1,919 @@
+[
+  {
+    "id": 32718,
+    "title": "Odd Exam",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pa_oddexam.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9379,
+    "title": "If I Pay Thee Not in Gold",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "paml_ifipayth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26976,
+    "title": "Killobyte",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pa_killobyt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8628,
+    "title": "The Caterpillar's Question",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "papjf_thecater.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26973,
+    "title": "Balook",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pa_balook.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26975,
+    "title": "Mercycle",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pa_mercycle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26974,
+    "title": "Tatham Mound",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pa_tathammo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26972,
+    "title": "Firefly",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "pa_firefly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26971,
+    "title": "Ghost",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "pa_ghost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26970,
+    "title": "Shade of the Tree",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "pa_shadeoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24516,
+    "title": "Anthonology",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pa_anthonol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8854,
+    "title": "Mute",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "pa_mute.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8375,
+    "title": "Steppe",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "pa_steppe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26967,
+    "title": "Rings of Ice",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "pa_ringsofi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26969,
+    "title": "Triple Detente",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "pa_triplede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26968,
+    "title": "Race Against Time",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "pa_raceagai.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21195,
+    "title": "Prostho Plus",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "ps_prosthop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 338,
+    "title": "Macroscope",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "pa_macrosco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7700,
+    "title": "Split Infinity",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "PA_SplitInf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7701,
+    "title": "Blue Adept",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "PA_BlueAdep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7702,
+    "title": "Juxtaposition",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "PA_Juxtapos.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7703,
+    "title": "Out of Phaze",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "PA_OutOfPha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7704,
+    "title": "Robot Adept",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "PA_RobotAde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7705,
+    "title": "Unicorn Point",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "PA_UnicornP.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7706,
+    "title": "Phaze Doubt",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "PA_PhazeDou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 330,
+    "title": "Chthon",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "pa_chthon.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 7651,
+    "title": "Phthor",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "PA_Phthor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8728,
+    "title": "Battle Circle",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "pa_battleci.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21630,
+    "title": "Sos the Rope",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "PA_SosTheRo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21631,
+    "title": "Var the Stick",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "PA_VarTheSt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21632,
+    "title": "Neq the Sword",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "PA_NeqTheSw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10425,
+    "title": "Refugee",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pa_refugee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10426,
+    "title": "Mercenary",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "pa_mercenar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10427,
+    "title": "Politician",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pa_politici.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10428,
+    "title": "Executive",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pa_executiv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10429,
+    "title": "Statesman",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "pa_statesma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10430,
+    "title": "The Iron Maiden",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "pa_theironm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8775,
+    "title": "Cluster",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "pa_cluster.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8776,
+    "title": "Chaining the Lady",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "pa_chaining.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8853,
+    "title": "Kirlian Quest",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "pa_kirlianq.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8858,
+    "title": "Thousandstar",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pa_thousand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8859,
+    "title": "Viscous Circle",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pa_viscousc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21196,
+    "title": "Getting Through University",
+    "year": 1968,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26962,
+    "title": "Isle of Woman",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pa_isleofwo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26963,
+    "title": "Shame of Man",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pa_shameofm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26964,
+    "title": "Hope of Earth",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pa_hopeofea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26965,
+    "title": "Muse of Art",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pa_museofar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26966,
+    "title": "Climate of Change",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pa_climateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7638,
+    "title": "On a Pale Horse",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "PA_OnAPaleH.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7639,
+    "title": "Bearing an Hourglass",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "PA_BearingA.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7640,
+    "title": "With a Tangled Skein",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "PA_WithATan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7642,
+    "title": "Wielding a Red Sword",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "PA_Wielding.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7643,
+    "title": "Being a Green Mother",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "PA_BeingAGr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7644,
+    "title": "For Love of Evil",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "PA_ForLoveO.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7645,
+    "title": "And Eternity",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "PA_AndEtern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22302,
+    "title": "Virtual Mode",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pa_virtualm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22303,
+    "title": "Fractal Mode",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pa_fractalm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22304,
+    "title": "Chaos Mode",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pa_chaosmod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22305,
+    "title": "DoOon Mode",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pa_dooonmod.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8855,
+    "title": "Omnivore",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "pa_omnivore.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8856,
+    "title": "Orn",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "pa_orn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8857,
+    "title": "Ox",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "pa_ox.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8850,
+    "title": "God of Tarot",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "pa_godoftar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8851,
+    "title": "Vision of Tarot",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pa_visionof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8852,
+    "title": "Faith of Tarot",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "pa_faithoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1123,
+    "title": "A Spell for Chameleon",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "pa_aspellfo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1348,
+    "title": "The Source of Magic",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "pa_thesourc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 798,
+    "title": "Castle Roogna",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "pa_castlero.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1349,
+    "title": "Centaur Aisle",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pa_centaura.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1350,
+    "title": "Ogre, Ogre",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "pa_ogreogre.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1351,
+    "title": "Night Mare",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pa_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1352,
+    "title": "Dragon on a Pedestal",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "pa_dragonon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1353,
+    "title": "Crewel Lye",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "pa_crewelly.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1354,
+    "title": "Golem in the Gears",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "pa_golemint.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1355,
+    "title": "Vale of the Vole",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "pa_valeofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1356,
+    "title": "Heaven Cent",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "pa_heavence.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1357,
+    "title": "Man from Mundania",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "pa_manfromm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1358,
+    "title": "Isle of View",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "pa_isleofvi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1359,
+    "title": "Question Quest",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "pa_question.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1360,
+    "title": "The Color of Her Panties",
+    "year": 1992,
+    "type": "novel",
+    "imageName": "pa_thecolor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1361,
+    "title": "Demons Don't Dream",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "pa_demonsdo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1362,
+    "title": "Harpy Thyme",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "pa_harpythy.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1363,
+    "title": "Geis of the Gargoyle",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pa_geisofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1364,
+    "title": "Roc and a Hard Place",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "pa_rocandah.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1365,
+    "title": "Yon Ill Wind",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "pa_yonillwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1366,
+    "title": "Faun & Games",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "pa_faunandg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1367,
+    "title": "Zombie Lover",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "pa_zombielo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1368,
+    "title": "Xone of Contention",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "pa_xoneofco.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1369,
+    "title": "The Dastard",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "pa_thedasta.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1370,
+    "title": "Swell Foop",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "pa_swellfoo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1371,
+    "title": "Up In A Heaval",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "pa_upinahea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1372,
+    "title": "Cube Route",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "pa_cuberout.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1373,
+    "title": "Currant Events",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "pa_currante.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1374,
+    "title": "Pet Peeve",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "pa_petpeeve.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1375,
+    "title": "Stork Naked",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "pa_storknak.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1376,
+    "title": "Air Apparent",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "pa_airappar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1377,
+    "title": "Two to the Fifth",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "pa_twotothe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1682,
+    "title": "Jumper Cable",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "pa_jumperca.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5024,
+    "title": "Knot Gneiss",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "pa_knotgnei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5025,
+    "title": "Well-Tempered Clavicle",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "pa_welltemp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4898,
+    "title": "Luck of the Draw",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "pa_luckofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13372,
+    "title": "Esrever Doom",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "pa_exreverd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

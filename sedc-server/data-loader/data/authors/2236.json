@@ -1,0 +1,38 @@
+[
+  {
+    "id": 20405,
+    "title": "Blue is a Darkness Weakened by Light",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "sm_blueisad.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8321,
+    "title": "All Our Pretty Songs",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sm_allourpr.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11193,
+    "title": "Dirty Wings",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sm_dirtywin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13116,
+    "title": "About a Girl",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sm_aboutagi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

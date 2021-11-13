@@ -1,0 +1,119 @@
+[
+  {
+    "id": 5189,
+    "title": "The Magician's Apprentice",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "tc_magician.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5180,
+    "title": "Priestess of the White",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "tc_priestes.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5181,
+    "title": "Last of the Wilds",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tc_lastofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5182,
+    "title": "Voice of the Gods",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "tc_voiceoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5183,
+    "title": "The Magicians' Guild",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "tc_themagic.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5184,
+    "title": "The Novice",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "tc_thenovic.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5185,
+    "title": "The High Lord",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "tc_thehighl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7013,
+    "title": "Thief's Magic",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "tc_thiefsma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14186,
+    "title": "Angel of Storms",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tc_angelofs.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24088,
+    "title": "Successor's Promise",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tc_successo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5186,
+    "title": "The Ambassador's Mission",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "tc_theambas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5187,
+    "title": "The Rogue",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "tc_therogue.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5188,
+    "title": "The Traitor Queen",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "tc_thetrait.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

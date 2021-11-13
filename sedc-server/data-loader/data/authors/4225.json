@@ -1,0 +1,38 @@
+[
+  {
+    "id": 17441,
+    "title": "Suicide Forest",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "jb_suicidef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17443,
+    "title": "The Catacombs",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jb_thecatac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17444,
+    "title": "Helltown",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jb_helltown.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17445,
+    "title": "Island of the Dolls",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jb_islandof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

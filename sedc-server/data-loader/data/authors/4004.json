@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16602,
+    "title": "Rising",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SM_rising.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16603,
+    "title": "A Matter of Honor",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "SM_matterof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16604,
+    "title": "The Cost of Honor",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "SM_costhono.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16605,
+    "title": "Hostile Ground",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "SM_hostileg.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20463,
+    "title": "Exile",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "LH_exile.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

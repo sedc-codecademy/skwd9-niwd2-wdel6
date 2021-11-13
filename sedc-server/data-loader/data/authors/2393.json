@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9037,
+    "title": "Not the End of the World ",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ka_nottheen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9036,
+    "title": "Human Croquet",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "ka_humancro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9035,
+    "title": "Life After Life ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ka_lifeafte.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25977,
+    "title": "A God in Ruins",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ka_agodinru.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

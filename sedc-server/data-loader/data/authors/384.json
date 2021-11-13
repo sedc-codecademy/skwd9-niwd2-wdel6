@@ -1,0 +1,38 @@
+[
+  {
+    "id": 36163,
+    "title": "Providence",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "MB_providen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6206,
+    "title": "Lexicon",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mb_lexicon.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 11314,
+    "title": "Machine Man",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mb_machinem.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 386,
+    "title": "Jennifer Government",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mb_jennifer.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

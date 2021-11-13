@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5730,
+    "title": "The Year of Our War",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "ss_theyearo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 5731,
+    "title": "No Present Like Time",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ss_nopresen.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5732,
+    "title": "Dangerous Offspring",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ss_dangerou.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2735,
+    "title": "Above the Snowline",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ss_abovethe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20018,
+    "title": "Fair Rebel",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "ss_fairrebe.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

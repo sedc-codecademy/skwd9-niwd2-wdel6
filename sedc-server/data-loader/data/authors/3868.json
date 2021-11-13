@@ -1,0 +1,29 @@
+[
+  {
+    "id": 16000,
+    "title": "The Temple at Landfall",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jf_thetempl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16002,
+    "title": "The Walls of Westernfort",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jf_thewalls.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16001,
+    "title": "Rangers at Roadsend",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jf_rangersa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

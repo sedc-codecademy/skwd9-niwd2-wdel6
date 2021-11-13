@@ -1,0 +1,799 @@
+[
+  {
+    "id": 33998,
+    "title": "Ursula K. Le Guin: Conversations on Writing",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dn_uklgconv.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26523,
+    "title": "No Time to Spare:  Thinking About What Matters",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "uklg_notimeto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20265,
+    "title": "The Found and the Lost:  The Collected Novellas of Ursula K. Le Guin",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "uklg_foundand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22047,
+    "title": "Words Are My Matter: Writings About Life and Books, 2000-2016:  with a Journal of a Writer's Week",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "uklg_wordsare.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12393,
+    "title": "The Wind's Twelve Quarters & The Compass Rose",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "uklg_windstwe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22794,
+    "title": "Elementals",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7511,
+    "title": "Cheek by Jowl",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "uklg_cheekbyj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1235,
+    "title": "Lavinia",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "uklg_lavinia.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 13266,
+    "title": "The Wave in the Mind:  Talks and Essays",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "UKLG_wavemind.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5270,
+    "title": "Changing Planes",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "uklg_changing.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27224,
+    "title": "Confusions of Uñi",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27225,
+    "title": "Woeful Tales from Mahigul",
+    "year": 2003,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6335,
+    "title": "The Birthday of the World and Other Stories",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "uklg_thebirth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36141,
+    "title": "Paradises Lost",
+    "year": 2002,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19809,
+    "title": "The Seasons of the Ansarac",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27223,
+    "title": "Social Dreaming of the Frin",
+    "year": 2002,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18478,
+    "title": "The Wild Girls",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27226,
+    "title": "The Building",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19771,
+    "title": "The Birthday of the World",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22405,
+    "title": "The Island of the Immortals",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21950,
+    "title": "The Silence of the Asonu",
+    "year": 1998,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21781,
+    "title": "Ether, OR",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13265,
+    "title": "Unlocking the Air and Other Stories",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "UKLG_unlockin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6255,
+    "title": "A Fisherman of the Inland Sea",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "uklg_afisherm.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 8601,
+    "title": "The Norton Book of Science Fiction:  North American Science Fiction, 1960-1990",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "uklgba_thenorto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7510,
+    "title": "Dancing at the Edge of the World:  Thoughts on Words, Women, Places",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "uklg_dancinga.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13264,
+    "title": "Buffalo Gals and Other Animal Presences",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "UKLG_buffalog.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18477,
+    "title": "Buffalo Gals, Won't You Come Out Tonight",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "uklg_buffalogals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6178,
+    "title": "The Compass Rose",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "uklg_thecompa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6361,
+    "title": "The Eye of the Heron",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "uklg_theeyeof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21406,
+    "title": "Sur",
+    "year": 1982,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5269,
+    "title": "The Beginning Place",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "uklg_thebegin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 24720,
+    "title": "Edges",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "uklgvk_edges.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24656,
+    "title": "Interfaces",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "uklgvk_interfac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7509,
+    "title": "The Language of the Night:  Essays on Fantasy and Science Fiction",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "uklg_thelangu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18522,
+    "title": "The Pathways of Desire",
+    "year": 1979,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18528,
+    "title": "The New Atlantis",
+    "year": 1975,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2148,
+    "title": "The Wind's Twelve Quarters",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "uklg_thewinds.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31564,
+    "title": "The Author of the Acacia Seeds and Other Extracts from the Journal of the Association of Therolingui",
+    "year": 1974,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22675,
+    "title": "The Stars Below",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "uklg_thestars.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20433,
+    "title": "The Ones Who Walk Away from Omelas",
+    "year": 1973,
+    "type": "novel",
+    "imageName": "uklg_theonesw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 287,
+    "title": "The Lathe of Heaven",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "uklg_thelathe.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 18530,
+    "title": "Nine Lives",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "yklg_ninelive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21513,
+    "title": "Rocannon's World / The Kar-Chee Reign",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_rocannon_thekarch.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21515,
+    "title": "Planet of Exile / Mankind Under the Leash",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "ad_planetof_mankindu.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3946,
+    "title": "Always Coming Home",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "uklg_alwaysco.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 27847,
+    "title": "The Trouble with the Cotton People",
+    "year": 1984,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1417,
+    "title": "Gifts",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "uklg_gifts.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1418,
+    "title": "Voices",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "uklg_voices.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1220,
+    "title": "Powers",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "uklg_powers.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21321,
+    "title": "The Bones of the Earth",
+    "year": 2001,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21772,
+    "title": "The Finder",
+    "year": 2001,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27227,
+    "title": "Darkrose and Diamond",
+    "year": 1999,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21773,
+    "title": "Dragonfly",
+    "year": 1998,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1438,
+    "title": "A Wizard of Earthsea",
+    "year": 1968,
+    "type": "novel",
+    "imageName": "uklg_awizardo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1439,
+    "title": "The Tombs of Atuan",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "uklg_thetombs.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1440,
+    "title": "The Farthest Shore",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "uklg_thefarth.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 183,
+    "title": "Tehanu: The Last Book of Earthsea",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "uklg_tehanu.jpg",
+    "nominations": 3,
+    "wins": -1
+  },
+  {
+    "id": 3944,
+    "title": "Tales from Earthsea",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "uklg_talesfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 130,
+    "title": "The Other Wind",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "uklg_theother.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 16164,
+    "title": "Mountain Ways",
+    "year": 1996,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 26413,
+    "title": "Coming of Age in Karhide",
+    "year": 1995,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19795,
+    "title": "Another Story or a Fisherman of the Inland Sea",
+    "year": 1994,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16165,
+    "title": "The Matter of Seggri",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "uklg_matterof.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16170,
+    "title": "Solitude",
+    "year": 1994,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16166,
+    "title": "Unchosen Love",
+    "year": 1994,
+    "type": "novelette",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16171,
+    "title": "The Shobies' Story",
+    "year": 1990,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16167,
+    "title": "The Day Before the Revolution",
+    "year": 1974,
+    "type": "novel",
+    "imageName": "uklg_thedaybe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20432,
+    "title": "Vaster Than Empires and More Slow",
+    "year": 1971,
+    "type": "novel",
+    "imageName": "uklg_vasterth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20434,
+    "title": "Winter's King",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "uklg_wintersk.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1660,
+    "title": "Rocannon's World",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "uklg_rocannon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1661,
+    "title": "Planet of Exile",
+    "year": 1966,
+    "type": "novel",
+    "imageName": "uklg_planetof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1662,
+    "title": "City of Illusions",
+    "year": 1967,
+    "type": "novel",
+    "imageName": "uklg_cityofil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17,
+    "title": "The Left Hand of Darkness",
+    "year": 1969,
+    "type": "novel",
+    "imageName": "uklg_thelefth.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 22,
+    "title": "The Dispossessed",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "uklg_thedispo.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 1659,
+    "title": "The Word for World is Forest",
+    "year": 1972,
+    "type": "novel",
+    "imageName": "uklg_thewordf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 693,
+    "title": "The Telling",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "uklg_thetelli.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3945,
+    "title": "Four Ways to Forgiveness",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "uklg_fourways.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16163,
+    "title": "Forgiveness Day",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "uklg_forgiven.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 16169,
+    "title": "A Man of the People",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16168,
+    "title": "A Woman's Liberation",
+    "year": 1995,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36140,
+    "title": "Old Music and the Slave Women",
+    "year": 1999,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7508,
+    "title": "Nebula Award Stories 11",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "uklg_nebula11.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20068,
+    "title": "The Complete Orsinia:  Malafrena / Stories and Songs",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "uklg_comporsi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21177,
+    "title": "The Diary of the Rose",
+    "year": 1976,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7007,
+    "title": "Orsinian Tales",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "uklg_orsinian.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7008,
+    "title": "Malafrena",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "uklg_malafren.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7725,
+    "title": "The Wild Girls",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "uklg_thewild.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11119,
+    "title": "Tor Double #13: The Blind Geometer / The New Atlantis",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "KR_tordbl13.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20264,
+    "title": "The Unreal and the Real:  Selected Stories of Ursula K. Le Guin",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "uklg_unrealan.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18506,
+    "title": "Where on Earth",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "uklg_whereone.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18507,
+    "title": "Outer Space, Inner Lands",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "uklg_outerspa.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

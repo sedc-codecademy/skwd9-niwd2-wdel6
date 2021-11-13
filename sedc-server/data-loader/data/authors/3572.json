@@ -1,0 +1,56 @@
+[
+  {
+    "id": 14502,
+    "title": "The Host",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sm_thehost.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14497,
+    "title": "Twilight",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "sm_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14498,
+    "title": "New Moon",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sm_newmoon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14499,
+    "title": "Eclipse",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sm_eclipse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14500,
+    "title": "Breaking Dawn",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "sm_breaking.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14501,
+    "title": "The Short Second Life of Bree Tanner",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "sm_theshort.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

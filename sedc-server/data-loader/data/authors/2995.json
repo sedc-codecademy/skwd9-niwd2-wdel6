@@ -1,0 +1,38 @@
+[
+  {
+    "id": 11733,
+    "title": "Rocket Riders Across the Ice or, Racing Against Time",
+    "year": 1933,
+    "type": "novel",
+    "imageName": "HG_rocketri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11734,
+    "title": "Rocket Riders in Stormy Seas or, Trailing the Treasure Divers",
+    "year": 1933,
+    "type": "novel",
+    "imageName": "HG_stormyse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11736,
+    "title": "Rocket Riders Over the Desert or, Seeking the Lost City",
+    "year": 1933,
+    "type": "novel",
+    "imageName": "HG_overdese.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11735,
+    "title": "Rocket Riders in the Air or, A Chase in the Clouds",
+    "year": 1934,
+    "type": "novel",
+    "imageName": "HG_riderair.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

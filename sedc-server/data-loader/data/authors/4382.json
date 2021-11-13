@@ -1,0 +1,45 @@
+[
+  {
+    "id": 33946,
+    "title": "Argonaut",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ss_argonaut.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18614,
+    "title": "Generation Gap and Other Stories",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "ss_generati.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18615,
+    "title": "Generation Gap",
+    "year": 2000,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18620,
+    "title": "Good Intentions",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20612,
+    "title": "Roads Not Taken: Tales of Alternate History",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "gdss_roadsnot.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

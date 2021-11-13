@@ -1,0 +1,209 @@
+[
+  {
+    "id": 6538,
+    "title": "Wheel of the Infinite",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "mw_wheeloft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6542,
+    "title": "City of Bones",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "mw_cityofbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16371,
+    "title": "Stories of the Raksura, Volume Two",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "mw_raksura2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16370,
+    "title": "Stories of the Raksura, Volume One",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "mw_raksura1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3008,
+    "title": "The Cloud Roads",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mw_thecloud.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6540,
+    "title": "The Serpent Sea",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mw_serpents.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6541,
+    "title": "The Siren Depths",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mw_sirendep.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18317,
+    "title": "The Edge of Worlds",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "mw_theedgeo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24015,
+    "title": "The Harbors of the Sun",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mw_theharbo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3005,
+    "title": "The Wizard Hunters",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mw_thewizar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3006,
+    "title": "The Ships of Air",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mw_theships.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3007,
+    "title": "The Gate of Gods",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "mw_thegateo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6539,
+    "title": "The Element of Fire ",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "mw_elemento.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 149,
+    "title": "The Death of the Necromancer",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "mw_thedeath.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 23511,
+    "title": "All Systems Red",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "mw_allsyste.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 25841,
+    "title": "Artificial Condition",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mw_artifici.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25842,
+    "title": "Rogue Protocol",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mw_roguepro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28117,
+    "title": "Exit Strategy",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "mw_exitstra.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35202,
+    "title": "Network Effect",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "mw_networke.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36605,
+    "title": "Fugitive Telemetry",
+    "year": 2021,
+    "type": "novel",
+    "imageName": "mw_fugitive.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6033,
+    "title": "Razor's Edge",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "mw_razorsed.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16593,
+    "title": "Reliquary",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "MW_reliquar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16594,
+    "title": "Entanglement",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "MW_entangle.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

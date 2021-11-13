@@ -1,0 +1,46 @@
+[
+  {
+    "id": 19980,
+    "title": "Wading River Dogs and More",
+    "year": 1998,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12762,
+    "title": "Panda Ray",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "mk_pandaray.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12761,
+    "title": "Captain Jack Zodiac",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "mk_captainj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12760,
+    "title": "In Between Dragons",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "mk_inbetwee.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9800,
+    "title": "Strange Invasion",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "mk_strangei.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

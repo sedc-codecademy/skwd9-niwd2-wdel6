@@ -1,0 +1,53 @@
+[
+  {
+    "id": 13610,
+    "title": "Lords Temporal",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jhd_lordstem.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13611,
+    "title": "In the Face of My Enemy",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jhd_inthefac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20667,
+    "title": "Valentina",
+    "year": 1984,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13612,
+    "title": "Valentina: Soul in Sapphire",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jhdms_valentin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20813,
+    "title": "In the Face of My Enemy",
+    "year": 1983,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20814,
+    "title": "Brainchild",
+    "year": 1982,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  }
+]

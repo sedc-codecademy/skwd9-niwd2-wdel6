@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5095,
+    "title": "A Bad Day for Voodoo",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "js_abaddayf.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 3604,
+    "title": "Dweller",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "js_dweller.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 3591,
+    "title": "Pressure",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "js_pressure.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 17200,
+    "title": "Specimen 313",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "js_specimen.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

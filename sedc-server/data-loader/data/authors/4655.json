@@ -1,0 +1,29 @@
+[
+  {
+    "id": 20717,
+    "title": "The Promise of the Child",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "tt_thepromi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28559,
+    "title": "The Weight of the World",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "tt_theweigh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28561,
+    "title": "The Tropic of Eternity",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "tt_thetropi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

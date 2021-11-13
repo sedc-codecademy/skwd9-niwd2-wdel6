@@ -1,0 +1,29 @@
+[
+  {
+    "id": 28455,
+    "title": "The Heart of Princess Osra",
+    "year": 1896,
+    "type": "novel",
+    "imageName": "AH_heartpri.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28383,
+    "title": "The Prisoner of Zenda:  Being the History of Three Months",
+    "year": 1894,
+    "type": "novel",
+    "imageName": "AH_ThePriso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28454,
+    "title": "Rupert of Hentzau:  From the Memoirs of Fritz Von Tarlenheim",
+    "year": 1898,
+    "type": "novel",
+    "imageName": "AH_rupert1.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": 34037,
+    "title": "The Undefeated",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "um_theundef.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27346,
+    "title": "The Greatest Story Ever Told",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "um_thegreat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26556,
+    "title": "Sea Change",
+    "year": 2007,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14996,
+    "title": "The King's Dragon",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "um_thekings.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15014,
+    "title": "The Way Through the Woods",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "um_thewayth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15026,
+    "title": "Royal Blood",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "um_royalblo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20378,
+    "title": "The Crimson Shadow",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "UM_crimsons.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20399,
+    "title": "Brinkmanship",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "UM_brinkman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24011,
+    "title": "Enigma Tales",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "um_enigmata.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20447,
+    "title": "The Missing",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "UM_missing.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20448,
+    "title": "The Never-Ending Sacrifice",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "UM_neverend.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20446,
+    "title": "Hollow Men",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "UM_hollowme.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20519,
+    "title": "Cardassia and Andor",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "UM_cardassi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 28616,
+    "title": "The Way to the Stars",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "UM_waytothe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36143,
+    "title": "The Last Best Hope",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "UM_lastbest.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36146,
+    "title": "The Autobiography of Kathryn Janeway",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "UM_autobiok.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18637,
+    "title": "The Baba Yaga",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "ebum_thebabay.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20681,
+    "title": "The Star of the Sea",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "um_thestaro.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "id": 27530,
+    "title": "The Moreau Factor",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jlc_themorea.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27529,
+    "title": "Priam's Lens",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jlc_priamsle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12680,
+    "title": "The Red Tape War",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "red-tape-war.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 24515,
+    "title": "Dance Band on the Titanic",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jlc_danceba.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27527,
+    "title": "Downtiming the Night Side",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jlc_downtimi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27528,
+    "title": "The Messiah Choice",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jlc_themessi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27461,
+    "title": "The Identity Matrix",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jlc_theident.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27526,
+    "title": "And the Devil Will Drag You Under",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jlc_andthede.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27525,
+    "title": "A War of Shadows",
+    "year": 1979,
+    "type": "novel",
+    "imageName": "jlc_awarofsh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10497,
+    "title": "Dancers in the Afterglow",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jlc_dancersi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10498,
+    "title": "The Web of the Chozen",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jlc_thewebof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27524,
+    "title": "A Jungle of Stars",
+    "year": 1976,
+    "type": "novel",
+    "imageName": "jlc_ajungleo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27508,
+    "title": "When the Changewinds Blow",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jlc_whenthec.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27509,
+    "title": "Riders of the Winds",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jlc_ridersof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27510,
+    "title": "War of the Maelstrom",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jlc_warofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2929,
+    "title": "The River of Dancing Gods",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jlc_theriver.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2930,
+    "title": "Demons of the Dancing Gods",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jlc_demonsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2931,
+    "title": "Vengeance of the Dancing Gods",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jlc_vengeanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2932,
+    "title": "Songs of the Dancing Gods",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jlc_songsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2933,
+    "title": "Horrors of the Dancing Gods",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jlc_horrorso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10493,
+    "title": "Lilith: A Snake in the Grass",
+    "year": 1981,
+    "type": "novel",
+    "imageName": "jlc_lilith.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10494,
+    "title": "Cerberus: A Wolf in the Fold",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jlc_cerberus.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10495,
+    "title": "Charon: A Dragon at the Gate",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "jlc_charon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10496,
+    "title": "Medusa: A Tiger by the Tail",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "jlc-medusa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27511,
+    "title": "The Labyrinth of Dreams",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jlc_thelabyr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27512,
+    "title": "The Shadow Dancers",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jlc_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27513,
+    "title": "The Maze in the Mirror",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jlc_themazei.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23783,
+    "title": "The Demons at Rainbow Bridge",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "jlc_thedemon.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23784,
+    "title": "The Run to Chaos Keep",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jlc_therunto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23785,
+    "title": "The Ninety Trillion Fausts",
+    "year": 1991,
+    "type": "novel",
+    "imageName": "jlc_ninetytr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27517,
+    "title": "Lords of the Middle Dark",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jlc_lordsoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27518,
+    "title": "Pirates of the Thunder",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jlc_pirateso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27519,
+    "title": "Warriors of the Storm",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jlc_warriors.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27520,
+    "title": "Masks of the Martyrs",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jlc_masksoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2934,
+    "title": "Midnight at the Well of Souls",
+    "year": 1977,
+    "type": "novel",
+    "imageName": "jlc_midnight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2935,
+    "title": "Exiles at the Well of Souls",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jlc_exilesat.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2936,
+    "title": "Quest for the Well of Souls",
+    "year": 1978,
+    "type": "novel",
+    "imageName": "jlc_questfor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2937,
+    "title": "The Return of Nathan Brazil",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jlc_theretur.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2938,
+    "title": "Twilight at the Well of Souls",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "jlc_twilight.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2939,
+    "title": "The Sea is Full of Stars",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "jlc_theseais.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2940,
+    "title": "Ghost of the Well of Souls",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jlc_ghostoft.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19577,
+    "title": "Spirits of Flux & Anchor",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jlc_spiritso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19578,
+    "title": "Empires of Flux & Anchor",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "jlc_empireo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19579,
+    "title": "Masters of Flux & Anchor",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jlc_masterso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19580,
+    "title": "The Birth of Flux & Anchor",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "jlc_thebirth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19581,
+    "title": "Children of Flux & Anchor",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jlc_children.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27514,
+    "title": "Balshazzar's Serpent",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jlc_balshazz.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27515,
+    "title": "Melchior's Fire",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "jlc_melchior.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27516,
+    "title": "Kaspar's Box",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "jlc_kasparsb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4191,
+    "title": "Echoes of the Well of Souls",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jlc_echoesof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4192,
+    "title": "Shadow of the Well of Souls",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jlc_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4193,
+    "title": "Gods of the Well of Souls",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "jlc_godsofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27521,
+    "title": "The Cybernetic Walrus",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jlc_thecyber.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27522,
+    "title": "The March Hare Network",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "jlc_themarch.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27523,
+    "title": "The Hot-Wired Dodo",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "jlc_thehotwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

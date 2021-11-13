@@ -1,0 +1,65 @@
+[
+  {
+    "id": 13728,
+    "title": "The Wave",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "WM_thewave.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12026,
+    "title": "47",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "wm_47.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 13712,
+    "title": "Futureland:  Nine Stories of an Imminent World",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "WM_futurela.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36030,
+    "title": "Blue Light",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "WM_blueligh.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13792,
+    "title": "The Gift of Fire and On the Head of a Pin",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "wm_thegifto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13567,
+    "title": "Merge / Disciple",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "wm_mergedis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13793,
+    "title": "Stepping Stone / The Love Machine",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "wm_stepping.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 34651,
+    "title": "Armageddon 2419 A.D.",
+    "year": 1928,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34652,
+    "title": "The Airlords of Han",
+    "year": 1929,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11339,
+    "title": "Armageddon 2419 A.D.",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "PN_armegedd.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

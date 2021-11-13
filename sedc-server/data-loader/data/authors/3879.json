@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16028,
+    "title": "Adrift on the Sea of Rains",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "IS_adriftse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16029,
+    "title": "The Eye with Which the Universe Beholds Itself",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "IS_eyewithw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16030,
+    "title": "Then Will the Great Ocean Wash Deep Above",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "IS_thenwill.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16031,
+    "title": "All That Outer Space Allows",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "IS_allthats.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

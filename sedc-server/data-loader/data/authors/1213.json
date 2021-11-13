@@ -1,0 +1,136 @@
+[
+  {
+    "id": 25339,
+    "title": "Gift of the Kites",
+    "year": 2008,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 18576,
+    "title": "Heroes In Training",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mhgjch_heroesin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23974,
+    "title": "Terminal Alliance",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "jch_terminal.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31753,
+    "title": "Terminal Uprising",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "jch_tuprisin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4287,
+    "title": "Goblin Quest",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jch_goblinqu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4286,
+    "title": "Goblin Hero",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jch_goblinhe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4288,
+    "title": "Goblin War",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jch_goblinwa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4289,
+    "title": "Libriomancer",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jch_librioma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10933,
+    "title": "Codex Born",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jch_codexbor.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10934,
+    "title": "Unbound",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "jch_unbound.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16446,
+    "title": "Revisionary",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "jch_revision.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4292,
+    "title": "The Stepsister Scheme",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jch_thesteps.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1918,
+    "title": "The Mermaid's Madness",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "jch_themerma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4290,
+    "title": "Red Hood's Revenge",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jch_redhoods.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4291,
+    "title": "The Snow Queen's Shadow",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jch_thesnowq.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

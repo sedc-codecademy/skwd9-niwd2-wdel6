@@ -1,0 +1,83 @@
+[
+  {
+    "id": 14961,
+    "title": "Only Human",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "gr_onlyhuma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12072,
+    "title": "The Romance of Crime",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gr_theroman.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22915,
+    "title": "The English Way of Death",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gr_theengli.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22960,
+    "title": "The Plotters",
+    "year": 1996,
+    "type": "novel",
+    "imageName": "gr_theplott.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22965,
+    "title": "The Well-Mannered War",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "gr_thewellm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9178,
+    "title": "The Highest Science",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "gr_thehighe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10222,
+    "title": "Tragedy Day",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "gr_tragedyd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10272,
+    "title": "Zamper",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "gr_zamper.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23513,
+    "title": "Shada: The Lost Adventures by Douglas Adams",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "da&gr_shada.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 24982,
+    "title": "The Dark Dark:  Stories",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "sh_thedarkd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17223,
+    "title": "Mr. Splitfoot",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "SH_MrSplitfo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27085,
+    "title": "The Seas",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "sh_theseas.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

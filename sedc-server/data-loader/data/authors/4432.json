@@ -1,0 +1,29 @@
+[
+  {
+    "id": 18982,
+    "title": "Silent Hall",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "nsd_silentha.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22056,
+    "title": "Among the Fallen",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "nsd_amongthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 30115,
+    "title": "A Breach in the Heavens",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "nsd_abreachi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

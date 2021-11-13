@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1800,
+    "title": "The Well of the Unicorn",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "fp_thewello.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10680,
+    "title": "Tales from Gavagan's Bar",
+    "year": 1953,
+    "type": "novel",
+    "imageName": "lsdc_talesfro.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7381,
+    "title": "The Blue Star",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "fp_theblues.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25119,
+    "title": "The Carnelian Cube",
+    "year": 1948,
+    "type": "novel",
+    "imageName": "lsdcfp_thecarne.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7386,
+    "title": "The Land of Unreason",
+    "year": 1942,
+    "type": "novel",
+    "imageName": "fplsdc_thelando.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12912,
+    "title": "Double Jeopardy",
+    "year": 1952,
+    "type": "novel",
+    "imageName": "FP_doubleje.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1791,
+    "title": "The Compleat Enchanter:  The Magical Misadventures of Harold Shea",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "lsdcfp_thecompl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10678,
+    "title": "The Incomplete Enchanter",
+    "year": 1941,
+    "type": "novel",
+    "imageName": "lsdc_theincom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4218,
+    "title": "The Castle of Iron",
+    "year": 1950,
+    "type": "novel",
+    "imageName": "lsdcfp_thecastl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 10679,
+    "title": "Wall of Serpents",
+    "year": 1960,
+    "type": "novel",
+    "imageName": "lsdc_wallofse.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11340,
+    "title": "Alien Planet",
+    "year": 1962,
+    "type": "novel",
+    "imageName": "FP_alienpla.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

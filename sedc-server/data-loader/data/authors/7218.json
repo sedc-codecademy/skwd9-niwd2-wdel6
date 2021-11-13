@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34315,
+    "title": "Shadow of the Crown",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "cm_shadowof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34313,
+    "title": "The Bane of Lord Caladon",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "cm_baneoflo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 34314,
+    "title": "The Dreamer in Discord",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "cm_dreameri.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

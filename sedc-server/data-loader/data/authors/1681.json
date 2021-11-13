@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4000,
+    "title": "The Illuminatus! Trilogy",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "rsraw_theillum.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19095,
+    "title": "The Eye in the Pyramid",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "RS&RAW_TheEyeIn.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19096,
+    "title": "The Golden Apple",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "RS&RAW_TheGolde.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19097,
+    "title": "Leviathan",
+    "year": 1975,
+    "type": "novel",
+    "imageName": "RS&RAW_Leviatha.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

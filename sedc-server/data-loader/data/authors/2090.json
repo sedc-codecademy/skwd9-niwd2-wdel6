@@ -1,0 +1,55 @@
+[
+  {
+    "id": 7125,
+    "title": "The Color Master ",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "ab_colormas.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22440,
+    "title": "A State of Variance",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7124,
+    "title": "The Particular Sadness of Lemon Cake ",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "ab_particul.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7123,
+    "title": "Willful Creatures",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "ab_willfulc.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 7122,
+    "title": "Invisible Sign of My Own ",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "ab_invisibl.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7121,
+    "title": "The Girl in the Flammable Skirt ",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "ab_girlinth.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

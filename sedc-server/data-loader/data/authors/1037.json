@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1095,
+    "title": "To Hold Infinity",
+    "year": 1998,
+    "type": "novel",
+    "imageName": "jm_toholdin.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 28938,
+    "title": "Necroflux Day",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31803,
+    "title": "The Swastika Bomb",
+    "year": 2003,
+    "type": "novella",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 27362,
+    "title": "The Whisper of Discs",
+    "year": 2002,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25988,
+    "title": "Bone Song",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "jm_bonesong.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25989,
+    "title": "Dark Blood",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "jm_darkbloo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1098,
+    "title": "Paradox",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jm_paradox.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1603,
+    "title": "Context",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jm_context.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1604,
+    "title": "Resolution",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "jm_resoluti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2736,
+    "title": "Absorption",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "jm_absorpti.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 4305,
+    "title": "Transmission",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "jm_transmis.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31804,
+    "title": "Resonance",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "jm_resonanc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

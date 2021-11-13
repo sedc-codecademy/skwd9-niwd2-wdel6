@@ -1,0 +1,64 @@
+[
+  {
+    "id": 19159,
+    "title": "Shiva Descending",
+    "year": 1980,
+    "type": "novel",
+    "imageName": "gb_wr_shivades.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19153,
+    "title": "Patron of the Arts",
+    "year": 1972,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20238,
+    "title": "Star Trek II: Distress Call",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "WR_distress.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20240,
+    "title": "Star Trek II: Short Stories",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "WR_shortsto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20239,
+    "title": "Star Trek II: Biographies",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "WR_biograph.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20241,
+    "title": "Star Trek III: The Vulcan Treasure",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "WR_vulcantr.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 20242,
+    "title": "Star Trek III: Short Stories",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "WR_shortIII.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

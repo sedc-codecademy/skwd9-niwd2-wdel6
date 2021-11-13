@@ -1,0 +1,38 @@
+[
+  {
+    "id": 27136,
+    "title": "Kin",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "sk_kin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5567,
+    "title": "Swords of Good Men",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sk_swordsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11877,
+    "title": "Blood Will Follow",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "sk_bloodwil.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13267,
+    "title": "Path of Gods",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "sk_pathofgo.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

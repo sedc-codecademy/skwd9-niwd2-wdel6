@@ -1,0 +1,38 @@
+[
+  {
+    "id": 31919,
+    "title": "Blood and Judgment",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "LW_Bloodand.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31920,
+    "title": "The Year of the Warrior",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "LW_Yearofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31921,
+    "title": "Wolf Time",
+    "year": 1999,
+    "type": "novel",
+    "imageName": "LW_WolfTime.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31922,
+    "title": "Erling's Word",
+    "year": 1997,
+    "type": "novel",
+    "imageName": "LW_Earlings.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

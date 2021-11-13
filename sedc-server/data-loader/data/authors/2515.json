@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9727,
+    "title": "Carpathia",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "mf_carpathi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9728,
+    "title": "Vegas Knights",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "mf_vegaskni.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9729,
+    "title": "Amortals",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mf_amortals.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9736,
+    "title": "Mutant Chronicles",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "mf_mutantch.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

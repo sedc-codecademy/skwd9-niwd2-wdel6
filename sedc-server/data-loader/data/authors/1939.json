@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5451,
+    "title": "Orphanage",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rb_orphanag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5452,
+    "title": "Orphan's Destiny",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rb_orphansd.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5450,
+    "title": "Orphan's Journey",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rb_orphansj.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5453,
+    "title": "Orphan's Alliance",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "rb_orphansa.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5454,
+    "title": "Orphan's Triumph",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "rb_orphanst.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

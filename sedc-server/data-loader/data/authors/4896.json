@@ -1,0 +1,38 @@
+[
+  {
+    "id": 34182,
+    "title": "On Dark Wings:  Stories",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "SG_ondarkwi.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22071,
+    "title": "The Blood of Angels",
+    "year": 1994,
+    "type": "novel",
+    "imageName": "SG_bloodang.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22045,
+    "title": "The Woodwitch",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "SG_woodwitc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22043,
+    "title": "The Cormorant",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "SG_cormoran.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

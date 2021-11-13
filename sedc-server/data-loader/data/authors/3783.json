@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24405,
+    "title": "The Man of Legends",
+    "year": 2017,
+    "type": "novel",
+    "imageName": "kj_themanof.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15644,
+    "title": "V",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "ACC_V1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15667,
+    "title": "V: The Second Generation",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "KJ_V17.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15668,
+    "title": "V: The Original Miniseries - Revised Edition",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "KJ_V18.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

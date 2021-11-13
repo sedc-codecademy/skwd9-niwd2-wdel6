@@ -1,0 +1,38 @@
+[
+  {
+    "id": 15016,
+    "title": "Touched by an Angel",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "jm_touchedb.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8888,
+    "title": "Anachrophobia",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "jm_anachrop.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 8908,
+    "title": "The Tomorrow Windows",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "jm_tomorrow.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9039,
+    "title": "Festival of Death",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jm_festival.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

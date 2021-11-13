@@ -1,0 +1,65 @@
+[
+  {
+    "id": 9760,
+    "title": "The Ill-Made Mute",
+    "year": 2001,
+    "type": "novel",
+    "imageName": "cdt_theillma.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9761,
+    "title": "The Lady of the Sorrows",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cdt_theladyo.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9762,
+    "title": "The Battle of Evernight",
+    "year": 2002,
+    "type": "novel",
+    "imageName": "cdt_thebattle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9851,
+    "title": "The Iron Tree",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "cdt_theiront.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9852,
+    "title": "The Well of Tears",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "cdt_thewello.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9853,
+    "title": "Weatherwitch",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "cdt_weatherw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9854,
+    "title": "Fallowblade",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "cdt_fallowbl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

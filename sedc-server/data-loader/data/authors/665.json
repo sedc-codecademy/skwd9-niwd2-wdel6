@@ -1,0 +1,112 @@
+[
+  {
+    "id": 23416,
+    "title": "Phantom Pain",
+    "year": 2014,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 6475,
+    "title": "Questionable Practices:  Stories",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "eg_question.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17439,
+    "title": "Steampunk Quartet",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "eg_steampun.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16324,
+    "title": "The Trains that Climb the Winter Tree",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "mseg_thetrain.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22858,
+    "title": "The Armies of Elfland",
+    "year": 2009,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 16271,
+    "title": "Zeppelin City",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "mseg_zeppelin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 32180,
+    "title": "Speak, Geek",
+    "year": 2006,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17630,
+    "title": "Coming to Terms",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "eg_comingto.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 17989,
+    "title": "Nirvana High",
+    "year": 2004,
+    "type": "novelette",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 668,
+    "title": "Stable Strategies and Others",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "eg_stablest.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 21370,
+    "title": "Computer Friendly",
+    "year": 1989,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 21371,
+    "title": "Stable Strategies for Middle Management",
+    "year": 1988,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22514,
+    "title": "Contact",
+    "year": 1981,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  }
+]

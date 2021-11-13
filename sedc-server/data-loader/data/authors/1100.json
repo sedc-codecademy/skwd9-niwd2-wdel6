@@ -1,0 +1,45 @@
+[
+  {
+    "id": 3593,
+    "title": "The Missing",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "sl_themissi.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 4613,
+    "title": "The Keeper",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "sl_thekeepe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22589,
+    "title": "Family Teeth (Part 6): St. Polycarp's Home for Happy Wanderers",
+    "year": 2012,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22311,
+    "title": "Hindsight",
+    "year": 2010,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1719,
+    "title": "Audrey's Door",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "sl_audreysd.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

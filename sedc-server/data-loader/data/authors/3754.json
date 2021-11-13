@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15533,
+    "title": "Thorn Jack",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "kh_thornjac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15534,
+    "title": "Briar Queen",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kh_brairque.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35522,
+    "title": "Nettle King",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "KH_NettleKi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

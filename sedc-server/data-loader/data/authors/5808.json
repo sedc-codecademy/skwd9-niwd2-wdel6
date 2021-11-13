@@ -1,0 +1,20 @@
+[
+  {
+    "id": 28084,
+    "title": "The Poppy War",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "rfk_thepoppy.jpg",
+    "nominations": 4,
+    "wins": -1
+  },
+  {
+    "id": 34108,
+    "title": "The Dragon Republic",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "rfk_dragonre.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

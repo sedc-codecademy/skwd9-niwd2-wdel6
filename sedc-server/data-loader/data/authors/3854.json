@@ -1,0 +1,29 @@
+[
+  {
+    "id": 15921,
+    "title": "A Fantasy Medley",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "yk_fmedley1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15922,
+    "title": "A Fantasy Medley 2",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "yk_fmedley2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 15923,
+    "title": "A Fantasy Medley 3",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "yk_fmedley3.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

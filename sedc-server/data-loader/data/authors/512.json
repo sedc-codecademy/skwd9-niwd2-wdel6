@@ -1,0 +1,73 @@
+[
+  {
+    "id": 22251,
+    "title": "Flying Saucers are Real",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "JW_fllyingsaucers.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 23998,
+    "title": "Audience",
+    "year": 1997,
+    "type": "short-story",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5532,
+    "title": "Random Acts of Senseless Violence",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jw_randomac.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25489,
+    "title": "Heathern",
+    "year": 1990,
+    "type": "novel",
+    "imageName": "jw_heathern.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25490,
+    "title": "Ambient",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "jw_ambient.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 25488,
+    "title": "Terraplane",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "jw_terrapla.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 513,
+    "title": "Elvissey",
+    "year": 1993,
+    "type": "novel",
+    "imageName": "jw_elvissey.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 25491,
+    "title": "Going, Going, Gone",
+    "year": 2000,
+    "type": "novel",
+    "imageName": "jw_goinggoi.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

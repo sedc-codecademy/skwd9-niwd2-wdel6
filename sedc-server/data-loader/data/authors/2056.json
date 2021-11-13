@@ -1,0 +1,65 @@
+[
+  {
+    "id": 5987,
+    "title": "The Thousand Names",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dw_thethous.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9242,
+    "title": "The Shadow Throne",
+    "year": 2014,
+    "type": "novel",
+    "imageName": "dw_theshado.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12350,
+    "title": "The Price of Valor",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "dw_theprince.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 19212,
+    "title": "The Guns of Empire",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "dw_thegunso.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26067,
+    "title": "The Infernal Battalion",
+    "year": 2018,
+    "type": "novel",
+    "imageName": "dw_theinfer.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 31854,
+    "title": "Ship of Smoke and Steel",
+    "year": 2019,
+    "type": "novel",
+    "imageName": "dw_shipofsm.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 35875,
+    "title": "City of Stone and Silence",
+    "year": 2020,
+    "type": "novel",
+    "imageName": "DW_CitySton.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

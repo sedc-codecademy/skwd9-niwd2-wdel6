@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22528,
+    "title": "Imaginarium 2012:  The Best Canadian Speculative Writing",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "skhv_imagina1.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22529,
+    "title": "Imaginarium 2013:  The Best Canadian Speculative Writing",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "sksb_imagina2.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22530,
+    "title": "Imaginarium 3:  The Best Canadian Speculative Writing",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "skhm_imagina3.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 22531,
+    "title": "Imaginarium 4:  The Best Canadian Speculative Writing",
+    "year": 2016,
+    "type": "novel",
+    "imageName": "skjs_imagina4.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

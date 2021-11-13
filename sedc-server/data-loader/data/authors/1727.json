@@ -1,0 +1,29 @@
+[
+  {
+    "id": 4162,
+    "title": "Heaven's Shadow",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "dsgmc_heavenss.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13458,
+    "title": "Heaven's War",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "dsgmc_heavensw.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13459,
+    "title": "Heaven's Fall",
+    "year": 2013,
+    "type": "novel",
+    "imageName": "dsgmc_heavfall.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 36106,
+    "title": "True Jaguar",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "WN_TrueJagu.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 36107,
+    "title": "Shudderchild",
+    "year": 1987,
+    "type": "novel",
+    "imageName": "WN_Shudderc.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12492,
+    "title": "Midway Between",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "wn_midwaybe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12493,
+    "title": "Polar Fleet",
+    "year": 1985,
+    "type": "novel",
+    "imageName": "wn_polarfle.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12494,
+    "title": "Final Command",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "wn_finalcom.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12495,
+    "title": "Vanished",
+    "year": 1988,
+    "type": "novel",
+    "imageName": "wn_vanished.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12496,
+    "title": "Trapped!",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "wn_trapped.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 12497,
+    "title": "Stranded",
+    "year": 1989,
+    "type": "novel",
+    "imageName": "wn_stranded.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9846,
+    "title": "An Image of Voices",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "wn_animageo.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 9847,
+    "title": "Flexing the Warp",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "wn_flexingt.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9849,
+    "title": "Fize of the Gabriel Ratchets",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "wn_fizofthe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 9850,
+    "title": "Planet of Flowers",
+    "year": 1984,
+    "type": "novel",
+    "imageName": "wn_theplane.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

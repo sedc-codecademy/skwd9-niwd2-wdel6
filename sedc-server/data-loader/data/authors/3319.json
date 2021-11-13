@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13006,
+    "title": "The War Against Earth",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "lfdg_thewarag.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13007,
+    "title": "Kren of the Mitchegai",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "lfdg_krenofth.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13008,
+    "title": "The Two-Space War",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "dglf_thetwosp.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 13009,
+    "title": "The Guns of Two-Space",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "dgbh_thegunsof.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

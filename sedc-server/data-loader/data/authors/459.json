@@ -1,0 +1,38 @@
+[
+  {
+    "id": 25748,
+    "title": "Till Human Voices Wake Us",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "mb_tillhuma.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 997,
+    "title": "Idolon",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "mb_idolon.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 30360,
+    "title": "Crache",
+    "year": 2004,
+    "type": "novel",
+    "imageName": "mb_crache.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 461,
+    "title": "Clade",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "mb_clade.jpg",
+    "nominations": 1,
+    "wins": -1
+  }
+]

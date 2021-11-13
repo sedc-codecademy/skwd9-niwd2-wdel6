@@ -1,0 +1,38 @@
+[
+  {
+    "id": 7792,
+    "title": "About Time",
+    "year": 1986,
+    "type": "novel",
+    "imageName": "jf_abouttim.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 2102,
+    "title": "The Body Snatchers",
+    "year": 1955,
+    "type": "novel",
+    "imageName": "jf_thebodys.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 1798,
+    "title": "Time and Again",
+    "year": 1970,
+    "type": "novel",
+    "imageName": "jf_timeanda.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 7791,
+    "title": "From Time to Time",
+    "year": 1995,
+    "type": "novel",
+    "imageName": "jf_fromtime.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

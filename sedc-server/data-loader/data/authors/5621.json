@@ -1,0 +1,29 @@
+[
+  {
+    "id": 26707,
+    "title": "Space Wolf: The Second Omnibus",
+    "year": 2009,
+    "type": "novel",
+    "imageName": "wkll_spacewol.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26702,
+    "title": "Sons of Fenris",
+    "year": 2007,
+    "type": "novel",
+    "imageName": "ll_sonsoffe.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 26703,
+    "title": "Wolf's Honour",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "ll_wolfshon.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

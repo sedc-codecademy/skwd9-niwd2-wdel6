@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5154,
+    "title": "Trolls in the Hamptons",
+    "year": 2010,
+    "type": "novel",
+    "imageName": "cj_trollsin.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5155,
+    "title": "Night Mares in the Hamptons",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cj_nightmar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5156,
+    "title": "Fire Works in the Hamptons",
+    "year": 2011,
+    "type": "novel",
+    "imageName": "cj_firework.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5157,
+    "title": "Life Guards in the Hamptons",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cj_lifeguar.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 5158,
+    "title": "Sand Witches in the Hamptons",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "cj_sandwitc.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

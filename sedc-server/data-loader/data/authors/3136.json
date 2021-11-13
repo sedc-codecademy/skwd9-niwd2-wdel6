@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12080,
+    "title": "Manna",
+    "year": 1983,
+    "type": "novel",
+    "imageName": "lc_manna.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 21360,
+    "title": "Contraband Rocket / The Forgotten Planet",
+    "year": 1956,
+    "type": "novel",
+    "imageName": "ad_contraba_theforgo.gif",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 14807,
+    "title": "The Abode of Life",
+    "year": 1982,
+    "type": "novel",
+    "imageName": "lc_abodeofl.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]

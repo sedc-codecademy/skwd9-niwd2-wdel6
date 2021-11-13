@@ -1,0 +1,56 @@
+[
+  {
+    "id": 11400,
+    "title": "Black Light",
+    "year": 2015,
+    "type": "novel",
+    "imageName": "kab_blacklig.jpg",
+    "nominations": 0,
+    "wins": -1
+  },
+  {
+    "id": 11398,
+    "title": "Hydrogen Steel",
+    "year": 2006,
+    "type": "novel",
+    "imageName": "kab_hydrogen.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11397,
+    "title": "Eclipse",
+    "year": 2005,
+    "type": "novel",
+    "imageName": "kab_eclipse.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 11396,
+    "title": "Orbital Burn",
+    "year": 2003,
+    "type": "novel",
+    "imageName": "kab_orbitalb.jpg",
+    "nominations": 1,
+    "wins": -1
+  },
+  {
+    "id": 1210,
+    "title": "Time Machines Repaired While-U-Wait",
+    "year": 2008,
+    "type": "novel",
+    "imageName": "kab_timemach.jpg",
+    "nominations": 2,
+    "wins": -1
+  },
+  {
+    "id": 11399,
+    "title": "Paradox Resolution",
+    "year": 2012,
+    "type": "novel",
+    "imageName": "kab_paradoxr.jpg",
+    "nominations": 0,
+    "wins": -1
+  }
+]
