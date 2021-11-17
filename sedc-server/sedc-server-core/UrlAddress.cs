@@ -33,7 +33,8 @@ namespace Sedc.Server.Core
 
             if (match.Groups[1].Success)
             {
-                paths = match.Groups[1].Value.Split('/', StringSplitOptions.RemoveEmptyEntries);
+                // NOT PROPER URL DECODING!!
+                paths = match.Groups[1].Value.Replace("%20", " ").Split('/', StringSplitOptions.RemoveEmptyEntries);
             }
 
             if (match.Groups[2].Success)

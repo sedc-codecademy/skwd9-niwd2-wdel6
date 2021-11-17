@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.Serialization;
 
-class SedcServerException : ApplicationException
+public class SedcServerException : ApplicationException
 {
     public SedcServerException(string message) : base(message)
     {

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace sedc_server_try_two
+namespace Sedc.Server.TryTwo
 {
     class Result
     {
@@ -19,6 +19,11 @@ namespace sedc_server_try_two
 
     class CalculatorApiController : IApiController
     {
+        public CalculatorApiController()
+        {
+            Console.WriteLine($"{nameof(CalculatorApiController)} is getting constructed");
+        }
+
         public string Name { get => "Calculator Api Controller"; }
 
         public object Execute(IEnumerable<string> path, IDictionary<string, string> parameters, string method, ILogger logger)

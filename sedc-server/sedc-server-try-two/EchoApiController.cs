@@ -3,7 +3,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace sedc_server_try_two
+namespace Sedc.Server.TryTwo
 {
     internal class EchoApiController : IApiController
     {

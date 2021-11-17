@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "database": "Server=.;Database=Books;User Id=bookz;Password=bookz;"
+  }
+}

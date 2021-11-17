@@ -15,9 +15,23 @@ namespace Sedc.Server.Core
 
         public void RegisterProcessor(IRequestProcessor processor) => this.options.RegisterProcessor(processor);
 
-        public void ServeStaticFiles(string basePath = "public-sedc") 
+        public Server WithProcessor<T>(params object[] parameters) where T : IRequestProcessor
+        {
+            var processor = ServerHelper.ConstructProcessor<T>(parameters);
+            RegisterProcessor(processor);
+            return this;
+        }
+
+        public Server WithProcessor(IRequestProcessor processor)
+        {
+            RegisterProcessor(processor);
+            return this;
+        }
+
+        public Server ServeStaticFiles(string basePath = "public-sedc") 
         {
             RegisterProcessor(new FileRequestProcessor(basePath));
+            return this;
         }
 
         public ApiRequestProcessor ServeApi()

@@ -3,7 +3,7 @@ using Sedc.Server.Core;
 using System;
 using System.IO;
 
-namespace sedc_server_try_two
+namespace Sedc.Server.TryTwo
 {
     class FileLogger : ILogger
     {

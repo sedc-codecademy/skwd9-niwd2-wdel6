@@ -2,7 +2,7 @@ using Sedc.Server.Core;
 
 using System;
 
-namespace sedc_server_try_two
+namespace Sedc.Server.TryTwo
 {
     class NiceConsoleLogger : ILogger
     {

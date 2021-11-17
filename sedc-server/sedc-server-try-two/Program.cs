@@ -1,41 +1,31 @@
 ﻿using Sedc.Server.Core;
+using Sedc.Server.TryTwo;
+using Sedc.Server.TryTwo.MsSql;
 
-using System;
-using System.Linq;
-using System.Reflection;
+var logger = new CompositeLogger();
+logger.AddLogger(new NiceConsoleLogger { Level = LogLevel.Debug });
+logger.AddLogger(new FileLogger("log.txt"));
 
-namespace sedc_server_try_two
+try
 {
-
-
-    class Program
+    Server server = new Server(new ServerOptions
     {
-        static void Main(string[] args)
-        {
-            var logger = new CompositeLogger();
-            logger.AddLogger(new NiceConsoleLogger { Level = LogLevel.Debug });
-            logger.AddLogger(new FileLogger("log.txt"));
+        Port = 668,
+        Logger = logger
+    });
 
-            try
-            {
-                Server server = new Server(new ServerOptions
-                {
-                    Port = 668,
-                    Logger = logger
-                });
-
-                server.ServeStaticFiles();
-                server.ServeApi().WithController(new EchoApiController("not-a-problem"));
-                server.Start();
-            }
-            catch (ApplicationException aex)
-            {
-                var oldColor = Console.ForegroundColor;
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.Write("Application Exception: ");
-                Console.WriteLine(aex.Message);
-                Console.ForegroundColor = oldColor;
-            }
-        }
-    }
+    server
+        .ServeStaticFiles()
+        .WithProcessor<SqlServerProcessor>("mssql")
+        .ServeApi();
+        // .WithController(new EchoApiController("not-a-problem"));
+    server.Start();
+}
+catch (ApplicationException aex)
+{
+    var oldColor = Console.ForegroundColor;
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.Write("Application Exception: ");
+    Console.WriteLine(aex.Message);
+    Console.ForegroundColor = oldColor;
 }

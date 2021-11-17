@@ -2,6 +2,7 @@ using Sedc.Server.Core.Attributes;
 
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,9 +15,13 @@ namespace Sedc.Server.Core
 
         public string Prefix { get; private set; }
 
-        private Dictionary<string, IApiController> controllers = new Dictionary<string,IApiController>();
+        //private Dictionary<string, IApiController> controllers = new Dictionary<string,IApiController>();
 
-        public IEnumerable<IApiController> Controllers { get => controllers.Values; }
+        private Dictionary<string, Type> controllerTypes = new Dictionary<string, Type>();
+
+        // public IEnumerable<IApiController> Controllers { get => controllers.Values; }
+        public IEnumerable<Type> Controllers { get => controllerTypes.Values; }
+
         public ApiRequestProcessor(string prefix = "api")
         {
             Prefix = prefix;
@@ -28,18 +33,29 @@ namespace Sedc.Server.Core
             return this;
         }
 
-        public ApiRequestProcessor WithController(IApiController controller)
-        {
-            var route = ApiRequestProcessorHelper.GetControllerRoute(controller.GetType());
-            controllers.Add(route, controller);
-            return this;
-        }
+        //public ApiRequestProcessor WithController(IApiController controller)
+        //{
+        //    var route = ApiRequestProcessorHelper.GetControllerRoute(controller.GetType());
+        //    controllers.Add(route, controller);
+        //    return this;
+        //}
 
         public ApiRequestProcessor WithController<T>() where T : IApiController, new()
         {
             var route = ApiRequestProcessorHelper.GetControllerRoute(typeof(T));
-            var controller = new T();
-            controllers.Add(route, controller);
+            //var controller = new T();
+            //controllers.Add(route, controller);
+            controllerTypes.Add(route, typeof(T));
+            return this;
+        }
+
+        internal ApiRequestProcessor WithController(Type type)
+        {
+            // code that makes sure we call it only with IApiController types
+            Debug.Assert(type.IsAssignableTo(typeof(IApiController)));
+
+            var route = ApiRequestProcessorHelper.GetControllerRoute(type);
+            controllerTypes.Add(route, type);
             return this;
         }
 
@@ -55,12 +71,13 @@ namespace Sedc.Server.Core
                 return NotFound();
             }
 
-            if (!controllers.TryGetValue(controllerRoute.ToLowerInvariant(), out var controller))
+            if (!controllerTypes.TryGetValue(controllerRoute.ToLowerInvariant(), out var controllerType))
             {
                 return NotFound();
             };
 
             try {
+                var controller = ApiRequestProcessorHelper.ContructController(controllerType);
                 var result = controller.Execute(path, parameters, method, logger);
 
                 return new JsonResponse<object>
@@ -69,7 +86,7 @@ namespace Sedc.Server.Core
                     Status = Status.OK
                 };
             } catch (Exception ex) {
-                throw new SedcServerException($"Error executing {controller.Name}", ex);
+                throw new SedcServerException($"Error executing {controllerType.Name}", ex);
             }
         }
 
