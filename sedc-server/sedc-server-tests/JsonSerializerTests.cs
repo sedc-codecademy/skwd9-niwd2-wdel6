@@ -114,6 +114,18 @@ namespace Sedc.Server.Tests
             Assert.AreEqual(expected, actual);
         }
 
+        [TestMethod]
+        public void Serialize_String_With_Nested_Quotes_Should_Return_The_Same_String_With_Quotes_Escaped()
+        {
+            // 1. Arrange
+            var input = "E. E. \"Doc\" Smith";
+            var expected = "\"E. E. \\\"Doc\\\" Smith\"";
+            // 2. Act
+            var actual = JsonSerializer.AsString(input);
+            // 3. Arrange
+            Assert.AreEqual(expected, actual);
+        }
+
     }
 }
 

@@ -42,7 +42,7 @@ namespace Sedc.Server.TryTwo
             if (operation == "add")
             {
                 value = Add(first, second);
-            } 
+            }
             else if (operation == "sub")
             {
                 value = Subtract(first, second);

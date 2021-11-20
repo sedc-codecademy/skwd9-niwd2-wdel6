@@ -36,6 +36,7 @@ namespace Sedc.Server.Core
             else if (response is JsonResponse jsonResponse)
             {
                 statusLine += "Content-Type: application/json\r\n";
+                statusLine += "Access-Control-Allow-Origin: *\r\n";
                 var responseString = $"{statusLine}{separator}";
                 var responseBytes = Encoding.ASCII.GetBytes(responseString);
                 stream.Write(responseBytes);

@@ -21,6 +21,7 @@ namespace Sedc.Server.Core
             }
             if (value is string strValue)
             {
+                strValue = strValue.Replace("\"", "\\\"");
                 return $"\"{strValue}\"";
             }
             if (value is IDictionary dictionary)
